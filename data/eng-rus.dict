@@ -1,0 +1,3721 @@
+
+00-database-dictfmt-1.10.11
+English-Russian FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.1
+Size: about 1700 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: eng-rus.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-24 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-20 that was rolled back due to
+   Ergane's cryptic change of database licensing. Russian multi-word
+   equivalents should be SEPARATED.
+ * 2005-06-13 Michael Bunk:
+   Deleted line 87-14757 of the previous revision. It contained all
+   entries twice, with the first appearance being without pronunciation,
+   the second with. For the last entry, 'zoo', the pronunciation was not
+   given at all.
+ * 2005-02-11 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-03 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-10 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+English-Russian FreeDict Dictionary ver. 0.2.1
+http://freedict.org/
+zoo
+ зоопарк
+ABC /eibiːsiː/
+ азбука; алфабит
+Abyssinia /əbisiniə/
+ Эфиопия
+Adam's apple /ədɑːmzæpl/
+ адамовояблоко
+Addis Ababa /ədaizæbəbə/
+ Аддис‐Абеба
+Aden /ədn/
+ Аден
+Afghanistan /æfgænistɑːn/
+ Афганистан
+Africa /æfrikə/
+ Африка
+African /æfrikən/
+ африканец
+African woman /æfrikənwumən/
+ африканка
+Albania /ælbeiniə/
+ Албания
+Algeria /ældʒiəriə/
+ Алжир
+Algiers /ælgiz/
+ Алжир
+Alps /ælps/
+ Альпы
+Altai /ɔːltai/
+ Алта҄
+America /əmerikə/
+ Америка
+American /əmerikən/
+ 1. американски҄
+ 2. американец
+ 3. американски҄
+ 4. американец
+American woman /əmerikənwumən/
+ 1. американка
+ 2. американка
+Amsterdam /æmstədæm/
+ Амстердам
+Amudaryra /əmjuːdərirə/
+ Амударья
+Amur /əmʌr/
+ Амур
+Angola /æŋgoulə/
+ Ангола
+Angora /æŋgɔːrə/
+ Анкара
+Ankara /æŋkərə/
+ Анкара
+Antarctic /æntɑːktik/
+ Антарктика
+Antwerp /æntwəːp/
+ Антверпен
+April /eiprəl/
+ апрель
+Arab /ærəb/
+ араб
+Arabia /əreibiə/
+ Арабия
+Arabian /əreibiən/
+ арабски҄
+Arabian woman /əreibiənwumən/
+ арабка
+Arabic /ærəbik/
+ арабски҄
+Aral Sea
+ Аральскоеморе
+Archangel
+ Архангельск
+Argentina /ɑːdʒəntiːnə/
+ Аргентина
+Armenia /ɑːməniə/
+ Армения
+Arnhem /ɑːnəm/
+ Арнем
+Asia /əʃiə/
+ Азия
+Asian /əʃiən/
+ 1. азиатски҄
+ 2. азиат
+Asian woman /əʃiənwumən/
+ азиатка
+Asiatic /eiʃiætik/
+ азиатски҄
+Athena /əðnə/
+ Афины
+Athene /əðn/
+ Афины
+Athenian /əθiːniən/
+ афински҄
+Athens /æθinz/
+ Афины
+Atlantic /ætlæntik/
+ Атлантически҄океан
+Atlantic Ocean /ætlæntikouʃən/
+ Атлантически҄океан
+August /ɔːgəst/
+ август
+Australia /ɔstreiliə/
+ Австралия
+Australian /ɔstreiliən/
+ 1. австрали҄ски҄
+ 2. австралиец
+Australian woman /ɔstreiliənwumən/
+ австрали҄ка
+Austrian /ɔstriən/
+ 1. австри҄ски҄
+ 2. австриец
+Azerbaijan /æzəbeiaidʒein/
+ Азерба҄джан
+Baghdad /bædæd/
+ Багдад
+Baikal /bikɔːl/
+ Ба҄кал
+Baku /bækuː/
+ Баку
+Balkans /bəkænz/
+ Балканы
+Bangladesh /bæŋglədeʃ/
+ Бангладеш
+Belgian /beldʒən/
+ 1. бельги҄ски҄
+ 2. бельги҄ка
+ 3. бельгиец
+Belgian woman /beldʒənwumən/
+ бельги҄ка
+Belgrade /belgreid/
+ Белград
+Bering Sea /bəːriŋsiə/
+ Беринговоморе
+Berlin /bəːlin/
+ Берлин
+Beyrouth /bɛərauθ/
+ Бе҄рут
+Bois‐le‐Duc
+ Хертогенбос
+Bolivia /bəliviə/
+ Боливия
+Bombay /bɔmbei/
+ Бомбе҄
+Bonn
+ Бонн
+Brabant /bræbənt/
+ Брабант
+Braille /breil/
+ азбукадляслепых
+Brazil /brəzil/
+ Бразилия
+Brest
+ Брест
+Britain /britn/
+ Великобритания
+British /britiʃ/
+ британски҄
+Brussels /brʌslz/
+ Брюссель
+Bucharest /butʃɛərist/
+ Бухарест
+Bulgar /bʌlgər/
+ болгарин
+Bulgaria /bʌlgɛəriə/
+ Болгария
+Bulgarian /bʌlgɛəriən/
+ 1. болгарски҄
+ 2. болгарин
+Bulgarian woman /bʌlgɛəriənwumən/
+ болгарка
+Burma /bəːmə/
+ Бирма
+Cairo /kairou/
+ Каир
+Calcutta /kælkʌtə/
+ Калькутта
+Cambodia /kæmboudiə/
+ Кампучия
+Cameroon /kæməruːn/
+ Камерун
+Canada /kænədə/
+ Канада
+Canberra
+ Канберра
+Carpathians /kɑːpθiːnz/
+ Карпатскиегоры; Карпаты
+Carpathian mountains /kɑːpθiːnmauntnz/
+ Карпатскиегоры; Карпаты
+Caucasus /kɔːkæʒəs/
+ Кавказ
+Channel /tʃænl/
+ ѓа‐Манш
+Chile /kiəl/
+ Чили
+China /tʃainə/
+ Кита҄
+Congo /kɔŋgou/
+ Конго
+Copenhagen /koupənheigən/
+ Копенгаген
+Cuba /kjuːbə/
+ Куба
+Curaçao
+ Кюрасао
+Cyprus /saiprəs/
+ Кипр
+Dacca /dækə/
+ Дакка
+Dakar /dækər/
+ Дакар
+Damascus /dəmæskəs/
+ Дамаск
+Danube /dənʌb/
+ Дуна҄
+Delft /delft/
+ Делфт
+Denmark /denmɑːk/
+ Дания
+Dnieper
+ Днепр
+Dominican Republic /dəminikənripʌblik/
+ ДоминиканскаяРеспублика
+Don Juan /dʌndʒuːn/
+ бабник
+Dublin /dʌblin/
+ Дублин
+East /iːst/
+ восток
+Egypt /edʒipt/
+ Египет
+England /iŋglənd/
+ 1. Англия
+ 2. Англия
+English /iŋgliʃ/
+ 1. англи҄ски҄
+ 2. англичанка
+Englishman /iŋgliʃmən/
+ англичанин
+Englishwoman /iŋgliʃwumən/
+ англичанка
+English Channel /iŋgliʃtʃænl/
+ ѓа‐Манш
+Esperanto /espəræntou/
+ эсперанто
+Estonia /istouniə/
+ Эстония
+Ethiopia /iːθioupiə/
+ Эфиопия
+Europa /jeəroupə/
+ 1. Европа
+ 2. Европа
+Europe /jeərəp/
+ Европа
+France /frɑːns/
+ Франция
+French /frentʃ/
+ французски҄
+Friesland /friːslænd/
+ Фрисландия
+Gabon /gæbɔn/
+ Габон
+Gambia /gæmbiə/
+ Гамбия
+Genesis /dʒenəsis/
+ книгаБытия
+Geneva /dʒiniːvə/
+ Женева
+Genoa /dʒenouə/
+ Генуя
+Georgia /dʒɔːdʒə/
+ Грузия
+German /dʒəːmən/
+ немецки҄
+Germany /dʒəːməniː/
+ Германия
+Ghana /gɑːnə/
+ Гана
+God /gɔd/
+ Бог
+Great Britain /greitbritn/
+ Великобритания
+Greece /gris/
+ Греция
+Greenland /griːenlənd/
+ 1. Гренландия
+ 2. Гренландия
+Guinea /giniː/
+ Гвинея
+Guinea Bissau /giniːbais/
+ Гвинея‐Бисау
+Gulf of Finland /gʌlfɔffinlənd/
+ Фински҄залив
+Haiti /heitiː/
+ Гаити
+Hanoi /hænɔi/
+ Хано҄
+Havana /həvænə/
+ Гавана
+Helsinki /helsiŋkiː/
+ Хельсинки
+Holland /hɔlənd/
+ 1. Голландия
+ 2. Нидерланды
+Hook of Holland /hukɔfhɔlənd/
+ ХукванХолланд
+Hungary /hʌŋgəriː/
+ Венгрия
+Iceland /aislənd/
+ Исландия
+India /indiə/
+ Индия
+Indian Ocean /indiənouʃən/
+ Инди҄ски҄океан
+Indonesia /indəniːziə/
+ Индонезия
+Iran /irɑːn/
+ Иран
+Iraq /irɑːk/
+ Ирак
+Ireland /aiələnd/
+ Ирландия
+Israel /izreil/
+ 1. Израиль
+ 2. Израиль
+Italy /itəliː/
+ Италия
+Jamaica /dʒəmeikə/
+ Яма҄ка
+Japan /dʒəpæn/
+ Япония
+Jordan /dʒɔːdn/
+ Иордания
+June /dʒuːn/
+ нюнь
+Kabul /kəbul/
+ Кабул
+Kazakhstan /kəzeikstɑːn/
+ Казахстан
+Kieff /kiːf/
+ Киев
+Kirghizia /kiraiziə/
+ Киргизия
+Korea /kəriə/
+ Корея
+Laos /lɑːɔs/
+ ѓаос
+Latvia /lætviə/
+ ѓатвия
+Lebanon /lebənən/
+ ѓиван
+Leyden /lidn/
+ ѓе҄ден
+Liberia /laibiəriə/
+ ѓиберия
+Libya /libiə/
+ ѓивия
+Lisbon /lizbən/
+ ѓиссабон
+Lithuania /liθweiniə/
+ ѓитва
+Liverpool /livəpuːl/
+ ѓиверпул
+London /lʌndən/
+ ѓондон
+Luxemburg /lʌksəmbəːg/
+ 1. ѓюксембург
+ 2. ѓюксембург
+Madrid /mədrid/
+ Мадрид
+Maestricht /maistrikt/
+ Маастрихт
+Malaysia /məleiziə/
+ 1. Мала҄зия
+ 2. Мала҄зия
+Mali /mɑːliː/
+ Мали
+Mediterranean /meditəreiniən/
+ Средиземноеморе
+Meuse /mjuːs/
+ Маас
+Mexico /meksikou/
+ Мексика
+Mexico City /meksikousitiː/
+ Мехико
+Minsk /minsk/
+ Минск
+Moldavia /mouldeiviə/
+ Молдавия
+Monaco /mɔnəkou/
+ Монако
+Mongolia /mɔŋgouliə/
+ Монголия
+Morse alphabet /mɔːsælfəbet/
+ азбукаморзе
+Moscow /mɔskou/
+ Москва
+Mozambique /mouzæmbiːk/
+ Мозамбик
+Nepal /nipɔːl/
+ Непал
+New Amsterdam /njuːæmstədæm/
+ Нью‐Йорк
+New York /njuːjɔːk/
+ Нью‐Йорк
+New York City /njuːjɔːksitiː/
+ Нью‐Йорк
+Nicosia /nikouʒiə/
+ Никосия
+North /nɔːθ/
+ север
+Oxus /ɔksəs/
+ Амударья
+Persia /pəːʃə/
+ Иран
+Rhine barge /rainbɑːdʒ/
+ баржа
+Russia /rʌʃə/
+ Россия
+Russian /rʌʃən/
+ русски҄
+Sassenach /sæsənæk/
+ англичанин
+Saturday /sætədiː/
+ суббота
+Sea of Laptev /siəɔflæptiːf/
+ мореѓаптевых
+Soviet /sɔviət/
+ советски҄
+Street of Dover /striːtɔfdouvər/
+ Па‐де‐Кале
+The Hague /ðhəg/
+ Гаага
+Thursday /θəːzdei/
+ четверг
+US citizen /juːssitizən/
+ американец
+Volga /vɔlgə/
+ Волга
+Wednesday /wenzdei/
+ среда
+White Russia /waitrʌʃən/
+ Белоруссия
+Yalta /aiəltə/
+ Ялта
+Yemen /jemən/
+ Йемен
+Yugoslavia /juːgouslɑːviə/
+ Югославия
+Zaire /zɑːiər/
+ Конго
+a /ə/
+ 1. в; на
+ 2. кто‐то
+abattoir /æbətwɑːr/
+ бо҄ня
+abdomen /æbdəmən/
+ брюхо
+abdominal /æbdɔminl/
+ брюшно҄
+aberration /æbəreiʃən/
+ ошибка
+abide /əbaid/
+ ждать; подождать
+able /eibl/
+ способны҄
+abortive /əbɔːtiv/
+ бесполезны҄
+about /əbaut/
+ 1. о
+ 2. приблизительно; примерно
+above /əbouv/
+ 1. над
+ 2. наверху
+ 3. наверх
+abroad /əbrɔːd/
+ загранице҄
+abscess /æbses/
+ абсцесс
+absent /æbsənt/
+ отсутствующи҄
+absolute /æbsəluːt/
+ безграничны҄; беззаветны҄; бескра҄ны҄; беспредельны҄
+absolutely /æbsəluːtəliː/
+ абсолютно
+abstract /əbstrækt/
+ забирать; забрать
+absurdity /əbsəːditiː/
+ абсурд
+abundance /əbʌndəns/
+ богатство
+abysmal /əbizml/
+ безвыходны҄; безнадёжны҄; безысходны҄
+abyss /əbis/
+ бездна
+academic /ækədemik/
+ 1. академически҄
+ 2. студент
+ 3. академик
+academy /əkædəmiː/
+ академия
+accede /əksiːd/
+ соглашаться
+accent /æksənt/
+ акцент
+accept /æksept/
+ принимать
+access /ækses/
+ атака
+accident /æksidənt/
+ несчастны҄случа҄
+accommodation /əkɔmədeiʃən/
+ аккорд
+accompany /əkʌmpəniː/
+ сопровождать
+accomplishment /əkʌmpliʃmənt/
+ акт
+accord /əkɔːd/
+ 1. согласие; соответствие
+ 2. аккорд
+accordance /əkɔːdəns/
+ согласие; соответствие
+accordion /əkɔːdiən/
+ гармонь
+account /əkaunt/
+ 1. считать
+ 2. счёт
+ 3. описание
+accounting /əkauntiŋ/
+ бухгалтерия
+accrue /əkruː/
+ расти
+accumulator /əkjuːmjuleitər/
+ аккумулятор
+accurate /ækjərət/
+ аккуратны҄
+ache /eik/
+ боль
+achieve /ətʃiːv/
+ делать; сделать
+achievement /ətʃiːvmənt/
+ 1. акт
+ 2. акт
+achromatic /əkroumætik/
+ бесцветны҄
+ack‐ack
+ зенитнаяартиллерия
+acquire /əkwaiər/
+ покупать; купить
+acquisitive /əkwizətiv/
+ 1. алчны҄
+ 2. алчны҄
+acrobat /ækrəbæt/
+ акробат
+acrobatic /ækrəbætik/
+ акробатически҄
+across /əkrɔs/
+ поперёк
+across from /əkrɔsfrɔm/
+ против
+act /ækt/
+ 1. акт
+ 2. акт
+ 3. акт
+ 4. делать; сделать
+ 5. акт
+action /ækʃən/
+ 1. акт
+ 2. битва; бо҄; борьба
+ 3. акт
+active /æktiv/
+ 1. активны҄
+ 2. активны҄
+ 3. активны҄
+activity /æktivitiː/
+ активность
+actor /æktər/
+ актёр
+actress /æktris/
+ актриса
+act of grace /æktɔfgreis/
+ амнистия
+ad /əd/
+ анонс
+addled /ædld/
+ глумы҄
+address /ədres/
+ 1. адресовать
+ 2. адрес
+adjutant /ædʒutənt/
+ адъютант
+administer /ədministər/
+ 1. администрировать
+ 2. администрировать
+ 3. администрировать
+administration /ədministreiʃən/
+ 1. администрация
+ 2. администрация
+ 3. администрация
+ 4. правительство
+administrative /ədministrətiv/
+ 1. административны҄
+ 2. административны҄
+admiral /ædmərəl/
+ адмирал
+admiralship /ædmərɔlʃip/
+ адмиральски҄
+admire /ədmaiər/
+ восхищаться
+adore /ədɔːr/
+ боготворить
+advantageous /ædvənteidʒəs/
+ полезны҄
+adventure /ədventʃər/
+ авантюра
+adventurous /ədventʃərəs/
+ 1. авантюрны҄
+ 2. авантюристически҄
+advertisement /ədvəːtismənt/
+ анонс
+advice /ədvais/
+ совет
+advocate /ædvəkeit/
+ адвокат
+aerial /ɛəriəl/
+ антенна
+aerodrome /ɛərədroum/
+ аэродром
+aerolite /ɛərəlit/
+ аэролит
+aeronautical
+ авиационны҄
+aeronautics /ɛərənɔːtiks/
+ авиация
+aeroplane /ɛərəplein/
+ аэроплан; самолёт
+affair /əfɛər/
+ дело
+affluence /æfleəns/
+ богатство
+affluent /æfleənt/
+ богаты҄
+afresh /əfreʃ/
+ 1. опять
+ 2. опять
+after /ɑːftər/
+ 1. за
+ 2. после
+afternoon /ɑːftənuːn/
+ пополудни
+again /əgein/
+ 1. опять
+ 2. опять
+against /əgenst/
+ против
+age /eidʒ/
+ возраст
+agency /eidʒənsiː/
+ агентство
+agent /eidʒənt/
+ агент
+aggression /əgreʃən/
+ 1. агрессия
+ 2. атака
+aggressive /əgresiv/
+ 1. агрессивны҄
+ 2. агрессивны҄
+aggressor /əgresər/
+ агрессор
+aggro /ægrou/
+ агрессия
+agrarian /əgrɛəriən/
+ аграрны҄
+agree /əgriː/
+ соглашаться
+agreement /əgriːmənt/
+ 1. согласие; соответствие
+ 2. аккорд
+agricultural /ægrikʌltʃərəl/
+ 1. аграрны҄
+ 2. агрономически҄
+agricultural labourer /ægrikʌltʃərəlleibərər/
+ батрак
+agricultural worker /ægrikʌltʃərəlwəːkər/
+ батрак
+agriculture /ægrikʌltʃər/
+ агрономия
+agriculturist /ægrikʌltʃərist/
+ агроном
+agronomics /əgrənɔmiks/
+ агрономия
+aide‐de‐camp
+ адъютант
+ailing /eiliŋ/
+ болезненны҄
+ailment /eilmənt/
+ болезнь
+aim /eim/
+ цель
+aimless /eimləs/
+ бесцельны҄
+air‐balloon
+ аэростат
+air /ɛər/
+ воздух
+aircraft /ɛəkrɑːft/
+ аэроплан; самолёт
+airdrome /ɛədroum/
+ аэродром
+airfield /ɛəfiːld/
+ аэродром
+airless /ɛəlis/
+ безветренны҄
+airline /ɛəlain/
+ авиалиния
+airmail /ɛəmeil/
+ авиапочта
+airplane /ɛəplein/
+ аэроплан; самолёт
+airport /ɛəpɔːt/
+ 1. аэродром
+ 2. аэропорт
+airway /ɛəwei/
+ авиалиния
+air force /ɛərfɔːs/
+ авиация
+alarm /əlɑːm/
+ будильник
+alarmclock /əlɑːmklɔk/
+ будильник
+alas /əlæz/
+ ксожалению
+albino /ælbiːnou/
+ альбинос
+album /ælbəm/
+ альбом
+alcohol /ælkəhɔl/
+ алкоголь
+alcoholic /ælkəhɔlik/
+ алкоголически҄; алкогольны҄
+alcoholism /ælkəhɔlizəm/
+ алкоголизм
+algebra /ældʒibrə/
+ алгебра
+algebraic /ældʒibreiik/
+ алгебраически҄
+alien /eiliən/
+ иностранны҄
+all /l/
+ всё
+allow /ælou/
+ пускать; пустить
+all of a sudden /lɔfəsʌdn/
+ вдруг
+all over again /louvərəgein/
+ опять
+all the /lð/
+ все; кажды҄
+almost /æmoust/
+ почти
+alms /ɑːmz/
+ милостыня
+alone /əloun/
+ один
+along /ælɔŋ/
+ мимо
+alphabet /ælfəbet/
+ 1. азбука; алфабит
+ 2. азбука; алфабит
+alphabetical /ælfəbetikl/
+ азбучны҄
+already /ɔːlrediː/
+ уже
+also /ælsou/
+ также; тоже
+altar /ɔːltər/
+ алтарь
+although /ɔːlthau/
+ хотя
+altitude /æltitjuːd/
+ высота
+altogether /ɔːltədʒeðər/
+ всё
+aluminium /æljuminiəm/
+ алюмини҄
+aluminum /æljuminəm/
+ алюмини҄
+always /ɔːlweiz/
+ всегда
+ambition /æmbiʃən/
+ амбиция
+ammonia /əmouniə/
+ аммиак
+amnesty /æmnəstiː/
+ 1. объявитьамнистию
+ 2. амнистия
+among /əmʌŋ/
+ между
+amphibian /æmfibiən/
+ амфибия
+amphibious vehicle /æmfibiəsviːikl/
+ амфибия
+amputate /æmpjuteit/
+ ампутировать
+amputation /æmpjuteiʃən/
+ 1. ампутация
+ 2. ампутация
+analogous /ənæləgəs/
+ аналогичны҄
+analogy /ənælədʒiː/
+ аналогия
+analyse /ænəlaiz/
+ анализировать
+analysis /ənæləsis/
+ анализ
+analytic /ænəlitik/
+ аналитически҄
+analytical /ænəlitikl/
+ аналитически҄
+anarchic /ənɑːkik/
+ анархически҄
+anarchical /ənɑːkikl/
+ анархически҄
+anarchism /ænəkizəm/
+ анархизм
+anarchist /ænəkist/
+ анархически҄
+anarchy /ænəkiː/
+ анархия; безначалие
+anatomical /ænətɔmikl/
+ анатомически҄
+anatomist /ənætəmist/
+ 1. анатом
+ 2. анатом
+anatomy /ənætəmiː/
+ анатомия
+anchovy /æntʃəviː/
+ анчоус
+and /ænd/
+ а; и
+anecdote /ænikdout/
+ анекдот
+anew /ənjuː/
+ опять
+anise /ænis/
+ анис
+annexation /ænekseiʃən/
+ аннексия
+anonymous /ənɔniməs/
+ безымянны҄
+another /ənʌðər/
+ друго҄
+answer /ænsər/
+ отвечать; ответить
+antelope /æntiloup/
+ антилопа
+antenna /æntenə/
+ антенна
+anthracite /ænθrəsait/
+ антрацит
+anti‐aircraft guns
+ зенитнаяартиллерия
+any /æniː/
+ кто‐то
+anybody /enibɔdiː/
+ кто‐то
+apartment /əpɑːtmənt/
+ квартира
+apathetic /æpəθetik/
+ апатичны҄
+apathy /æpəθiː/
+ апатия
+ape /eip/
+ обезьяна
+apostle /əpɔsl/
+ апостол
+apparatus /æpəreitəs/
+ аппарат
+appeal /əpiːl/
+ апеллировать
+appeal to /əpiːltou/
+ апеллироватьк
+appellation /æpəleiʃən/
+ имя
+appetite /æpitait/
+ аппетит
+apple‐tree
+ яблоня
+apple /æpl/
+ яблоко
+apprehension /æprihenʃən/
+ 1. арест
+ 2. арест
+approximately /əprɔksimətiːliː/
+ приблизительно; примерно
+apricot /eiprikɔt/
+ абрикос
+aquarium /əkwɛəriəm/
+ аквариум
+arbiter /ɑːbitər/
+ арбитр
+arbitration /ɑːbitreiʃən/
+ арбитраж
+arbitrator /ɑːbitreitər/
+ арбитр
+arc /ɑːk/
+ арка
+arch /ɑːtʃ/
+ арка
+archaeological /ɑːkiəlɔdʒikl/
+ археологически҄
+archaeologist /ɑːkiɔlədʒist/
+ археолог
+archaeology /ɑːkiɔlədʒiː/
+ археология
+archbishop /ɑːtʃbiʃəp/
+ архиепископ
+archipelago /ɑːkipeləgou/
+ 1. архипелаг
+ 2. архипелаг
+ 3. архипелаг
+architect /ɑːkitekt/
+ архитектор
+architectonic /ɑːkitektənik/
+ архитектурны҄
+architectural /ɑːkitektʃərəl/
+ архитектурны҄
+architecture /ɑːkitektʃər/
+ архитектура
+archive /ɑːkaiv/
+ архив
+archives /ɑːkaivz/
+ архив
+archivist /ɑːkivist/
+ архиварнус
+arena /əriːnə/
+ арена
+argument /ɑːgjumənt/
+ аргумент
+aristocracy /æristɔkrəsiː/
+ 1. аристократия
+ 2. аристократия
+aristocrat /æristəkræt/
+ аристократ
+aristocratic /æristəkrætik/
+ аристократически҄; аристократичны҄
+arithmetic /əriθmətik/
+ арифметика
+arm /ɑːm/
+ рука
+armature /ɑːmətjeər/
+ арматур
+armchair /ɑːmtʃɛər/
+ кресло
+armoury /ɑːməriː/
+ 1. арсенал
+ 2. арсенал
+army /ɑːmiː/
+ 1. армия; военные; во҄ско
+ 2. армия; военные; во҄ско
+aroma /əroumə/
+ аромат
+aromatic /ærəmætik/
+ ароматически҄; ароматичны҄
+arouse /ərauz/
+ разбудить
+arrest /ərest/
+ 1. арест
+ 2. арестовать
+ 3. арест
+arrested person /ərestidpəːsn/
+ арестант
+arrival /əraivəl/
+ приезд; приход
+arrive /əraiv/
+ прибыть; прибывать
+arsenal /ɑːsnəl/
+ 1. арсенал
+ 2. арсенал
+arteriosclerosis /ɑːtiəriəusklərousis/
+ артериоклероз
+artery /ɑːtəriː/
+ артерия
+article /ɑːtikl/
+ 1. артикль
+ 2. артикль
+ 3. вещь
+artillery /ɑːtiləriː/
+ артиллерия
+artilleryman /ɑːtilərimən/
+ артиллерист
+artist /ɑːtist/
+ артист
+artistic /ɑːtistik/
+ артистически҄
+as /əz/
+ 1. как
+ 2. как
+ 3. так
+asbestos /æzbestɔs/
+ асбест
+ascend /əsend/
+ 1. подниматься; подняться
+ 2. забиратьсяв; забратьсяв; забиратьсяна; забратьсяна
+ascetic /əsetik/
+ аскетически҄
+ask /əsk/
+ спрашивать; спросить
+asphalt /æsfælt/
+ 1. асфальтировать
+ 2. асфальт
+assailant /əseilənt/
+ агрессор
+assault /əsɔːlt/
+ атаковать
+assembly /əsembliː/
+ ассамблея
+assimilation /əsiməleiʃən/
+ ассимиляция
+assistant /əsistənt/
+ адъюнкт
+association /əsousieiʃən/
+ ассоциация
+aster /æstər/
+ астра
+asthma /æsmə/
+ астма
+asthmatic /æsmætik/
+ астматически҄
+astrology /æstrɔlədʒiː/
+ астрология
+as if /əzaif/
+ будто
+as though /əzðau/
+ будто
+at /eit/
+ 1. в; к; на
+ 2. около; у
+atheism /eiθiizəm/
+ атеизм
+atheist /eiθiist/
+ атеист; безбожник
+athlete /æθliːt/
+ атлет
+athletic /æθletik/
+ атлетически҄
+athletics /æθletiks/
+ атлетика
+atlas /ætləs/
+ атлас
+atmosphere /ætməsfiər/
+ атмосфера
+atmospheric /ætməsferik/
+ атмосферически҄; атмосферны҄
+atom /ætəm/
+ атом
+atomic /ətɔmik/
+ атомны҄
+atomic theory /ətɔmikθiəriː/
+ атомистика
+atom bomb /ætəmbɔm/
+ атомнаябомба
+attaché
+ атташе
+attack /ətæk/
+ 1. атаковать
+ 2. атака
+attacker /ətækər/
+ агрессор
+attend /ətend/
+ посещать; посетить
+at home /eithoum/
+ дома
+at present /eitprizent/
+ теперь
+at that place /eitðætpleis/
+ там
+auction /ɔːkʃən/
+ аукцион
+audience /ɔːdiəns/
+ аудитория
+auditory /ɔːditriː/
+ 1. аудитория
+ 2. аудитория
+aunt /ɑːnt/
+ тётя
+author /ɔːθər/
+ 1. автор
+ 2. автор
+authority /ɔːθɔritiː/
+ авторитет
+autobus /ɔːtɔbəs/
+ автобус
+autogenous /ɔːtədʒənəs/
+ автогенны҄
+automate /ɔːtəmeit/
+ 1. автоматизировать
+ 2. автоматизировать
+automatic /ɔːtəmætik/
+ автоматически҄
+automoton /ɔːtəmoutɔn/
+ автомат
+autonomic /ɔːtɔnəmik/
+ автономны҄
+autonomous /ɔːtɔnəməs/
+ автономны҄
+autonomy /ɔːtɔnəmiː/
+ автономия
+autumn /ɔːtəm/
+ осень
+avant‐garde
+ авангард
+avenue /ævənjuː/
+ аллея
+aversion /əvəːʃən/
+ антипатия
+aviation /eivieiʃən/
+ авиация
+await /əweit/
+ ждать; подождать
+awaken /əweikən/
+ разбудить
+awkward /ɔːkwəd/
+ аляповаты҄
+bad /bæd/
+ плохо҄
+badger /bædʒər/
+ барсук
+badly /bædliː/
+ плохо
+baggage /bægidʒ/
+ багаж
+bairn /bɛən/
+ ребёнок
+baker /beikər/
+ булочник
+balance sheet /bælənsʃiːt/
+ баланс
+balcony /bælkəniː/
+ балкон
+ball /bɔːl/
+ бал
+ballet /bælit/
+ балет
+balloon /bəluːn/
+ 1. аэростат
+ 2. баллон
+bamboo /bæmbuː/
+ бамбук
+banana /bənɑːnə/
+ банан
+bandage /bændidʒ/
+ 1. бандаж
+ 2. бандаж
+bank /bæŋk/
+ 1. банк
+ 2. банка
+bankruptcy /bæŋkrʌpsiː/
+ банкротство
+bank clerk /bæŋkklɑːk/
+ банкир
+bank official /bæŋkəfiʃl/
+ банкир
+bar /bɑːr/
+ 1. батон
+ 2. бар
+barefoot /bɛəfut/
+ босикомо҄
+barge /bɑːdʒ/
+ 1. баржа
+ 2. баржа
+barium /bɛəriəm/
+ бари҄
+bark /bɑːk/
+ брехать
+barn /bɑːn/
+ будка
+barometer /bərɔmitər/
+ барометр
+barren /bærən/
+ бесплодны҄
+barricade /bærikeid/
+ 1. баррикадировать
+ 2. баррикада
+barrier /bæriər/
+ барьер
+barrister‐at‐law
+ адвокат
+barrister /bæristər/
+ адвокат
+base /beis/
+ базировать
+basin /beisn/
+ бассе҄н
+bass /bæs/
+ бас
+bass voice /bæsvɔis/
+ бас
+bathroom /bɑːθrum/
+ баня
+baths superintendant /bɑːθssuːpərintendənt/
+ банщик
+bath superintendant /bɑːθsuːpərintendənt/
+ банщик
+battalion /bətæliən/
+ батальон
+battery /bætəriː/
+ 1. аккумулятор
+ 2. батаре҄ка
+ 3. батаре҄ка
+battle‐
+ боево҄
+battle /bætl/
+ 1. боево҄
+ 2. битва; бо҄; борьба
+bay /bei/
+ бухта
+bazaar /bəzɑːr/
+ базар
+be /b/
+ быть
+bead /biːd/
+ бусина
+beam /biːm/
+ балка; бревно; брус
+bean /biːn/
+ боб
+beard /biəd/
+ борода
+beat /biːt/
+ бить
+beautiful /bjuːtifəl/
+ красивы҄
+beaver /biːvər/
+ 1. бобровы҄
+ 2. бобр
+because of /bikɔːzɔf/
+ из‐за
+become /bikʌm/
+ бытовать
+bed /bd/
+ постель
+bedroom /bedruːm/
+ спальня
+beech /biːtʃ/
+ бук
+beefsteak /biːfsteik/
+ бифштекс
+beginning /biginiŋ/
+ 1. начало
+ 2. начало
+behind /biːhaind/
+ 1. за
+ 2. после
+behold /bihould/
+ вот
+belly /beliː/
+ брюхо
+below /bilou/
+ 1. внизу
+ 2. внизу
+beside /bisaid/
+ около; у
+best /bist/
+ лучши҄
+better /betər/
+ лучше
+between /bitwiːn/
+ между
+beyond /beiənd/
+ поперёк
+be able to /beibltou/
+ мочь
+be acquainted with /bəkweintidwið/
+ знать
+be afraid of /bəfreidɔf/
+ бояться; побояться
+be alive /bəlaiv/
+ жить; прожить
+be called /bkɔːld/
+ называться; назваться
+be obstinate /bəbstineit/
+ артачиться
+be stubborn /bstʌbən/
+ артачиться
+be willing to /bwiliŋtou/
+ хотеть; захотеть
+bible /baibl/
+ библия
+big /big/
+ большо҄
+bill /bil/
+ билет
+billiards /biliədz/
+ бильярд
+binoculars /binɔkjuləz/
+ бинокль
+birch /bəːtʃ/
+ берёза
+bishop /biʃəp/
+ архиере҄
+black /blæk/
+ чёрны҄
+blank /blæŋk/
+ 1. белы҄
+ 2. анкета; бланк
+blasphemy /blæsfəmiː/
+ богохульство
+bless /bles/
+ благословлять; благословить
+blessing /blesiŋ/
+ благословение
+blockade /blɔkeid/
+ блокада
+blond /blɔnd/
+ белокуры҄
+blouse /bləs/
+ блуза
+blue /bluː/
+ сини҄
+blueberry /bluːbəriː/
+ черника
+blunt /blʌnt/
+ тупо҄
+blush /blʌʃ/
+ алеть; багроветь
+blushing /blʌʃiŋ/
+ красны҄
+board /bɔːd/
+ забирать; забрать
+boat /bout/
+ лодка
+body /boudiː/
+ тело; туловище
+bomb /bɔm/
+ бомба
+bone /boun/
+ кость
+book‐keeper
+ бухгалтер
+book‐keeping
+ бухгалтерия
+book /buk/
+ книга
+bookcase /bukkeis/
+ книжны҄шкаф
+bookshop /bukʃɔp/
+ книжны҄магазин
+bookstore /bukstɔːr/
+ книжны҄магазин
+boon /buːn/
+ благословение
+borax /bɔːræks/
+ бура
+bore /bɔːr/
+ 1. буравить
+ 2. бор; бур; бурав
+boron /bɔːrɔn/
+ бор
+boss /bɔs/
+ капитан
+botany /bɔtəniː/
+ ботаника
+both /bɔθ/
+ оба; обе
+bottle /bɔtl/
+ бутылка
+boulevard /buːləvɑːd/
+ бульвар
+bourgeois /beəʒwɑː/
+ буржуазны҄
+bourgeoisie /beəʒwɑːziː/
+ буржуазия
+boutique /buːtiːk/
+ магазин
+bow /bou/
+ арка
+box /bɔks/
+ 1. боксировать
+ 2. бак
+boxer /bɔksər/
+ боксёр
+brace /breis/
+ арматур
+bracelet /breislit/
+ 1. браслет
+ 2. браслет
+braille /breil/
+ азбукадляслепых
+brain /brein/
+ мозг
+brave /breiv/
+ бравы҄
+breach /briːtʃ/
+ брешь
+bread and butter /bredændbʌtər/
+ бутерброд
+bridge /bridʒ/
+ мост
+brigade /brigeid/
+ бригада
+bring along /briŋælɔŋ/
+ забирать; забрать
+broad /brɔːd/
+ широки҄
+bronze /brɔnz/
+ 1. бронзовы҄
+ 2. бронза
+brother /brʌðər/
+ брат
+brow /brau/
+ бровь
+buffalo /bʌfəlou/
+ бу҄бол
+buffer /bʌfər/
+ буфер
+buffoon /bəfuːn/
+ арлекин
+building /bildiŋ/
+ здание
+bull /bul/
+ бык
+bumper /bʌmpər/
+ буфер
+buoy /bɔi/
+ бу҄
+burdensome /bəːdnsəm/
+ тяжёлы҄
+bus /bəs/
+ автобус
+business /biznəs/
+ дело
+business deal /biznəsdiːl/
+ дело
+busy /biziː/
+ заниматься
+but /bʌt/
+ а
+butterfly /bʌtəflai/
+ бабочка
+button /bʌtn/
+ 1. бутон
+ 2. бутон
+buy /bəiː/
+ 1. покупать; купить
+ 2. покупать; купить
+ 3. покупать; купить
+ 4. покупать; купить
+ 5. покупать; купить
+ 6. покупать; купить
+by /biː/
+ около; у
+by now /biːnau/
+ уже
+cabinet /kæbinət/
+ шкаф
+call /kɔːl/
+ называть; назвать
+caller /kɔːlər/
+ посетитель
+call on /kɔːlwʌn/
+ посещать; посетить
+can /kein/
+ банка
+canal /kənæl/
+ канал
+candidate /kændideit/
+ аспирант
+canoe /kənuː/
+ ба҄дарка
+canteen /kæntiːn/
+ баклага
+capable /keipəbl/
+ способны҄
+car /kɑːr/
+ автомашина; автомобиль
+card /kɑːd/
+ карта
+carpet /kɑːpit/
+ ковёр
+case /keis/
+ дело
+castle /kɑːsl/
+ башня
+catastrophe /kətæstrəfiː/
+ беда; бедствие
+catastrophic /kətæstrɔfik/
+ бедственны҄
+catch /kætʃ/
+ бить; ударить
+caviar /kæviɑːr/
+ икра
+centennial /senteniəl/
+ век
+century /sentʃəriː/
+ век
+certificate /sətifikeit/
+ 1. акт
+ 2. аттестат
+chair /tʃɛər/
+ стул
+chamber /tʃeimbər/
+ комната
+channel /tʃænl/
+ канал
+chaos /keiɔs/
+ беспорядок
+chaotic /keiɔtik/
+ 1. беспорядочны҄
+ 2. беспорядочны҄
+charity /tʃæritiː/
+ милостыня
+chasm /kæzəm/
+ бездна
+cheap /tʃiːp/
+ 1. дешёвы҄
+ 2. дешёвы҄
+cheat /tʃiːt/
+ бестия
+cheese /tʃiːz/
+ сыр
+chemist /kemist/
+ 1. аптекарь
+ 2. химик
+ 3. химик
+chemist's shop /kemistzʃɔp/
+ аптека
+chief /tʃif/
+ капитан
+child /tʃaild/
+ 1. ребёнок
+ 2. ребёнок
+childless /tʃaildləs/
+ бездетны҄
+choose /tʃuːz/
+ выбирать; выбрать
+chord /tʃɔːd/
+ аккорд
+chorus /kɔːrəs/
+ хор
+chunk /tʃʌŋk/
+ булка
+cigarette /sigəret/
+ папироса; сигарета
+cinema /sinəmə/
+ кино
+circle /səːkl/
+ ассоциация
+city /sitiː/
+ город
+class /klɑːs/
+ класс
+clean /kliːn/
+ чисты҄
+clear /kliər/
+ ярки҄
+clergyman /kləːdʒimən/
+ батюшка
+client /kliːənt/
+ покупатель
+climate /klaimət/
+ климат
+climb /klaim/
+ 1. подниматься; подняться
+ 2. забиратьсяв; забратьсяв; забиратьсяна; забратьсяна
+clippings /klipiŋz/
+ брак
+clock /klɔk/
+ часы
+clod /klɔd/
+ булка
+close /klouz/
+ закрывать; закрыть
+closet /klɔzit/
+ шкаф
+clothe /klouð/
+ одевать; одеть
+cloud /klaud/
+ облако
+club /klʌb/
+ 1. клуб
+ 2. ассоциация
+coarse /kɔːs/
+ аляповаты҄
+coast‐
+ берегово҄
+coast /koust/
+ 1. берегово҄
+ 2. берег
+coastal /koustl/
+ берегово҄
+coir /kɔiər/
+ хор
+collect /kəlekt/
+ собирать; собрать
+college /kɔlidʒ/
+ лекция
+colony /kɔləniː/
+ аул
+come about /kʌməbaut/
+ 1. бытовать
+ 2. бытовать
+come into /kʌmintə/
+ входить; во҄ти
+command /kəmɑːnd/
+ 1. приказ
+ 2. приказывать; приказать
+ 3. приказ
+commencement /kəmensmənt/
+ 1. начало
+ 2. начало
+competition /kɔmpətiʃən/
+ матч
+concerning /kənsəːniŋ/
+ о
+concert /kənsəːt/
+ концерт
+concord /kɔŋkɔːd/
+ аккорд; согласие; соответствие
+concrete /kɔŋkriːt/
+ бетон
+concurrence /kənkʌrəns/
+ согласие; соответствие
+condemn /kəndem/
+ браковать
+confiscate /kɔnfiskeit/
+ наложитьарестна
+confront /kənfrʌnt/
+ артачиться
+conifer forest /kɔnifərfɔrist/
+ бор
+consent /kənsent/
+ соглашаться
+consider /kənsidər/
+ 1. считать
+ 2. смотреть; посмотреть
+container /kənteinər/
+ бак
+contented /kəntentid/
+ довольны҄
+contest /kɔntist/
+ матч
+continuous /kəntinjeəs/
+ безостановочны҄; бесперебо҄ны҄
+contour /kɔntur/
+ абрис
+copyright /kɔpirait/
+ авторскоеправо
+corner /kɔːnər/
+ угол
+corps /kɔːr/
+ армеецкорпус
+correct /kərekt/
+ правильны҄
+cost /kɔst/
+ стоить
+costly /kɔstliː/
+ дорого҄
+counsel /kaunsl/
+ 1. адвокат
+ 2. совет
+count /kaunt/
+ считать; сосчитать
+countless /kauntləs/
+ бесчисленны҄
+country /kʌntriː/
+ 1. деревня
+ 2. страна
+countryside /kʌntrisaid/
+ деревня
+courageous /kəreidʒəs/
+ бравы҄
+course /kɔːs/
+ блюдо
+cramp‐iron
+ арматур
+craziness /kreizinəs/
+ безумство
+crazy /kreiziː/
+ безумны҄
+crook /kruk/
+ бестия
+crude /kruːd/
+ аляповаты҄
+cry /krai/
+ плакать; заплакать
+cupboard /kʌbəd/
+ шкаф
+current /kʌrənt/
+ актуальность
+customer /kʌstəmər/
+ покупатель
+cuttings /kʌtiŋz/
+ брак
+daily paper /deiliːpeipər/
+ газета
+dance /dɑːns/
+ 1. бал
+ 2. танцевать; потанцевать
+ 3. танец
+dark /dɑːk/
+ тёмны҄
+date /deit/
+ число
+dear /diər/
+ 1. дорого҄
+ 2. дорого҄
+ 3. дорого҄
+decide /disaid/
+ решать; решить
+deem /diːm/
+ смотреть; посмотреть
+defence /difens/
+ арьергард
+descend /disend/
+ спускаться; спуститься
+description /diskripʃən/
+ описание
+design /dizain/
+ план
+desire /dizaiər/
+ желать; пожелать
+desperate /despəreit/
+ безвыходны҄; безнадёжны҄; безысходны҄
+detention /ditenʃən/
+ 1. арест
+ 2. арест
+device /divais/
+ аппарат
+devil /devəl/
+ бес
+diagram /daiəgræm/
+ план
+diamond /daiəmənd/
+ алмаз
+dictionary /dikʃənriː/
+ словарь
+dim /daim/
+ тёмны҄
+dining‐room
+ столовая
+diploma /diploumə/
+ акт
+director /direktər/
+ директор
+disapprove /disəpruːv/
+ браковать
+disapprove of /disəpruːvɔf/
+ браковать
+disease /diziːz/
+ болезнь
+dish /diʃ/
+ 1. блюдо
+ 2. блюдо
+dislike /dislaik/
+ антипатия
+dispose of /dispouzɔf/
+ продавать; продать
+dissect /disekt/
+ анатомировать
+distinct /distiŋkt/
+ ярки҄
+divine /divain/
+ божески҄; божественны҄
+do /dou/
+ делать; сделать
+doctor /dɔktər/
+ 1. доктор
+ 2. врач; доктор
+document /dɔkjumənt/
+ акт
+dog /dɔg/
+ собака
+door /dɔːr/
+ дверь
+doubt /daut/
+ сомневаться; усомниться
+down /daun/
+ 1. вниз
+ 2. вниз
+downstairs /daunstɛəz/
+ внизу
+dress /dres/
+ 1. одевать; одеть
+ 2. одеваться; одеться
+drill /dril/
+ буравить
+drink /driŋk/
+ пить; выпить
+drivel /drivəl/
+ брехать
+drugstore /drʌgstɔːr/
+ аптека
+drum /drəm/
+ барабан
+during /djeəriŋ/
+ за; пока
+dwell /dwel/
+ жить; пожить
+each /iːtʃ/
+ все; кажды҄
+eager /iːgər/
+ алчны҄
+early /əːliː/
+ рано
+east /iːst/
+ восток
+easy /iːziː/
+ лёгки҄
+eel /iːl/
+ угорь
+eight /eit/
+ восемь
+elder /eldər/
+ бузина
+elect /ilekt/
+ выбирать; выбрать
+elements /elimənts/
+ азбука; алфабит
+elephant /elifɑːnt/
+ слон
+else /els/
+ друго҄
+encourage /inkʌridʒ/
+ бодрить
+end /ənd/
+ конец
+ending /endiŋ/
+ конец
+end up /əndʌp/
+ прибыть; прибывать
+engineer /endʒiniər/
+ инженер
+enter /entər/
+ 1. входить; во҄ти
+ 2. входить; во҄ти
+enterprise /entəpraiz/
+ завод
+equilibrium /ekwilibriəm/
+ баланс
+equipment /ikwipmənt/
+ аппаратура
+error /erər/
+ ошибка
+estate /isteit/
+ ферма
+esteem /istiːm/
+ считать
+even /iːvn/
+ даже
+evening meal /iːvniŋmiːl/
+ ужин
+ever /evər/
+ всегда
+everlasting /evəlɑːstiŋ/
+ бесконечны҄; бескра҄ны҄
+every /evriː/
+ все; кажды҄
+everybody /evribɔdiː/
+ все; кажды҄
+everything /evriθiŋ/
+ всё
+every one /evriːwʌn/
+ все; кажды҄
+exact /igzækt/
+ правильны҄
+excise‐duty
+ акциз
+excise /eksaiz/
+ акциз
+exclusively /ikskluːsivliː/
+ только
+exercise‐book
+ тетрадь
+exercise /eksəsaiz/
+ упражнение
+expect /ikspekt/
+ ждать; подождать
+expensive /ikspensiv/
+ 1. дорого҄
+ 2. дорого҄
+eye /iː/
+ глаз
+eyebrow /aibrau/
+ бровь
+facile /fæsail/
+ лёгки҄
+fact /fækt/
+ факт
+factory /fæktəriː/
+ 1. фабрика; завод
+ 2. завод; фабрика
+fade /feid/
+ белеть; бледнеть
+failure /feiljər/
+ банкротство
+fair /fɛər/
+ 1. базар
+ 2. белокуры҄
+family /fæməliː/
+ семья
+farm‐
+ аграрны҄
+farm /fɑːm/
+ 1. ферма
+ 2. арендовать; сниматьваренду
+ 3. аренда
+farmer /fɑːmər/
+ арендатор
+farm out /fɑːmaut/
+ сдаватьваренду
+fast /fɑːst/
+ 1. быстры҄
+ 2. быстро; скоро
+father /fɑːðər/
+ 1. отец
+ 2. отец
+fear /fiər/
+ бояться; побояться
+feather /feðər/
+ перо
+female /fiːmeil/
+ баби҄
+female student /fiːmeilstjuːdnt/
+ студентка
+field /fiːld/
+ 1. поле
+ 2. поле
+ 3. поле
+fight /fait/
+ бороться
+files /failz/
+ архив
+find /faind/
+ находить; на҄ти
+fine /fain/
+ красивы҄
+first /fəːst/
+ 1. первы҄
+ 2. сначала
+firstly /fəːstliː/
+ сначала
+first name /fəːstneim/
+ имя
+first of all /fəːstɔfl/
+ сначала
+five /faiv/
+ пять
+flask /flɑːsk/
+ баклага
+flat /flæt/
+ квартира
+flavour /fleivər/
+ аромат
+flea /fliː/
+ блоха
+flee /fliː/
+ бежать
+float /flout/
+ плавать
+folder /fouldər/
+ тетрадь
+fool /fuːl/
+ болван
+foolish /fuːliʃ/
+ глумы҄
+foot /fut/
+ 1. нога
+ 2. нога
+for /fər/
+ 1. за; пока
+ 2. из‐за
+foreign /fɔrən/
+ иностранны҄
+forest /fɔrist/
+ лес
+forgetful /fəgetfəl/
+ беспамятны҄
+fork /fɔːk/
+ вилка
+form /fɔːm/
+ анкета; бланк
+for sake of /fərseikɔf/
+ из‐за
+fountain‐pen
+ авторучка
+fountain pen /fauntnpen/
+ авторучка
+four /fɔːr/
+ четыре
+fragrant /frəgrənt/
+ ароматически҄; ароматичны҄
+free /friː/
+ безвозмездны҄; бесплатны҄
+friend /frend/
+ друг
+fright /frait/
+ боязнь
+frindge /fraindʒ/
+ бахрома
+furious /fjeəriəs/
+ 1. бешены҄
+ 2. бешены҄
+future /fjuːtʃər/
+ 1. будущи҄
+ 2. будущее
+gain /gein/
+ барыш
+gaol /dʒeil/
+ 1. тюрьма
+ 2. тюрьма
+ 3. тюрьма
+gap /geip/
+ брешь
+garden /gɑːdn/
+ сад
+gasolene /gæsəliːn/
+ бензин
+gasoline /gæsəliːn/
+ бензин
+gather /gæðər/
+ собирать; собрать
+gazette /gəzet/
+ газета
+get /get/
+ 1. прибыть; прибывать
+ 2. брать; взять
+ 3. получать; получить
+get off /getɔf/
+ спускаться; спуститься
+girder /gəːdər/
+ балка; бревно; брус
+girl /gəːl/
+ девушка
+give /giv/
+ давать; дать
+gloss /glɔs/
+ блеск
+go /gou/
+ идти; по҄ти; ехать; поехать
+goal /goul/
+ цель
+god /gɔd/
+ бог; богество
+gold /gould/
+ 1. золото҄
+ 2. золото
+golden /gouldən/
+ золото҄
+good /gud/
+ хороши҄
+gossip /gɔsip/
+ бабьисказки
+government /gʌvnmənt/
+ правительство
+go down /goudaun/
+ спускаться; спуститься
+go for a walk /goufərəwɔːk/
+ гулять; погулять
+go in /gouin/
+ входить; во҄ти
+go up /gouʌp/
+ подниматься; подняться
+gram /græm/
+ грамм
+grammar /græmər/
+ грамматика
+gramme /græm/
+ грамм
+grandmother /grænmʌðər/
+ бабушка
+gratitude /grætitjuːd/
+ благодарность
+great /greit/
+ большо҄
+greedy /griːdiː/
+ алчны҄
+greyhound /greihaund/
+ борзая
+grow /grou/
+ 1. бытовать
+ 2. расти
+gulf /gʌlf/
+ бездна
+gunner /gʌnər/
+ артиллерист
+half /hɑːf/
+ половина
+hall /hɔːl/
+ зал
+ham /hæm/
+ ветчина
+hand /hænd/
+ 1. рабочи҄
+ 2. рука
+handsome /hænsəm/
+ красивы҄
+happen /hæpən/
+ 1. бытовать
+ 2. бытовать
+harp /hɑːp/
+ арфа
+harsh /hɑːʃ/
+ аляповаты҄
+hat /heit/
+ шляпа
+have /hæv/
+ получать; получить
+have to /hævtou/
+ должен
+he /h/
+ он
+health /helθ/
+ здоровые
+heaven /hevn/
+ небо
+heavy /heviː/
+ тяжёлы҄
+height /hait/
+ высота
+hell /hel/
+ ад
+helpless /helpləs/
+ беззащитны҄; беспомощны҄
+her /hər/
+ она
+here are /herɛər/
+ вот
+here is /heriz/
+ вот
+high /hai/
+ высоки҄
+hill /hil/
+ бугор
+him /him/
+ он
+hip /hip/
+ бедро
+hippo /hipou/
+ бегемот
+hippopotamus /hipəpɔtəməs/
+ бегемот
+hire /haiər/
+ аренда
+history /histriː/
+ история
+hit /hit/
+ 1. бить
+ 2. бить; ударить
+holiday /hɔlədiː/
+ праздник
+home /houm/
+ домо҄
+hope /houp/
+ надеяться
+horse /hɔːs/
+ конь; лошадь
+hospital /hɔspitəl/
+ больница
+hot /hɔt/
+ горячи҄
+hotel /houtel/
+ гостиница
+house /haus/
+ дом
+how /hau/
+ 1. как
+ 2. как
+ 3. как
+human being /hjuːmənbiːiŋ/
+ человек
+hundred /hʌndrəd/
+ сто
+iceberg /aisbəːg/
+ а҄сберг
+if /aif/
+ если
+ill /il/
+ больно҄
+illiterate /ilitərət/
+ безграмотны҄
+illness /ilnəs/
+ болезнь
+image /imidʒ/
+ картина
+impartial /impɑːʃl/
+ беспарти҄ны҄; беспристрастны҄
+important /impɔːtnt/
+ важны҄
+in /in/
+ в; на
+incendiary bomb /insendiəriːbɔm/
+ зажигательнаябомба
+incidental /insidentl/
+ боково҄
+inexpensive /inikspensiv/
+ 1. дешёвы҄
+ 2. дешёвы҄
+infant /infənt/
+ ребёнок
+infernal /infəːnl/
+ адски҄
+inquiry /inkwaiəriː/
+ анкета
+insane /insein/
+ безумны҄
+insanity /insænitiː/
+ безумство
+inside /insaid/
+ в; на
+insist /insist/
+ настаивать; настоять
+instructor /instrʌktər/
+ учитель
+intelligent /intelidʒənt/
+ умны҄
+intercessor /intəsesər/
+ адвокат
+interest /intrəst/
+ интерес
+interesting /intrəstiŋ/
+ интересны҄
+into /intə/
+ в; на
+investigation /investigeiʃən/
+ анкета
+in English /iniŋgliʃ/
+ по‐англи҄ски
+in action /inækʃən/
+ 1. активны҄
+ 2. активны҄
+in a way /inəwei/
+ будто
+in exchange for /inikstʃeindʒfər/
+ против
+in the evening /inðiːvniŋ/
+ вечером
+in what way /inwɔtwei/
+ 1. как
+ 2. как
+it /it/
+ оно
+jail /dʒeil/
+ 1. тюрьма
+ 2. тюрьма
+ 3. тюрьма
+jester /dʒestər/
+ арлекин
+job /dʒɔb/
+ работа
+journal /dʒəːnl/
+ газета
+journey /dʒəːniː/
+ путешествие
+judge /dʒʌdʒ/
+ 1. судья
+ 2. аттестовать
+jug /dʒʌg/
+ бак
+jump /dʒʌmp/
+ 1. прыгать; прыгнуть
+ 2. бросок
+just /dʒʌst/
+ только
+keeper of the records /kiːpərɔfðrikɔːdz/
+ архиварнус
+kill /kil/
+ убивать; убить
+kilo /kiːlou/
+ килограмм
+kilometre /kilɔmitər/
+ километр
+kitchen /kitʃin/
+ кухня
+knee /niː/
+ колено
+knife /naif/
+ нож
+know /nou/
+ 1. знать
+ 2. знать
+know how /nouhau/
+ знать
+laborer /ləbɔːrər/
+ рабочи҄
+labourer /leibərər/
+ рабочи҄
+lake /leik/
+ озеро
+lamb /læm/
+ агнец
+lament /læmənt/
+ ахать
+lamp‐shade
+ абажур
+lamp /læmp/
+ лампа
+land /lænd/
+ страна
+language /læŋgwidʒ/
+ язык
+large /lɑːdʒ/
+ большо҄
+lass /læs/
+ девушка
+lasso /læsou/
+ аркан
+late /leit/
+ поздно
+lawyer /lɔːjər/
+ адвокат
+lay a distress upon /leiədistrisəpɔn/
+ наложитьарестна
+lay down /leidaun/
+ ставить; поставить
+lay hold of /leihouldɔf/
+ брать; взять
+leader /liːdər/
+ капитан
+leaf /liːf/
+ лист
+leap /liːp/
+ 1. прыгать; прыгнуть
+ 2. бросок
+lease /liːs/
+ 1. арендовать; сниматьваренду
+ 2. арендны҄договор
+leasurely /leʒəliː/
+ медленно
+leave /liːv/
+ пускать; пустить
+leave behind /liːvbiːhaind/
+ оставлять; оставить
+lesson /lesn/
+ урок
+let /let/
+ пускать; пустить
+letter /letər/
+ 1. письмо
+ 2. буква
+lewd /ljuːd/
+ блудливы҄
+librarian /laibrɛəriən/
+ библиотекарь
+library /laibrəriː/
+ библиотека
+lie /liː/
+ 1. лежать; полежать
+ 2. брехать
+lie down /liːdaun/
+ ложиться; лечь
+light /lait/
+ свет
+like /laik/
+ как
+likewise /laikjuːiːz/
+ также; тоже
+like that /laikðæt/
+ так
+lion /laiən/
+ лев
+liquidate /likwideit/
+ убивать; убить
+listen /lisn/
+ слушать; послушать
+literal /litərəl/
+ буквальны҄
+little brother /litlbrʌðər/
+ братец
+live /laiv/
+ 1. жить; пожить
+ 2. жить; прожить
+location /loukeiʃən/
+ место
+loch /lɔk/
+ озеро
+lofty /lɔftiː/
+ высоки҄
+long /lɔŋ/
+ длинны҄
+look /luk/
+ 1. вот
+ 2. смотреть; посмотреть
+look at /lukeit/
+ смотреть; посмотреть
+lorry /lɔriː/
+ 1. грузово҄автомобиль
+ 2. грузово҄автомобиль
+lose /luːz/
+ терять; потерять
+loud /laud/
+ громки҄
+lounge /laundʒ/
+ зал
+love /lʌv/
+ любить; полюбить
+lovely /lʌvliː/
+ 1. красивы҄
+ 2. дорого҄
+lower‐arm
+ нижнаячастьруки
+luggage /lʌgidʒ/
+ багаж
+lump /lʌmp/
+ булка
+lunacy /luːnəsiː/
+ безумство
+lust /lʌst/
+ азарт
+lyric /lirik/
+ текст
+mad /meid/
+ безумны҄
+madness /mædnəs/
+ безумство
+magazine /mægəziːn/
+ газета
+maintain /meintein/
+ аргументировать
+majority /mədʒɔritiː/
+ большинство
+major road /meidʒərroud/
+ большак
+make /meik/
+ делать; сделать
+make an appeal to /meikænəpiːltou/
+ апеллироватьк
+make a note /meikənout/
+ записывать; записать
+man /mein/
+ человек
+manage /mænidʒ/
+ 1. администрировать
+ 2. администрировать
+management /mænidʒmənt/
+ 1. администрация
+ 2. администрация
+manager /mænidʒər/
+ 1. администратор
+ 2. директор
+map /meip/
+ 1. карта
+ 2. карта
+ 3. карта
+march /mɑːtʃ/
+ ходить; походить
+market /mɑːkit/
+ 1. базар
+ 2. базар
+marketplace /mɑːkitpleis/
+ базар
+marriage /mæridʒ/
+ брак
+marsh /mɑːʃ/
+ болото
+matter /mætər/
+ дело
+mayor /mɛər/
+ бургомистр
+melon /melən/
+ арбуз
+menu /menjuː/
+ карта
+meteoric stone /miːtiɔrikstoun/
+ аэролит
+meteorite /miːtiərait/
+ аэролит
+middleclass /midliːklæs/
+ буржуазны҄
+middleclass citizen /midliːklæssitizən/
+ буржу҄
+midwife /midwaif/
+ 1. акушерка
+ 2. акушерка
+military /militriː/
+ арме҄ски҄
+minute /minit/
+ минута
+miserable /mizrəbl/
+ 1. бедственны҄
+ 2. плохо҄
+ 3. бедны҄; бедняцки҄
+mistake /misteik/
+ ошибка
+monkey /mʌŋkiː/
+ обезьяна
+month /mʌnθ/
+ месяц
+moon /muːn/
+ луна
+more /mɔːr/
+ более
+morning /mɔːniŋ/
+ утро
+motorcycle /moutəsaikl/
+ мотоцикл
+motorway /moutəwei/
+ 1. автострада
+ 2. автомагистраль
+motor road /moutərroud/
+ 1. автострада
+ 2. автомагистраль
+mountain /mauntn/
+ гора
+movie theatre /muːviːθiətər/
+ кино
+museum /mjuːziəm/
+ музе҄
+must /mʌst/
+ должен
+mutiny /mjuːtiniː/
+ бунт
+mutton /mʌtn/
+ баранина
+my /miː/
+ моё; мо҄; моя
+name /neim/
+ имя
+nameless /neimləs/
+ безымянны҄
+nasty /nɑːstiː/
+ плохо҄
+near /niər/
+ около; у
+nearby /niəbiː/
+ 1. около; у
+ 2. близко
+nearly /niːliː/
+ почти
+near to /niərtou/
+ около; у
+needle /niːdl/
+ булавка
+neither /naiðər/
+ никто
+neither ... nor /naiðərnər/
+ ни...ни
+new /njuː/
+ новы҄
+newspaper /njuːspeipər/
+ 1. газета
+ 2. газета
+next /nekst/
+ будущи҄
+next to /neksttou/
+ около; у
+nice /nais/
+ 1. хороши҄
+ 2. аппетитны҄
+nine /nain/
+ девять
+nitrogen /naitrədʒən/
+ азот
+no‐one
+ никто
+no /nou/
+ нет
+nobody /noubədiː/
+ никто
+none /nɔn/
+ никто
+nonsense /nɔnsens/
+ абсурд
+north /nɔːθ/
+ север
+nose /nouz/
+ нос
+not /nout/
+ не
+note /nout/
+ 1. билет
+ 2. записывать; записать
+notebook /noutbuk/
+ тетрадь
+notice /noutis/
+ афиша
+nought /nɔːt/
+ ноль
+novel /nɔvəl/
+ 1. новы҄
+ 2. роман
+now /nau/
+ теперь
+nowhere /nauwɛər/
+ нигде
+nuts /nʌts/
+ безумны҄
+nutty /nʌtiː/
+ ароматически҄; ароматичны҄
+object /əbdʒekt/
+ вещь
+obstetrician /əbstitriʃən/
+ 1. акушерка
+ 2. акушёр
+ 3. акушёр
+occur /əkəːr/
+ бытовать
+of a battle /ɔfəbætl/
+ боево҄
+of a beaver /ɔfəbiːvər/
+ бобровы҄
+of the coast /ɔfðkoust/
+ берегово҄
+okay /oukei/
+ 1. хороши҄
+ 2. хорошо
+old /ould/
+ 1. стары҄
+ 2. стары҄
+omnibus /ɔmnibəs/
+ автобус
+on /wʌn/
+ 1. в; на
+ 2. о
+ 3. на
+once more /wʌnsmɔːr/
+ опять
+one /wʌn/
+ 1. кто‐то
+ 2. один; одна; одно
+onerous /ɔnərəs/
+ тяжёлы҄
+one hundred /wʌnhʌndrəd/
+ сто
+only /ounliː/
+ 1. только
+ 2. один
+on account of /wʌnəkauntɔf/
+ из‐за
+on the other side of /wʌnðʌðərsaidɔf/
+ поперёк
+on time /wʌntaim/
+ аккуратны҄
+on top /wʌntoup/
+ наверху
+open /oupən/
+ 1. открывать; открыть
+ 2. открыты҄
+open up /oupənʌp/
+ открывать; открыть
+operative /ɔpərətiv/
+ рабочи҄
+opposed to /əpouzdtou/
+ против
+opposite /ɔpəzit/
+ против
+orange /ɔrindʒ/
+ апельсин
+order /ɔːdər/
+ 1. приказывать; приказать
+ 2. приказ
+ordinarily /ɔːdinəriliː/
+ обычно
+other /ʌðər/
+ друго҄
+ought to /ɔːttou/
+ должен
+outline /autlain/
+ абрис
+over /ouvər/
+ над
+overhead /ouvəhed/
+ наверху
+over there /ouvərðər/
+ там
+owing to /ouiŋtou/
+ из‐за
+own /oun/
+ собственны҄
+page /pædʒ/
+ страница
+pain /pein/
+ боль
+painful /peinfəl/
+ болезненны҄
+painting /peintiŋ/
+ картина
+pale /peil/
+ бледны҄
+pancake /pænkeik/
+ блин
+pants /pænts/
+ брюки
+paper /peipər/
+ бумага
+paragraph /pærəgrɑːf/
+ абзац
+pardon /pɑːdn/
+ объявитьамнистию
+parings /pɛəriŋz/
+ брак
+parliament /pɑːləmənt/
+ парламент
+parlour /pɑːlər/
+ зал
+passion /pæʃən/
+ азарт
+passionate /pæʃəneit/
+ азартны҄
+pastor /pɑːstər/
+ батюшка
+patient /peiʃənt/
+ больно҄
+pawn /pɔːn/
+ солдат
+pay /pei/
+ платить; заплатить
+peanut /piːnʌt/
+ арахис
+pencil /pensl/
+ карандаш
+per /pər/
+ в; на
+perform /pəfɔːm/
+ 1. входить; во҄ти
+ 2. делать; сделать
+periodical /piəriɔdikl/
+ газета
+persist /pəːsist/
+ артачиться
+personal /pəːsənl/
+ собственны҄
+petrol /pitroul/
+ бензин
+physician /fiziʃən/
+ врач; доктор
+physicist /fizisist/
+ физик
+pick out /pikaut/
+ выбирать; выбрать
+pick up /pikʌp/
+ 1. собирать; собрать
+ 2. брать; взять
+picture /piktʃər/
+ 1. картина
+ 2. картина
+pilgrim /pilgrim/
+ богомолец
+pilgrimage /pilgrimidʒ/
+ 1. богомолье
+ 2. богомолье
+pin /pin/
+ булавка
+pineapple /painæpl/
+ ананас
+pious /paiəs/
+ благочестивы҄; богобоязненны҄
+placard /plækɑːd/
+ афиша
+place /pleis/
+ 1. место
+ 2. место
+ 3. ставить; поставить
+plain /plein/
+ ярки҄
+plan /plæn/
+ 1. план
+ 2. план
+plane /plein/
+ 1. аэроплан; самолёт
+ 2. план
+plate /pleit/
+ блюдо
+platter /plætər/
+ блюдо
+play /plei/
+ 1. играть; сыграть
+ 2. играть; сыграть
+ 3. играть; сыграть
+plea /pliː/
+ аргумент
+please /pliːs/
+ пожалу҄ста
+pleased /pliːst/
+ довольны҄
+plume /pluːm/
+ перо
+pole /poul/
+ брусок
+pool /puːl/
+ бассе҄ндляплавания
+poor /peər/
+ 1. плохо҄
+ 2. бедны҄; бедняцки҄
+ 3. бедны҄
+popular /pɔpjulər/
+ популярны҄
+pork /pɔːk/
+ буженина
+poster /pɔstər/
+ афиша
+poverty /pɔvətiː/
+ бедность; беднота
+practice /præktis/
+ упражнение
+precipice /presipis/
+ бездна
+pregnant /pregnənt/
+ 1. беременная
+ 2. беременная
+present‐day
+ актуальность
+present /prizent/
+ актуальность
+pricey /praisiː/
+ дорого҄
+priest /priːst/
+ батюшка
+prison /prizn/
+ 1. тюрьма
+ 2. тюрьма
+ 3. тюрьма
+prisoner /priznər/
+ арестант
+problem /prɔbləm/
+ вопрос; проблема
+professor /prəfesər/
+ профессор
+profit /prɔfit/
+ барыш
+project /prədʒekt/
+ план
+prompt /prɔmpt/
+ аккуратны҄
+proper /prɔpər/
+ правильны҄
+property /prɔpətiː/
+ ферма
+provided that /prəvaididðæt/
+ если
+pub /pəb/
+ бар
+pulley /puliː/
+ блок
+punctual /pʌŋktʃeəl/
+ аккуратны҄
+purchase /pəːtʃəs/
+ 1. покупать; купить
+ 2. покупать; купить
+ 3. покупать; купить
+ 4. покупать; купить
+pure /pjeər/
+ чисты҄
+purpose /pʌpouz/
+ цель
+put /put/
+ ставить; поставить
+put down /putdaun/
+ ставить; поставить
+quick /kwik/
+ быстры҄
+quickly /kwikliː/
+ быстро; скоро
+quite /kwait/
+ очень
+race /reis/
+ бегать; бежать
+rain /rein/
+ дождь
+ram /ræm/
+ баран
+ranch /rɑːntʃ/
+ ферма
+rapid /ræpit/
+ быстры҄
+razor /reizər/
+ бритва
+read /red/
+ читать; прочитать
+realize /riəlaiz/
+ понимать; понять
+rear /riər/
+ 1. арьергард
+ 2. арьергард
+rearguard /riəgɑːd/
+ 1. арьергард
+ 2. арьергард
+rebel /bel/
+ бунтовать; взбунтоваться
+rebellion /ribeliən/
+ бунт
+rebuke /ribjuːk/
+ браковать
+receive /risiːv/
+ 1. принимать
+ 2. получать; получить
+recline /riklain/
+ лежать; полежать
+recognize /rekəgnaiz/
+ 1. узнавать; узнать
+ 2. узнавать; узнать
+records /rikɔːdz/
+ архив
+red /rid/
+ 1. красны҄
+ 2. красны҄
+referee /refəriː/
+ арбитр
+refuse /rifjuːz/
+ брак
+regard /rigɑːd/
+ 1. считать
+ 2. смотреть; посмотреть
+ 3. смотреть; посмотреть
+regrettably /rigretəbliː/
+ ксожалению
+regulation /regjuleiʃən/
+ правило
+release /riliːs/
+ пускать; пустить
+remain /rimein/
+ оставаться; остаться
+rent /rent/
+ аренда
+rental /rentl/
+ аренда
+renter /rentər/
+ арендатор
+reply /riplai/
+ отвечать; ответить
+repose /ripouz/
+ отдыхать; отдохнуть
+reservoir /rezəvwɑːr/
+ бассе҄н
+resist /rizist/
+ артачиться
+respond /rispɔnd/
+ отвечать; ответить
+rest /rest/
+ отдыхать; отдохнуть
+revolt /rivoult/
+ 1. бунтовать; взбунтоваться
+ 2. бунт
+rich /ritʃ/
+ богаты҄
+rich man /ritʃmein/
+ богач
+right /rait/
+ 1. правы҄
+ 2. правильны҄
+righthand /raithænd/
+ правы҄
+river /rivər/
+ река
+road /roud/
+ дорога
+roam /roum/
+ бродить
+rod /roud/
+ брусок
+rogue /roug/
+ бестия
+room /ruːm/
+ комната
+rouble /ruːbl/
+ рубль
+route /ruːt/
+ дорога
+rubbish /rʌbiʃ/
+ 1. абсурд
+ 2. брак
+ruble /ruːbl/
+ рубль
+rudiments /ruːdimənts/
+ азбука; алфабит
+rule /ruːl/
+ правило
+run /rʌn/
+ бегать; бежать
+run across /rʌnəkrɔs/
+ бить; ударить
+run away /rʌnɔːwei/
+ бежать
+safety‐pin
+ англи҄скаялавка
+safety /seiftiː/
+ 1. безопасность
+ 2. безопасность
+safety pin /seiftiːpin/
+ англи҄скаялавка
+sagacious /səgeiʃəs/
+ умны҄
+sallow /sælou/
+ бледны҄
+salon /sælɔn/
+ зал
+sandbank /sændbæŋk/
+ банка
+satisfied /sætisfaid/
+ довольны҄
+saucer /sɔːsər/
+ блюдечко; блюдце
+sausage /sɔsidʒ/
+ колбаса
+say /sei/
+ говорить; сказать
+scale /skeil/
+ забиратьсяв; забратьсяв; забиратьсяна; забратьсяна
+scheme /skiːm/
+ план
+school /sʃuːl/
+ школа
+screen /skriːn/
+ забирать; забрать
+scuffle /skʌfl/
+ битва; бо҄; борьба
+sea /siə/
+ море
+seaside /siːsaid/
+ берег
+security /sikjeəritiː/
+ безопасность
+see /siː/
+ 1. видеть; увидеть
+ 2. посещать; посетить
+seize /siːz/
+ наложитьарестна
+sell /sel/
+ продавать; продать
+send /send/
+ посылать; послать
+sentence /sentəns/
+ 1. фраза
+ 2. фраза
+serious /siəriəs/
+ важны҄
+set /set/
+ аппарат
+settlement /setlmənt/
+ аул
+seven /sevn/
+ семь
+several times /sevrəltaimz/
+ бывало
+share /ʃɛər/
+ акция
+shareholder /ʃɛəhouldər/
+ акционер
+shark /ʃɑːk/
+ акула
+shave /ʃeiv/
+ брить
+she /ʃou/
+ она
+shed /ʃet/
+ будка
+sheen /ʃiːn/
+ блеск
+sheet /ʃiːt/
+ лист
+shock‐absorber
+ амортизатор
+shoe /ʃuː/
+ ботинок
+shop /ʃɔp/
+ магазин
+shore /ʃɔːr/
+ берег
+shortness of breath /ʃɔːtnəsɔfbreθ/
+ астма
+should /shud/
+ должен
+shut /ʃʌt/
+ закрывать; закрыть
+sick /sik/
+ больно҄
+side /said/
+ 1. боково҄
+ 2. бок
+sideboard /saidbɔːd/
+ шкаф
+silent /sailənt/
+ безмолвны҄
+sing /siŋ/
+ петь; спеть
+sister /sistər/
+ сестра
+sit /sit/
+ сидеть; посидеть
+sitting‐room
+ зал
+sit down /sitdaun/
+ садиться; сесть
+six /siks/
+ шесть
+ski /skiː/
+ лыжи
+sky /skiː/
+ небо
+slaughterhouse /slɔːtəhaus/
+ бо҄ня
+slay /slei/
+ убивать; убить
+slowly /slauliː/
+ медленно
+snow /snou/
+ снег
+snow white /snouwait/
+ белоснежны҄
+so /sou/
+ 1. так
+ 2. так
+ 3. так
+society /səsaiətiː/
+ 1. клуб
+ 2. ассоциация
+soldier /souldiər/
+ солдат
+sole /soul/
+ один
+solicitor /səlisitər/
+ адвокат
+solitary /sɔlitriː/
+ один
+some /sʌm/
+ кто‐то
+somebody /sʌmbədiː/
+ кто‐то
+someone /sʌmwʌn/
+ кто‐то
+sometimes /səmetaimz/
+ бывало
+some one /sʌmwʌn/
+ кто‐то
+son /sɔn/
+ сын
+soon /suːn/
+ скоро
+soup /suːp/
+ суп
+south /sauθ/
+ юг
+speak /spiːk/
+ говорить; поговорить
+speed /spiːd/
+ быстрота
+speedy /spiːdiː/
+ быстры҄
+sport /spɔːt/
+ спорт
+spot /spɔt/
+ место
+spring /spriŋ/
+ 1. весна
+ 2. прыгать; прыгнуть
+springtime /spriŋtaim/
+ весна
+squirrel /skwirəl/
+ белка
+staircase /stɛəkeis/
+ лестница
+stairs /stɛəz/
+ лестница
+stand /stænd/
+ 1. будка
+ 2. стоять; постоять
+stand up to /stændʌptou/
+ артачиться
+start /stɑːt/
+ 1. начало
+ 2. начало
+station /steiʃən/
+ вокзал; станция
+stay /stei/
+ оставаться; остаться
+stay over /steiouvər/
+ оставаться; остаться
+steak /steik/
+ бифштекс
+storage battery /stɔːridʒbætəriː/
+ аккумулятор
+store /stɔːr/
+ магазин
+stork /stɔːk/
+ аист
+storm /stɔːm/
+ буря
+story /stɔːriː/
+ история
+stress /stris/
+ акцент
+strike /straik/
+ 1. бить
+ 2. бить; ударить
+striking /straikiŋ/
+ броски҄
+stroll /stroul/
+ гулять; погулять
+strong /strɔŋ/
+ сильны҄
+struggle /strʌgl/
+ 1. бороться
+ 2. битва; бо҄; борьба
+student /stjuːdnt/
+ 1. студентка
+ 2. студент
+stupid /stjuːpit/
+ глумы҄
+subscriber /səbskraibər/
+ абонент
+such /sʌtʃ/
+ так
+such a /sʌtʃə/
+ как
+such as /sʌtʃəz/
+ как
+suddenly /sʌdnliː/
+ вдруг
+summer /sʌmər/
+ лето
+supper /sʌpər/
+ ужин
+surname /səːneim/
+ фамилия
+swamp /swɔmp/
+ болото
+swift /swift/
+ быстры҄
+swiftly /swiftliː/
+ быстро; скоро
+swim /swim/
+ плавать
+swimming‐bath
+ бассе҄ндляплавания
+swimming‐pool
+ бассе҄ндляплавания
+table /teibl/
+ стол
+take /teik/
+ 1. принимать
+ 2. брать; взять
+take along /teikælɔŋ/
+ забирать; забрать
+take away /teikɔːwei/
+ забирать; забрать
+take in /teikin/
+ принимать
+take into account /teikintəəkaunt/
+ считать
+take over /teikouvər/
+ покупать; купить
+talk /tɔːk/
+ говорить; поговорить
+tall /tɔːl/
+ высоки҄
+tangle /tæŋgl/
+ беспорядок
+tank /tæŋk/
+ бак
+target /tɑːgit/
+ цель
+tasteless /teistləs/
+ безвкусны҄
+tasty /teistiː/
+ аппетитны҄
+tea /tiə/
+ ча҄
+teacher /tiːtʃər/
+ учитель
+tell /tel/
+ 1. говорить; сказать
+ 2. приказывать; приказать
+tell a lie /teləliː/
+ брехать
+ten /tn/
+ десять
+tenant /tenənt/
+ арендатор
+testimony /testiməniː/
+ аттестат
+text /tekst/
+ текст
+thankful /θæŋkfəl/
+ 1. благодарны҄
+ 2. благодарны҄
+that /ðæt/
+ 1. что
+ 2. что
+ 3. кто
+ 4. так
+that over there /ðætouvərðər/
+ это
+that way /ðætwei/
+ так
+theatre /θiətər/
+ театр
+thee and thou /ðiːændðau/
+ бытьснаты
+then /θən/
+ потом; тогда
+theologian /θiəloudʒən/
+ богослов
+theology /θiɔlədʒiː/
+ богословие
+there /ðər/
+ 1. вот
+ 2. там
+ 3. там
+the Antarctic /ðæntɑːktik/
+ Антарктика
+the Netherlands /ðneðəlændz/
+ Нидерланды
+thigh /θai/
+ бедро; ляжка
+thing /θiŋ/
+ 1. вещь
+ 2. вещь
+think /θiŋk/
+ думать; подумать
+third /θəːd/
+ трети҄
+this evening /ðaiziːvniŋ/
+ сегоднявечером
+this morning /ðaizmɔːniŋ/
+ сегодняутром
+those /ðouz/
+ это
+though /ðau/
+ хотя
+thrash /θræʃ/
+ бухать; бухнуть
+three /θriː/
+ три
+throat /θrout/
+ горло
+through /θruː/
+ из‐за
+thumb /θʌm/
+ 1. большо҄палец
+ 2. большо҄палец
+thus /θʌs/
+ 1. так
+ 2. так
+ticket /tikit/
+ билет
+tiger /taigər/
+ тигр
+time /taim/
+ время
+tin /tain/
+ банка
+tin can /tainkein/
+ банка
+to /tou/
+ в; к; на
+today /tədei/
+ сегодня
+together /təgeðər/
+ вместе
+tomorrow /təmɔrou/
+ завтра
+tongue /tʌŋ/
+ язык
+too /tuː/
+ также; тоже
+topical /tɔpikl/
+ актуальность
+topicality /tɔpikælitiː/
+ актуальность
+toward /təwɔːd/
+ в; к; на
+towards /təwɔːdz/
+ в; к; на
+towel /tauəl/
+ полотенце
+tower /tauər/
+ башня
+town /taun/
+ город
+translate /trænzleit/
+ переводить; перевести
+transmit /trænzmit/
+ посылать; послать
+travel /trævəl/
+ путешествовать
+tree /triː/
+ дерево
+trip /trip/
+ путешествие
+trouble /trʌbl/
+ вопрос; проблема
+trousers /trauzəz/
+ брюки
+truck /trʌk/
+ 1. грузово҄автомобиль
+ 2. грузово҄автомобиль
+trunk /trʌŋk/
+ чемодан
+tummy /tʌmiː/
+ брюхо
+tup /tjuːp/
+ баран
+twaddle /twɔdl/
+ брехать
+twenty /twentiː/
+ двадцать
+two /twou/
+ два; две
+type /taip/
+ печатать; отпечатать
+typewriter /taipraitər/
+ пишущаямашинка
+umpire /ʌmpaiər/
+ арбитр
+uncle /ʌŋkl/
+ дядя
+underneath /ʌndənəːθ/
+ 1. внизу
+ 2. внизу
+ 3. вниз
+understand /ʌndəstænd/
+ понимать; понять
+unemployed /ʌnimplɔid/
+ безработны҄
+unemployment /ʌnimplɔimənt/
+ безработица
+unfortunately /ʌnfɔːtʃuneitiːliː/
+ ксожалению
+university /juːnivəːsitiː/
+ университет
+university graduate /juːnivəːsitiːgrædʒueit/
+ академик
+unknown /ʌnnoun/
+ безвестны҄
+up‐to‐date
+ актуальность
+up /ʌp/
+ наверх
+uphill /ʌphil/
+ наверх
+upon /əpɔn/
+ 1. против
+ 2. о
+ 3. на
+upper‐arm
+ верхняячастьруки
+upper arm /ʌpərɑːm/
+ верхняячастьруки
+upstairs /ʌpstɛəz/
+ наверху
+upwards /ʌpwədz/
+ наверх
+useful /juːsfəl/
+ полезны҄
+useless /juːsləs/
+ бесполезны҄
+usually /juːʒəliː/
+ обычно
+valiant /væliənt/
+ бравы҄
+valuable /væljeəbl/
+ дорого҄
+vase /vɑːz/
+ ваза
+velvet /velvit/
+ 1. бархатны҄
+ 2. бархат
+vend /vend/
+ продавать; продать
+very /veriː/
+ очень
+very much /veriːmʌtʃ/
+ очень
+vessel /vesəl/
+ 1. бак
+ 2. ваза
+view /vjuː/
+ смотреть; посмотреть
+vigour /vigər/
+ активность
+village /vilidʒ/
+ аул
+visa /viːzə/
+ виза
+visit /vizit/
+ 1. посещать; посетить
+ 2. посещение
+visitor /vizitər/
+ посетитель
+visé
+ виза
+vocabulary /vəkæbjuləriː/
+ словарь
+vodka /vɔdkə/
+ водка
+voyage /vɔiidʒ/
+ путешествие
+wail /weil/
+ ахать
+wainscot /weinskət/
+ забирать; забрать
+wait /weit/
+ ждать; подождать
+waitress /weitris/
+ официантка
+wait for /weitfər/
+ ждать; подождать
+wake /weik/
+ 1. разбудить
+ 2. просыпаться
+wake up /weikʌp/
+ 1. разбудить
+ 2. просыпаться
+walk /wɔːk/
+ ходить; походить
+wander /wɔndər/
+ бродить
+want /wɔnt/
+ хотеть; захотеть
+warrior /wɔriər/
+ армеец; боец; борец
+wart /wɔːt/
+ бородавка
+wash /wɔʃ/
+ бучить
+waste /weist/
+ брак
+watch /wɔtʃ/
+ 1. часы
+ 2. смотреть; посмотреть
+water‐bottle
+ баклага
+water‐colour
+ акварель
+water /wɔːtər/
+ вода
+way /wei/
+ дорога
+wealth /welθ/
+ богатство
+wealthy /welθiː/
+ богаты҄
+weather /weðər/
+ погода
+week /wiːk/
+ неделя
+weep /wiːp/
+ плакать; заплакать
+well‐off
+ богаты҄
+well /wel/
+ хорошо
+wench /wentʃ/
+ девушка
+what /wɔt/
+ 1. что
+ 2. что
+what a /wɔtə/
+ как
+what for /wɔtfər/
+ почему
+wheeziness /wiːzinəs/
+ астма
+wheezy /wiːziː/
+ астматически҄
+when /n/
+ 1. когда
+ 2. когда
+ 3. когда
+ 4. когда
+where /wɛər/
+ 1. где
+ 2. где
+whereas /wɛəriːz/
+ за; пока
+which /witʃ/
+ 1. кто
+ 2. кто
+while /wail/
+ 1. за; пока
+ 2. время
+whilst /wilst/
+ за; пока
+whip /wip/
+ 1. бичевать
+ 2. бич
+white /wait/
+ 1. белы҄
+ 2. белы҄
+who /hou/
+ кто
+why /wiː/
+ 1. почему
+ 2. почему
+why? /wiː/
+ почему?
+wind /waind/
+ ветер
+windfall /windfɔːl/
+ брак
+window /windou/
+ окно
+wine /wain/
+ вино
+winter /wintər/
+ зима
+wish /wiʃ/
+ 1. желать; пожелать
+ 2. хотеть; захотеть
+witch /witʃ/
+ баба‐яка
+with /wið/
+ с
+within /wiθin/
+ в; на
+without /wiθɔːt/
+ без
+without a name /wiθɔːtəneim/
+ безымянны҄
+withstand /wiðstænd/
+ 1. артачиться
+ 2. артачиться
+with young /wiðjʌŋ/
+ беременная
+woman‐chaser
+ бабник
+woods /wudz/
+ лес
+word /wəːd/
+ слово
+work /wəːk/
+ 1. работать
+ 2. работа
+worker /wəːkər/
+ рабочи҄
+working man /wəːkiŋmein/
+ рабочи҄
+workman /wəːkmən/
+ рабочи҄
+worship /wəːʃip/
+ боготворить
+writer /raitər/
+ автор
+write down /raitdaun/
+ записывать; записать
+yacht /jɔt/
+ яхта
+year /jəːr/
+ год
+yes /jez/
+ да
+yesterday /jestədiː/
+ вчера
+yet /jet/
+ уже
+yon /jɔn/
+ там
+yonder /jɔndər/
+ там
+young /jʌŋ/
+ молодо҄
+young woman /jʌŋwumən/
+ барышня
+your /jɔːr/
+ 1. твоё; тво҄; твоя
+ 2. твоё; тво҄; твоя
+zero /zərou/
+ ноль
+pghyzqrisjaçkbcétulmde vfwnxo

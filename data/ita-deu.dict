@@ -1,0 +1,6338 @@
+
+00-database-dictfmt-1.10.11
+Italian-German FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.1.1
+Size: about 2900 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version. This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version. This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details. You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: ita-deu.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This Database was generated from Ergane.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-21 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-02-11 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-03 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-10 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+Italian-German FreeDict Dictionary ver. 0.1.1
+
+Abissinia
+ Abessinien
+Acheronte
+ 1. Acheron
+ 2. Acheron
+Achille
+ Achilles
+Adamo
+ Adam
+Adige
+ Etsch
+Afghanistan
+ Afghanistan
+Africa
+ Afrika
+Alasca
+ Alaska
+Albania
+ Albanien
+Algeria
+ Algerien
+Alpi
+ Alpen
+Alsace
+ Elsaß
+Alsazia
+ Elsaß‐Lothringen
+Amburgo
+ Hamburg
+America
+ 1. Amerika
+ 2. Vereinigten Staaten
+America
+ Südamerika
+Anatolia
+ Anatolien
+Ande
+ Anden
+Andorra
+ Andorra
+Angola
+ Angola
+Annunciazone
+ Mariä Verkündigung
+Antille
+ Antillen
+Appennini
+ Apenninen
+Aquisgrana
+ Aachen
+Arabia
+ Arabien
+Ardenne
+ Ardennen; Ardennerwald
+Argentina
+ Argentinien
+Armenia
+ Armenien
+Asia
+ Asien
+Assiria
+ Assyrien
+Atene
+ Athen
+Atlantico
+ Atlantischer Ozean
+Australia
+ Australien
+Austria
+ Österreich
+Azerbaigian
+ Aserbaidschan
+Balcani
+ Balkan
+Baltico
+ Baltisches Meer; Ostsee
+Befana
+ Dreikönigsfest
+Belgio
+ Belgien
+Berlino
+ Berlin
+Bibbia
+ Bibel
+Birmania
+ Birma
+Borgogna
+ Burgund
+Brasile
+ Brasilien
+Bretagna
+ Bretagne; die Bretagne
+Cairo
+ Kairo
+Canad
+ Kanada
+Canarie
+ Kanarische Inseln
+Capricorno
+ Steinbock
+Castiglia
+ Kastillien
+Cerbero
+ Zerberus
+Cesare
+ Cäsar
+Cile
+ Chile
+Cina
+ China
+Cipro
+ Zypern
+Corano
+ Koran
+Corea
+ Korea
+Corsica
+ Korsika
+Cristo
+ Christus
+Croazia
+ Kroatien
+Danimarca
+ Dänemark
+Danubio
+ Donau
+Dio
+ Gott
+Egitto
+ Ägypten
+Epifania
+ Dreikönigsfest
+Etiopia
+ Äthiopien
+Europa
+ 1. Europa
+ 2. Europa
+ 3. Europa
+Francia
+ Frankreich
+Galles
+ Wales
+Genova
+ Genua
+Germania
+ Deutschland
+Ginevra
+ Genf
+Gran
+ Britannien
+Grecia
+ Griechenland
+Groenlandia
+ 1. Grönland
+ 2. Grönland
+IVA
+ Mehrwehrtsteuer
+Iddio
+ Gott
+India
+ India; Indien
+Indocina
+ Hinterindien
+Inghilterra
+ 1. England
+ 2. England
+Irlanda
+ Irland
+Islam
+ Islam
+Islanda
+ Island
+Italia
+ Italien
+Iugoslavia
+ Jugoslawien
+Lapponia
+ Lappland
+Lituania
+ Litauen
+Londra
+ London
+L
+ Haag
+Mar
+ Adria; Adriatisches Meer
+Mar
+ Ägäische Meer
+Messia
+ Messias
+Milano
+ Mailand
+Natale
+ Weihnachten
+Norvegia
+ Norwegen
+Ognissanti
+ Allerheiligen
+Olanda
+ 1. Holland
+ 2. Niederlande; die Niederlande
+Olandese
+ Holländer; Niederländer
+Parigi
+ Paris
+Pasqua
+ Ostern
+Polonia
+ Polen
+Portogallo
+ Portugal
+Reno
+ Rhein
+Roma
+ Rom
+Russia
+ Rußland
+Satana
+ Satanas; Teufel
+Scozia
+ Schottland
+Sicilia
+ Sizilien
+Spagna
+ Spanien
+Stati
+ Vereinigten Staaten
+Stoccolma
+ Stockholm
+Svezia
+ Schweden
+Svizzera
+ Schweiz; die Schweiz
+Ticino
+ Tessin
+Turchia
+ Türkei; die Türkei
+Ungheria
+ Ungarn
+Unione
+ Europäische Union
+Venecia
+ Venedig
+Venere
+ 1. Venus
+ 2. Venus
+Vienna
+ Wien
+Zurigo
+ Zürich
+a
+ 1. an; in; nach; zu
+ 2. in; nach; pro; zu
+ 3. an; bei; zu
+abaco
+ Abakus
+abate
+ Abt
+abbandonare
+ 1. entäußern; fortlassen; überlassen; unterlassen
+ 2. hinterlassen
+abbastanza
+ genug; genügend; hinlänglich; ziemlich
+abbonamento
+ Abonnement
+abete
+ Fichte; Tanne
+abile
+ 1. begabt; fähig; imstande; tüchtig
+ 2. anstellig; behende; fix; geschickt; geübt; gewandt
+abilit
+ 1. Kapazität
+ 2. Geschicklichkeit; Gewandtheit
+abissino
+ 1. abessynisch
+ 2. Abessinier
+abisso
+ Abgrund; Tiefe
+abitante
+ Bewohner; Einwohner; Insasse
+abitare
+ 1. hausen; wohnen
+ 2. bewohnen
+abito
+ 1. Anzug; Gewand; Kostüm; Tracht
+ 2. Kleid; Robe
+ 3. Anzug; Gewand; Kleid
+abortire
+ abortieren
+accademia
+ Akademie
+accadere
+ geschehen; passieren; sich ereignen; stattfinden; vorkommen
+accanto
+ neben
+accappatoio
+ Bademantel
+accelerare
+ beeilen; beschleunigen; fördern; befördern
+accendere
+ 1. verbrennen
+ 2. zünden; entzünden
+ 3. entzünden
+accendino
+ Funke
+accento
+ Akzent; Betonung; Ton
+accettare
+ annehmen; empfangen; genehmigen
+acciaio
+ Stahl
+accidente
+ Unfall
+acciuga
+ Anchovis
+acclamare
+ akklamieren; zujauchzen
+accoglienza
+ 1. Annahme; Aufnahme; Übernahme; Zusage
+ 2. Gruß
+accogliere
+ annehmen; empfangen; genehmigen
+accoglimento
+ Annahme; Aufnahme; Übernahme; Zusage
+accomodamento
+ 1. Einrichtung; Zusammenstellung
+ 2. Einverständnis; Übereinkunft
+accompagnare
+ begleiten
+accordo
+ 1. Abkommen; Einklang; Übereinkommen; Übereinkunft; Übereinstimmung
+ 2. Akkord
+ 3. Eintracht; Harmonie; Wohlklang
+ 4. Einverständnis; Übereinkunft
+ 5. Einigkeit; Eintracht
+accorgersi
+ gewahr werden; inne werden
+accumulatore
+ Akkumulator
+accusare
+ anklagen; beschuldigen
+aceto
+ Essig
+acido
+ herb; sauer
+acino
+ Traube; Weintraube
+acqua
+ Wasser
+acquaforte
+ Scheidewasser
+aculeo
+ Stachel
+acuto
+ akut; heftig; hitzig
+adatto
+ 1. begabt; fähig; imstande; tüchtig
+ 2. tauglich; tüchtig
+addio
+ 1. adieu; auf Wiedersehen; lebe wohl
+ 2. Abschied; Valet
+addormentarsi
+ einschlafen
+adorare
+ anbeten; verehren; vergöttern
+ad
+ laut
+ad
+ jäh
+aerare
+ lüften
+aereo
+ Äroplan; Flugmaschine; Flugzeug
+aeroplano
+ Äroplan; Flugmaschine; Flugzeug
+aeroporto
+ Flugplatz
+affare
+ Angelegenheit; Ding; Sache; Werk
+affascinante
+ allerliebst; anmutig; hold; lieblich; reizend
+affaticare
+ strapazieren
+affermare
+ bejahen; ja sagen
+afferrare
+ greifen; angreifen; ergreifen
+affettazione
+ Gezier
+affigere
+ anlegen; beifügen
+affilato
+ scharf
+affisso
+ Affiche; Anschlag; Anschlagzettel
+affittare
+ vermieten
+affitto
+ /m/-Miete;Vermietung/f/
+afflitto
+ 1. düster
+ 2. traurig
+affrancare
+ frankieren
+affrancatura
+ Frankatur; Porto
+affrettarsi
+ eilen; sputen
+afgano
+ 1. afghanisch
+ 2. Afghane
+africano
+ 1. afrikanisch
+ 2. Afrikaner
+agente
+ Agent; Geschäftsbesorger
+agenzia
+ Agentur
+aggettivo
+ 1. adjektivisch
+ 2. Adjektiv; Eigenschaftswort
+aggiungere
+ addieren; beifügen; zufügen
+aggredire
+ ein Anschlag ausführen; ein Attentat ausführen
+agile
+ behende; gewandt
+agire
+ agieren; handeln; verfahren; vorgehen; wirken
+agitato
+ heftig; unruhig
+agnello
+ Lamm
+ago
+ Nadel
+agonia
+ Agonie; Todeskampf
+agosto
+ /m/-August/m/
+agro
+ herb; sauer
+aia
+ Dreschtenne; Tenne
+aiutante
+ Adjutant; Hilfsoffizier
+aiutare
+ 1. assistieren; beistehen; helfen
+ 2. beistehen; beispringen; helfen
+aiuto
+ Beihilfe; Beistand; Handreichung
+ala
+ Fittich; Flügel
+alba
+ Tagesanbruch
+albanese
+ 1. albanesisch; albanisch
+ 2. Albaner; Albanier
+albergo
+ Hotel
+albero
+ 1. Baum
+ 2. Mast
+ 3. Pappel
+ 4. Welle
+albicocca
+ Aprikose; Marille
+album
+ Album
+alcool
+ Alkohol; Spritus
+alcool
+ Brennspiritus
+alcova
+ Alkoven
+alfabet
+ Alphabet
+alfabeto
+ 1. /m/-Alphabet/n/
+ 2.
+ 3. Alfabetoitaliano/ItalienischesAlphabet
+ 4. -----------------------------------------------
+ 5. italianointernationaleaviazione
+ 6. italienischinternationalLuftfahrt
+ 7. -----------------------------------------------
+ 8. A; aAnconaAmsterdamAlfa
+ 9. B; bBolognaBaltimoreBravo
+ 10. C; cCataniaCasablancaCharlie
+ 11. D; dDomodossolaDanemarkDelta
+ 12. E; eEmpoliEdisonEcco
+ 13. F; fFirenzeFloridaFoxtrot
+ 14. G; gGenovaGallipoliGolf
+ 15. H; hHotelHavannaHotel
+ 16. I; iImolaItaliaIndia
+ 17. J; jilunga; JerusalemJuliet
+ 18. Jersey
+ 19. K; kkappaKilogrammeKilo
+ 20. L; lLivornoLiverpoolLima
+ 21. M; mMilanoMadagaskaMike
+ 22. N; nNapoliNewYorkNovember
+ 23. O; oOtrantoOsloOscar
+ 24. P; pPadovaParisPapa
+ 25. Q; qQuartoQuebecQuebec
+ 26. R; rRomaRomaRomeo
+ 27. S; sSavondaSantiagoSierra
+ 28. T; tTurinoTripoliTango
+ 29. U; uUdineUpsalaUniform
+ 30. V; vVeneziaValenciaVictor
+ 31. W; wvudoppia; WashingtonWhiskey
+ 32. Washington
+ 33. X; xXilofonoXanthippeX-ray
+ 34. Y; yYachtYokohamaYankee
+ 35. Z; zZaraZürichZulu
+ 36. -----------------------------------------------
+algerino
+ 1. algerisch
+ 2. Algerier
+alice
+ Anchovis
+alimentare
+ beköstigen; hegen; nähren; ernähren
+alimento
+ Ätzung; Ernährung; Futter; Nahrung; Nahrungsmittel
+alito
+ Atem; Hauch
+allarme
+ Alarm
+allattare
+ säugen
+alla
+ endlich
+allegria
+ Jubel; Wonne
+allegro
+ fröhlich; heiter; lustig; vergnügt
+allestire
+ bereiten; vorbereiten
+allievo
+ Schüler
+allodola
+ Lerche
+alloggio
+ Wohnhaus; Wohnung
+allora
+ damals; dann; alsdann; danach; hierauf
+alloro
+ Lorbeer; Lorbeerbaum
+allo
+ zugleich
+alludere
+ anspielen; anspielen auf
+allume
+ Alaun
+all
+ auswärtig
+all
+ anfänglich
+almeno
+ wenigstens
+alsaziano
+ 1. elsässisch
+ 2. Elsässer
+altare
+ Altar
+alta
+ Flut
+alternativa
+ Alternative
+altitudine
+ 1. Höhe
+ 2. Höhe
+alto
+ erhaben; hoch
+altro
+ anderer; anders; sonst
+altrove
+ anderswo
+altura
+ Höhe
+alveare
+ Bienenkorb; Bienenstock
+alzare
+ heben; aufheben; erheben; zücken
+alzarsi
+ 1. aufstehen; sich stellen
+ 2. aufstehen; sich stellen; sträuben
+amabile
+ allerliebst; anmutig; hold; lieblich; reizend
+amare
+ gern haben; lieben; mögen
+amaro
+ bitter
+amazzone
+ Amazone
+ambasciata
+ 1. Gesandtschaft
+ 2. Gesandtschaft
+ambasciatore
+ Botschafter; Gesandter
+ambiente
+ /m/-Umgebung/f/; Milieu/n/
+ambizione
+ Ehrgeiz
+ambra
+ Bernstein
+americano
+ 1. amerikanisch
+ 2. Amerikaner
+ 3. amerikanisch
+ 4. Amerikaner
+amianto
+ Asbest
+amica
+ Freundin
+amichevole
+ freundlich
+amicizia
+ /f/-Freundschaft/f/
+amico
+ Freund
+ammalarsi
+ erkranken; krank werden
+ammazzare
+ ermorden; töten
+amministrare
+ administrieren; verwalten
+amministratore
+ Direktor; Leiter; Vorsteher
+amministrazione
+ Verwaltung
+ammirabile
+ bewundernswert; wunderbar
+ammiraglio
+ Admiral
+ammirare
+ bewundern
+ammogliarsi
+ sich verehelichen; sich verheiraten
+ammonimento
+ Ermahnung; Zuspruch
+ammortizzare
+ amortisieren; löschen
+ammuffito
+ moderig
+amnistia
+ Amnestie; Begnadigung; Straferlaß
+amo
+ Angelhaken
+ampolla
+ Birne
+amputare
+ abnehmen; abschneiden; amputieren
+analizzare
+ analysieren; auflösen; zergliedern
+ananas
+ Ananas
+ananasso
+ Ananas
+anatema
+ Bann; Fluch; Bannfluch
+anca
+ Hanke; Hüfte
+anche
+ auch; ebenfalls; gleichfalls
+ancora
+ 1. noch
+ 2. Anker
+ 3. abermalig; abermals; von neuem; wieder
+ 4. abermals; von neuem; wieder; wiederholt; zurück
+andare
+ fahren; gehen; treten
+andarsene
+ abreisen; fortgehen
+andatura
+ Eile; Geschwindigkeit; Hast
+anello
+ Ring
+anemia
+ Blutarmut
+anemone
+ Anemone
+angelo
+ Engel
+angolo
+ Ecke
+angoscia
+ 1. Angst
+ 2. Angst
+angoscioso
+ 1. bang; feige
+ 2. bang; zaghaft
+anguilla
+ Aal
+animale
+ /m/-Tier/n/
+anitra
+ Ente
+annegare
+ ertränken
+annegarsi
+ ersaufen; ertrinken
+anno
+ /m/-Jahr/n/
+annoiare
+ verdrießen
+anno
+ Schaltjahr
+annuale
+ /adv/jährlich
+annualmente
+ alljährlich
+annullare
+ annullieren; für null und nichtig erklären; kassieren
+annunciare
+ 1. ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+ 2. anschließen; mitteilen; teilhaftig machen; verbinden
+annuncio
+ Annonce; Anzeige; Inserat
+annunziare
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+annunzio
+ Auskunft; Bekanntmachung
+antartico
+ antarktisch; südpolar
+antenato
+ Ahn; Vorfahr; Urahn
+antenna
+ Fühler; Fühlhorn
+anticipare
+ antizipieren; vorausnehmen
+antico
+ 1. altertümlich; antik
+ 2. alt
+antisettico
+ antiseptisch; fäulniswidrig
+antologia
+ Anthologie
+antracite
+ Anthrazit
+apatia
+ Apathie; Teilnahmslosigkeit
+ape
+ /f/-Biene/f/
+aperto
+ offen
+apicoltura
+ Bienenzucht
+apicultura
+ Bienenzucht
+apoplessia
+ Schlag; Schlagfluß
+apostolo
+ Apostel
+apparecchio
+ Apparat; Vorrichtung
+apparenza
+ 1. Anblick; Aussehen
+ 2. Anschein; Ansehen; Augenschein; Aussehen; Schein
+apparire
+ erscheinen
+appartamento
+ 1. /m/-Appartment/n/; Etagenwohnung/f/; Gemach/n/
+ 2. Wohnhaus; Wohnung
+appartenere
+ gehören; angehören; zugehören
+appello
+ Ruf
+appena
+ kaum
+appetito
+ Appetit
+appiccicare
+ kleben; leimen
+applaudire
+ applaudieren; Beifall spenden
+applausi
+ Applaus; Beifall
+applicare
+ anwenden; verwenden
+applicazione
+ Fleiß
+appoggiare
+ stemmen; unterhalten; unterstützen
+apposta
+ absichtlich
+apprestare
+ zurichten
+apprezzare
+ 1. abschätzen; bewerten; schätzen; abschätzen; einschätzen
+ 2. achten; mögen; schätzen; wertschätzen; würdigen
+approfittare
+ profitieren
+approvare
+ approbieren; billigen; genehmigen; gutheißen
+approvazione
+ Approbation; Beifall
+appuntamento
+ Rendezvous
+appuntato
+ spitz
+aprile
+ /m/-April/m/
+aprire
+ aufmachen; öffnen
+aquila
+ Adler
+arabo
+ 1. arabisch
+ 2. Araber
+aragosta
+ Hummer
+arancia
+ Apfelsine; Orange; Pomeranze
+arancio
+ 1. Orangenbaum
+ 2. Orangenbaum
+aratro
+ Pflug
+arbitrario
+ beliebig; eigenmächtig; willkürlich
+arbusto
+ Gebüsch; Staude; Strauch
+architetto
+ Architekt
+arciduca
+ Großherzog
+arcivescovo
+ Erzbischof
+arco
+ Bogen; Bügel
+arcobaleno
+ Regenbogen
+ardere
+ brennen
+ardesia
+ Schiefer; Schiefergestein
+ardore
+ 1. Glut; Feuer; Inbrunst
+ 2. Eifer; Inbrunst
+arena
+ Arena; Kampfplatz
+argentino
+ Argentinier
+argento
+ Silber
+argilla
+ Lehm; Ton; Tonerde
+argomento
+ Argument; Beweis
+aria
+ 1. Luft
+ 2. Arie
+ 3. Anblick; Aussehen
+ 4. Klima
+ 5. Aussehen; Äußere; Gesicht; Miene
+ 6. Anschein; Ansehen; Augenschein; Aussehen; Schein
+arieggiare
+ lüften
+aringa
+ Hering
+armadio
+ Schrank
+armare
+ waffnen; bewaffnen; rüsten
+armeno
+ 1. armenisch
+ 2. Armenier
+arnese
+ Mittel; Werkzeug
+arnia
+ Bienenkorb; Bienenstock
+aroma
+ Aroma; Duft
+arrendersi
+ sich ergeben; kapitulieren
+arrestare
+ arretieren; festnehmen; verhaften
+arrestato
+ Arrestant
+arresto
+ Arrest; Haft
+arrischiare
+ riskieren; wagen
+arrivare
+ 1. erlangen; erzielen; reichen; erreichen
+ 2. geschehen; passieren; sich ereignen; stattfinden; vorkommen
+arrivo
+ Ankunft; Eintreffen
+arrugginito
+ rostig
+arruolare
+ werben; anwerben
+arsenale
+ Arsenal; Zeughaus
+arteria
+ Arterie; Pulsader; Schlagader
+articolo
+ Abhandlung; Artikel
+artiglieria
+ Artillerie
+artiglio
+ Klaue; Kralle
+ascensore
+ Aufzug; Fahrstuhl; Lift
+ascesso
+ Abszeß; Eiterbeule; Geschwulst
+ascia
+ Axt; Beil; Hacke
+asciugamano
+ Handtuch
+ascoltare
+ anhören; horchen; aushorchen; zuhören
+asfalto
+ Asphalt; Erdpech
+asiatico
+ 1. asiatisch
+ 2. Asiat
+asilo
+ Asyl; Zufluchtsstätte
+asino
+ /m/-Esel/m/
+asma
+ Asthma
+asparago
+ Spargel
+aspettare
+ 1. gewärtigen; harren; warten; erwarten
+ 2. achtgeben; aufpassen; beachten; zusehen
+aspetto
+ Anblick; Aussehen
+assai
+ sehr
+assale
+ Achse
+assalire
+ ein Anschlag ausführen; ein Attentat ausführen
+assalto
+ Anfall; Angriff
+asse
+ 1. Achse
+ 2. Bordbrett; Brett; Regal; Wandbrett
+assediare
+ belagern
+assedio
+ Belagerung
+assegno
+ Bankanweisung; Scheck
+assegno
+ Bankanweisung; Scheck
+assente
+ abwesend
+assenza
+ Abwesenheit
+asserire
+ behaupten
+assicurare
+ behaupten; bestätigen; vergewissern
+assicurazione
+ Assekuranz; Versicherung
+assioma
+ Axiom; Grundsatz
+assiro
+ 1. assyrisch
+ 2. Assyrer
+assistente
+ Assistent
+assistere
+ assistieren; beistehen; helfen
+asso
+ As; Dauß
+assurdo
+ abgeschmackt; absurd; ungereimt; widersinnig
+astratto
+ abstrakt; begrifflich; unwirklich
+ateniese
+ 1. athenisch
+ 2. Athener
+atlantico
+ Atlantik‐
+atmosfera
+ Atmosphäre
+atomo
+ Atom
+attaccare
+ anfallen; angreifen; ausfallen; befallen; überfallen
+attacco
+ Anfall; Angriff
+attendere
+ achtgeben; aufpassen; beachten; zusehen
+attentato
+ Anschlag; Attentat
+attento
+ aufmerksam
+attenzione
+ Achtung; Aufmerksamkeit
+attirare
+ anziehen
+attivo
+ 1. aktiv; tätig
+ 2. arbeitsam; geschäftig
+attore
+ Schauspieler
+attraversare
+ entern; übergeben; übertreten
+attraverso
+ 1. hindurch; quer mitten
+ 2. jenseits; quer; über; hinüber
+attuale
+ 1. aktuell; gegenwärtig
+ 2. gegenwärtig
+augurio
+ 1. Anzeichen; Vorzeichen
+ 2. Vorbedeutung; Wahrsagung
+australiano
+ 1. australisch
+ 2. Australier
+austriaco
+ 1. österreichisch
+ 2. Österreicher
+autista
+ Chauffeur; Fahrer
+auto
+ Auto
+autobus
+ Autobus; Bus
+autocarro
+ 1. Lastauto; Lastkraftwagen; LKW
+ 2. Lastauto; Lastkraftwagen; LKW
+autocrate
+ Autokrat; Selbstherrscher
+automa
+ Automat
+automobile
+ Auto
+autore
+ 1. Autor; Urheber; Verfasser
+ 2. Schriftsteller; Verfasser
+autorimessa
+ Garage
+autorit
+ Autorität; Gewalt
+autunale
+ Herbst-; herbstlich
+autunno
+ /m/-Herbst/m/
+avambraccio
+ Unterarm
+avanti
+ hervor; vorwärts
+avaro
+ geizig
+avena
+ Hafer
+avere
+ 1. besitzen; haben; innehaben
+ 2. Kredit
+aver
+ benötigen; brauchen; nötig haben
+aver
+ fürchten; befürchten; sich ängsten; sich ängstigen; zagen
+aviazione
+ Aviatik
+avido
+ begierig; habgierig; lüstern
+avvelenare
+ vergiften
+avvenire
+ 1. Futur; Futurum; Zukunft
+ 2. Zukunft
+avventura
+ Abenteuer
+avverbio
+ Adverb; Umstandswort
+avversione
+ 1. Abneigung; Antipathie; Wiederwillen
+ 2. Ekel; Übelkeit
+avvertire
+ warnen
+avviso
+ 1. Annonce; Anzeige; Inserat
+ 2. Warnung
+ 3. Avis; Ankündigung; Benachrichtigung
+ 4. Rat; Ratschlag
+avvolgere
+ packen; einpacken
+azione
+ 1. Handlung; Tat
+ 2. Aktie; Anteilschein
+azionista
+ Aktieninhaber; Aktionär
+azzurro
+ 1. blau
+ 2. Azur; Lasur
+a
+ billig
+a
+ heim; daheim; zu Hause
+a
+ rechts
+a
+ lange
+a
+ auswendig; aus dem Kopfe
+a
+ links
+a
+ Glückwünsch
+babordo
+ Backbord
+bacca
+ Beere
+bacca
+ Blaubeere; Heidelbeere
+baciare
+ küssen
+bacillo
+ Bazillus
+bacino
+ Becken; Schale
+bacio
+ Kuß
+badare
+ beaufsichtigen; warten
+badia
+ Abtei
+baffi
+ 1. Schnurrbart
+ 2. Backenbart
+bagagliaio
+ Gepäckwagen
+bagaglio
+ Bagage; Gepäck; Verpackung
+bagassa
+ Bagasse
+bagnante
+ Badegast
+bagnare
+ baden
+bagnato
+ naß
+bagni
+ Badeort
+bagno
+ Bad
+baia
+ Bai; Bucht
+baionetta
+ Bajonett
+balcone
+ Altan; Balkon
+balena
+ 1. /f/-Wal/m/
+ 2. Walfisch
+baleno
+ Blitz
+ballare
+ tanzen
+ballata
+ Ballade
+ballo
+ 1. Ball
+ 2. Tanz
+baluardo
+ Bastei; Bastion; Bollwerk
+bambino
+ 1. Kind
+ 2. Kind
+bambola
+ Puppe
+bamb
+ Bambus
+banale
+ abgedroschen; banal; fade
+banana
+ Banane
+banca
+ Bank
+banchiere
+ Bankier
+banconota
+ Bon; Schein
+banda
+ Allianz; Band; Bund; Bündnis; Liga; Verband; Verbindung
+bandiera
+ Banner; Fahne; Flagge
+bandire
+ bannen; ins Exil schicken; verbannen
+bandito
+ Bandit; Räuber
+bar
+ Büfett; Schankraum
+baracca
+ Baracke; Lagerhütte
+barba
+ Bart
+barbabietola
+ Beete; Mangold; Runkelrübe
+barbaforte
+ Krehn; Meerrettich
+barbaro
+ Barbar
+barbiere
+ Barbier
+barca
+ Boot
+barile
+ Faß; Tonne
+barometro
+ Barometer
+barone
+ Baron; Freiherr
+barra
+ Barre; Stange
+barriera
+ Barriere; Schranke
+bassa
+ Ebbe
+basso
+ 1. niedrig
+ 2. flach
+bastardo
+ Bastard; Mischling
+bastare
+ ausreichen; genügen; hinreichen; zureichen
+bastione
+ Bastei; Bastion; Bollwerk
+battaglia
+ Kampf; Schlacht
+battaglione
+ Bataillon
+battere
+ hauen; schlagen
+battere
+ applaudieren; Beifall spenden
+batteria
+ Batterie
+batterio
+ Bakterie
+battesimo
+ Taufe
+battezzare
+ taufen
+baule
+ Koffer
+bazar
+ Basar; Markt; Warenhaus
+becco
+ Schnabel
+belga
+ Belgier
+bellino
+ hübsch
+bello
+ hübsch; schön
+benche
+ obgleich; obschon; wenn auch; zwar
+beneficio
+ 1. Ertrag; Gewinn; Interesse; Nutzen; Überschuß; Verdienst; Vorteil
+ 2. Interesse; Nutzen; Vorteil
+benevole
+ freundlich
+benzina
+ Benzin
+bere
+ trinken
+beretta
+ Barett
+bestemmiare
+ lästern
+bestia
+ /f/-Bestie/f/; Tier/m/
+betulla
+ Birke
+bevanda
+ Getränk; Trank
+bianco
+ weiß
+bibita
+ Getränk; Trank
+biblioteca
+ Bibliothek
+bibliotecario
+ Bibliothekar
+bicchiere
+ 1. Glas
+ 2. Becher; Pokal
+bicicletta
+ 1. Fahrrad; Rad; Rover
+ 2. Rad; Fahrrad
+bigio
+ grau
+biglietto
+ Billett; Fahrkarte; Karte
+bilancia
+ Waage
+bilancio
+ Bilanz; Schlußrechnung
+bile
+ Galle
+biliardo
+ Billard
+biondo
+ blond
+birra
+ Bier
+birraio
+ Brauer
+birreria
+ Brauerei
+bisbigliare
+ flüstern
+biscotto
+ Biskuit; Bisquit; Zwieback
+bisnonno
+ Urahn; Urgroßvater
+bisogno
+ Bedarf; Bedürfnis
+bistecca
+ Beefsteak
+bloccare
+ blockieren
+blocco
+ Block; Klotz
+blu
+ blau
+blusa
+ Bluse
+bocca
+ Mund
+boccale
+ Becher; Pokal
+boia
+ Henker
+bollire
+ brausen; kochen; sieden; wallen
+bollo
+ Briefmarke
+bomba
+ Bombe
+bomba
+ Brandbombe
+bosco
+ Forst; Wald
+bottiglia
+ Flasche
+bracchio
+ Arm
+braccialetto
+ Armband
+bramoso
+ begierig; habgierig; lüstern
+branchia
+ Kieme
+brasiliano
+ Brasilianer
+breve
+ bündig; gedrängt; konzis; kurz
+brigante
+ Bandit; Räuber
+brigata
+ Abteilung; Detachement
+brillante
+ blank
+brillare
+ blinken; glänzen; scheinen; schimmern; strahlen
+brillo
+ berauscht; trunken; betrunken
+brocca
+ Kanne; Krug
+bronzo
+ Bronze; Erz
+bruciare
+ verbrennen
+bruco
+ Raupe
+bruno
+ braun
+brusco
+ brummig; unwirsch
+buca
+ Briefkasten
+buco
+ Loch
+bue
+ Ochs
+bufalo
+ Büffel
+buio
+ dunkel; düster; trübe
+buono
+ gut; gütig
+burro
+ Butter
+burrone
+ Abgrund; Tiefe
+bussola
+ Kompaß
+busta
+ 1. Briefumschlag; Kuvert; Umschlag
+ 2. Kuvert; Umschlag
+busto
+ Büste
+cabina
+ Kabine; Kajüte; Koje
+cacao
+ Kakao
+cacciare
+ jagen
+cacto
+ Kaktus
+cadetto
+ Kadett
+caff
+ Kaffee
+cagna
+ /f/-Hündin
+calce
+ Kalk
+calcestruzzo
+ Beton
+calcolare
+ erachten; kalkulieren; rechnen; berechnen
+calderotto
+ Kessel
+caldo
+ warm
+calice
+ Becher; Pokal
+callo
+ Hühnerauge; Leichdorn; Schwiele
+calmare
+ 1. besänftigen; dämpfen; züchtigen
+ 2. beruhigen
+calmo
+ gelassen; gemütlich; ruhig; still
+calunniare
+ afterreden; anschwärzen; fälschlich beschuldigen; verleumden
+calvo
+ kahl
+calzolaio
+ Schuhmacher; Schuster
+calzoni
+ Beinkleid; Hose
+cambiale
+ Wechsel
+cambiamento
+ 1. Veränderung
+ 2. Abwechslung; Änderung; Tausch; Veränderung; Wechsel
+cambiare
+ ändern; tauschen; umändern; umtauschen; wechseln; umwechseln
+camera
+ Gemach; Stube; Zimmer
+camera
+ Schlafzimmer
+cameriera
+ /f/-Zimmermädchen/n/; Zofe/f/
+cameriere
+ Kellner
+camion
+ 1. Lastauto; Lastkraftwagen; LKW
+ 2. Lastauto; Lastkraftwagen; LKW
+camminare
+ 1. fahren; gehen; treten
+ 2. gehen; laufen; marschieren; treten
+ 3. fahren
+cammino
+ Bahn; Chaussee; Strecke; Weg
+campagna
+ Gefilde; Land
+campana
+ Glocke; Klingel
+campione
+ Muster; Probe; Probestück; Spezimen
+campo
+ 1. Acker
+ 2. Feld
+ 3. Acker; Feld; Flur; Land
+ 4. Acker; Feld; Flur; Land
+camposanto
+ Friedhof; Gottesacker; Kirchhof
+candela
+ 1. Kerze; Licht
+ 2. Kerze
+cane
+ /m/-Hund/m/
+canna
+ Angelrute
+cantante
+ Berufssänger; Kantor; Sänger
+cantare
+ singen
+canzone
+ Gesang; Lied
+capace
+ 1. begabt; fähig; imstande; tüchtig
+ 2. tauglich; tüchtig
+capacit
+ Kapazität
+capanna
+ Hütte
+capelli
+ Haar; Haare
+capire
+ begreifen; erfassen; verstehen
+capitano
+ 1. Hauptmann; Kapitän
+ 2. Kapitän
+capo
+ 1. Befehlshaber; Chef; Haupt; Häupling; Herr; Oberhaupt; Vorsteher
+ 2. Chef; Haupt
+capostazione
+ Bahnhofsvorsteher
+capotreno
+ Aufseher; Führer; Kondukteur; Schaffner
+capoverso
+ Absatz; Alinea
+capo
+ Neujahr
+cappotta
+ Haube; Kapotte
+capra
+ 1. Geiß; Ziege; Zicke
+ 2. Ziege
+capriolo
+ /m/-Reh/n/
+capro
+ Ziegenbock
+carattere
+ Natur
+carbone
+ Kohle
+carciofo
+ Artischocke
+caricare
+ 1. anklagen; beschuldigen
+ 2. aufziehen; spannen; anspannen; ausspannen; straffen
+ 3. beauftragen; belasten; laden; aufladen; beladen
+carico
+ Belastung; Bürde; Fuhre; Ladung; Last
+carino
+ 1. freundlich
+ 2. hübsch; schön
+carnagione
+ Gesichtsfarbe; Teint
+carne
+ 1. Fleisch
+ 2. Fleisch
+carne
+ Hammelfleisch
+carne
+ Kalbfleisch
+caro
+ 1. hold; lieb
+ 2. teuer; wert
+ 3. teuer
+carota
+ Karotte; Möhre; Mohrrübe
+carriera
+ /f/-Karriere/f/
+carta
+ 1. Karte; Zettel
+ 2. Papier
+carta
+ Löschpapier
+carta
+ Löschpapier
+carta
+ Toilettenpapier
+cartellone
+ Affiche; Anschlag; Anschlagzettel
+cartolina
+ Postkarte
+casa
+ 1. Haus
+ 2. Haus; Heim
+cascata
+ 1. Wasserfall
+ 2. Kaskade; Wasserfall
+casella
+ Postfach
+caserma
+ 1. Kaserne
+ 2. Kaserne
+caso
+ Hasard; Zufall
+cassa
+ Behälter; Besteck; Krug
+cassa
+ Sarg
+casseruola
+ Bratpfanne; Kasserole; Kochpfanne; Pfanne
+cassetto
+ Lade; Schublade; Tischlade
+castagna
+ Kastanie
+castagno
+ 1. Kastanienbaum
+ 2. Kastanienbaum
+castello
+ Burg; Kastell; Schloß
+castigare
+ ahnden; strafen; bestrafen; züchtigen
+catalogo
+ Katalog; Verzeichnis
+catedrale
+ Dom; Kathedrale; Münster
+catena
+ Kette
+catrame
+ Teer
+cattivo
+ 1. böse; schlecht
+ 2. ausgelassen; mutwillig; schalkhaft; schelmisch; übermütig
+causa
+ Anlaß; Grund; Ursache; Veranlassung
+causare
+ antun; bewirken; veranlassen; verursachen; zufügen
+cava
+ /f/-Grube/f/;Steinbruch/m/
+cavalletta
+ Grashüpfer; Heuschrecke
+cavallo
+ Gaul; Pferd
+cavatappi
+ Korkenzieher
+cavia
+ /f/-Meerschweinchen;Versuchskaninchen/n/
+caviglia
+ Knöchel
+cavo
+ 1. Kabel
+ 2. hohl
+ 3. konkav
+cavolfiore
+ Blumenkohl; Karfiol
+cavolo
+ Kohl
+cecita
+ Blindheit
+cedere
+ abtreten; nachgeben; weichen
+cedola
+ Coupon; Zinsabschnitt
+celebre
+ berühmt
+cella
+ /f/-Zelle/f/
+cena
+ Abendessen; Abendmahl; Souper
+cenere
+ Asche
+censore
+ Zensor
+censura
+ Zensur
+centesimo
+ Cent
+centimetro
+ Centimeter; Zentimeter
+cento
+ hundert
+centrale
+ zentral
+centro
+ Mittelpunkt; Zentrum
+cercare
+ ausschauen nach; suchen; aufsuchen
+cerchio
+ Zirkel
+certamente
+ allerdings; bestimmt; freilich; gewiß; immerhin; wohl; zwar
+certificato
+ Attest; Testimonium; Zeugnis; Zertifikat
+certo
+ bestimmt; gewiß; sicher; zuversichtlich
+cervello
+ Gehirn; Hirn
+cervo
+ /m/-Hirsch/m/
+cessare
+ aufhören
+cessione
+ Zession
+cesso
+ Abort; Abtritt
+cestino
+ Papierkorb
+cesto
+ Korb
+che
+ 1. daß
+ 2. als
+chiacchierare
+ plaudern; schwatzen
+chiamare
+ 1. heißen; nennen; benennen; ernennen
+ 2. rufen; anrufen
+chiamarsi
+ heißen
+chiamata
+ 1. Anruf; Zuruf
+ 2. Ruf
+chiaro
+ anschaulig; augenscheinlich; ersichtlich; evident; offenbar
+chiave
+ 1. Schlüssel
+ 2. Schraubenschlüssel
+chicco
+ Traube; Weintraube
+chiedere
+ bitten; ersuchen
+chiesa
+ Kirche
+chiglia
+ Kiel
+chimica
+ Chemie
+chiocciola
+ 1. Schnecke
+ 2. Klammeraffe
+chiocciolina
+ Klammeraffe
+chiodo
+ Nagel; Stift
+chirurgo
+ Chirurg; Wundarzt
+chiudere
+ schließen; verschließen; zumachen
+chiuso
+ geschlossen; zu
+cibo
+ Ätzung; Ernährung; Futter; Nahrung; Nahrungsmittel
+ciclomotore
+ Moped
+cieco
+ 1. blind
+ 2. Blinder
+cielo
+ Himmel
+ciliegia
+ Kirsche
+ciliegio
+ Kirschbaum
+cilindro
+ Walze; Zylinder
+cima
+ First; Gipfel; Wipfel
+cimice
+ 1. /f/-Wanze/f/
+ 2. /f/-Reiszwecke/f/
+cimitero
+ Friedhof; Gottesacker; Kirchhof
+cinema
+ Kino
+cinese
+ Chinese
+cinghiale
+ /m/-Wildschwein/n/; Eber/m/
+cinquanta
+ fünfzig
+cinque
+ fünf
+cintura
+ Gurt; Gürtel
+cioccolata
+ Schokolade
+cio
+ das heißt; das ist
+cipolla
+ Zwiebel
+cipollina
+ Schnittlauch
+cipresso
+ Zypresse
+circa
+ annähernd; etwa; ungefähr
+circo
+ Zirkus
+circolo
+ 1. Zirkel
+ 2. Kreis
+circondare
+ umringen; umzingeln
+circondario
+ 1. Amtsbezirk; Bezirk; Distrikt; Gau
+ 2. Quartier; Stadtviertel; Viertel
+citare
+ anführen; erwähnen; nennen; zitieren
+citazione
+ Zitat
+cittadella
+ Zitadelle
+cittadinanza
+ Staatsangehörigkeit
+citt
+ Ort; Stadt
+ciuco
+ Esel
+civile
+ bürgerlich; zivil
+cliente
+ Klient; Kunde
+clima
+ Klima
+cloro
+ Chlor
+coccodrillo
+ Krokodil
+coda
+ Bürzel; Fahne; Lunte; Rute; Schleppe; Schwanz; Schweif; Sterz; Wedel
+cognac
+ Kognak
+cognato
+ Schwager
+cognome
+ Familienname
+coincidenza
+ Anschluß
+colazione
+ 1. Frühstück
+ 2. Diner; Mittagessen
+colle
+ Halde; Hügel
+collega
+ Kollegium
+collegio
+ Amtsbruder; Amtsgenosse; Genosse; Kollege
+collina
+ Halde; Hügel
+collo
+ Hals
+colore
+ Farbe
+colpevole
+ schuldig
+colpire
+ 1. klopfen; schlagen
+ 2. treffen
+colpo
+ Hieb; Schlag; Streich
+coltello
+ Messer
+comandante
+ Befehlshaber
+comando
+ Befehl
+come
+ als ob; gleichsam
+comico
+ drollig; komisch; spaßhaft
+cominciare
+ 1. anbrechen; anfangen; beginnen
+ 2. anfangen; beginnen
+comitato
+ Ausschuß; Komitee
+commedia
+ Komödie; Lustspiel
+commerciante
+ 1. Händler; Kaufmann
+ 2. Händler; Kaufmann
+commercio
+ Handel
+commestibile
+ eßbar; genießbar
+commettere
+ anfertigen; herstellen; leiten; machen; tun; zurücklegen
+commissario
+ 1. Kommissar
+ 2. Kommissar
+ 3. Zahlmeister
+comodo
+ bequem; gemächlich; wohnlich
+compagnia
+ 1. Gesellschaft; Kompagnie
+ 2. Rotte
+ 3. Association; Gesellschaft; Sozietät
+compare
+ Gevatter; Pate
+comperare
+ 1. kaufen; sichkaufen
+ 2. kaufen; sichkaufen
+compiere
+ ausführen; bestellen; erfüllen; leisten
+compito
+ Arbeit; Aufgabe; Pensum
+compleanno
+ 1. Jahrestag
+ 2. Geburtstag
+completamente
+ 1. völlig
+ 2. völlig
+completare
+ vervollständigen
+completo
+ ganz; total
+comportarsi
+ sich aufführen; sich benehmen; sich betragen; sich verhalten
+comprare
+ 1. kaufen; sichkaufen
+ 2. kaufen; sichkaufen
+compratore
+ Klient; Kunde
+comprendere
+ begreifen; erfassen; verstehen
+comprensibile
+ begreiflich; faßbar; verständlich
+compromesso
+ Kompromiß
+comune
+ gemein; allgemein; gemeinsam; gemeinschaftlich
+comunicare
+ anschließen; mitteilen; teilhaftig machen; verbinden
+comunicato
+ Auskunft; Bekanntmachung
+comunista
+ Kommunist
+concernere
+ 1. betreffs
+ 2. angehen; anlangen; betreffen
+concerto
+ Musikaufführung; Konzert
+conchiglia
+ Muschel
+concimare
+ düngen
+conciso
+ bündig; gedrängt; konzis; kurz
+concludere
+ 1. ableiten; deduzieren; folgern
+ 2. folgern; schließen
+ 3. einen Vertrag schließen
+concordare
+ beipflichten; beistimmen; einwilligen; zustimmen; zuwilligen
+concorso
+ Konkurrenz‐Prüfung; Preisausschreiben; Wettbewerb
+condannare
+ verdammen; verurteilen
+condotta
+ Aufführung; Benehmen; Betragen; Gebahren; Verhalten
+condotto
+ Rohr; Röhre; Schlauch
+condurre
+ führen; leiten; lenken
+condursi
+ sich aufführen; sich benehmen; sich betragen; sich verhalten
+conferenza
+ Beratung; Konferenz
+confermare
+ bekräftigen; bestätigen; konfirmieren
+confessare
+ 1. anerkennen; gestehen; eingestehen
+ 2. beichten
+confessione
+ 1. Bekenntnis; Eingeständnis; Geständnis
+ 2. Beichte
+confetto
+ Bonbon
+confine
+ Grenze; Schranke
+conflitto
+ Konflikt; Streit; Widerstreit
+confrontare
+ vergleichen
+confuso
+ bestürtzt
+congedo
+ Abschied; Valet
+congelarsi
+ erfrieren
+congiungere
+ fügen; gesellen; vereinigen
+congiunto
+ verwandt; anverwandt
+congresso
+ Kongreß
+coniglio
+ Kaninchen
+coniugi
+ Ehepaar
+conoscenza
+ 1. Bekannter
+ 2. Kenntnis; Wissen; Wissenschaft
+conoscere
+ kennen
+conosciuto
+ bekannt
+consapevolezza
+ Bewußtsein
+conservare
+ aufbewahren; behalten; bergen; erhalten; konservieren
+conservatorio
+ Konservatorium
+considerare
+ berücksichtigen; betrachten; erwägen; sich überlegen
+considerato
+ da; denn; weil
+considerazione
+ Achtung; Verehrung
+consigliare
+ raten; beraten; ratgeben
+consiglio
+ Rat; Ratschlag
+consolare
+ trösten; Trost spenden
+consolato
+ Konsulat
+console
+ Konsul
+consorti
+ Ehepaar
+constatare
+ als Tatsache feststellen; konstatieren
+consueto
+ geläufig; üblich
+contabile
+ Buchhalter
+contadino
+ Bauer
+contante
+ bar; kontant
+contare
+ zählen; aufzählen
+contatto
+ Berührung; Kontakt
+contenere
+ 1. enthalten
+ 2. einschließen; enthalten
+contento
+ zufrieden
+contenuto
+ 1. Inhalt
+ 2. Inhalt
+continuare
+ fortfahren; fortführen
+continuo
+ fest
+conto
+ 1. Kalkul
+ 2. Konto; Rechnung
+contraddire
+ widersprechen
+contrasto
+ Gegensatz; Kontrast
+contratto
+ Akkord; Traktat; Vertrag
+contravvenzione
+ 1. Geldstrafe
+ 2. Protokoll
+contributo
+ Beisteuer; Kontribution
+contribuzione
+ Abgabe; Steuer; Steuerabgabe
+contro
+ an; gegen; gegenüber; wider
+controllare
+ kontrollieren; nachsehen; überwachen
+convegno
+ Versammlung; Zusammenkunft
+conveniente
+ angemessen; füglich; geeignet; zeitgemäß
+convenire
+ 1. gehören; schicken; sich gehören; ziemen
+ 2. sich verständigen; übereinkommen; verabreden; vereinbaren
+conversazione
+ Gespräch; Konversation; Unterhaltung
+convertire
+ bekehren; umstimmen
+convertito
+ Proselyt
+convincere
+ überreden; überzeugen
+coperta
+ 1. Deck; Schiffsdeck; Verdeck
+ 2. Bedeckung; Decke; Deckel; Umschag; Verdeck
+ 3. /f/-Bettdecke/f/; Decke/f/
+coprire
+ belegen; decken; bedecken; einhüllen; verhüllen; zudecken
+coraggio
+ Mut
+cornamusa
+ Dudelsack
+corpo
+ Körper; Leib
+correggere
+ berichtigen; korrigieren; verbessern
+corrente
+ Strömung
+correre
+ laufen
+corretto
+ recht; richtig
+corridoio
+ Gang; Hausflur; Flur; Korridor
+corsia
+ Bahn; Chaussee; Strecke; Weg
+corteccia
+ 1. Baumrinde; Rinde
+ 2. Bast
+cortese
+ 1. freundlich
+ 2. artig; galant; höflich
+cortile
+ Hof; Hofraum
+cortina
+ Gardine; Vorhang
+corto
+ 1. kurz
+ 2. kurz
+corvo
+ Rabe
+cosa
+ 1. Ding
+ 2. Ding; Gegenstand; Objekt
+coscia
+ Schenkel; Oberschenkel
+cosciente
+ wissentlich
+coscienza
+ Bewußtsein
+costa
+ Küste
+costante
+ beständig; fest; konstant; ständig; stetig; unablässig
+costare
+ kosten
+costoletta
+ Kotelett
+costoso
+ 1. teuer; wert
+ 2. teuer
+costringere
+ zwingen
+costruire
+ bauen; aufbauen; erbauen; konstruieren
+costruzione
+ Erbauung; Bau
+costume
+ 1. Anzug; Gewand; Kostüm; Tracht
+ 2. Angewohnheit; Brauch; Gebrauch; Gepflogenheit; Gewohnheit; Usus
+costume
+ Badeanzug
+covare
+ brüten
+covata
+ Brut
+cranio
+ Schädel
+cravatta
+ Halsbinde; Krawatte; Schlips
+credere
+ glauben
+credito
+ Kredit
+creditore
+ Gläubiger; Kreditor
+crema
+ Rahm; Sahne
+crepa
+ Spalte
+crepuscolo
+ Zwielicht
+crescere
+ gedeihen; wachsen; anwachsen
+crescimento
+ Anwuchs; Vermehrung; Wuchs; Zunahme
+creta
+ Kreide
+cricco
+ Heber
+criceto
+ /m/-Hamster/m/
+crisi
+ Krisis; Krise
+criticare
+ begutachten; kritisieren
+croce
+ Kreuz
+crudele
+ grausam
+crudo
+ arg; rauh; roh
+cubo
+ Würfel
+cucchiaio
+ Löffel
+cucina
+ Küche
+cugina
+ Base; Kusine
+cugino
+ Cousin; Vetter
+cuoca
+ Köchin
+cuocere
+ backen
+cuoio
+ Leder
+cuore
+ Gemüt; Herz
+cura
+ 1. /f/-Sorge;Pflege;Sorgfalt/f/
+ 2. /f/-Besorgnis/f/; Sorge/f/
+curare
+ pflegen; warten
+curato
+ Geistliche; Pastor; Pfarrer; Priester
+curioso
+ 1. neugierig
+ 2. neugierig
+curva
+ Kurve
+curvarsi
+ 1. hängen; sich bücken
+ 2. biegen
+curvo
+ gebogen; krumm
+cuscino
+ Kissen
+dabbasso
+ unten; unterhalb
+dado
+ Würfel
+danese
+ Däne
+danneggiare
+ beschädigen; Schaden zufügen; verderben; verletzen
+danza
+ Tanz
+dappertutto
+ allenthalben; allerorten; überall
+dapprima
+ 1. anfänglich
+ 2. erst; erstens; zuerst
+dapprincipio
+ anfänglich
+dare
+ erteilen; geben; angeben; herreichen
+data
+ Datum
+dattero
+ Dattel
+davanti
+ früher; zuvor
+davvero
+ fürwahr; wahrhaftig; wahrlich; wirklich
+dazio
+ Akzise; Verbrauchssteuer
+da
+ lange
+debilitare
+ erschlaffen
+debito
+ Ausstand; Schuld
+debole
+ flau; gelinde; schwach
+decente
+ gehörig
+decidere
+ beschließen; entscheiden; sich entschließen
+decimetro
+ Dezimeter
+decisione
+ Austrag; Beschluß; Entschluß
+decisivo
+ 1. entschieden
+ 2. entscheidend
+decorare
+ aufputzen; ausputzen; schmücken; verzieren
+decrepito
+ abgelebt; baufällig; gebrechlich; hinfällig
+decreto
+ Dekret
+dedurre
+ 1. ableiten; deduzieren; folgern
+ 2. folgern; schließen
+definire
+ bestimmen; definieren
+definitivo
+ definitiv; endgültig
+delegato
+ 1. Abgeordneter; Delegierter
+ 2. Abgeordneter
+delfino
+ 1. Delphin; Tümmler
+ 2. /m/Delphin; /nR/Delfin/m/
+delicato
+ delikat; fein; gelinde; zart
+delitto
+ Frevel; Verbrechen; Vergehen
+demonio
+ Teufel
+denaro
+ Geld
+denso
+ dicht; gedrängt; geschlossen
+dentatura
+ Gebiß
+denti
+ Gebiß
+dentista
+ Zahnarzt
+dentro
+ 1. in; nach; pro; zu
+ 2. binnen; inne; innerhalb; inwendig
+denuncia
+ Anzeige
+denunciare
+ angeben; anzeigen; denunzieren; hinterbringen
+depresso
+ 1. flau; träge
+ 2. verzagt
+deputato
+ 1. Abgeordneter; Delegierter
+ 2. Abgeordneter
+derivare
+ ableiten; herleiten
+derubare
+ berauben
+descrivere
+ beschreiben
+deserto
+ Einöde; Wildnis; Wüste
+desiderabile
+ erwünscht
+desiderare
+ wünschen
+desiderio
+ Begehr; Lust; Wunsch
+despota
+ Gewaltherrscher; Despot
+dessert
+ Dessert; Nachtisch
+destinare
+ ausersehen; bestimmen; festsetzen
+destinario
+ Empfänger
+destra
+ Steuerbord
+destrezza
+ Geschicklichkeit; Gewandtheit
+destro
+ 1. rechter
+ 2. anstellig; behende; fix; geschickt; geübt; gewandt
+ 3. aufrecht; direkt; gerad; gradlinig; unmittelbar
+detenuto
+ Arrestant
+detestare
+ verabscheuen
+di
+ 1. ab; seit; von
+ 2. als
+diabolico
+ teuflisch
+diadema
+ Diadem
+dialetto
+ Dialekt; Mundart
+diamante
+ Diamant
+diario
+ Tagebuch
+diavolo
+ Teufel
+dicembre
+ /m/-Dezember/m/
+dichiarazione
+ Angabe; Anzeige
+diciannove
+ neunzehn
+diciasette
+ siebzehn
+diciotto
+ achtzehn
+dieci
+ zehn
+dieta
+ Diät
+dietro
+ 1. hinter
+ 2. hinter; nach
+ 3. dann; darauf; hernach; hierauf; hinten; hinterher; nachher; später
+difendere
+ behaupten; beschützen; verteidigen
+difesa
+ Abwehr; Wehr
+difetto
+ Verderbnis
+differente
+ verschieden; verschiedenartig
+difficile
+ schwer
+dilettante
+ Amateur; Liebhaber
+diligenza
+ Fleiß
+dimensione
+ Ausdehnung; Dimension
+dimenticare
+ vergessen
+dimorare
+ hausen; wohnen
+dinamite
+ Dynamit
+dio
+ Gott
+dipendente
+ abhängig
+dipendere
+ abhängen
+dipingere
+ malen
+diploma
+ Diplom; Prüfungszeugnis; Urkunde
+diplomatico
+ Diplomat
+dire
+ erwähnen; sagen
+direttamente
+ gleich; sogleich
+direttore
+ Direktor; Leiter; Vorsteher
+direzione
+ Verwaltung
+dirigere
+ administrieren; verwalten
+diritto
+ Befugnis; Recht
+disastro
+ Ungemach; Unglück
+discendente
+ Abkomme; Abkömmling; Epigone
+discendenza
+ Abkunft; Abstammung; Herkunft; Ursprung
+discendere
+ entspringen; entstehen; herkommen; stammen; abstammen
+discreto
+ diskret; verschwiegen
+discutere
+ 1. diskutieren; erörtern; verhandeln
+ 2. bereden; besprechen; sprechen über
+disegnare
+ zeichnen; abzeichnen
+disegno
+ Zeichnung
+disfatta
+ Niederlage
+disgrazia
+ Unfall
+disonesto
+ unredlich
+disporre
+ disponieren; verfügen; walten
+disposto
+ geneigt zu
+dissoluto
+ unbändig; zügellos
+distante
+ entlegen; fern; entfernt; weit
+distanza
+ Abstand; Entfernung; Weite
+distillare
+ destillieren
+distinguere
+ auszeichnen; hervorheben; unterscheiden
+distinto
+ anschaulich; bestimmt; deutlich; klar
+distretto
+ 1. Amtsbezirk; Bezirk; Distrikt; Gau
+ 2. Quartier; Stadtviertel; Viertel
+distribuire
+ austeilen; verallgemeinern; verteilen
+distruggere
+ umreißen; vernichten; zerstören
+disturbare
+ beengen; behindern; belästigen; genieren; lästig fallen; stören
+dito
+ Finger
+dito
+ Zehe
+ditta
+ /f/-Firma/f/
+diversamente
+ andernfalls; anders; sonst
+divertire
+ amüsieren; belustigen; ergötzen; unterhalten
+dividere
+ dividieren; teilen; einteilen; gliedern; verteilen; zerlegen
+divisione
+ Sektion
+divorzio
+ Scheidung
+dizionario
+ Wörterbuch
+di
+ früh; zeitig
+di
+ hinten
+di
+ freilich; tatsächlich
+di
+ ihre
+di
+ daher
+di
+ insgeheim; verstohlen
+di
+ 1. abermalig; abermals; von neuem; wieder
+ 2. abermals; von neuem; wieder; wiederholt; zurück
+di
+ allerlei
+di
+ dann und wann; von Zeit zu Zeit; zeitweilig
+di
+ abends
+di
+ oben
+doccia
+ Brause; Dusche; Sturzbad
+documento
+ Dokument; Urkunde
+dodici
+ zwölf
+dogana
+ Zollamt
+dolce
+ süß
+dolore
+ Schmerz; Weh
+domanda
+ 1. /f/-Gesuch/m/
+ 2. /f/-Frage/f/
+domandare
+ fragen; anfragen
+domani
+ morgen
+domenica
+ /f/-Sonntag/m/
+domestica
+ /f/-Dienstmädchen/n/
+domestico
+ Hausdiener
+dominare
+ herrschen; beherrschen; regieren
+donna
+ Frau; Weib
+dono
+ Angebinde; Gabe; Geschenk; Spende; Vermächtnis
+dopo
+ 1. hinter
+ 2. hinter; nach
+ 3. dann; darauf; hernach; hierauf; hinten; hinterher; nachher; später
+ 4. danach
+dopodomani
+ übermorgen
+doppio
+ doppelt; zweifach
+dormire
+ schlafen
+dorso
+ Rücken
+dose
+ Dosis
+dotato
+ begabt
+dote
+ Dotation; Mitgift
+dottore
+ 1. Doktor
+ 2. Arzt; Doktor
+dovere
+ 1. Gebühr
+ 2. schulden; schuldig sein
+drago
+ Drache
+dragone
+ Drache
+dubbioso
+ fraglich
+dubitare
+ zweifeln; bezweifeln
+due
+ zwei
+duellare
+ sich duellieren
+duetto
+ Duett
+duna
+ Düne
+duomo
+ Dom; Kathedrale; Münster
+dura
+ hart
+durante
+ während
+durare
+ dauern; währen
+durata
+ Dauer; Weile
+durevole
+ fest
+duro
+ hart
+d
+ 1. andernteils
+ 2. außerdem; übrigens; zudem
+ 3. außerdem
+ecc
+ u.s.w.
+eccetto
+ ausgenommen
+ecclesiastico
+ Geistliche
+economia
+ /f/-Wirtschaft/f/
+edificio
+ Bau; Bauwerk; Gebäude
+edizione
+ Abendzeitung
+efficace
+ drastisch; zweckdienlich
+eguaglianza
+ Gleichheit
+eguale
+ egal; gleich
+elefante
+ /m/-Elefant/m/
+elegante
+ elegant; geschmackvoll
+eleggere
+ auslesen; wählen; auswählen; erwählen
+elemento
+ Element
+elemosina
+ Almosen
+elettricit
+ Elektrizität
+elica
+ Schneckenlinie; Schraube
+energico
+ forsch; tüchtig
+entrare
+ eintreten
+entrata
+ Eingang
+entusiasmo
+ Begeisterung; Enthusiasmus
+epopea
+ Epik; Epopöe; Heldengedicht
+equatore
+ Äquator
+equilibrio
+ Gleichgewicht
+equipaggio
+ Mannschaft
+erba
+ Gras
+ereditare
+ erben; beerben
+erpice
+ Egge
+errare
+ sich irren
+errore
+ Fehler; Irrtum; Versehen
+esame
+ Examen
+esaminare
+ examinieren; inspizieren; nachsehen; prüfen; untersuchen
+esatto
+ 1. akkurat; genau
+ 2. exakt; genau
+esca
+ Köder
+eseguire
+ ausführen; bestellen; erfüllen; leisten
+esempio
+ Beispiel; Exempel
+esercito
+ 1. Armee; Heer
+ 2. rmee; Heer
+esercizio
+ Exerzitium; Übung
+esiliare
+ bannen; ins Exil schicken; verbannen
+esilio
+ Acht; Exil; Verbannung
+esistenza
+ Bestehen; Dasein; Existenz
+esistere
+ bestehen; da sein; existieren; vorhanden sein
+esitare
+ 1. schwanken; zaudern; zögern
+ 2. taumeln; wackeln; zagen; zaudern; zögern
+esito
+ Erfolg; Ergebnis; Resultat
+esortazione
+ Ermahnung; Zuspruch
+esportazione
+ Ausfuhr; Export
+esposizione
+ Ausstellung
+esserer
+ beipflichten; beistimmen; einwilligen; zustimmen; zuwilligen
+essere
+ sitzen
+essere
+ dienen; frommen; nützen
+est
+ Orient; Osten
+estate
+ /f/-Sommer/m/
+esteriore
+ Äußere; Habitus
+estero
+ Ausland
+estivo
+ Sommer-; sommerlich
+estorcere
+ erzwingen
+estremamente
+ meist; am meisten
+estremo
+ äußerster; extrem
+eterno
+ ewig
+etichetta
+ Etikette
+et
+ Alter
+europeo
+ Europäer
+evidente
+ anschaulig; augenscheinlich; ersichtlich; evident; offenbar
+evidentemente
+ offenbar
+evitare
+ ausweichen; entgegen; entweichen; meiden; vermeiden
+fabbisogno
+ Bedarf; Bedürfnis
+fabbrica
+ 1. Fabrik
+ 2. Fabrik
+fabbricare
+ anfertigen; fabrizieren; herstellen; verfertigen
+faccenda
+ Angelegenheit; Ding; Sache; Werk
+facchino
+ Dienstmann; Gepäckträger; Träger
+faccia
+ Angesicht; Antlitz; Gesicht
+facile
+ geläufig; leicht; mühelos; nicht schwierig
+faggio
+ Buche
+fagiano
+ Fasan
+fagiolo
+ Faseole
+fagiuolo
+ Faseole
+falce
+ Hippe; Sense
+fallimento
+ Bankerott; Fallissement; Fallit
+falso
+ falsch
+famiglia
+ Familie
+famoso
+ berühmt
+fanatico
+ fanatisch; leidenschaftlich
+fango
+ Dreck; Kot; Schlamm; Schmutz
+fantasia
+ Einbildungskraft; Phantasie
+farafalla
+ /f/-Schmetterling/m/
+fare
+ anfertigen; herstellen; leiten; machen; tun; zurücklegen
+fare
+ boxen
+fare
+ streiken
+farfalla
+ Falter; Schmetterling
+farmacia
+ Apotheke
+farmacista
+ Apotheker
+faro
+ Leuchtturm
+far
+ barbieren; rasieren
+far
+ Schmerz verursachen; schmerzen; wehe tun
+fascicolo
+ Heft
+fascino
+ Anmut
+fata
+ Fee
+fatto
+ Tatsache
+fattoria
+ Bauernhof; Besitzung; Gut; Landgut
+fattura
+ Faktura; Rechnung; Warenrechnung
+fava
+ Bohne
+favola
+ Märchen
+favorire
+ begünstigen
+febbraio
+ /m/-Februar/m/
+febbre
+ Fieber
+fecondo
+ 1. fruchtbar
+ 2. ergiebig
+fedele
+ 1. gläubig; treu
+ 2. bieder; loyal
+fegato
+ Leber
+felice
+ glücklig
+felicitare
+ beglückwünschen; gratulieren
+fendere
+ spalten
+ferire
+ verletzen; verwunden
+ferita
+ Verwundung; Verletzung; Wunde
+fermare
+ anhalten; bremsen; sperren
+fermarsi
+ halten; anhalten; Halt machen; stocken; stoppen
+fermata
+ 1. Haltestelle
+ 2. Stillstand
+fermo
+ fest; fix
+ferro
+ Eisen
+ferrovia
+ Bahn; Eisenbahn
+ferro
+ Bügeleisen
+fessura
+ Spalte
+festa
+ Feier; Fest
+fiaba
+ Märchen
+fiaccola
+ Fackel
+fiamma
+ Flamme
+fiammifero
+ Streichholz; Zündholz
+fianciullo
+ 1. Kind
+ 2. Kind
+fianco
+ Flanke; Seite
+fico
+ 1. Feigenbaum
+ 2. Feige
+ 3. Feigenbaum
+fidanzata
+ Braut
+fiducia
+ 1. Zuversicht
+ 2. Vertrauen; Zuversicht
+fieno
+ Heu
+fiero
+ hochfahrend; hochmütig; stolz
+figlia
+ Tochter
+figlio
+ Sohn
+figliola
+ Tochter
+figliolo
+ Sohn
+figliuola
+ Tochter
+figura
+ Abbild; Figur; Gestalt
+figurarsi
+ erdichten; sich einbilden; sich vorstellen
+film
+ Film
+filo
+ 1. Draht
+ 2. Faden; Garn; Senkel; Zwirn
+filosofo
+ Denker; Philosoph; Vernunftforscher
+finalmente
+ endlich
+fine
+ Ende
+finestra
+ Fenster
+finire
+ beschließen; enden; beenden; endigen; beendigen; erledigen
+finito
+ fertig
+fiore
+ Blume
+fiore
+ Mehl
+fiorire
+ blühen
+firma
+ Unterschrift
+firmare
+ subskribieren
+fisarmonica
+ Ziehharmonika
+fischiare
+ pfeifen
+fissare
+ 1. befestigen; festsetzen; fixieren
+ 2. starren; anstarren
+fiume
+ Fluß
+flanella
+ Flanell
+flauto
+ Flöte
+fluire
+ fließen; rinnen; strömen
+foca
+ /f/-Seehund/m/
+foco
+ Brennpunkt; Fokus
+foglia
+ Blatt
+foglio
+ Blatt
+folla
+ Haufen; Menge; Stapel
+follia
+ Torheit
+fondamento
+ Fundament; Grundlage
+fondere
+ fundieren; gründen; begründen
+fondo
+ 1. Boden; Grund
+ 2. tief
+fontana
+ Brunnen; Fontaine; Fontäne; Springbrunnen
+fonte
+ Born; Quelle
+forbici
+ Schere
+forca
+ Galgen
+forchetta
+ Gabel
+forestiere
+ Ausländer
+formaggio
+ Käse
+formato
+ Format
+formica
+ /f/-Ameise/f/
+formula
+ Formel
+fornaio
+ Bäcker
+forse
+ eventuell; möglicherweise; vielleicht; wohl
+forte
+ 1. kräftig; stark
+ 2. laut
+forza
+ Gewalt; Kraft
+forzare
+ zwingen
+forza
+ Anziehungskraft
+fragola
+ Erdbeere
+francese
+ 1. französisch
+ 2. Franzose
+francobollo
+ Briefmarke
+frangia
+ Frange; Franse
+frase
+ Phrase; Redensart; Satz
+frassino
+ Esche
+fratello
+ Bruder
+fraternit
+ Brüderlichkeit
+fra
+ 1. bald; alsbald; baldig
+ 2. alsbald; flugs; gleich; sofort; sogleich; umgehend
+freccia
+ Weisheit; Klugheit
+fregata
+ Fregatte
+freno
+ Bremse
+frequentemente
+ häufig; oft
+fresco
+ 1. frisch; neu; unberührt
+ 2. kühl
+friggere
+ backen; braten
+frizione
+ Kupplung
+fronte
+ Stirn
+frontiera
+ Grenze; Schranke
+frumento
+ Weizen
+frutta
+ Frucht
+fucilare
+ erschießen; füsilieren
+fucile
+ Gewehr
+fuga
+ Flucht
+fuggire
+ ausreißen; entfliehen; entlaufen; fortlaufen; sich verlaufen
+fumaiuolo
+ Schornstein
+fumare
+ rauchen
+fumatori
+ Raucherabteil
+fumo
+ Rauch
+fungo
+ Erdschwamm; Pilz
+funzionario
+ Beamter
+funzione
+ 1. Funktion; Tätigkeit; Wirksamkeit
+ 2. Amt; Anstellung; Dienst
+fuoco
+ Feuer
+fuori
+ äußerlich; draußen
+furibondo
+ rasend; stürmisch; toll; wütend
+furioso
+ rasend; stürmisch; toll; wütend
+furto
+ Diebstahl
+gabbiano
+ Möwe
+gabinetto
+ Abort; Abtritt
+galera
+ Galeere
+galleria
+ Galerie; Stollen; Wandelgang
+gallina
+ Henne
+gallo
+ Hahn
+gamba
+ 1. Bein
+ 2. Bein; Pfote; Unterschenkel
+gambero
+ Krebs
+garanzia
+ Garantie; Gewähr
+garofano
+ Nelke
+gas
+ Gas
+gatto
+ /m/-/gen/Katze/f/;Kater/m/
+gazza
+ Elster
+gelarsi
+ erfrieren
+gelo
+ 1. Frost
+ 2. Frost
+gelosia
+ Eifersucht
+gelso
+ 1. Maulbeerbaum
+ 2. Maulbeerbaum
+gemere
+ ächzen; jammern; seufzen; stöhnen; wehklagen; wimmern
+generale
+ allgemein
+generalmente
+ generell; überhaupt
+generazione
+ 1. Generation; Geschlecht
+ 2. Generation; Nachkommenschaft; Nachwuchs
+genere
+ Abart; Art; Gattung; Schlag; Sorte
+genero
+ Eidam; Schwiegersohn
+gengiva
+ Zahnfleisch
+genitori
+ Eltern
+gennaio
+ /m/-Januar/m/
+gente
+ Leute
+gentiluomo
+ /m/-Adlige(r)/f(m)/;Gentleman/m/
+geografia
+ Erdbeschreibung; Erdkunde; Geographie
+gergo
+ Gaunersprache; Slang
+gestione
+ Verwaltung
+gesto
+ Gebärde; Geste
+gettare
+ schleudern; werfen
+ghiaccio
+ Eis
+ghianda
+ Eichel
+giallo
+ gelb
+giapponese
+ Japaner
+giardiniere
+ Gärtner
+giardino
+ Anlage; Garten
+ginocchio
+ Knie
+giocare
+ 1. spielen
+ 2. spielen
+gioia
+ Freude
+gioielliere
+ 1. Juwelier
+ 2. Juwelier
+giornale
+ Journal; Zeitung
+giornale
+ Abendzeitung
+giornaliero
+ täglich
+giornalista
+ Journalist
+giorno
+ /m/-Tag/m/
+giostra
+ /f/-Karussell/n/
+giovamento
+ /m/-Nutzen; Vorteil/m/
+giovane
+ 1. -/adj/jung
+ 2. -/adv/jugendlich
+ 3. /mf/-Jungendliche(r)/mf/; jungerMann/m/; (junges)MÃ¤dchen/n/; jungeFrau/f/
+giovare
+ dienen; frommen; nützen
+gioved
+ /m/-Donnerstag/m/
+giraffa
+ Giraffe
+giudice
+ Richter
+giudizio
+ Gericht; Gutachten; Spruch; Urteil
+giugno
+ /m/-Juni/m/
+giuocattolo
+ Spielzeug
+giuoco
+ Aufführung; Spiel
+giuramento
+ Eid
+giurare
+ beeidigen; schwören; beschwören
+giustamente
+ bündig
+giusto
+ bündig
+gi
+ unten; unterhalb
+gi
+ bereits; schon
+gli
+ das; der; die
+globo
+ Globus; Kugel
+goccia
+ Tropfen
+gola
+ Gurgel; Kehle
+gomito
+ Ellbogen
+gomma
+ 1. Gummi; Kautschuck
+ 2. Pneumatik; Reifen
+ 3. Reifen
+ 4. Radiergummi
+gorga
+ Gurgel; Kehle
+governare
+ herrschen; beherrschen; regieren
+gradevole
+ 1. freundlich
+ 2. behaglich; herrlich; genehm; angenehm
+grado
+ Grad; Staffel; Stufe
+granaio
+ Baracke; Bude; Hütte; Scheune
+granata
+ Besen
+grande
+ groß
+grandezza
+ Größe
+grandine
+ Hagel
+granturco
+ Mais
+grasso
+ 1. feist; fett; fettig; geil
+ 2. Fett
+grato
+ dankbar; erkenntlich
+grave
+ arg; bedeutend; bedeutsam; beträchtlich; erheblich; ernst; wichtig
+grazie
+ Dank
+grazioso
+ 1. freundlich
+ 2. hübsch
+ 3. allerliebst; anmutig; hold; lieblich; reizend
+greco
+ 1. griechisch
+ 2. Grieche
+gridare
+ schreien
+grigio
+ grau
+grosso
+ dick
+gruppo
+ 1. Ar
+ 2. Gruppe
+guadagnare
+ erringen; gewinnen
+guadagno
+ 1. Errungenschaft
+ 2. Ertrag; Gewinn; Interesse; Nutzen; Überschuß; Verdienst; Vorteil
+ 3. Interesse; Nutzen; Vorteil
+guancia
+ Backe; Wange
+guanciale
+ Kissen; Kopfkissen
+guardaroba
+ 1. Garderobe; Kleidung; Zeug
+ 2. Garderobe
+guardia
+ 1. Polizist; Schutzmann
+ 2. Häscher; Polizist; Schutzmann
+guarire
+ behandeln; heilen; kurieren
+guarnigione
+ Besatzung; Garnison
+guerra
+ Krieg
+gufo
+ Eule
+guidare
+ führen; leiten; lenken
+gustare
+ schmecken
+gusto
+ /m/-Geschmack/m/
+i
+ das; der; die
+idea
+ Gedanke; Idee; Vorstellung
+idolo
+ Abgott; Götze; Idol
+idoneo
+ 1. begabt; fähig; imstande; tüchtig
+ 2. tauglich; tüchtig
+ieri
+ gestern
+ignorante
+ albern; dumm
+il
+ das; der; die
+illuminare
+ illuminieren
+illustrazione
+ Ansicht; Bild
+il
+ Allerseelen
+imboccatura
+ Mündung
+imitare
+ imitieren; nachahmen; nachbilden
+immagine
+ Ansicht; Bild
+immediatamente
+ alsbald; flugs; gleich; sofort; sogleich; umgehend
+imparare
+ lernen
+impaurire
+ zurückschrecken
+impedire
+ behelligen; hindern; behindern; inhibieren; stören; verhindern
+impiego
+ /m/-Beschäftigung; Stelle/f/;Gebrauch/m/; Verwendung; Anwendung/f/
+impero
+ Kaiserreich; Kaisertum
+impertinente
+ frecht; impertinent; unverschämt
+impiegare
+ anwenden; benutzen; brauchen; gebrauchen; verwenden; verwerten
+impiegato
+ Beamter
+impiego
+ 1. Amt; Anstellung; Dienst
+ 2. Benutzung; Gebrauch
+implorare
+ abbetteln
+importante
+ arg; bedeutend; bedeutsam; beträchtlich; erheblich; ernst; wichtig
+importanza
+ Tragweite
+importo
+ Betrag; Summe
+imposta
+ Abgabe; Steuer; Steuerabgabe
+impresa
+ Unternehmung
+improvvisamente
+ jäh
+incanto
+ Anmut
+inchiostro
+ Tinte
+incidente
+ Unfall
+incitare
+ anreizen; aufhetzen; reizen; aufreizen
+incontrare
+ antreffen; begegnen
+incontro
+ Begegnung
+indiano
+ Indianer
+indiano
+ Indianer
+indicare
+ andeuten; weisen; anweisen; zeigen
+indietro
+ zurück
+indirizzare
+ adressieren
+indirizzo
+ Adresse
+indivia
+ Endivie
+indole
+ Natur
+indulgenza
+ Ablaß
+inezia
+ Bagatelle; Kleinigkeit
+infame
+ ehrlos
+infatti
+ fürwahr; wahrhaftig; wahrlich; wirklich
+infedele
+ treulos
+infelice
+ unglücklig
+infermiera
+ Krankenschwester
+infettare
+ anstecken; infizieren
+infezione
+ Ansteckung; Infektion
+informare
+ Auskunft geben; benachrichten; informieren; mitteilen
+informarsi
+ sich erkundigen
+ingaggiare
+ werben; anwerben
+ingannare
+ äffen; betrügen; hintergehen; täuschen
+ingegnere
+ Ingenieur
+ingegno
+ Talent
+inglese
+ 1. englisch
+ 2. Engländer
+ingrato
+ undankbar
+iniziatore
+ Bahnbrecher; Pionier
+inizio
+ Anfang; Beginn
+innamorarsi
+ sich verlieben
+inoltre
+ 1. andernteils
+ 2. außerdem; übrigens; zudem
+ 3. zudem
+ 4. außerdem
+ 5. fort; weiter
+inquieto
+ bang
+insalata
+ Salat
+insegnare
+ 1. Auskunft geben; benachrichten; informieren; mitteilen
+ 2. lehren; belehren; instruieren; unterrichten; unterweisen
+ 3. angeben; ankundigen; melden; mitteilen; verkünden
+inseguimento
+ 1. Verfolgung
+ 2. Verfolgung
+inserzione
+ Annonce; Anzeige; Inserat
+insetto
+ /m/-Insekt/n/
+insieme
+ aneinander; beisammen; gesamt; insgesamt; zugleich; zusammen
+insistere
+ andringen; beharren auf; drängen; trotzen
+insolente
+ frecht; impertinent; unverschämt
+instruire
+ lehren; belehren; instruieren; unterrichten; unterweisen
+insudiciare
+ beschmutzen; einschmutzen; sudeln
+insultare
+ 1. beleidigen; schelten; schimpfen; beschimpfen
+ 2. beleidigen; kränken; verletzen
+intendere
+ beabsichtigen; die Absicht haben; vorhaben
+intenzione
+ Absicht; Plan
+interessare
+ interessieren
+interesse
+ 1. Interesse; Zins
+ 2. Zins
+interno
+ innerlich; intern; inwendig
+intero
+ ganz; total
+intestino
+ Darm
+intorno
+ um; um ... herum
+intravedere
+ erblicken; gewahr werden
+invano
+ umsonst; vergebens; vergeblich
+inventare
+ entdecken; erfinden
+invernale
+ /adj/Winter-; winterlich
+inverno
+ /m/-Winter/m/
+investire
+ einkleiden; investieren
+invidiare
+ beneiden
+invitare
+ einladen
+in
+ heim; daheim; zu Hause
+in
+ hinten
+in
+ andernfalls; anders; sonst
+in
+ nirgends
+in
+ auf keiner Weise; gar nicht; in keiner Weise; keineswegs
+in
+ teils
+in
+ erst; erstens; zuerst
+in
+ irgendwo
+in
+ danach
+in
+ beizeiten; zeitig; zur rechten Zeit
+ippopotamo
+ Flußpferd
+irato
+ arg; böse
+irlandese
+ Ire
+irritare
+ abstumpfen; angreifen
+isola
+ Eiland; Insel
+isolato
+ vereinsamt
+italiano
+ Italiener
+la
+ das; der; die
+labbro
+ Lippe
+labirinto
+ Labyrinth
+laborioso
+ arbeitsam; geschäftig
+ladro
+ Dieb
+laggi
+ da; dort
+lagnarsi
+ klagen; sich beklagen; verklagen
+lago
+ See
+lagrima
+ Träne
+lampadina
+ Birne
+lampone
+ Himbeere
+lapis
+ Bleistift; Crayon
+lardo
+ Speck
+larghezza
+ 1. Breite
+ 2. Breite
+largo
+ breit; weit
+lasciare
+ hinterlassen
+lato
+ Flanke; Seite
+latta
+ Blech
+latte
+ Milch
+lattuga
+ Kopfsalat; Lattich; Salat
+lavanderia
+ Beuchhaus; Waschanstalt
+lavare
+ 1. spülen; waschen
+ 2. abbeuchen; waschen
+lavorare
+ arbeiten
+lavoro
+ Arbeit
+le
+ das; der; die
+legame
+ Band
+legare
+ binden; verbinden
+leggere
+ lesen
+legno
+ Holz
+legume
+ Gemüse
+lei
+ die; ihr; ihrer; sie
+lenticchia
+ Linse
+lenza
+ Angelleine
+lenzuolo
+ /m/-Bettuch/n/; /nR/Betttuch/n/; Bettlaken; Laken
+leone
+ /m/-Löwe/m/
+lepre
+ Hase
+lesto
+ anstellig; behende; fix; geschickt; geübt; gewandt
+lettera
+ Brief
+letto
+ Bett; Bettstelle
+lezione
+ Lehraufgabe; Lektion; Unterrichtsstunde
+li
+ da; dort
+liberare
+ befreien; entledigen; erledigen; freilassen; frei machen
+libert
+ /f/-Freiheit/f/
+librario
+ Buchhändler
+libreria
+ 1. Buchhandlung
+ 2. Bücherschrank
+libro
+ Buch
+licenzioso
+ unbändig; zügellos
+lima
+ Feile
+limitare
+ begrenzen; beschränken; einschränken
+limone
+ Zitrone
+linea
+ Linie; Strich; Zeile
+lingua
+ 1. Zunge
+ 2. Sprache
+lisca
+ Gräte
+liscio
+ geläufig; glatt
+lista
+ 1. Liste; Verzeichnis
+ 2. Menü; Speisekarte
+ 3. Menü; Speisekarte
+livello
+ Niveau
+lo
+ das; der; die
+locomotiva
+ Lokomotive
+lodare
+ loben; preisen; anpreisen
+lontano
+ 1. ab; dahin; fort; heraus; weg; hinweg
+ 2. entlegen; fern; entfernt; weit
+luccio
+ Hecht
+luce
+ Licht
+luglio
+ /m/-Juli/m/
+lui
+ er; ihm; ihn; seiner
+lumaca
+ Schnecke
+luna
+ Mond
+luned
+ /m/-Montag/m/
+lungo
+ lang
+luogo
+ 1. Anstalt; Gelaß; Ort; Platz; Stelle
+ 2. Fleck; Ort; Platz; Stätte; Stelle; Terrain
+lupo
+ /m/-Wolf/m/
+lusingare
+ schmeicheln
+lusso
+ Aufwand; Luxus
+l
+ 1. dahin; dorthin; hierhin; nach dort
+ 2. da; dort
+l
+ dahin; dorthin; hierhin; nach dort
+macchina
+ Maschine
+macchina
+ Schreibmaschine
+macellaio
+ Fleischer
+macinare
+ mahlen
+madre
+ Mutter
+madrevite
+ 1. Mutter
+ 2. Mutter
+maestra
+ Lehrerin
+maestro
+ 1. Lehrer
+ 2. Wirt
+maggio
+ /m/-Mai/m/
+magro
+ mager
+mai
+ nie; niemals; nimmer
+maiale
+ Schweinefleisch
+malato
+ krank
+mal
+ Seekrankheit
+mal
+ Bauchweh
+mammifero
+ /m/-Säugetier/n/
+mancanza
+ Fehlen; Fehler; Manko
+mancia
+ Trinkgeld
+mandare
+ schicken; senden; einsenden
+mandorla
+ Mandel
+mangiabile
+ eßbar; genießbar
+maniera
+ Art; Manier; Weise
+mano
+ Hand
+manzo
+ Rindfleisch
+marcia
+ Gang
+mare
+ Meer; See
+marinaio
+ Seemann
+maritarsi
+ sich verehelichen; sich verheiraten
+marito
+ Ehemann; Gatte; Gemahl; Gespons
+marmelata
+ Konfitüre; Marmelade
+marmo
+ /m/-Marmor/m/
+marrone
+ braun
+marted
+ /m/-Dienstag/m/
+martello
+ Hammer
+marzo
+ /m/-MÃ¤rz/m/
+mascella
+ Kiefer; Kinnlade
+massa
+ Masse
+masticare
+ kauen
+matematica
+ /f/-Mathematik/m/
+materasso
+ /m/-Matratze/f/
+materia
+ Materie
+materiale
+ Material; Zutat
+matita
+ /f/-/gen/Stift;Bleistift/m/; Crayon
+matrimonio
+ Ehe
+mattina
+ Frühe; Morgen
+matto
+ irre; toll; verrückt; wahnsinnig
+mattone
+ Backstein; Ziegel; Ziegelstein
+maturo
+ reif
+meccanico
+ Mechaniker
+mediante
+ durch; kraft; mit; mittelst; vermittels
+medico
+ Arzt; Doktor
+medio
+ mittlere; mittlerer; mittleres; Mittel‐
+megera
+ Megäre; Weib
+mela
+ Apfel
+melo
+ Apfelbaum
+melone
+ Melone
+membro
+ 1. Anhänger; Glied
+ 2. Glied; Mitglied
+memoria
+ 1. Andenken
+ 2. Andenken; Erinnerung; Gedächtnis
+mendicante
+ Bettler
+mensile
+ 1. -/adj/monatlich; Monat-
+ 2. /m/-Monatsschrift/f/;Monatsgehalt/m/
+menta
+ Minze
+mentire
+ flunkern; lügen; belügen
+mento
+ Kinn
+menzionare
+ nennen
+mercanteggiare
+ dingen; feilschen; markten
+mercato
+ Marktplatz
+merce
+ Artikel
+mercoled
+ /m/-Mittwoch/m/
+meritare
+ verdienen
+merlo
+ Amsel
+merluzzo
+ Dorsch; Kabeljau
+mese
+ /m/-Monat/m/
+mestiere
+ Beruf; Gewerbe; Handwerk
+metallo
+ Metall
+metodo
+ Methode
+mettere
+ legen; setzen; stecken; stellen
+met
+ Hälfte
+mezzo
+ 1. halb
+ 2. Mitte; Mittel
+miele
+ Honig
+migliaio
+ Tausend
+migliorare
+ bessern; ausbessern; verbessern; veredeln
+migliore
+ 1. best
+ 2. besser
+milione
+ Million
+mille
+ tausend
+minaccia
+ Bedrohung; Drohung
+minacciare
+ bevorstehen; dräuhen; drohen; bedrohen
+minerale
+ Mineral
+minestra
+ Suppe
+ministero
+ Ministerium
+mio
+ mein
+miope
+ kurzsichtig
+miserabile
+ elend; erbärmlich; jämmerlich
+miseria
+ Elend; Not
+misero
+ elend; erbärmlich; jämmerlich
+misterioso
+ geheimnissvoll; mysteriös
+mistura
+ Gemisch
+misura
+ Maß
+misurare
+ messen; abmessen; aufmessen
+misurato
+ gemessen
+mite
+ mild
+mobile
+ beweglich
+mobili
+ Hausgerät; Mobilär
+modesto
+ anspruchslos; bescheiden
+modista
+ 1. Modistin
+ 2. Modistin
+modo
+ Art; Manier; Weise
+moglie
+ Frau; Gemahlin
+molla
+ Feder; Triebfeder
+molle
+ weich
+moltiplicare
+ 1. multiplizieren
+ 2. vervielfältigen
+molto
+ 1. viel; zahlreich
+ 2. sehr
+mondano
+ weltlich
+mondo
+ Welt
+moneta
+ Geldstück; Münze
+monologo
+ Monolog
+monotono
+ 1. eintönig; monoton
+ 2. eintönig
+montagna
+ Berg
+montagne
+ Gebirge
+monte
+ Berg
+monumento
+ Denkmal; Monument
+mordere
+ beißen
+morire
+ sterben
+mortale
+ tödlich
+morte
+ Tod
+morto
+ gestorben; tot; verstorben
+mosca
+ /f/-Fliege/f/
+mostarda
+ Mostrich; Senf
+mostrare
+ 1. andeuten; weisen; anweisen; zeigen
+ 2. angeben; weisen; anweisen; hinweisen; zeigen
+mostro
+ Monstrum; Ungeheuer; Ungetüm; Unhold
+motocicletto
+ Kraftfahrrad; Motorrad
+motore
+ Motor
+movimento
+ 1. Bewegung
+ 2. Bewegung
+muggire
+ brausen; sausen; zischen
+mulo
+ Maulesel; Maultier
+multa
+ Geldstrafe
+municipio
+ Rathaus
+muovere
+ bewegen; erregen
+muoversi
+ sich bewegen
+muro
+ Mauer; Wand
+muscolo
+ Muskel
+museo
+ Museum
+musicista
+ Musiker
+mutande
+ Unterhose
+muto
+ sprachlos; stumm
+nano
+ Zwerg
+nascere
+ entstehen
+nascita
+ 1. Abkunft; Abstammung; Herkunft; Ursprung
+ 2. Geburt
+ 3. Ursprung
+nascondere
+ bergen; hehlen; verbergen; verhehlen; verheimlichen; verstecken
+naso
+ Nase
+nastro
+ Band
+natura
+ 1. Natur
+ 2. Natur
+naturalmente
+ natürlich
+navata
+ Schiff
+nazionale
+ national
+nebbia
+ Nebel
+necessario
+ erforderlich; nötig; notwendig
+negare
+ leugnen; verneinen
+negligente
+ achtlos; fahrlässig
+negozio
+ Butike; Geschäft; Kramladen; Laden
+nero
+ 1. schwarz
+ 2. Schwarz
+nervo
+ Nerv
+neutrale
+ neutral; sächlig
+neutro
+ neutral; sächlig
+neve
+ Schnee
+nevicare
+ schneien
+niente
+ durchaus nicht; ganz und gar nicht; ganz nicht
+nipote
+ 1. Enkelin
+ 2. Enkel
+ 3. Nichte
+ 4. Neffe
+no
+ nein
+nobilt
+ Adel
+nocciola
+ Haselnuß
+nocciuola
+ Haselnuß
+noce
+ 1. Nußbaum
+ 2. Nußbaum
+ 3. Nuß
+nocivo
+ schädlich
+nodo
+ Knoten
+noi
+ uns; unser; wir
+nome
+ Name
+non
+ kein; nicht
+noncurante
+ achtlos; fahrlässig
+nonna
+ Großmutter
+nonni
+ Großeltern
+nonno
+ Großvater
+non
+ allein; bloß; erst; lediglich; nur
+non
+ nie; niemals; nimmer
+non
+ nicht mehr
+nord
+ Norden
+norvegese
+ Norweger
+notaio
+ Notar
+noto
+ bekannt
+notte
+ Nacht
+novanta
+ neunzig
+nove
+ neun
+novella
+ Braut
+novembre
+ /m/-November/m/
+nozione
+ Gedanke; Idee; Vorstellung
+nube
+ Wolke
+nudo
+ bloß; nackt
+numero
+ 1. Anzahl; Zahl
+ 2. Nummer
+nuocere
+ beeinträchtigen
+nuotare
+ schwimmen
+nuovo
+ neu
+nuvola
+ Wolke
+nuvolo
+ Wolke
+oca
+ Gans
+occhiali
+ Augengläser; Brille
+occorrente
+ erforderlich; nötig; notwendig
+occupare
+ bekleiden; besetzen; einnehmen; in Anspruch nehmen
+occupato
+ besetzt
+occupazione
+ Beschäftigung
+odiare
+ hassen
+odio
+ Haß
+offendere
+ 1. beleidigen; schelten; schimpfen; beschimpfen
+ 2. beleidigen; kränken; verletzen
+offerta
+ Anerbieten; Offerte
+ogetto
+ Ding; Gegenstand; Objekt
+oggi
+ heute
+ogni
+ täglich; alltäglich
+ogni
+ allerlei
+ogni
+ dann und wann; von Zeit zu Zeit; zeitweilig
+olandese
+ Holländer
+olio
+ Öl
+oliva
+ Olive
+olivo
+ 1. Olivenbaum
+ 2. Ölbaum; Olivenbaum
+olmo
+ Rüster; Ulme
+ombra
+ 1. Schatten
+ 2. Schatten
+omero
+ Oberarm
+onda
+ Welle; Woge
+onesto
+ anständig; bieder; ehrlich; honett; rechtschaffen
+onnisciente
+ allwissend
+onore
+ Ehre
+onorevole
+ achtbar
+ontano
+ Erle
+opera
+ Werk
+operaio
+ Arbeiter
+opprimere
+ erpressen; unterdrücken
+ordinare
+ bestellen
+ordine
+ 1. Auftrag; Bestellung
+ 2. Anlaß; Befehl; Edikt; Gebot; Weisung
+ 3. Aneinanderreihung; Reihenfolge; Verkettung
+orecchio
+ Ohr
+orgoglioso
+ hochfahrend; hochmütig; stolz
+origine
+ 1. Abkunft; Abstammung; Herkunft; Ursprung
+ 2. Ursprung
+origliare
+ belauschen
+orinare
+ harnen
+orizzonte
+ gesichtskreis; Horizont
+orlo
+ Grat; Kante; Saum; Rand
+orlogiaio
+ Uhrmacher
+oro
+ Gold
+orologio
+ Uhr
+orrore
+ Abscheu; Greuel
+orso
+ Bär
+orso
+ Eisbär
+ortica
+ Brennessel
+orzo
+ Gerste
+oscurit
+ Dunkelheit
+oscuro
+ dunkel; finster
+ospedale
+ Hospital; Hospiz; Krankenhaus
+ospitale
+ gastlich
+ospite
+ Gast
+osservare
+ 1. beaufsichtigen; beobachten; betrachten; vervolgen
+ 2. bemerken
+osservazione
+ Bemerkung; Beobachtung; Vermerk
+osso
+ Gebein; Knochen
+ostinato
+ eigensinnig; halsstarrig; hartnäckig; starrköpfig; trotzig
+ostrica
+ Auster
+ottanta
+ achtzig
+ottenere
+ holen
+ottico
+ Optiker
+otto
+ acht
+ottobre
+ /m/-Oktober/m/
+ottone
+ 1. Messing
+ 2. Latun; Messing
+ovest
+ 1. Abendland; Okzident; Westen
+ 2. Westen
+pacco
+ Bündel; Päckchen; Paket
+pace
+ Friede
+pacificare
+ besänftigen; dämpfen; züchtigen
+padre
+ 1. Vater
+ 2. Pater
+padre
+ Eltern
+padrone
+ Wirt
+paese
+ Land
+paga
+ Gage; Gehalt; Salär
+pagamento
+ Bezahlung; Zahlung
+pagare
+ zahlen; abzahlen; auszahlen; bezahlen; einzahlen; entrichten
+pagina
+ Folio; Seite
+palato
+ Gaumen
+palazzo
+ Palast; Schloß
+palese
+ anschaulig; augenscheinlich; ersichtlich; evident; offenbar
+palla
+ 1. Kugel
+ 2. Ball
+pallido
+ blaß; bleich; fahl
+pallone
+ Ballon
+pallottoliere
+ Abakus; Kugelmaschine; Rechenmaschine
+palma
+ Handfläche
+palpebra
+ Augenlid
+pane
+ Brot
+panetteria
+ Bäckerei; Backstube
+panino
+ Brötchen; Semmel
+panka
+ Bank
+pantaloni
+ Beinkleid; Hose
+pappagallo
+ Papagei
+parafango
+ Kotflügel
+parallelo
+ gleichlaufend; parallel
+parapetto
+ Balustrade; Geländer; Schranke
+parentado
+ 1. Verwandtschaft
+ 2. Verwandtschaft
+parente
+ Verwandter
+parentela
+ Verwandtschaft
+parento
+ verwandt; anverwandt
+parere
+ scheinen
+parete
+ Wand
+parlare
+ reden; sprechen
+parola
+ Vokabel; Wort
+parrucchiere
+ Friseur; Frisör
+parte
+ Anteil; Teil
+partenza
+ 1. Abgang; Abreise; Abzug
+ 2. Abfahrt
+participio
+ Mittelwort; Particip; Participium
+particulare
+ privat
+partire
+ abreisen; fortgehen
+partito
+ 1. Anhang
+ 2. Fraktion; Partei
+parzialmente
+ teils
+passaggio
+ Bahnübergang
+passagiere
+ Fahrgast; Passagier
+passaporto
+ Paß; Reisepaß
+passare
+ angeben; herreichen; verbringen; zubringen
+passato
+ 1. Vergangenheit
+ 2. vorig
+passeggiata
+ Foyer
+passero
+ /m/-Sperling;Spatz/m/
+passo
+ Schritt; Tritt
+pasta
+ Pasta; Paste; Teig
+patata
+ Erdapfel; Kartoffel
+patria
+ Heimat; Vaterland
+patto
+ Einverständnis; Übereinkunft
+pattuire
+ sich verständigen; übereinkommen; verabreden; vereinbaren
+paura
+ 1. Angst
+ 2. Blödigkeit
+ 3. Angst; Furcht
+pauroso
+ 1. bang; feige
+ 2. bang; zaghaft
+pavimento
+ Boden; Diele; Dielung; Fußboden
+pazienza
+ Geduld
+pazzo
+ Irre
+pecora
+ Hammel; Schaf
+pelegrinaggio
+ Wallfahrt
+pelle
+ 1. /f/-Fell/n/; Balg; Peltz; Tierhaut
+ 2. Haut
+pellicola
+ Film
+penna
+ /f/-Feder/f/
+pendere
+ hängen
+penetrare
+ durchdringen; eindringen
+penisola
+ Halbinsel
+penna
+ 1. Feder
+ 2. Feder
+penna
+ Füller; Füllfeder
+pensare
+ denken
+pensiero
+ Gedanke
+pensione
+ Fremdenheim; Pension
+pentimento
+ Buße
+pepe
+ Pfeffer
+pera
+ Birne
+perci
+ also; daher; darum; deshalb
+percorrere
+ durchgehen; durchqueren; hindurchgehen
+perdere
+ verlieren
+perdere
+ abgewöhnen
+perdersi
+ sich verirren
+perdita
+ 1. Verlust
+ 2. Verlust
+perduto
+ abhanden
+perfetto
+ perfekt; trefflich; vollendet; vollkommen
+perfino
+ gar; ja; selbst; sogar
+pericolo
+ Gefahr
+pericoloso
+ besorglich; gefährlich
+perito
+ Buchrevisor
+permanente
+ fest
+permettere
+ erlauben; gestatten
+pernice
+ Rebhuhn
+perno
+ Achse
+pero
+ Birnbaum
+perseguire
+ fahnden; nachzusetzen; verfolgen
+perseguitare
+ fahnden; nachzusetzen; verfolgen
+persiana
+ Jalousie; Rolladen
+persona
+ Person
+personale
+ persönlich
+per
+ gewissermaßen
+per
+ zum Beispiel
+per
+ wenigstens
+per
+ durch; kraft; mit; mittelst; vermittels
+per
+ lange
+per
+ also; daher; darum; deshalb
+per
+ Schwieger‐
+pesante
+ schwer
+pesare
+ 1. wägen; abwägen; wiegen
+ 2. schwer sein; wiegen
+pesce
+ /m/-Fisch/m/
+pescecane
+ Hai; Haifisch
+pesce
+ Barsch
+peso
+ Gewicht; Wucht
+pestare
+ frankieren
+petizione
+ Bittschrift
+petrolio
+ Petroleum
+pettegolezzo
+ Geplauder
+pettinare
+ kämmen
+petto
+ Brust; Busen
+pezzo
+ Fleck; Stück
+piacere
+ 1. behagen; belieben; gefallen; konvenieren
+ 2. Freude; Genuß; Vergnügen; Wohlgefallen
+piacevole
+ behaglich; herrlich; genehm; angenehm
+pialla
+ Hobel
+piangere
+ weinen
+piano
+ 1. eben; glatt; flach
+ 2. Ebene
+ 3. Etage; Geschoß; Stock; Stockwerk
+pianola
+ Klaviatur; Tastatur
+pianta
+ 1. Fußsohle; Sohle
+ 2. Anlage; Pflanzen; Anpflanzen; Pflanzung; Anpflanzung
+piantare
+ legen; stecken; pflanzen; anpflanzen
+pianterreno
+ Erdgeschoß
+piattaforma
+ Bahnsteig; Kai
+piattino
+ Untertasse
+piatto
+ Teller
+piazza
+ Platz
+picchiare
+ klopfen; schlagen
+piccione
+ Taube
+piccola
+ Dirne; Mädchen
+piccolo
+ gering; klein
+pidocchio
+ Laus
+piegare
+ falten; zusammenlegen
+pieno
+ voll
+pierra
+ Stein
+pigro
+ faul
+pinna
+ Flosse
+pino
+ Föhre; Kiefer
+pioggia
+ Regen
+piombo
+ Blei
+pioniere
+ Bahnbrecher; Pionier
+pioppo
+ Pappel
+piovere
+ regnen
+pisciare
+ harnen
+pisello
+ Erbse
+pista
+ Bahn; Chaussee; Strecke; Weg
+pittore
+ Maler
+pittura
+ 1. Ansicht; Bild
+ 2. Bild; Gemälde
+piuttosto
+ 1. lieber
+ 2. am liebsten; lieber
+placare
+ 1. besänftigen; dämpfen; züchtigen
+ 2. beruhigen
+plenilunio
+ Vollmond
+poco
+ allmählich; nach und nach; sukzessive
+poema
+ Gedicht; Poem
+poema
+ Epik; Epopöe; Heldengedicht
+poesia
+ Dichtkunst; Dichtung; Poesie
+poeta
+ Dichter; Poet
+poggiare
+ stemmen; unterhalten; unterstützen
+poi
+ danach
+polacco
+ Pole
+politica
+ Politik
+politico
+ politisch
+polizia
+ Polizei
+poliziotto
+ 1. Polizist; Schutzmann
+ 2. Häscher; Polizist; Schutzmann
+pollice
+ 1. Daumen
+ 2. Daumen
+pollo
+ Huhn
+polmone
+ Lunge
+polpaccio
+ Wade
+polso
+ 1. Handgelenk
+ 2. Handgelenk
+ 3. Puls
+poltrona
+ 1. Fauteuil; Lehnstuhl
+ 2. Lehnstuhl
+polvere
+ Staub
+pomeriggio
+ Nachmittag
+pomodoro
+ Tomate
+pompa
+ Pumpe
+pompare
+ pumpen
+ponere
+ legen; setzen; stecken; stellen
+ponte
+ 1. Deck; Schiffsdeck; Verdeck
+ 2. Brücke
+popolo
+ Volk
+poppa
+ Heck
+populazione
+ Bevölkerung
+porcellino
+ /m/-Meerschweinchen/n/
+porco
+ Schwein
+porta
+ Tür
+portacenere
+ Aschenbecher
+portalettere
+ Briefträger
+portare
+ 1. bringen; anbringen; eintragen; heranbringen; überbringen
+ 2. tragen
+portiera
+ Wagentür
+porto
+ Hafen
+portoghese
+ Portugiese
+porzione
+ 1. Anteil; Teil
+ 2. Anteil; Portion; Ration
+posa
+ Gezier
+posare
+ affektieren; künsteln; sich zieren
+posdomani
+ übermorgen
+possedere
+ besitzen
+possesso
+ 1. Besitz; Besitztum; Besitzung; Eigentum; Gut
+ 2. Besitz
+possibile
+ angängig; etwaige
+posta
+ Post
+postino
+ Briefträger
+potabile
+ genießbar
+potere
+ 1. Gewalt; Macht; Potenz
+ 2. dürfen; können; vermögen
+povero
+ 1. arm
+ 2. elend; erbärmlich; jämmerlich
+ 3. arm
+povert
+ Armut
+praticare
+ praktizieren
+preciso
+ 1. akkurat; genau
+ 2. exakt; genau
+predisporre
+ arrangieren; einrichten; ordnen; anorden; veranstalten
+pregare
+ beten
+preghiera
+ Gebet
+pregiudizio
+ Vorurteil
+premere
+ beklemmen; drücken; bedrücken; pressen; zwängen
+premio
+ Prämie; Preis
+prendere
+ 1. erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+ 2. fassen; nehmen
+prendere
+ versorgen
+prendere
+ mieten
+prenome
+ Vorname
+preparare
+ 1. bereiten; vorbereiten
+ 2. zurichten
+presente
+ 1. Angebinde; Gabe; Geschenk; Spende; Vermächtnis
+ 2. anwesend
+pressione
+ Drang; Druck; Drücken; Pressen
+presto
+ flugs; geschwind; schnell
+prete
+ Geistliche; Pastor; Pfarrer; Priester
+prezzemolo
+ Petersilie
+prezzo
+ Preis
+primavera
+ /f/-Frühling/m/
+primaverile
+ Frühlings-; frühlingshaft
+prigione
+ 1. Gefängnis; Verlies
+ 2. Gefängnis
+ 3. Gefängnis
+prigioniero
+ Arrestant
+prima
+ erst; erstens; zuerst
+primavera
+ Frühjahr; Frühling; Lenz
+prima
+ Frühstück
+primo
+ erste; erster; erstes
+principale
+ Wirt
+principalmente
+ besonders; eigens; insbesondere; vornehmlich; vorzüglich; zumal
+principio
+ 1. Anfang; Beginn
+ 2. Grundsatz; Prinzip
+privado
+ privat
+probabile
+ wahrscheinlich
+probabilmente
+ wahrscheinlich; wohl
+problema
+ Problem
+processo
+ Prozeß
+proclamare
+ ausrufen; proklamieren
+prodotto
+ 1. Artikel
+ 2. Erzeugung; Produktion
+produrre
+ erzeugen; hervorbringen; produzieren
+professione
+ Beruf; Gewerbe; Profession
+profitto
+ 1. Ertrag; Gewinn; Interesse; Nutzen; Überschuß; Verdienst; Vorteil
+ 2. Interesse; Nutzen; Vorteil
+profondit
+ 1. Tiefe
+ 2. Tiefe
+profondo
+ tief
+progettare
+ 1. entwerfen; planen; projektieren
+ 2. entwerfen; skizzieren
+progetto
+ 1. Abriß; Entwurf; Plan; Riß; Grundriß
+ 2. Entwurf; Plan; Projekt
+ 3. Entwurf; Skizze
+progresso
+ Fortschritt
+promessa
+ Gelöbnis; Versprechen; Zusage
+promettere
+ geloben; verheißen; versprechen; zusagen
+promozione
+ Promotion
+promuovere
+ promovieren
+pronipote
+ 1. Großenkel; Urenkel
+ 2. Großneffe
+pronto
+ bereit; erbötig; fertig
+pronunciare
+ aussprechen; fällen
+proporzionale
+ proportional; verhältnismäßig
+proposito
+ Ziel; Zweck
+proprietario
+ Eigentümer; Inhaber
+proprio
+ eigen
+prosciutto
+ Schinken
+prosperare
+ gedeihen; gelingen; geraten; glücken; prosperieren
+prossimo
+ bevorstehend; kommend; künftig; nächst; nahe
+proteggere
+ begünstigen; beschirmen; protektieren; schützen; beschützen
+protesta
+ Einspruch
+protestare
+ anfechten; beanstanden; Einspruch erheben; protestieren
+protezione
+ Begünstigung; Protektion; Schirm; Schutz
+prova
+ Ausweis; Beweis; Beleg
+provare
+ 1. erproben; probieren; prüfen; versuchen
+ 2. begründen; beweisen; erhärten
+prua
+ Bug
+pubblicare
+ 1. ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+ 2. ausrufen; proklamieren
+ 3. aufbieten; veröffentlichen
+pubblicazione
+ Proklamation
+pubblico
+ öffentlich
+pugnale
+ Dolch
+pugno
+ Faust
+pulce
+ /f/-Floh/m/
+pulizia
+ /f/-Sauberkeit/f/;Saubermachen/n/; Reinheit; Reinlichkeit
+pulire
+ reinigen; säubern
+pulsante
+ Knopf
+pungere
+ stacheln; stechen; stecken; sticheln
+pungiglione
+ Stachel
+punire
+ ahnden; strafen; bestrafen; züchtigen
+punizione
+ Bestrafung; Strafe
+punta
+ Kulm; Spitze; Stift; Zacke; Zinke; Zipfel
+punteruolo
+ Ahle; Pfrieme
+punto
+ Punkt
+puro
+ 1. rein
+ 2. blank; rein; reinlich; sauber
+qualche
+ manchmal
+quaranta
+ vierzig
+quarto
+ Viertel; Viertelstunde
+quasi
+ beinahe; fast; nahezu; schier; ungefähr
+quattordici
+ vierzehn
+quattro
+ vier
+quercia
+ Eiche
+questura
+ Polizeiamt; Polizeiwache
+qui
+ hierher; hierhin; nach hier
+quindici
+ fünfzehn
+quotidianamente
+ täglich; alltäglich
+quotidiano
+ täglich
+qu
+ hierher; hierhin; nach hier
+raccogliere
+ sammeln; einsammeln
+raccomandabile
+ empfehlungswert
+raccomandare
+ raten; beraten; ratgeben
+raccomandazione
+ Empfehlung
+raccontare
+ erzählen
+radio
+ Radio
+raffredarsi
+ sich erkälten
+raffreddore
+ Erkältung
+ragazza
+ Dirne; Mädchen
+ragazzo
+ Junge; Knabe
+ragione
+ Rationalität; Vernunftgemäßheit
+ragnatela
+ /f/-Spinnennetz/n/
+ragno
+ /m/-Spinne/f/
+rame
+ Kupfer
+ramo
+ Ast; Zweig
+rana
+ /f/-Frosch/m/
+ranocchio
+ Frosch
+rapa
+ Rübe
+rappresentare
+ repräsentieren; vertreten; vorstellen
+raramente
+ selten
+raschiare
+ kratzen; ritzen
+rassomiglare
+ ähneln; gleichen
+ratto
+ /m/-Ratte/f/
+ravanello
+ Radieschen
+razza
+ Rasse
+reale
+ real; wirklich
+recitare
+ rezitieren; vortragen
+regalo
+ Angebinde; Gabe; Geschenk; Spende; Vermächtnis
+regime
+ Diät
+regno
+ Königreich
+regola
+ Regel
+relazione
+ Beziehung; Hinsicht; Verbindung; Verhältnis
+remo
+ Lenkrad; Ruder; Steuer
+rendere
+ erschweren
+rene
+ Niere
+replicare
+ antworten; beantworten; entgegnen; erwidern
+repubblica
+ Freistaat; Republik
+residenza
+ 1. Wohnort; Wohnsitz
+ 2. Wohnort
+respirare
+ atmen
+respirazione
+ Atmen; Atmung
+responsabile
+ verantwortlich
+restare
+ bleiben; übrigbleiben
+restituire
+ vergelten; wiedergeben; zurückgeben
+resti
+ zurückbleiben
+restringere
+ begrenzen; beschränken; einschränken
+rete
+ Garn; Netz
+retroguardia
+ Nachhut
+ribes
+ 1. Stachelbeere
+ 2. Johannisbeere
+ribes
+ Aalbeere
+ribrezzo
+ Abscheu; Greuel
+ricchezza
+ Reichtum
+riccio
+ Igel
+ricco
+ ausgiebig; reich; vermögend
+ricevere
+ bekommen; empfangen; erhalten
+ricevuta
+ Quittung
+ricompensa
+ Belohnung; Lohn
+ricompensare
+ lohnen; belohnen; vergelten
+riconoscente
+ dankbar; erkenntlich
+ricovero
+ Asyl; Zufluchtsstätte
+ridere
+ lachen
+ridicolo
+ lächerlich
+rifiutare
+ ausmerzen
+rifiutarsi
+ ablehnen; abschlagen; ausschlagen; versagen; weigern; verweigern
+rifiuto
+ Verweigerung; Weigerung
+rigido
+ starr; steif; spröde
+riguardare
+ angehen; anlangen; betreffen
+riguardo
+ Achtung; Verehrung
+rilegare
+ binden; einbinden
+rilevare
+ ablösen; ersetzen
+rimanere
+ bleiben; übrigbleiben
+rimorchiatore
+ Schlepper
+rimpianto
+ Buße
+rincrescere
+ bedauern
+ringraziare
+ danken; sich bedanken; verdanken
+rinoceronte
+ Nashorn
+rinomato
+ berühmt
+rinviare
+ zurücksenden
+riparare
+ 1. reparieren
+ 2. bergen; schirmen; beschirmen; beschützen
+ripetere
+ wiederholen
+ripido
+ abschüssig; steil
+riposarsi
+ ruhen; sich ausruhen
+riposo
+ Ruhe
+riprendere
+ schelten; vorwerfen; Vorwürfe machen
+ripugnanza
+ 1. Abneigung; Antipathie; Wiederwillen
+ 2. Ekel; Übelkeit
+risa
+ Gelächter; Lache
+riscaldamento
+ /m/-Heizung/f/
+riscaldare
+ heizen; (er)wärmen
+rischio
+ Risiko; Wagnis
+riservare
+ reservieren; vorbehalten; zurückbehalten
+riso
+ 1. Lachen
+ 2. Reis
+rispettabile
+ achtbar
+rispettare
+ 1. achten; hochschätzen
+ 2. Achtung erweisen; respektieren
+rispetto
+ 1. Achtung; Verehrung
+ 2. Achtung; Ehrfurcht; Respekt
+risplendere
+ blinken; glänzen; scheinen; schimmern; strahlen
+rispondere
+ antworten; beantworten; entgegnen; erwidern
+risposta
+ Antwort
+ristorante
+ Restaurant; Restauration
+risultato
+ 1. Erfolg; Ergebnis; Resultat
+ 2. Erfolg; Ergebnis; Resultat
+ritenere
+ zurückhalten
+ritirare
+ abräumen; fortnehmen; entziehen; fortnehmen; wegnehmen
+ritirata
+ Abort; Abtritt
+ritornare
+ zurückkehren
+riuscire
+ Erfolg haben; gelingen
+rivista
+ 1. Zeitschrift
+ 2. Revue; Zeitschrift
+roccia
+ Fels; Felsen; Steinmasse
+romanzo
+ Roman
+rompere
+ 1. abreißen; losreißen; pflücken; abpflügen
+ 2. brechen; abbrechen; aufbrechen
+rompersi
+ brechen
+rondine
+ Schwalbe
+rospo
+ /m/-Kröte/f/
+rosso
+ 1. rot
+ 2. rot
+ 3. Rot
+rotondo
+ rund
+rovesciare
+ kappen; umstoßen; umstürzen; umwerfen
+rovinare
+ verheeren
+rozzo
+ barsch; ungezogen; unverfroren
+rubare
+ entwenden; stehlen
+rude
+ brummig; unwirsch
+rugiada
+ Tau
+rumore
+ Aufsehen; Braus
+ruota
+ Rad
+ruscello
+ Bach
+russare
+ schnarchen
+russo
+ Russe
+sabato
+ /m/-Samstag; Sonnabend/m/
+sabbia
+ Sand
+sacerdate
+ Geistliche; Pastor; Pfarrer; Priester
+saggio
+ gescheit; klug; weise
+salario
+ Gage; Gehalt; Salär
+sala
+ Badestube
+sala
+ Speisesaal; Speisezimmer
+sala
+ Warteraum; Wartesaal
+salcio
+ Weide
+saldare
+ saldieren
+sale
+ Salz
+salice
+ Weide
+salire
+ 1. aufgehen; sich erheben; steigen
+ 2. steigen; ersteigen
+salmone
+ Lachs; Salm
+salotto
+ Aula; Salon
+salsa
+ Brühe; Sauce; Soße; Tunke
+salsiccia
+ Wurst
+saltare
+ springen
+salto
+ Sprung
+salutare
+ grüßen; begrüßen; bewillkommnen
+salute
+ Gesundheit
+saluto
+ Gruß
+salvare
+ retten; erlösen; erretten
+salvia
+ Salbei
+salvo
+ ausgenommen
+sangue
+ Blut
+sanguinare
+ bluten
+sapere
+ wissen
+sarto
+ Schneider
+sbadato
+ achtlos; fahrlässig
+sbadigliare
+ gähnen
+sbadiglio
+ Gähnen
+sbagliarsi
+ sich irren
+sbaglio
+ Fehler; Irrtum; Versehen
+sbalordire
+ in Verwunderung setzen; verwundern
+sbarrare
+ hindern; sperren; versperren
+sbocco
+ Markt
+scala
+ 1. Stiege; Treppe
+ 2. Leiter
+scalpello
+ Meißel; Stemmeisen
+scandalo
+ Ärgernis; Skandal
+scarpa
+ Schuh
+scatola
+ Büchse; Schachtel
+scegliere
+ auslesen; wählen; auswählen; erwählen
+scelta
+ Auslese; Wahl
+scheletro
+ 1. Gebein; Gerippe; Knochengerüst; Skelett
+ 2. Gerippe; Skelett
+scherzare
+ scherzen
+scherzo
+ Jux; Scherz; Spaß
+schiuma
+ Gischt; Schaum
+scienza
+ Wissenschaft
+scimmia
+ /f/-Affe/m/
+scimpanz
+ /m/-Schimpanse/m/
+scintilla
+ Funke
+sciocchezza
+ Torheit
+sciocco
+ albern; dumm
+sciopero
+ Strahl
+scoiattolo
+ /m/-Eichhorn; Eichhörnchen/n/
+scolaro
+ Schüler
+scommettere
+ wetten
+scompartimento
+ Abteil; Coupé; Kupee
+sconsigliare
+ entraten
+scopa
+ Besen
+scopo
+ Ziel; Zweck
+scoprire
+ abdecken; entdecken; enthüllen
+scorgere
+ erblicken; gewahr werden
+scorrere
+ fließen; rinnen; strömen
+scorso
+ letzte; letzter; letztes
+scortese
+ barsch; ungezogen; unverfroren
+scorza
+ Bast
+scozzese
+ Schotte
+screpolatura
+ Spalte
+scrivere
+ schreiben
+scrivere
+ tippen
+scultura
+ Bildhauerwerk; Bildwerk
+scuola
+ Schule
+scure
+ Axt; Beil; Hacke
+scuro
+ 1. dunkel; düster; trübe
+ 2. dunkel; finster
+se
+ falls; insofern; wenn; wofern
+sebbene
+ obgleich; obschon; wenn auch; zwar
+seccare
+ 1. dörren; trocknen; austrocknen
+ 2. austrocknen; dorren; verdorren
+secchia
+ Eimer
+secchio
+ Eimer
+secco
+ trocken
+secondo
+ Sekunde
+sedano
+ Sellerie
+sedere
+ /m/-Hintern/m/; Gesäß/n/; After; Arsch
+sedersi
+ 1. sich setzen
+ 2. sich setzen
+sedia
+ Stuhl
+sedici
+ sechzehn
+sega
+ Säge
+segale
+ Roggen
+segno
+ Abzeichen; Anzeichen; Kennzeichen; Merkzeichen; Wink; Zeichen
+segreto
+ 1. geheim; heimlich; verborgen; verstohlen
+ 2. Geheimnis; Hehl
+seguente
+ 1. folgend; nächst; umgehend
+ 2. nächst
+seguire
+ folgen
+seguito
+ Anhang
+sei
+ sechs
+selvaggina
+ /f/-Wild/n/
+selvaggio
+ wild
+seminare
+ säen
+semplice
+ einfach; einfältig
+sempre
+ allemal; allzeit; fortwährend; immer; jederzeit; stets
+sensato
+ gescheit; klug; vernünftig; verständig
+sentiero
+ Fußweg; Pfad; Steg; Steig
+sentire
+ duften; riechen
+senza
+ grundlos
+separare
+ absondern; abteilen; abtrennen; scheiden
+separato
+ abgesondert; besonder; einzeln; seperat
+seppellire
+ beerdigen
+sera
+ Abend
+serio
+ ernst; ernsthaft; gesetzt
+serpente
+ /m/-Schlange/f/
+serrare
+ beklemmen; drücken; bedrücken; pressen; zwängen
+serrare
+ schließen; verschließen; zuschließen
+serratura
+ Schloß; Verschluß
+servire
+ 1. dienen; bedienen
+ 2. Bursche; Diener; Gehilfe
+ 3. dienen; frommen; nützen
+servizio
+ 1. Bedienung; Dienst
+ 2. Dienst
+sessanta
+ sechzig
+sesso
+ Geschlecht; Sex
+sete
+ Durst
+settanta
+ siebzig
+sette
+ sieben
+settembre
+ /m/-September/m/
+settimana
+ Woche
+severo
+ streng
+sfera
+ Sphäre
+sferico
+ sphärisch
+sfruttare
+ ausbeuten; ausnutzen; exploitieren
+sgelare
+ tauen; auftauen
+sgombro
+ Makrele
+sgradevole
+ wiederwärtig
+sgretolarsi
+ bröckeln
+sguardo
+ Überblick
+sicurezza
+ Sicherheit
+sidro
+ Apfelwein; Obstwein; Zider
+significare
+ bedeuten; bezeichnen
+significato
+ Bedeuting; Bezeichnung; Meinung
+silenzioso
+ schweigend; verschwiegen
+simile
+ ähnlich
+sincero
+ aufrichtig
+sindaco
+ Bürgermeister
+sistema
+ System
+sistemare
+ arrangieren; einrichten; ordnen; anorden; veranstalten
+si
+ zweifelsohne
+smarrirsi
+ sich verirren
+smercio
+ Absatz; Debit; Vertrieb
+smussato
+ stumpf
+snello
+ behende; gewandt
+sociale
+ sozial
+soffiare
+ blasen; wehen
+soffitto
+ Decke; Zimmerdecke
+soffocare
+ erdrosseln; ersticken; erwürgen
+sofisma
+ Sophisma
+soglia
+ Schwelle
+sogliola
+ Seezunge
+sognare
+ träumen
+sogno
+ Traum
+soldi
+ Geld
+sole
+ Sonne
+solere
+ sich gewöhnen
+solo
+ 1. allein; alleinig; bloß; einzig
+ 2. einzig
+soltanto
+ allein; bloß; erst; lediglich; nur
+somaro
+ /m/-Esel/m/
+somma
+ Betrag; Summe
+sommario
+ Übersicht
+sonare
+ gellen; klingen; läuten; tönen
+sonno
+ Schlaf
+sopportare
+ dulden
+sopra
+ oberhalb; über
+sopracciglio
+ Augenbraue
+soprattutto
+ 1. besonders; zunächst; zuvörderst
+ 2. besonders; eigens; insbesondere; vornehmlich; vorzüglich; zumal
+sorcio
+ Maus
+sordo
+ taub
+sordomuto
+ taubstumm
+sorella
+ Schwester
+sorgente
+ Born; Quelle
+sorprendere
+ befremden; überfallen; überraschen
+sorpresa
+ Überraschung
+sorpreso
+ verwundert
+sorridere
+ lächeln
+sospendere
+ anhängen; aufhängen; erhängen; henken
+sospettare
+ argwöhnen; verdächtigen
+sospetto
+ Argwohn; Verdacht
+sostegno
+ Stütze
+sostenere
+ 1. anlegen; lehnen; anlehnen; stemmen; stützen; unterstützen
+ 2. behaupten
+ 3. stemmen; unterhalten; unterstützen
+sotto
+ unter; unterhalb
+sovente
+ häufig; oft
+spada
+ Degen
+spagnolo
+ Spanier
+spagnuolo
+ Spanier
+spalla
+ /f/-Schulter/f/; Achsel/f/
+spartire
+ mitmachen; teilnehmen
+spaventare
+ zurückschrecken
+spazio
+ Gelaß; Raum
+spazzola
+ Bürste
+specchio
+ Spiegel
+speciale
+ spezial; speziell
+specie
+ Abart; Art; Gattung; Schlag; Sorte
+spegnere
+ auslöschen; dämpfen
+spendere
+ auslegen; verausgaben
+spengere
+ auslöschen; dämpfen
+speranza
+ Hoffnung
+sperare
+ hoffen
+spesso
+ 1. dick
+ 2. häufig; oft
+spezzare
+ brechen; abbrechen; aufbrechen
+spiacevole
+ wiederwärtig
+spiaggia
+ Strand
+spiare
+ belauschen; spionieren
+spicciole
+ Kleingeld
+spiegare
+ darlegen; einleuchten; erklären; erläutern
+spiegazione
+ Aufklärung; Aufschluß; Erläuterung
+spiga
+ Ähre
+spina
+ Dorn; Grat; Stachel
+spinaci
+ Spinat
+spina
+ Rückgrat
+spingere
+ dringen; rücken; stoßen; treiben
+spinta
+ Stoß; Trieb
+spirito
+ Geist; Genius
+spiritoso
+ geistreich; sinnreich; witzig
+spirituale
+ Geistes‐; geistig; intellektuell
+sporcare
+ beschmutzen; einschmutzen; sudeln
+sport
+ Sport
+sportello
+ Schalter; Schalterfenster; Schiebefenster
+sposa
+ Braut
+sposato
+ 1. verheirated
+ 2. verheirated
+sposo
+ Ehemann; Gatte; Gemahl; Gespons
+spossare
+ strapazieren
+sprezzo
+ Verachtung
+spronare
+ anreizen; aufhetzen; reizen; aufreizen
+spuntato
+ stumpf
+sputare
+ speien; spucken
+squama
+ Schuppe
+staccare
+ abreißen; losreißen; pflücken; abpflügen
+stagione
+ /f/-Jahreszeit; Saison/f/
+stagno
+ 1. Teich; Tümpel; Weiher
+ 2. Zinn
+stalla
+ Stall
+stampare
+ drucken; prägen
+stancare
+ strapazieren
+stanco
+ matt; müde
+stanza
+ Wohnzimmer
+stanza
+ Badestube
+stare
+ 1. hausen; wohnen
+ 2. bleiben; übrigbleiben
+stare
+ stehen
+stasera
+ heute abend
+stato
+ Staat
+statua
+ Bildsäule; Standbild; Statue
+stazione
+ Bahnhof
+stazione
+ Badeort
+stella
+ Stern
+stendardo
+ Banner; Fahne; Standarte
+sterile
+ fruchtlos; steril
+stesso
+ selber; selbst
+stima
+ Achtung; Verehrung
+stimare
+ 1. achten; hochschätzen
+ 2. abschätzen; bewerten; schätzen; abschätzen; einschätzen
+stimolare
+ anregen; reizen; anreizen; stimulieren
+stomaco
+ Magen
+storia
+ Geschichte; Historie
+strada
+ Bahn; Chaussee; Strecke; Weg
+strano
+ befremdend; kurios; seltsam; sonderbar; wunderlich
+straordinario
+ außerordentlich
+strappare
+ entreißen
+stretto
+ schmal
+stringere
+ beklemmen; drücken; bedrücken; pressen; zwängen
+strumento
+ 1. Mittel; Werkzeug
+ 2. Instrument; Werkzeug
+studente
+ Student
+studiare
+ studieren
+stupido
+ albern; dumm
+stupirsi
+ sich wundern; staunen; erstaunen
+su
+ an; bei; zu
+subaffitto
+ /m/-Untermiete/f/
+subitaneo
+ plötzlich
+subito
+ alsbald; flugs; gleich; sofort; sogleich; umgehend
+succedere
+ 1. geschehen; passieren; sich ereignen; stattfinden; vorkommen
+ 2. Erfolg haben; gelingen
+successivamente
+ hinter einander
+successo
+ Erfolg; Gelingen
+succhiare
+ lutschen; saugen
+succiello
+ Bohrer
+succinto
+ bündig; gedrängt; konzis; kurz
+sud
+ Süden
+sudare
+ schwitzen
+sufficiente
+ auskömmlich; genügend; ziemlich; zulänglich
+suffisso
+ Suffix
+sughero
+ Kork; Pfropfen; Stöpsel
+suo
+ sein
+suocero
+ Schwiegervater
+suonare
+ 1. spielen
+ 2. spielen
+suono
+ Hall; Klang; Laut; Schall; Ton
+superiore
+ höher; überlegen
+superstizione
+ Aberglaube
+superstizioso
+ abergläubisch
+supplicare
+ abbetteln
+supporre
+ vermuten; voraussetzen
+sussurrare
+ flüstern
+svedese
+ Schwede
+sveglia
+ Wecker
+sveglio
+ anstellig; behende; fix; geschickt; geübt; gewandt
+svenirsi
+ in Ohnmacht fallen; ohnmächtig werden
+svizzero
+ Schweizer
+svoltare
+ abschweifen; abweichen
+s
+ ja; doch
+tacere
+ schweigen
+tagliare
+ schneiden
+tagliente
+ scharf
+talento
+ Talent
+tallone
+ Ferse; Hacke
+talvolta
+ manchmal
+tanto
+ sofern; insofern; sosehr; ebensosehr; soviel; ebensoviel; soweit
+tappeto
+ Teppich
+tappezzare
+ tapezieren
+tardo
+ spät
+tassa
+ Abgabe; Steuer; Steuerabgabe
+tasso
+ Dachs
+tastiera
+ Klaviatur; Tastatur
+tavolo
+ Tisch
+tazza
+ Tasse
+teatro
+ Theater
+tedesco
+ 1. deutsch
+ 2. Deutscher
+tegola
+ Dachziegel; Pfanne; Ziegel
+teiera
+ Teebüchse
+temere
+ fürchten; befürchten; sich ängsten; sich ängstigen; zagen
+tempesta
+ Sturm
+tempia
+ Schläfe
+tempo
+ 1. Zeit
+ 2. Wetter; Witterung
+tenaglie
+ Gefäß; Griff; Handhabe; Heft; Knauf; Stiel
+tenebre
+ Dunkelheit
+tenebroso
+ dunkel; finster
+tenere
+ halten; aufhalten
+teritorio
+ Gebiet; Gelände; Territorium
+terminare
+ beschließen; enden; beenden; endigen; beendigen; erledigen
+terminato
+ fertig
+terra
+ Boden; Erdboden; Erde; Grund; Land; Terrain
+terrazzo
+ Altan; Balkon
+terremoto
+ Erdbeben
+terrestre
+ irdisch; terrestrisch
+terribile
+ entsetzlich; furchtbar; gräßlich; schrecklich
+testa
+ Kopf
+tetto
+ Dach
+tettoia
+ Markise
+tiglio
+ Linde; Lindenbaum
+tigre
+ /f/-Tiger/m/
+timone
+ Lenkrad
+timore
+ 1. Angst
+ 2. Blödigkeit
+tinozza
+ Behälter; Besteck; Krug
+tiranno
+ Tyrann; Wüterich
+tirare
+ ziehen; verziehen
+titubare
+ 1. schwanken; zaudern; zögern
+ 2. taumeln; wackeln; zagen; zaudern; zögern
+toccare
+ rühren; anrühren; berühren; tangieren
+togliere
+ zurücklegen
+tollerare
+ dulden
+tomo
+ Band; Volumen
+tonno
+ Thunfisch
+topo
+ 1. /m/-Maus/f/
+ 2. /m/-Ratte/f/
+torcia
+ Fackel
+toro
+ Stier
+torre
+ Turm; Zwinger
+torta
+ Kuchen
+tossire
+ husten
+totale
+ ganz; total
+tovagliolo
+ Serviette
+toviglia
+ Tischtuch
+tradurre
+ übersetzen; übertragen
+traduzione
+ Übersetzung; Übertragung
+tram
+ Straßenbahn
+tranquillo
+ gelassen; gemütlich; ruhig; still
+traspirare
+ schwitzen
+trasportare
+ befördern; übertragen
+trasporto
+ Transport
+trattamento
+ Behandlung; Unterhandlung; Verhandlung
+trattare
+ behandeln; traktieren; unterhandeln
+trattato
+ Abhandlung; Traktat
+trave
+ Balken
+tre
+ drei
+trebbiare
+ dreschen
+tredici
+ dreizehn
+tremare
+ beben; zittern; zucken
+treno
+ 1. Zug
+ 2. Bahnzug; Eisenbahnzug; Zug
+treno
+ Eilzug
+trenta
+ dreißig
+triangolo
+ Dreieck
+triciclo
+ Dreirad
+triste
+ 1. düster
+ 2. flau; träge
+ 3. traurig
+ 4. verzagt
+tristezza
+ Betrübnis
+tromba
+ 1. Hupe
+ 2. Horn; Hupe
+ 3. Trompete
+tronco
+ Stamm; Baumstamm; Strunk
+troppo
+ zu; zu sehr; zu viel
+trota
+ Forelle
+trovare
+ finden; befinden; erachten; ermitteln; vorfinden
+trovarsi
+ sich aufhalten; sich befinden
+truffa
+ Betrug; Täuschung; Trug; Unterschleif
+truffare
+ äffen; betrügen; hintergehen; täuschen
+tuo
+ 1. dein
+ 2. dein; deinig; euer; eurige; Ihr; ihrige
+tuonare
+ donnern
+tuono
+ Donner
+turbato
+ bestürtzt
+turco
+ Türke
+tutto
+ 1. ganz; total
+ 2. Ganze; Gesamtheit
+ 3. alles
+tutt
+ zumeist
+t
+ Tee
+ubbidiente
+ folgsam; fügsam; gefügig; gehorsam; zahm
+ubbidire
+ folgen; befolgen; gehörchen
+ubriaco
+ berauscht; trunken; betrunken
+uccello
+ /m/-Vogel/m/
+uccidere
+ ermorden; töten
+udienza
+ Audienz
+udire
+ hören; vernehmen
+udito
+ Gehör
+ufficiale
+ amtlich; offiziell
+ufficio
+ 1. Büro; Geschäftszimmer; Kontor
+ 2. Amt; Büro
+ufficio
+ Auskunftstelle
+ufficio
+ Postamt
+uffizio
+ Gottesdienst
+ultimo
+ letzte; letzter; letztes
+umile
+ demütig; kleinlaut; unterwürfig
+un
+ ein; eine; eins
+una
+ ein; eine; eins
+una
+ einmal
+undici
+ elf
+ungherese
+ Ungar
+unghia
+ Nagel
+unico
+ einzig
+unit
+ Einigkeit; Einheit
+universale
+ universal
+universit
+ Hochschule; Universität
+uno
+ ein; eine; eins
+un
+ ein; eine; eins
+uomo
+ Mann
+uovo
+ Ei
+urto
+ Stoß; Trieb
+usare
+ anwenden; benutzen; brauchen; gebrauchen; verwenden; verwerten
+uscio
+ Tür
+uscire
+ ausgehen; ausrücken
+uscita
+ Ausgang
+usignolo
+ Nachtigall
+usignuolo
+ Nachtigall
+uso
+ Benutzung; Gebrauch
+usuale
+ geläufig; üblich
+utile
+ nützlich; vorteilhaft; zweckdienlich
+utilizzare
+ dienen; frommen; nützen
+uva
+ Traube; Weintraube
+vacca
+ Kuh
+vagone
+ Bahnwagen; Wagen; Wagon; Waggon
+valere
+ aufwiegen; gelten; sich verlohnen; wert sein
+valigia
+ Handkoffer; Felleisen
+valle
+ Tal
+valore
+ Bedeutung; Geltung; Wert
+valutare
+ abschätzen; bewerten; schätzen; abschätzen; einschätzen
+valvola
+ Ventil
+vangelo
+ Evangelium
+vanitoso
+ eitel; hinfällig
+vantaggio
+ 1. Ertrag; Gewinn; Interesse; Nutzen; Überschuß; Verdienst; Vorteil
+ 2. Interesse; Nutzen; Vorteil
+variazone
+ Variation
+vasca
+ Bad
+vaso
+ Behälter; Besteck; Krug
+vaso
+ Blumentopf
+vecchio
+ alt; bejahrt; betagt
+vedere
+ sehen; ansehen
+vela
+ Segel
+veleno
+ Gift
+velenoso
+ giftig
+velocit
+ Geschwindigkeit; Tempo
+vena
+ Ader; Vene
+vendere
+ veräußern; verkaufen
+vendetta
+ Rache
+vendita
+ 1. Absatz; Debit; Vertrieb
+ 2. Verkauf
+venerare
+ anbeten; verehren; vergöttern
+venerd
+ Freitag/m/
+venire
+ kommen
+venti
+ zwanzig
+ventilare
+ lüften
+vento
+ Wind
+ventre
+ Bauch; Unterleib
+venuta
+ Ankunft; Eintreffen
+verde
+ 1. grün
+ 2. Grün
+vergognarsi
+ sich schämen
+verificare
+ kontrollieren; nachsehen; überwachen
+verit
+ 1. Wahrheit
+ 2. Wahrheit
+verme
+ Wurm
+vero
+ authentisch; echt; recht; urkundlich; wahr; wahrhaft
+versare
+ gießen; schütten
+verso
+ annähernd; etwa; ungefähr
+vescica
+ Blase
+vescovo
+ Bischof
+vespa
+ /f/-Wespe/f/
+vestire
+ anziehen; kleiden; ankleiden; bekleiden
+vetro
+ Glas
+vettura
+ Bahnwagen; Wagen; Wagon; Waggon
+vettura
+ Schlafwagen
+via
+ 1. Straße
+ 2. Bahn; Chaussee; Strecke; Weg
+viaggiare
+ reisen
+viaggio
+ Reise; Tour
+vicino
+ 1. angrenzend; anstoßend; benachbart
+ 2. Nachbar
+ 3. nahe
+vicolo
+ Gasse
+vietare
+ untersagen; verbieten
+vigna
+ Weinberg
+villaggio
+ Dorf; Ort
+vino
+ Wein
+violoncello
+ Violincello
+vipera
+ Natter
+virt
+ Tugend
+visita
+ Besuch; Visite
+visitare
+ besuchen; einen Besuch abstatten
+viso
+ Angesicht; Antlitz; Gesicht
+vista
+ 1. Aussicht
+ 2. Aussicht; Panorama
+ 3. Aussehen; Gesicht; Sehen; Sicht
+visto
+ da; denn; weil
+vita
+ Leben
+vite
+ 1. Rebe; Weinstock
+ 2. Schraube
+vitello
+ Kalb
+vittoria
+ 1. Triumph
+ 2. Sieg
+vivere
+ leben
+volante
+ Lenkrad
+volare
+ fliegen; huschen
+volentieri
+ bereit; bereitwillig; gern
+volere
+ wollen
+volere
+ gern haben; lieben; mögen
+volgare
+ üblich; verständlich; vulgär
+volont
+ Wille
+volpe
+ /f/-Fuchs/m/
+volume
+ Band; Volumen
+vomitare
+ sich brechen; sich erbrechen; sich übergeben
+vongola
+ Miesmuschel
+vostro
+ dein; deinig; euer; eurige; Ihr; ihrige
+votare
+ votieren
+vuotare
+ ausleeren; entleeren
+vuoto
+ leer
+zanzara
+ /f/-Mücke/f/; Stechmücke/f/; Moskito
+zavorra
+ Ballast
+zelo
+ Eifer; Inbrunst
+zio
+ Onkel
+zoccolo
+ Huf
+zodiaco
+ Tierkreis; Zodiakus
+zoppicare
+ hinken; humpeln
+zucca
+ Kürbis
+pghzqrisakbctulmdevfno

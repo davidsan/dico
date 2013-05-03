@@ -1,0 +1,2956 @@
+
+00-database-dictfmt-1.10.11
+English-Swahili xFried/FreeDict Dictionary
+
+Compiled by : Beata Wojtowicz <wierzchob@wp.pl>
+Maintainer: Beata Wojtowicz <wierzchob@wp.pl>
+
+Edition: 0.2.1
+Size: 1450 headwords
+
+Published by: FreeDict, 2004
+at: http://freedict.org/
+
+Availability:
+
+  Available under the terms of the GNU General Public Licence 2.0 or
+  later.
+
+Source(s):
+
+  This file was compiled from other electronic documents. It is based on
+  Swahili-Kiswahili to English Translation Program by Morris Fried
+  available from http://www.dict.org/links.html, which has been
+  supplemented by entries from Freedict Swahili-English Dictionary created
+  by Horst Eyermann (http://www.freedict.de/) from the Swahili-Esperanto
+  and Esperanto-English Ergane dictionaries, available from
+  http://www.travlang.com/.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project /
+  http://freedict.org/ .
+
+Changelog:
+
+ * 2010-02-25 $Id: teiheader2txt.xsl,v 1.9 2009-04-13 01:19:43 bansp Exp $:
+   Converted TEI file into text format
+
+ * 2010-02-25 :
+   Piotr Bański Upgraded to TEI P5, removed whitespace from equivalents,
+   sorted entries, sorted entry insides, wrapped <def> in <sense> and
+   added <gramGrp> with an empty <pos> in the entries that had no POS.
+   This is now an example of minimal TEI P5 conformance. Changed the
+   header very slightly. Added brackets around "plural" in headwords.
+
+ * 2007-02-13 :
+   Michael Bunk Enabled phonetics import.
+
+ * 2004 :
+   Beata Wójtowicz Compiled swa-eng from two sources (see the sourceDesc)
+   and got it reversed to create this one.
+
+English-Swahili xFried/FreeDict Dictionary ver. 0.2.1
+
+10c piece <n>
+ kikumi
+5c piece <n>
+ kitano
+a while <n>
+ kitambo
+above <adv>
+ juu
+abundance <n>
+ wingi
+abundant <adj>
+ tele
+abuse <n>
+ matukano
+accident <n>
+ ajali
+accustom <v>
+ zoeza
+acid <n>
+ asidi
+act <n>
+ mpango
+address <n>
+ anwani
+Africa <n>
+ Afrika
+African <n>
+ Mwafrika
+after <adv>
+ baada
+afternoon <n>
+ alasiri
+afterwards <adv>
+ baadaye
+afterwards <adv>
+ halafu
+again <adv>
+ tena
+agree <v>
+ kubali
+agree <v>
+  patana
+agreement <n>
+ mapatano
+air <n>
+ hewa
+airplane <n>
+ eropleni
+alive <adj>
+ hai
+all <adj>
+ ote
+all <adj>
+ pia
+all of you
+ nyote
+alone <adj>
+ peke
+although <conj>
+ ingawa
+always <adv>
+ sikuzote
+amount <n>
+ kiasi
+amuse <v>
+ chekesha
+and <conj>
+ na
+and I
+ nami
+and they
+ nao
+angel <n>
+ malaika
+animal <n>
+ mnyama
+answer <n>
+ jibu
+answer <v>
+ itika
+answer <v>
+ jibu
+appear <v>
+ tokea
+apply <v>
+ paka
+appointment <n>
+ miadi
+April <n>
+ Aprili
+Arabia <n>
+ Manga
+are <irrv>
+ ni
+arm <n>
+ mkono
+arrange <v>
+ panga
+arrive <v>
+ fika
+arrive at <v>
+ fikia
+art <n>
+ sanaa
+as <conj>
+ kama
+ash <n>
+ jivu
+ask <v>
+ uliza
+association <n>
+ chama
+attention <n>
+ uangalifu
+August <n>
+ Agosti
+aunt <n>
+ shangazi
+authority <n>
+ mamlaka
+awaken <v>
+ amsha
+baboon <n>
+ nyani
+back <n>
+ mgongo
+bad <adj>
+ baya
+bag <n>
+ mfuko
+bag <n>
+ mkoba
+balcony <n>
+ roshani
+banana <n>
+ ndizi
+banana plant <n>
+ mgomba
+barbarous <adj>
+ shenzi
+barber <n>
+ kinyozi
+basket <n>
+ kikapu
+bathe <v>
+ oga
+bathe in <v>
+ ogea
+bathing suit <n>
+ kiogeo
+be <v>
+ wa
+be able <v>
+ weza
+be apparent <v>
+ onekana
+be awakened <v>
+ amshwa
+be boiled <v>
+ chemshwa
+be born <v>
+ zaliwa
+be broken <v>
+ vunjika
+be bruised <v>
+ chubuka
+be called <v>
+ itwa
+be careful <v>
+ tahadhari
+be changed <v>
+ badilishwa
+be clear <v>
+ elea
+be closed <v>
+ fungwa
+be collected <v>
+ tozwa
+be comfortable <v>
+ starehe
+be complete <v>
+ timia
+be cut <v>
+ katwa
+be delivered <v>
+ fikishwa
+be disturbed <v>
+ ghasiwa
+be done <v>
+ fanyika
+be dried up <v>
+ kaukwa
+be enough <v>
+ tosha
+be full <v>
+ shiba
+be given <v>
+ pewa
+be helped <v>
+ saidiwa
+be in service <v>
+ tumika
+be in time <v>
+ wahi
+be injured <v>
+ umia
+be kneaded <v>
+ kandwa
+be laid out <v>
+ tandikwa
+be loose <v>
+ pwaya
+be married <v>
+ olewa
+be obtainable <v>
+ patikana
+be opened <v>
+ funguliwa
+be ordered <v>
+ amriwa
+be overcome <v>
+ shindwa
+be permitted <v>
+ ruhusiwa
+be possible <v>
+ wezekana
+be put <v>
+  tiwa
+be put <v>
+ wekwa
+be quiet <v>
+ nyamaza
+be rented <v>
+ kodishwa
+be repaired <v>
+ tengenezwa
+be requested <v>
+ takiwa
+be required of <v>
+ lazimu
+be robbed <v>
+ ibiwa
+be sent <v>
+ pelekwa
+be sent to <v>
+ pelekewa
+be sick <v>
+ umwa
+be sorry <v>
+ sikitika
+be torn <v>
+ chanika
+be twisted <v>
+ pindwa
+be used <v>
+ tumiwa
+be useful <v>
+ faa
+be washed <v>
+ fuliwa
+be written <v>
+ andikwa
+bean <n>
+ ukunde
+bean cake <n>
+ bajia
+bear offspring <v>
+ zaa
+beard <n>
+ ndevu
+beauty <n>
+ uzuri
+bed <n>
+ kitanda
+bee <n>
+ nyuki
+beer <n>
+ pombe
+before <prep>
+ kabla
+before dawn <n>
+ alfajiri
+beg <v>
+ omba
+beggar <n>
+ mwombaji
+begin <v>
+ anza
+behavior <n>
+ mwenendo
+behind <adv>
+ nyuma
+believe <v>
+ amini
+believe <v>
+ sadiki
+bell <n>
+ kengele
+below <adv>
+ chini
+bend <n>
+ pindi
+bend down <v>
+ inama
+beverage <n>
+ kinywaji
+Bible <n>
+ biblia
+big <adj>
+  kubwa
+bird <n>
+ ndege
+bite <v>
+ uma
+biting ant <n>
+ siafu
+bitter <adj>
+ chungu
+black <adj>
+ eusi
+bless <v>
+ bariki
+blessing <n>
+ baraka
+blind person <n>
+ kipofu
+blister <n>
+ lengelenge
+blood <n>
+ damu
+blue <adj>
+ buluu
+board <n>
+ bao
+boat <n>
+ mashua
+body <n>
+ mwili
+body organ <n>
+ mshipa
+boil <n>
+ jipu
+boil <v>
+ chemsha
+bone <n>
+ mfupa
+book <n>
+ kitabu
+book <n>
+ msahafu
+borrow <v>
+ kopa
+bottle <n>
+ chupa
+box <n>
+ sanduku
+boy <n>
+ mvulana
+bracelet <n>
+ kikuku
+brain <n>
+ ubongo
+brake <n>
+ kizuizo
+brass <n>
+ shaba
+brassiere <n>
+ sidiria
+brave <adj>
+ hodari
+bread <n>
+ mkate
+break <v>
+ vunja
+break down <v>
+ bomoa
+break down <v>
+ haribika
+bream <n>
+ changu
+bridge <n>
+ daraja
+brightness <n>
+ mwangaza
+bring <v>
+ leta
+bring to <v>
+ letea
+bring up <v>
+ lea
+broom <n>
+ ufagio
+brother <n>
+ kaka
+brown <adj>
+ kahawia
+bubble up <v>
+ chemka
+buffalo <n>
+ nyati
+build <v>
+ jenga
+bunch <n>
+ shada
+bundle <n>
+ furushi
+bundle <n>
+ tita
+burn <v>
+ waka
+but <conj>
+ bali
+but <conj>
+ lakini
+butter <n>
+ siagi
+buttock <n>
+ kitako
+buy <v>
+ nunua
+cafe <n>
+ mkahawa
+calf <n>
+ ndama
+call <v>
+  ita
+call on <v>
+ tembelea
+camel <n>
+ ngamia
+can <n>
+ mkebe
+captain <n>
+ nahodha
+care for <v>
+ tunza
+carelessly <adv>
+ ovyo
+caretaker <n>
+ mtunza
+carpenter <n>
+ seremala
+carry <v>
+ beba
+carry <v>
+ chukua
+carry for <v>
+ chukulia
+cassava <n>
+ muhogo
+cat <n>
+ paka
+caution <n>
+ hadhari
+cent <n>
+ senti
+centipede <n>
+ tandu
+ceremonial dance <n>
+ unyago
+certainly not <interj>
+ hasha!
+certainty <n>
+ hakika
+certificate <n>
+ cheti
+chain <n>
+ mnyororo
+chair <n>
+ kiti
+change <v>
+ badilisha
+cheap <adj>
+ rahisi
+check <n>
+ hundi
+cheek <n>
+ shavu
+cheese <n>
+ jibini
+chest <n>
+ kifua
+chest cold <n>
+ mafua
+chew <v>
+ tafuna
+chicken pox <n>
+ tetekuwanga
+chief <n>
+ jumbe
+child <n>
+ mtoto
+childhood <n>
+ utoto
+chin <n>
+ kidevu
+choose <v>
+ chagua
+church <n>
+ kanisa
+circuit <n>
+ mzunguko
+citizen <n>
+ raia
+class <n>
+ darasa
+clean <adj>
+ safi
+clean <adj>
+ takatifu
+cleanse <v>
+ safisha
+clerk <n>
+ karani
+close <v>
+ fumba
+cloth <n>
+ kitambaa
+clothes <n>
+ nguo
+clothes iron <n>
+ pasi
+coast <n>
+ pwani
+coat <n>
+ koti
+cock <n>
+ jogoo
+coconut <n>
+ dafu
+coconut <n>
+ nazi
+coconut palm <n>
+ mnazi
+cod <n>
+ chewa
+coffee <n>
+ kahawa
+coin <n>
+ sarafu
+cold <n>
+ baridi
+collarbone <n>
+ mtulinga
+collect <v>
+ toza
+collective work <n>
+ ujima
+collector <n>
+ mkusanya
+color <n>
+ rangi
+comb <n>
+ kitana
+come <v>
+ ja
+come across <v>
+ kuta
+come! <irrv>
+ njoo!
+commerce <n>
+ biashara
+companion <n>
+ mwenzi
+competition <n>
+ shindano
+complete <v>
+ kamili
+complete <adj>
+ kamili
+conductor <n>
+ utingo
+confuse <v>
+ ghasi
+confusion <n>
+ ghasia
+congratulations <n>
+ pongezi
+consider <v>
+ fikiri
+content <adj>
+ radhi
+continue <v>
+ endelea
+contradict <v>
+ gomba
+converse <v>
+ ongea
+converse in <v>
+ zungumzia
+cook <n>
+ mpishi
+cook <v>
+ pika
+cook in <v>
+ pikia
+cooking pot <n>
+ chungu
+cool <v>
+ poza
+cool down <v>
+ poa
+cool season <n>
+ kipupwe
+cool south wind <n>
+ kusi
+copy <v>
+ fuatisha
+cord <n>
+ uzi
+cork <n>
+ kizibo
+corpse <n>
+ maiti
+correct <v>
+ sahihisha
+correct <adj>
+ sahihi
+cotton <n>
+ pamba
+cough <n>
+ kikohozi
+count <v>
+ hesabu
+country <n>
+ nchi
+course <n>
+ mwendo
+cover <v>
+ funika
+cow <n>
+ ng'ombe
+crack <n>
+ ufa
+craftsman <n>
+ fundi
+create <v>
+ umba
+crocodile <n>
+ mamba
+cross <n>
+ msalaba
+cross over <v>
+ vuka
+crossing <n>
+ kivuko
+crowbar <n>
+ mtalimbo
+crush <v>
+ ponda
+cry out <v>
+ lia
+cucumber <n>
+ tango
+cunning <adj>
+ erevu
+cup <n>
+ kikombe
+cure <v>
+ ponya
+custom <n>
+ desturi
+custom <n>
+ kawaida
+Custom House <n>
+ forodha
+cut <v>
+ kata
+danger <n>
+ hatari
+darkness <n>
+ giza
+date <n>
+ tarehe
+date <n>
+ tende
+date palm <n>
+ mtende
+daughter <n>
+ binti
+dawn <v>
+ pambazuka
+day <n>
+ siku
+daytime <n>
+ mchana
+deaf person <n>
+ kiziwi
+December <n>
+ Desemba
+deck <n>
+ sitaha
+deed <n>
+ tendo
+delay <v>
+ chelewa
+deny <v>
+ kana
+descent <n>
+ mtelemko
+desire <v>
+ tumai
+despise <v>
+ dharau
+destroy <v>
+ haribu
+dictionary <n>
+ kamusi
+die <v>
+ fa
+difference <n>
+ tofauti
+different <adj>
+ mbalimbali
+diminish <v>
+ pungua
+direct <v>
+ elekeza
+dirty <adj>
+ chafu
+discount <n>
+ kipunguzi
+distance <n>
+ mbali
+divide <v>
+ gawa
+division <n>
+ panda
+do for <v>
+ fanyia
+doctor <n>
+ daktari
+document <n>
+ hati
+dog <n>
+ mbwa
+doll <n>
+ bandia
+donkey <n>
+ punda
+door <n>
+ mlango
+dormitory <n>
+ bweni
+dream <n>
+ ndoto
+dress <v>
+ vaa
+drink <v>
+ nywa
+drinking glass <n>
+ bilauri
+drive <v>
+ ongoza
+drive away <v>
+ kimbiza
+drive out <v>
+ fukuza
+drop <n>
+ tone
+drum <n>
+ ngoma
+dry <adj>
+ kavu
+dry up <v>
+  kauka
+dry with <v>
+ kaushia
+duck <n>
+ bata
+eagle <n>
+ tai
+ear <n>
+ sikio
+early <adv>
+ mapema
+east <n>
+ mashariki
+eat <v>
+ la
+economics <n>
+ uchumi
+effort <n>
+ bidii
+egg <n>
+ yai
+eight <num>
+ nane
+eighty <num>
+ themanini
+elder <n>
+ mzee
+elephant <n>
+ tembo
+eleven <num>
+ edashara
+embassy <n>
+ ubalozi
+empty <adj>
+ tupu
+enable <v>
+ wezesha
+enemy <n>
+ adui
+English language <n>
+ Kiingereza
+enlarge <v>
+ kuza
+enter <v>
+ ingia
+enter into <v>
+ ingilia
+entirely <adv>
+ kabisa
+entry <n>
+ kiingilio
+envelope <n>
+ bahasha
+equal <adj>
+ sawa
+especially <adv>
+ hasa
+even if <conj>
+ ijapo
+evening <n>
+ jioni
+every <adj>
+ kila
+exactly <adv>
+ halisi
+excellent <adj>
+ bora
+except <conj>
+ ila
+expense <n>
+ gharama
+expensive <adj>
+ ghali
+explain <v>
+ eleza
+explanation <n>
+ elezo
+eye <n>
+ jicho
+eyeglasses <n>
+ miwani
+face <n>
+ uso
+face <v>
+ elekea
+fade <v>
+  kwajuka
+fail <v>
+ kosekana
+faint <v>
+ zimia
+faith <n>
+ imani
+fall <v>
+ anguka
+family  <n>
+ jamaa
+far <adv>
+ mbali
+fare <n>
+ nauli
+farmer <n>
+ mlimaji
+farther <n>
+ ng'ambo
+fasten <v>
+ funga
+fasten with <v>
+ fungia
+fastening <n>
+ kifungo
+fat <adj>
+ nene
+fat <adj>
+ nono
+father <n>
+ baba
+fault <n>
+ kosa
+favor <v>
+ pendelea
+fear <n>
+ hofu
+fear <v>
+ ogopa
+February <n>
+ Februari
+feed <v>
+ lisha
+female <n>
+ kike
+ferry <n>
+ likoni
+fever <n>
+ homa
+few <adj>
+ chache
+few <adj>
+ haba
+fiance <n>
+ mchumba
+fiancee <n>
+ mchumba
+fifty <num>
+ hamsini
+fifty <num>
+ khamsini
+fig <n>
+ tini
+fig tree <n>
+ mtini
+fight <v>
+ pigana
+file <n>
+ tupa
+fill <v>
+ jaza
+fill up <v>
+ jaa
+finally <adv>
+ hatimaye
+finger <n>
+ kidole
+fingernail <n>
+ ukucha
+finish <v>
+ isha
+finish <v>
+ maliza
+fire <n>
+ moto
+fireplace <n>
+ jiko
+first <adj>
+ kwanza
+fish <n>
+ samaki
+five <num>
+ tano
+flour <n>
+ unga
+flower  <n>
+ ua
+fly <n>
+ inzi
+fold <v>
+ kunja
+follow <v>
+ fuata
+folly <n>
+ ujinga
+food <n>
+ chakula
+fool <n>
+ mjinga
+for <prep>
+ kwa
+forbid <v>
+ kataza
+foreign <adj>
+ geni
+forest <n>
+ msitu
+forget <v>
+ sahau
+forgive <v>
+ achilia
+forgive <v>
+ samehe
+fork <n>
+ uma
+forty <num>
+ arobaini
+four <adj>
+ nne
+four <num>
+ nne
+fowl <n>
+ kuku
+freedom <n>
+ uhuru
+French language <n>
+ Kifaransa
+Friday <n>
+ Ijumaa
+friend <n>
+ rafiki
+frog <n>
+ chura
+fruit <n>
+ tunda
+fry <v>
+ kaanga
+gain <n>
+ nafuu
+game <n>
+ mchezo
+garden <n>
+ bustani
+gas <n>
+ hewa
+gasoline <n>
+ petroli
+gather <v>
+ chuma
+gauze <n>
+ shashi
+gem <n>
+ kito
+gentle <adj>
+ pole
+gentleman <n>
+ bwana
+gentleness <n>
+ upole
+get <v>
+ pata
+get drunk <v>
+ lewa
+get for <v>
+ patia
+get lost <v>
+ potea
+get tired <v>
+ choka
+get well <v>
+ pona
+giant <n>
+ jitu
+giraffe <n>
+ twiga
+girl <n>
+ msichana
+give <v>
+ pa
+give a share <v>
+ husu
+give for <v>
+ pia
+glass <n>
+ kioo
+go <v>
+ enda
+go <irrv>
+ nenda!
+go away <v>
+ ondoka
+go out <v>
+ toka
+go round <v>
+ zunguka
+go to <v>
+ endea
+goat <n>
+ mbuzi
+God <n>
+ Mungu
+gold <n>
+ dhahabu
+good <adj>
+ ema
+good <adj>
+ zuri
+good fortune <n>
+ heri
+gown <n>
+ kanzu
+grape <n>
+ zabibu
+grape vine <n>
+ mzabibu
+grapefruit <n>
+ balungi
+great <adj>
+ kuu
+greater rains <n>
+ masika
+greet <v>
+ amkia
+greet <v>
+ salimu
+greetings <n>
+ salamu
+grind <v>
+ saga
+grow <v>
+ ota
+grow up <v>
+ kua
+guarantee <n>
+ kithibitisho
+guard <n>
+ mlinzi
+guard <v>
+ linda
+guava <n>
+ pera
+guide <n>
+ kiongozi
+gum <n>
+ gundi
+gums <n>
+ ufizi
+hair <n>
+ nywele
+half <n>
+ nusu
+half gallon <n>
+ pishi
+hammer <n>
+ nyundo
+hang up on <v>
+ tundikia
+hard <adj>
+ gumu
+hare <n>
+ sungura
+harm <v>
+ dhuru
+harvest <n>
+ mavuno
+haste <n>
+ haraka
+hat <n>
+ kofia
+hate <v>
+ chukia
+have <v>
+ na
+having <adj>
+ enye
+he <pron>
+ yeye
+he she is <irrv>
+ yu
+head <n>
+ kichwa
+health <n>
+ afya
+hear <v>
+ sikia
+heart <n>
+ moyo
+heat <n>
+ joto
+heavy <adj>
+ zito
+heel <n>
+ kisigino
+hello
+ jambo
+help <n>
+ msaada
+help <v>
+ saidia
+herdsman <n>
+ mchungaji
+here <adv>
+ hapa
+here <adv>
+ huku
+hers <adj>
+ ake
+hesitate <v>
+ sita
+hide <v>
+ ficha
+highway <n>
+ barabara
+hill <n>
+ kilima
+hinder <v>
+ zuia
+hip <n>
+ nyonga
+hippo <n>
+ kiboko
+his <adj>
+ ake
+hit <v>
+ piga
+hit for <v>
+ pigia
+hoe <n>
+ jembe
+hoe <v>
+ lima
+hold on to <v>
+ shika
+holder <n>
+ mshika
+hole <n>
+ tundu
+holiday <n>
+ sikukuu
+honey <n>
+ asali
+horn <n>
+ honi
+horse <n>
+ farasi
+hospital <n>
+ hospitali
+hot season <n>
+ kaskazi
+hot season <n>
+ kiangazi
+hotel <n>
+ hoteli
+hour <n>
+ saa
+house <n>
+ nyumba
+how <adv>
+ je?
+how many <adj>
+ ngapi?
+hundred <num>
+ mia
+hundred thousand <adj>
+ laki
+hundred thousand <num>
+ laki
+hunger <n>
+ njaa
+hunt <v>
+ winda
+husband <n>
+ mume
+hut <n>
+ kibanda
+hyena <n>
+ fisi
+I <pron>
+ mimi
+I do not have <irrv>
+ sina
+I have <irrv>
+ nina
+ice <n>
+ barafu
+idle <adj>
+ vivu
+if <conj>
+ iwapo
+ill-feeling <n>
+ chuki
+implement <n>
+ kifaa
+importance <n>
+ umuhimu
+important <adj>
+ muhimu
+improve <v>
+ boresha
+in <prep>
+ katika
+in a corner <adv>
+ pembeni
+in front <adv>
+ mbele
+in front <adv>
+ mkabala
+in here <adv>
+ humu
+in order that <conj>
+ ili
+in there <adv>
+ mle
+in vain <adv>
+ bure
+in-law <n>
+ mkwe
+increase <v>
+ ongeza
+increase <v>
+ zidi
+infect <v>
+ ambukiza
+infidel <n>
+ kafiri
+inform <v>
+ arifu
+inhabitant <n>
+ mwenyeji
+initiation rite <n>
+ jando
+ink <n>
+ wino
+inquisitiveness <n>
+ utafiti
+insect <n>
+ mdudu
+inside <adv>
+ ndani
+instrument <n>
+ ala
+insult <n>
+ tusi
+insurance <n>
+ bima
+intention <n>
+ kusudi
+intention <n>
+ mradi
+intestines <n>
+ utumbo
+is <irrv>
+ ni
+island <n>
+ kisiwa
+it is I
+ ndimi
+it is we
+ ndisi
+its <adj>
+ ake
+January <n>
+ Januari
+jaw <n>
+ taya
+jealous <adj>
+ wivu
+jeweller <n>
+ sonara
+join <v>
+ unga
+journey <n>
+ safari
+joy <n>
+ furaha
+July <n>
+ Julai
+jump <v>
+ ruka
+June <n>
+ Juni
+key <n>
+ ufunguo
+kidney <n>
+ figo
+kill <v>
+ ua
+kilogram <n>
+ kilo
+kind <n>
+ aina
+kind <n>
+ jinsi
+kind <n>
+ namna
+king <n>
+ mfalme
+kingdom <n>
+ ufalme
+kingfish <n>
+ nguru
+knead <v>
+ kanda
+knee <n>
+ goti
+knife <n>
+ kisu
+know <v>
+ elewa
+know <v>
+ jua
+knowledge <n>
+ elimu
+knowledge <n>
+ maarifa
+Koran <n>
+ Kurani
+lace <n>
+ almaria
+lady <n>
+ bibi
+lamp <n>
+ taa
+land <n>
+ ardhi
+language <n>
+ lugha
+large basket <n>
+ kapu
+last <adj>
+ mwisho
+latrine <n>
+ choo
+laugh <v>
+ cheka
+laxative <n>
+ haluli
+lay down <v>
+ laza
+lay out <v>
+ tandika
+leader <n>
+ mkurugenzi
+leaf <n>
+ jani
+leak <v>
+ vuja
+learn <v>
+ jifunza
+leather strap <n>
+ ukanda
+leave <v>
+ acha
+left hand <n>
+ shoto
+left side <n>
+ kushoto
+leg <n>
+ mguu
+lemon <n>
+ limau
+lend <v>
+ kopesha
+length <n>
+ urefu
+leopard <n>
+ chui
+less <adv>
+ kasa
+less <adv>
+ kasoro
+less a quarter
+ kasorobo
+lesser rains <n>
+ vuli
+lesson <n>
+ fundisho
+letter <n>
+ barua
+lid <n>
+ kifuniko
+lie down <v>
+ lala
+life <n>
+ maisha
+life <n>
+ uhai
+lift up <v>
+ inua
+light weight <adj>
+ epesi
+lightning <n>
+ umeme
+like <conj>
+ kama
+liken <v>
+ fananisha
+lime <n>
+ ndimu
+line <n>
+ mstari
+link <n>
+ kiungo
+lion <n>
+ simba
+lip <n>
+ mdomo
+list <n>
+ orodha
+listen <v>
+ sikiliza
+liver <n>
+ ini
+load <n>
+ mzigo
+lock <n>
+ kitasa
+locust <n>
+ nzige
+long <adj>
+ refu
+look at <v>
+ tazama
+look for <v>
+ tafuta
+lose <v>
+ poteza
+loss <n>
+ hasara
+lot <n>
+ kura
+love <v>
+ penda
+lung <n>
+ pafu
+machine <n>
+ mashine
+maiden <n>
+ mwali
+mail <n>
+ posta
+maize <n>
+ hindi
+maize plant <n>
+ muhindi
+make <v>
+ fanya
+male <n>
+ kiume
+man  <n>
+ mwanamume
+mango <n>
+ embe
+mango tree <n>
+ mwembe
+manners <n>
+ adabu
+mansion <n>
+ jumba
+manure <n>
+ mbolea
+manure <n>
+ samadi
+many <adj>
+ ingi
+map <n>
+ ramani
+March <n>
+ machi
+mark <n>
+ chapa
+market <n>
+ soko
+marriage <n>
+ ndoa
+marry <v>
+ oa
+match <n>
+ kiberiti
+matter <n>
+ jambo
+May <n>
+ Mei
+meaning <n>
+ maana
+measles <n>
+ shurua
+measure <n>
+ cheo
+measure <v>
+ pima
+measurement <n>
+ kipimo
+meat <n>
+ nyama
+meat pie <n>
+ sambusa
+medicine <n>
+ dawa
+meet <v>
+ kutana
+meet <v>
+ onana
+men <n>
+ wanaume
+mercy <n>
+ huruma
+merge <v>
+ unganisha
+messenger <n>
+ mjumbe
+metal <n>
+ madini
+midday <n>
+ adhuhuri
+middle <adv>
+ kati
+middle <adv>
+ katikati
+mile <n>
+ maili
+milk <n>
+ maziwa
+millet <n>
+ mtama
+million <num>
+ milioni
+mimic <v>
+ igiza
+minister <n>
+ kasisi
+minute <n>
+ dakika
+mirage <n>
+ sarabi
+miss <v>
+ kosa
+mix <v>
+ changanya
+mixture <n>
+ mchanganyiko
+molar <n>
+ gego
+Monday <n>
+ Jumatatu
+money <n>
+ fedha
+money <n>
+ pesa
+money order <n>
+ hawala
+monkey <n>
+ tumbili
+moon <n>
+ mwezi
+more <adv>
+ zaidi
+morning <n>
+ asubuhi
+mosque <n>
+ msikiti
+mosquito <n>
+ mbu
+mosquito net <n>
+ chandarua
+mother <n>
+ mama
+mountain <n>
+ mlima
+mouth <n>
+ kinywa
+move from <v>
+ hama
+move to <v>
+ hamia
+movies <n>
+ sinema
+much <adj>
+ ingi
+mud <n>
+ tope
+multiply <v>
+ zidisha
+muscle <n>
+ musuli
+mushroom <n>
+ uyoga
+music <n>
+ muziki
+my <adj>
+ angu
+nail <n>
+ msumari
+naked <adj>
+ tupu
+name <n>
+ jina
+narrow <adj>
+ embamba
+nation <n>
+ taifa
+nausea <n>
+ kichefuchefu
+near <adv>
+ karibu
+necessity <n>
+ lazima
+neck <n>
+ shingo
+necklace <n>
+ kidani
+need <v>
+ hitaji
+needle <n>
+ sindano
+nephew <n>
+ mpwa
+nest <n>
+ kiota
+net <n>
+ wavu
+new <adj>
+ pya
+New Testament <n>
+ injili
+news <n>
+ habari
+newspaper <n>
+ gazeti
+niece <n>
+ mpwa
+night <n>
+ usiku
+nine <num>
+ tisa
+ninety <num>
+ tisini
+no <interj>
+ la
+no <adv>
+ siyo
+north <n>
+ kaskazini
+nose <n>
+ pua
+not <adv>
+ si
+not at all <adv>
+ kamwe
+not inside <irrv>
+ hamna
+not only <prep>
+ licha
+not so <adv>
+ siyo
+not yet <adv>
+ bado
+notebook <n>
+ daftari
+November <n>
+ Novemba
+now <adv>
+ sasa
+number <n>
+ hesabu
+number <n>
+ nambari
+oblige <v>
+ bidi
+October <n>
+ Oktoba
+of <prep>
+ a
+offend <v>
+ chukiza
+office <n>
+ ofisi
+officer <n>
+ afisa
+official <adj>
+ rasmi
+oil <n>
+ mafuta
+ointment <n>
+ marhamu
+okra <n>
+ bamia
+old <adj>
+  kukuu
+old times <n>
+ kale
+one <num>
+ moja
+one who sews <n>
+ mshonaji
+onion <n>
+ kitunguu
+only <adv>
+ tu
+open <v>
+ fumbua
+open <adj>
+ wazi
+opportunity <n>
+ nafasi
+or <conj>
+ ama
+or <conj>
+ au
+orange <n>
+ chungwa
+orange tree <n>
+ mchungwa
+orator <n>
+ msemaji
+order <v>
+ agiza
+order for <v>
+ agizia
+ornament <n>
+ pambo
+ornamentation <n>
+ nakshi
+other <adj>
+ ingine
+our <adj>
+ etu
+outside <adv>
+ nje
+overcome <v>
+ shinda
+overseer <n>
+ msimamizi
+owner <n>
+ mwenye
+owner <n>
+ mwenyewe
+oyster <n>
+ chaza
+pacify <v>
+ tuliza
+package <n>
+ kifurushi
+page <n>
+ ukurasa
+pail <n>
+ ndoo
+pain <n>
+ umivu
+pair <n>
+ jozi
+palm <n>
+ kofi
+pants <n>
+ suruali
+papaya <n>
+ papai
+paper <n>
+ karatasi
+paradise <n>
+ peponi
+parent <n>
+ mzazi
+park <v>
+ egesha
+part <n>
+ sehemu
+pass <v>
+ pita
+pass by <v>
+ pitia
+passenger <n>
+ abiria
+paste <n>
+ gundi
+pay <v>
+ lipa
+payment <n>
+ lipo
+peace <n>
+ amani
+pen <n>
+ kalamu
+pencil <n>
+ kalamu
+penknife <n>
+ kijembe
+pepper <n>
+ pilipili
+peppermint <n>
+ peremende
+perhaps <adv>
+ huenda
+perhaps <adv>
+ labda
+period <n>
+ kipindi
+period of time <n>
+ muda
+permission <n>
+ ruhusa
+permit <v>
+ ruhusu
+person <n>
+ mtu
+phonograph <n>
+ santuri
+picture <n>
+ picha
+piece <n>
+ kipande
+pier <n>
+ gati
+pig <n>
+ nguruwe
+pigeon <n>
+ njiwa
+pill <n>
+ kidonge
+pillar <n>
+ nguzo
+pillow case <n>
+ foronya
+pineapple <n>
+ nanasi
+pint <n>
+ kibaba
+pipe <n>
+ kiko
+pit <n>
+ shimo
+place <n>
+ mahali
+plague <n>
+ tauni
+plaited mat <n>
+ mkeka
+planet <n>
+ sayari
+plank <n>
+ ubao
+plate <n>
+ sahani
+play <v>
+ cheza
+play at <v>
+ chezacheza
+playing cards <n>
+ karata
+please <v>
+ pendeza
+please <adv>
+ tafadhali
+plot <n>
+ kiwanja
+poor <adj>
+ maskini
+poor quality <adj>
+ hafifu
+port <n>
+ bandari
+porter <n>
+ mchukuzi
+possessions <n>
+ mali
+post <n>
+ posta
+potato <n>
+ kiazi
+pound <n>
+ ratli
+pray <v>
+ sali
+prayer <n>
+ sala
+precede <v>
+ tangulia
+prefer <v>
+ hiari
+prepare for <v>
+ tayarishia
+present <n>
+ zawadi
+press upon <v>
+ lemea
+price <n>
+ bei
+priest <n>
+ kahini
+proclaim <v>
+ tangaza
+produce <n>
+ zao
+profit  <n>
+ faida
+program <n>
+ utaratibu
+progress <n>
+ maendeleo
+prohibition <n>
+ marufuku
+prophet <n>
+ mtume
+prophet <n>
+ nabii
+pull <v>
+ vuta
+pump <n>
+ bomba
+pupil <n>
+ mwanafunzi
+purple <adj>
+ zambarau
+purpose <n>
+ nia
+push <v>
+ sukuma
+put <v>
+ tia
+put <v>
+ weka
+put aside for <v>
+ wekea
+put in <v>
+ ingiza
+put in <v>
+ tilia
+put out <v>
+ zima
+put out for <v>
+ tolea
+quarrel <n>
+ ugomvi
+quarrel <v>
+ gombana
+quarrel <v>
+ kosana
+quarter <n>
+ robo
+question <n>
+ swali
+quickly <adv>
+ upesi
+rain <n>
+ mvua
+rain <v>
+ nyesha
+rat <n>
+ panya
+ration <n>
+ posho
+raw <adj>
+ bichi
+razor <n>
+ wembe
+read <v>
+ soma
+reader <n>
+ msomaji
+ready <adj>
+ tayari
+reap <v>
+ vuna
+reason <n>
+ sababu
+rebuke <v>
+ kanya
+recommend <v>
+ sifia
+red <adj>
+ ekundu
+reduce <v>
+ punguza
+refuse <v>
+ kataa
+rejoice <v>
+ furahi
+relative <n>
+ ndugu
+religion <n>
+ dini
+remain <v>
+ baki
+remember <v>
+ kumbuka
+remind <v>
+ kumbusha
+rent <v>
+ kodi
+rent out <v>
+ kodisha
+repair <v>
+ tengeneza
+repair for <v>
+ tengenezea
+repent <v>
+ tubu
+resemble <v>
+ fanana
+reserve <n>
+ akiba
+respect <n>
+ heshima
+rest <v>
+ pumzika
+rest-place/time <n>
+ pumziko
+return <v>
+ rudi
+rhino <n>
+ kifaru
+rib <n>
+ ubavu
+rice <n>
+ mchele
+rice plant <n>
+ mpunga
+right side <n>
+ kulia
+righteousness <n>
+ haki
+ring <n>
+ pete
+rinse mouth <v>
+ sukutua
+ripe <adj>
+ bivu
+rise up <v>
+ ondokea
+river <n>
+ mto
+road <n>
+ njia
+rob <v>
+ nyang'anya
+roll <n>
+ kikuto
+room <n>
+ chumba
+root <n>
+ mzizi
+rope <n>
+ kamba
+rot <v>
+ oza
+rotten <adj>
+ bovu
+rug <n>
+ zulia
+run away <v>
+ kimbia
+run away <v>
+ toroka
+run to <v>
+ kimbilia
+sack <n>
+ gunia
+sailor <n>
+ baharia
+sake <n>
+ ajili
+saliva <n>
+ mate
+salt <n>
+ chumvi
+Saturday <n>
+ Jumamosi
+save <v>
+ okoa
+scarf <n>
+ leso
+schedule <n>
+ ratiba
+school <n>
+ chuo
+school <n>
+ shule
+school <n>
+ skuli
+scissors <n>
+ mkasi
+score (twenty) <n>
+ korija
+scorpion <n>
+ nge
+screw <n>
+ parafujo
+screw <n>
+ skrubu
+screwdriver <n>
+ bisibisi
+sea <n>
+ bahari
+second <adj>
+ pili
+secret <n>
+ siri
+see <v>
+  ona
+seed <n>
+ mbegu
+sell <v>
+ uza
+send <v>
+ peleka
+send back <v>
+ rudisha
+send for <v>
+ pelekea
+send off <v>
+ safirisha
+sense <n>
+ akili
+September <n>
+ Septemba
+serpent <n>
+ joka
+servant <n>
+ mtumishi
+service <n>
+ uandikiaji
+set down <v>
+ tua
+seven <num>
+ saba
+seventy <num>
+ sabini
+sew <v>
+ shona
+shadow <n>
+ kivuli
+share <v>
+ gawanya
+shark <n>
+ papa
+sharp <adj>
+ kali
+sharpness <n>
+ ukali
+shave <v>
+ nyoa
+she <pron>
+ yeye
+shed <n>
+ banda
+sheep <n>
+ kondoo
+shell <n>
+ bufuru
+shilling <n>
+ shilingi
+shine on <v>
+ angazia
+shirt <n>
+ shati
+shiver <v>
+ tetemeka
+shoe <n>
+ kiatu
+shop <n>
+ duka
+short <adj>
+ fupi
+short-cut <n>
+ mkato
+shorten <v>
+ fupisha
+shoulder <n>
+ bega
+show <n>
+ tamasha
+show <v>
+ onyesha
+sick person <n>
+ mgonjwa
+sickle <n>
+ mundu
+sickness <n>
+ maradhi
+sickness <n>
+ ugonjwa
+side <n>
+ kando
+side <n>
+ upande
+silk <n>
+ hariri
+since <prep>
+ tangu
+sing <v>
+ imba
+sister <n>
+ dada
+sit <v>
+ kaa
+six <num>
+ sita
+sixty <num>
+ sitini
+size <n>
+ ukubwa
+skin <n>
+ ngozi
+sky <n>
+ mbingu
+slaughter <v>
+ chinja
+slave <n>
+ mtumwa
+sleep <n>
+ usingizi
+sleep in <v>
+ lalia
+slippers <n>
+ sapatu
+slippery place <n>
+ utelezi
+slit <v>
+ chana
+slowly <adv>
+ polepole
+small <adj>
+ dogo
+small fish <n>
+ dagaa
+small lump <n>
+ kinundu
+small thing <n>
+ kidude
+smallpox <n>
+ ndui
+smell <n>
+ harufu
+smell <v>
+ nusa
+smell bad <v>
+ nuka
+smell good <v>
+ nukia
+smile <v>
+ chekelea
+smoke <n>
+ moshi
+smooth <v>
+ lainisha
+smooth <adj>
+ laini
+snake <n>
+ nyoka
+so <interj>
+ basi
+so <adv>
+ kumbe
+soap <n>
+ sabuni
+socks <n>
+ soksi
+soft <adj>
+ laini
+soil <n>
+ udongo
+soldier <n>
+ askari
+sole <n>
+ unyayo
+solitary <adj>
+ gumba
+some <n>
+ baadhi
+son <n>
+ mwana
+song <n>
+ wimbo
+sorceror <n>
+ mchawi
+sore <n>
+ kidonda
+sorrow <n>
+ huzuni
+soul <n>
+ roho
+sound <n>
+ sauti
+soup <n>
+ supu
+south <n>
+ kusini
+sparkle <n>
+ kimeta
+speak <v>
+ nena
+speak <v>
+ sema
+special <adj>
+ maalumu
+spice <n>
+ bizari
+spider <n>
+ buibui
+spinach <n>
+ mchicha
+split <v>
+ pasua
+spoon <n>
+ kijiko
+spot <n>
+ doa
+spring <n>
+ kamani
+spring-mechanism <n>
+ mtambo
+sprout <v>
+ chipua
+squeeze <v>
+ bana
+squeeze <v>
+ kama
+squeeze out <v>
+ kamua
+stage <n>
+ jukwaa
+stairs <n>
+ daraja
+stairs <n>
+ ngazi
+stand <v>
+ simama
+star <n>
+ nyota
+start up <v>
+ anzisha
+state <n>
+ hali
+station <n>
+ stesheni
+steal <v>
+ iba
+steamship <n>
+ meli
+steering-gear <n>
+ usukani
+step <n>
+ hatua
+step- <n>
+ kambo
+stick <n>
+ fimbo
+stick <v>
+ kwama
+stick on <v>
+ bandika
+stiff porridge <n>
+ ugali
+still <adv>
+ bado
+stir up <v>
+ vuruga
+stomach <n>
+ tumbo
+stone <n>
+ jiwe
+stop <n>
+ kituo
+stop up <v>
+ ziba
+story <n>
+ hadithi
+stranger <n>
+ mgeni
+stream <n>
+ kijito
+strength <n>
+ nguvu
+strengthen <v>
+ imarisha
+striped <adj>
+ milia
+strong <adj>
+ imara
+succeed <v>
+ fanikiwa
+such a one <n>
+ fulani
+suddenly <adv>
+ ghafula
+sugar <n>
+ sukari
+sugar cane <n>
+ muwa
+sun <n>
+ jua
+Sunday <n>
+ Jumapili
+Swahili language <n>
+ Kiswahili
+sweep <v>
+ fagia
+sweet <adj>
+ tamu
+swell <v>
+ vimba
+swim <v>
+ ogelea
+table <n>
+ meza
+tail <n>
+ mkia
+tailor <n>
+ mshoni
+take away <v>
+ ondoa
+take leave of <v>
+ aga
+take off <v>
+ bandua
+take on <v>
+ pakia
+take out <v>
+ toa
+tamarind <n>
+ ukwaju
+tank <n>
+ tangi
+tap <v>
+ gogota
+tape <n>
+ utepe
+tar  <n>
+ lami
+tax <n>
+ ushuru
+tea  <n>
+ chai
+teach <v>
+ fundisha
+teach <v>
+ funza
+teach <v>
+ somesha
+teacher <n>
+ mwalimu
+teapot <n>
+ buli
+telephone <n>
+ simu
+tell <v>
+ ambia
+temple <n>
+ hekalu
+ten <num>
+ kumi
+termite <n>
+ mchwa
+test <v>
+ jaribu
+thank <v>
+ shukuru
+thank you
+ asante
+that <adj>
+ le
+that place <adv>
+ hapo
+theft <n>
+ wizi
+their <adj>
+ ao
+then <adv>
+ huko
+then <adv>
+ kisha
+then <adv>
+ ndipo
+there <adv>
+ huko
+there <adv>
+ kule
+there <adv>
+ pale
+there is <irrv>
+ mna
+there is not there
+ hapana
+there is/are not
+ hakuna
+they <pron>
+ wao
+thief <n>
+ mwizi
+thin porridge <n>
+ uji
+thing <n>
+ kitu
+think <v>
+ dhani
+think <v>
+ waza
+thirst <n>
+ kiu
+thirty <num>
+ thelathini
+thorn <n>
+ mwiba
+those <adj>
+ le
+thought <n>
+ wazo
+thousand <adj>
+ elfu
+three <num>
+ tatu
+throat <n>
+ koo
+throw <v>
+ tupa
+Thursday <n>
+ Alhamisi
+tighten <v>
+ kaza
+time <n>
+ mara
+time  <n>
+ wakati
+tin can <n>
+ kopo
+to <prep>
+ kwa
+today <adv>
+ leo
+together <adv>
+ pamoja
+tomato <n>
+ tungule
+tomorrow <adv>
+ kesho
+tongs <n>
+ koleo
+tongue <n>
+ ulimi
+tooth <n>
+ jino
+toothbrush <n>
+ mswaki
+top <n>
+ kipeo
+tortoise <n>
+ kobe
+touch <v>
+ gusa
+tourniquet <n>
+ kisongo
+tow <v>
+ fungasha
+town <n>
+ mji
+train <n>
+ reli
+translate <v>
+ fasiri
+travel <v>
+ safiri
+travel by <v>
+ safiria
+traveller <n>
+ msafiri
+tray <n>
+ sinia
+treasury <n>
+ hazina
+tree <n>
+ mti
+tribe <n>
+ kabila
+trouble <n>
+ matata
+trouble <n>
+ shida
+trouble <v>
+ sumbua
+truly <adv>
+ kweli
+trunk <n>
+ uti
+trust <v>
+ tumaini
+Tuesday <n>
+ Jumanne
+turmeric <n>
+ manjano
+turn <v>
+ pinda
+turn around <v>
+ geuka
+twelve <num>
+ thenashara
+twenty <num>
+ ishirini
+two <num>
+ wili
+umbrella <n>
+ mwavuli
+uncle <n>
+ mjomba
+uncover <v>
+ funua
+undershirt <n>
+ fulana
+understand <v>
+ fahamu
+undress <v>
+ vua
+unfasten <v>
+ fungua
+unfold <v>
+ kunjua
+unity <n>
+ umoja
+unravel <v>
+ fumua
+unripe <adj>
+ bichi
+unstop <v>
+ zibua
+until <prep>
+ hadi
+until <prep>
+ hata
+until <prep>
+ mpaka
+up to <prep>
+ mpaka
+upbringing <n>
+ malezi
+upper floor <n>
+ ghorofa
+uproot <v>
+ ng'oa
+us <pron>
+ sisi
+use <v>
+ tumia
+use for <v>
+ tumilia
+vacation <n>
+ likizo
+vaccinate <v>
+ chanjia
+value <n>
+ thamani
+vegetable <n>
+ mboga
+very <adv>
+ mno
+very <adv>
+ sana
+vessel <n>
+ chombo
+view <n>
+ mandhari
+village <n>
+ kijiji
+vinegar <n>
+ siki
+wage <n>
+ mshahara
+wages <n>
+ ujira
+wait <v>
+ ngoja
+wait for <v>
+ ngojea
+waiter <n>
+ mwandishi
+wake <v>
+ amka
+walk <v>
+ tembea
+wall <n>
+ ukuta
+want <v>
+ taka
+warm <adj>
+ vuguvugu
+warn <v>
+ onya
+wash <v>
+ fua
+wash <v>
+ osha
+wash <v>
+ oshea
+wash hands <v>
+ nawa
+watch out <v>
+ angalia
+watch over <v>
+ chunga
+water <n>
+ maji
+water bottle <n>
+ kiriba
+water-channel <n>
+ mfereji
+wave <n>
+ wimbi
+wax <n>
+ nta
+we <pron>
+ sisi
+wealthy <adj>
+ tajiri
+weave <v>
+ fuma
+wedding <n>
+ arusi
+Wednesday <n>
+ Jumatano
+week <n>
+ juma
+week <n>
+ wiki
+weight <n>
+ uzito
+well <n>
+ kisima
+well <adv>
+ vizuri
+west <n>
+ magharibi
+what <pron>
+ nini?
+what kind <adj>
+ gani?
+wheat <n>
+ ngano
+wheel <n>
+ gurudumu
+wheeled vehicle <n>
+ gari
+when <adv>
+ lini?
+where <adv>
+ wapi?
+which <adj>
+ pi?
+which is <irrv>
+ kuliko
+white <adj>
+ eupe
+white hair <n>
+ mvi
+who <pron>
+ nani?
+whole <adj>
+ zima
+whole day <n>
+ kutwa
+why <adv>
+ kwani?
+why <adv>
+ mbona?
+wickedness <n>
+ ubaya
+wide <adj>
+ pana
+widow <n>
+ mjane
+widower <n>
+ mjane
+width <n>
+ upana
+wife <n>
+ mke
+wind <n>
+ upepo
+window <n>
+ dirisha
+wine <n>
+ mvinyo
+wing <n>
+ ubawa
+wipe <v>
+ futa
+wipe with <v>
+ futia
+with <prep>
+ kwa
+with me
+ nami
+withhold from <v>
+ zuilia
+without <prep>
+ bila
+without <prep>
+ pasipo
+woman  <n>
+ mwanamke
+women <n>
+ wanawake
+word <n>
+ neno
+work <n>
+ kazi
+world <n>
+ dunia
+worship <n>
+ ibada
+worship <v>
+ abudu
+wound <n>
+ jeraha
+wrist <n>
+ kiwiko
+write <v>
+ andika
+writing <n>
+ andiko
+yard <n>
+ yadi
+year <n>
+ mwaka
+yes <adv>
+ naam
+yes <adv>
+ ndiyo
+yesterday <adv>
+ jana
+you <pron>
+ wewe
+you (plural) <pron>
+ ninyi
+your <adj>
+ ako
+your (plural) <adj>
+ enu
+youth <n>
+ kijana
+Zanzibar <n>
+ Unguja
+pghyzq5risjakbctul0md1e vfwnxo

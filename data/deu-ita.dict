@@ -1,0 +1,9515 @@
+
+00-database-dictfmt-1.10.11
+German-Italian FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.1.1
+Size: about 4450 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+Publication date: 2004.
+Published at: http://freedict.org/
+ID# (svn): $Id: deu-ita.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-19 that was rolled back due to
+   Ergane's cryptic change of database licensing. Multi-word equivalents
+   should be split by spaces.
+ * 2004-Jul-01 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-Apr-10 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-Apr-03 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+German-Italian FreeDict Dictionary ver. 0.1.1
+http://freedict.org/
+Aachen
+ Aquisgrana
+Aal
+ anguilla
+Aalbeere
+ ribesnero
+Abakus
+ 1. abaco
+ 2. pallottoliere
+Abart
+ genere; specie
+Abbild
+ figura
+Abend
+ sera
+Abendessen
+ cena
+Abendland
+ ovest
+Abendmahl
+ cena
+Abendzeitung
+ edizionedellasera; giornaledellasera
+Abenteuer
+ avventura
+Aberglaube
+ superstizione
+Abessinien
+ Abissinia
+Abessinier
+ abissino
+Abfahrt
+ partenza
+Abgabe
+ contribuzione; imposta; tassa
+Abgang
+ partenza
+Abgeordneter
+ 1. delegato; deputato
+ 2. delegato; deputato
+Abgott
+ idolo
+Abgrund
+ abisso; burrone
+Abhandlung
+ 1. articolo
+ 2. trattato
+Abkomme
+ discendente
+Abkommen
+ accordo
+Abkunft
+ discendenza; nascita; origine
+Abkömmling
+ discendente
+Ablaß
+ indulgenza
+Abneigung
+ avversione; ripugnanza
+Abonnement
+ abbonamento
+Abort
+ cesso; gabinetto; ritirata
+Abreise
+ partenza
+Abriß
+ progetto
+Absatz
+ 1. capoverso
+ 2. smercio; vendita
+Abscheu
+ orrore; ribrezzo
+Abschied
+ addio; congedo
+Absicht
+ intenzione
+Abstammung
+ discendenza; nascita; origine
+Abstand
+ distanza
+Abszeß
+ ascesso
+Abt
+ abate
+Abtei
+ badia
+Abteil
+ scompartimento
+Abteilung
+ brigata
+Abtritt
+ cesso; gabinetto; ritirata
+Abwechslung
+ cambiamento
+Abwehr
+ difesa
+Abwesenheit
+ assenza
+Abzeichen
+ segno
+Abzug
+ partenza
+Acheron
+ 1. Acheronte
+ 2. Acheronte
+Achilles
+ Achille
+Achse
+ assale; asse; perno
+Achsel
+ spalla
+Acht
+ esilio
+Achtung
+ 1. attenzione
+ 2. considerazione; stima; riguardo; rispetto
+ 3. rispetto
+Achtung erweisen
+ rispettare
+Acker
+ campo
+Adam
+ Adamo
+Adel
+ nobiltà
+Ader
+ vena
+Adjektiv
+ aggettivo
+Adjutant
+ aiutante
+Adler
+ aquila
+Admiral
+ ammiraglio
+Adresse
+ indirizzo
+Adria
+ MarAdriatico
+Adriatisches Meer
+ MarAdriatico
+Adverb
+ avverbio
+Affe
+ scimmia
+Affiche
+ affisso; cartellone
+Afghane
+ afgano
+Afghanistan
+ Afghanistan
+Afrika
+ Africa
+Afrikaner
+ africano
+After
+ sedere
+Agent
+ agente
+Agentur
+ agenzia
+Agonie
+ agonia
+Ahle
+ punteruolo
+Ahn
+ antenato
+Akademie
+ accademia
+Akkord
+ 1. accordo
+ 2. contratto
+Akkumulator
+ accumulatore
+Akt
+ 1. atto; azione; documento
+ 2. atto; azione; documento
+Akte
+ 1. atto; azione; documento
+ 2. atto; azione; documento
+Aktie
+ azione
+Aktieninhaber
+ azionista
+Aktionär
+ azionista
+Akzent
+ accento
+Akzise
+ dazioconsumo
+Alarm
+ allarme
+Alaska
+ Alasca
+Alaun
+ allume
+Albaner
+ albanese
+Albanien
+ Albania
+Albanier
+ albanese
+Album
+ album
+Algerien
+ Algeria
+Algerier
+ algerino
+Alinea
+ capoverso
+Alkohol
+ alcool
+Alkoven
+ alcova
+Allerheiligen
+ Ognissanti
+Allerseelen
+ ilgiornodeiMorti
+Allianz
+ banda
+Almosen
+ elemosina
+Alpen
+ Alpi
+Alphabet
+ alfabet
+Altan
+ balcone; terrazzo
+Altar
+ altare
+Alter
+ età
+Alternative
+ alternativa
+Amateur
+ dilettante
+Amazone
+ amazzone
+Ameise
+ formica
+Amerika
+ America
+Amerikaner
+ 1. americano
+ 2. americano
+Amnestie
+ amnistia
+Amsel
+ merlo
+Amt
+ 1. ufficio
+ 2. funzione; impiego
+Amtsbezirk
+ circondario; distretto
+Amtsbruder
+ collegio
+Amtsgenosse
+ collegio
+Ananas
+ ananas; ananasso
+Anatolien
+ Anatolia
+Anblick
+ apparenza; aria; aspetto
+Anchovis
+ acciuga; alice
+Anden
+ Ande
+Andenken
+ 1. memoria
+ 2. memoria
+Andorra
+ Andorra
+Aneinanderreihung
+ ordine
+Anemone
+ anemone
+Anerbieten
+ offerta
+Anfall
+ assalto; attacco
+Anfang
+ inizio; principio
+Angabe
+ dichiarazione
+Angebinde
+ dono; presente; regalo
+Angelegenheit
+ affare; faccenda
+Angelhaken
+ amo
+Angelleine
+ lenza
+Angelrute
+ canna
+Angesicht
+ faccia; viso
+Angewohnheit
+ costume
+Angola
+ Angola
+Angriff
+ assalto; attacco
+Angst
+ 1. angoscia
+ 2. angoscia; paura; timore
+ 3. paura
+Anhang
+ partito; seguito
+Anhänger
+ membro
+Anker
+ ancora
+Ankunft
+ arrivo; venuta
+Ankündigung
+ avviso
+Anlage
+ 1. pianta
+ 2. giardino
+Anlaß
+ 1. causa
+ 2. ordine
+Anmut
+ fascino; incanto
+Annahme
+ accoglienza; accoglimento
+Annonce
+ annuncio; avviso; inserzione
+Anpflanzen
+ pianta
+Anpflanzung
+ pianta
+Anruf
+ chiamata
+Anschein
+ apparenza; aria
+Anschlag
+ 1. affisso; cartellone
+ 2. attentato
+Anschlagzettel
+ affisso; cartellone
+Anschluß
+ coincidenza
+Ansehen
+ apparenza; aria
+Ansicht
+ illustrazione; immagine; pittura
+Anstalt
+ luogo
+Ansteckung
+ infezione
+Anstellung
+ funzione; impiego
+Anteil
+ 1. parte; porzione
+ 2. parte; porzione
+ 3. porzione
+Anteilschein
+ azione
+Anthologie
+ antologia
+Anthrazit
+ antracite
+Antillen
+ Antille
+Antipathie
+ avversione; ripugnanza
+Antlitz
+ faccia; viso
+Antwort
+ risposta
+Anwuchs
+ crescimento
+Anzahl
+ numero
+Anzeichen
+ 1. augurio
+ 2. segno
+Anzeige
+ 1. annuncio; avviso; inserzione
+ 2. dichiarazione
+ 3. denuncia
+Anziehungskraft
+ forzaattrativa
+Anzug
+ 1. abito; costume
+ 2. abito
+Apathie
+ apatia
+Apenninen
+ Appennini
+Apfel
+ mela
+Apfelbaum
+ melo
+Apfelsine
+ arancia
+Apfelwein
+ sidro
+Apostel
+ apostolo
+Apotheke
+ farmacia
+Apotheker
+ farmacista
+Apparat
+ apparecchio
+Appartement
+ appartamento
+Appetit
+ appetito
+Applaus
+ applausi
+Approbation
+ approvazione
+Aprikose
+ albicocca
+April
+ aprile
+Araber
+ arabo
+Arabien
+ Arabia
+Arbeit
+ 1. lavoro
+ 2. compito
+Arbeiter
+ operaio
+Architekt
+ architetto
+Ardennen
+ Ardenne
+Ardennerwald
+ Ardenne
+Arena
+ arena
+Argentinien
+ Argentina
+Argentinier
+ argentino
+Argument
+ argomento
+Argwohn
+ sospetto
+Arie
+ aria
+Arm
+ bracchio
+Armband
+ braccialetto
+Armee
+ esercito
+Armenien
+ Armenia
+Armenier
+ armeno
+Armut
+ povertà
+Aroma
+ aroma
+Arrest
+ arresto
+Arrestant
+ arrestato; detenuto; prigioniero
+Arsch
+ sedere
+Arsenal
+ arsenale
+Art
+ 1. maniera; modo
+ 2. genere; specie
+Arterie
+ arteria
+Artikel
+ 1. merce; prodotto
+ 2. articolo
+Artillerie
+ artiglieria
+Artischocke
+ carciofo
+Arzt
+ dottore; medico
+As
+ asso
+Asbest
+ amianto
+Asche
+ cenere
+Aschenbecher
+ portacenere
+Aserbaidschan
+ Azerbaigian
+Asiat
+ asiatico
+Asien
+ Asia
+Asphalt
+ asfalto
+Assekuranz
+ assicurazione
+Assistent
+ assistente
+Association
+ compagnia
+Assyrer
+ assiro
+Assyrien
+ Assiria
+Ast
+ ramo
+Asthma
+ asma
+Asyl
+ asilo; ricovero
+Atem
+ alito
+Athen
+ Atene
+Athene
+ Atene
+Athener
+ ateniese
+Atlantik‐
+ atlantico
+Atlantischer Ozean
+ Atlantico
+Atmen
+ respirazione
+Atmosphäre
+ atmosfera
+Atmung
+ respirazione
+Atom
+ atomo
+Attentat
+ attentato
+Attest
+ certificatoattestato
+Audienz
+ udienza
+Aufführung
+ 1. condotta
+ 2. giuoco
+Aufgabe
+ compito
+Aufklärung
+ spiegazione
+Aufmerksamkeit
+ attenzione
+Aufnahme
+ accoglienza; accoglimento
+Aufschluß
+ spiegazione
+Aufsehen
+ rumore
+Aufseher
+ capotreno
+Auftrag
+ ordine
+Aufwand
+ lusso
+Aufzug
+ ascensore
+Augenbraue
+ sopracciglio
+Augengläser
+ occhiali
+Augenlid
+ palpebra
+Augenschein
+ apparenza; aria
+August
+ agosto
+Aula
+ salotto
+Ausdehnung
+ dimensione
+Ausfuhr
+ esportazione
+Ausgang
+ uscita
+Auskunft
+ annunzio; comunicato
+Auskunftstelle
+ ufficiod'informazioni
+Auskunft geben
+ informare; insegnare
+Ausland
+ estero
+Auslese
+ scelta
+Ausländer
+ forestiere
+Ausschuß
+ comitato
+Aussehen
+ 1. apparenza; aria; aspetto
+ 2. aria
+ 3. vista
+ 4. apparenza; aria
+Aussicht
+ 1. vista
+ 2. vista
+Ausstand
+ debito
+Ausstellung
+ esposizione
+Auster
+ ostrica
+Austrag
+ decisione
+Australien
+ Australia
+Australier
+ australiano
+Ausweis
+ prova
+Auto
+ auto; automobile
+Autobus
+ autobus
+Autokrat
+ autocrate
+Automat
+ automa
+Autor
+ autore
+Autorität
+ autorità
+Aviatik
+ aviazione
+Avis
+ avviso
+Axiom
+ assioma
+Axt
+ ascia; scure
+Azur
+ azzurro
+Bach
+ ruscello
+Backbord
+ babordo
+Backe
+ guancia
+Backenbart
+ baffi
+Backstein
+ mattone
+Backstube
+ panetteria
+Bad
+ 1. vascadabagno
+ 2. bagno
+Badeanzug
+ costumedabagno
+Badegast
+ bagnante
+Bademantel
+ accappatoio
+Badeort
+ bagni; stazionebalneare
+Badestube
+ saladabagno; stanzadabagno
+Bagage
+ bagaglio
+Bagasse
+ bagassa
+Bagatelle
+ inezia
+Bahn
+ 1. ferrovia
+ 2. cammino; corsia; pista; strada; via
+Bahnbrecher
+ iniziatore; pioniere
+Bahnhof
+ stazione
+Bahnhofsvorsteher
+ capostazione
+Bahnsteig
+ piattaforma
+Bahnwagen
+ vagone; vettura
+Bahnzug
+ treno
+Bahnübergang
+ passaggioalivello
+Bai
+ baia
+Bajonett
+ baionetta
+Bakterie
+ batterio
+Balg
+ pelle
+Balkan
+ Balcani
+Balken
+ trave
+Balkon
+ balcone; terrazzo
+Ball
+ 1. ballo
+ 2. palla
+Ballade
+ ballata
+Ballast
+ zavorra
+Ballon
+ pallone
+Baltisches Meer
+ Baltico
+Balustrade
+ parapetto
+Bambus
+ bambù
+Banane
+ banana
+Band
+ 1. legame
+ 2. banda
+ 3. nastro
+ 4. tomo; volume
+Bandit
+ bandito; brigante
+Bank
+ 1. banca
+ 2. panka
+Bankanweisung
+ assegno; assegnobancario
+Bankerott
+ fallimento
+Bankier
+ banchiere
+Bann
+ anatema
+Banner
+ 1. bandiera
+ 2. stendardo
+Bannfluch
+ anatema
+Baracke
+ 1. baracca
+ 2. granaio
+Barbar
+ barbaro
+Barbier
+ barbiere
+Barett
+ beretta
+Barometer
+ barometro
+Baron
+ barone
+Barre
+ barra
+Barriere
+ barriera
+Barsch
+ pescepersico
+Bart
+ barba
+Basar
+ bazar
+Base
+ cugina
+Bast
+ corteccia; scorza
+Bastard
+ bastardo
+Bastei
+ baluardo; bastione
+Bastion
+ baluardo; bastione
+Bataillon
+ battaglione
+Batterie
+ batteria
+Bau
+ 1. edificio
+ 2. costruzione
+Bauch
+ ventre
+Bauchweh
+ maldipancia
+Bauer
+ contadino
+Bauernhof
+ fattoria
+Baum
+ albero
+Baumrinde
+ corteccia
+Baumstamm
+ tronco
+Bauwerk
+ edificio
+Bazillus
+ bacillo
+Beamter
+ funzionario; impiegato
+Becher
+ calice; bicchiere; boccale
+Becken
+ bacino
+Bedarf
+ bisogno; fabbisogno
+Bedeckung
+ coperta
+Bedeuting
+ significato
+Bedeutung
+ valore
+Bedienung
+ servizio
+Bedrohung
+ minaccia
+Bedürfnis
+ bisogno; fabbisogno
+Beefsteak
+ bistecca
+Beere
+ bacca
+Beete
+ barbabietola
+Befehl
+ 1. comando
+ 2. ordine
+Befehlshaber
+ 1. capo
+ 2. comandante
+Befugnis
+ diritto
+Begegnung
+ incontro
+Begehr
+ desiderio
+Begeisterung
+ entusiasmo
+Beginn
+ inizio; principio
+Begnadigung
+ amnistia
+Begünstigung
+ protezione
+Behandlung
+ trattamento
+Behälter
+ cassa; tinozza; vaso
+Beichte
+ confessione
+Beifall
+ 1. applausi
+ 2. approvazione
+Beifall spenden
+ applaudire; batterelemani
+Beihilfe
+ aiuto
+Beil
+ ascia; scure
+Bein
+ 1. gamba
+ 2. gamba
+Beinkleid
+ calzoni; pantaloni
+Beispiel
+ esempio
+Beistand
+ aiuto
+Beisteuer
+ contributo
+Bekannter
+ conoscenza
+Bekanntmachung
+ annunzio; comunicato
+Bekenntnis
+ confessione
+Belagerung
+ assedio
+Belastung
+ carico
+Beleg
+ prova
+Belgien
+ Belgio
+Belgier
+ belga
+Belohnung
+ ricompensa
+Bemerkung
+ osservazione
+Benachrichtigung
+ avviso
+Benehmen
+ condotta
+Benutzung
+ impiego; uso
+Benzin
+ benzina
+Beobachtung
+ osservazione
+Beratung
+ conferenza
+Berg
+ montagna; monte
+Berlin
+ Berlino
+Bernstein
+ ambragialla
+Beruf
+ 1. mestiere
+ 2. professione
+Berufssänger
+ cantante
+Berührung
+ contatto
+Besatzung
+ guarnigione
+Beschluß
+ decisione
+Beschäftigung
+ occupazione
+Besen
+ granata; scopa
+Besitz
+ 1. possesso
+ 2. possesso
+Besitztum
+ possesso
+Besitzung
+ 1. fattoria
+ 2. possesso
+Besorgnis
+ cura
+Besteck
+ cassa; tinozza; vaso
+Bestehen
+ esistenza
+Bestellung
+ ordine
+Bestrafung
+ punizione
+Besuch
+ visita
+Beton
+ calcestruzzo
+Betonung
+ accento
+Betrag
+ importo; somma
+Betragen
+ condotta
+Betrug
+ truffa
+Betrübnis
+ tristezza
+Bett
+ letto
+Bettdecke
+ coperta
+Bettlaken
+ lenzuolo
+Bettler
+ mendicante
+Bettstelle
+ letto
+Betttuch
+ lenzuolo
+Beuchhaus
+ lavanderia
+Bevölkerung
+ populazione
+Bewegung
+ 1. movimento
+ 2. movimento
+Beweis
+ 1. argomento
+ 2. prova
+Bewohner
+ abitante
+Bewußtsein
+ consapevolezza; coscienza
+Bezahlung
+ pagamento
+Bezeichnung
+ significato
+Beziehung
+ relazione
+Bezirk
+ circondario; distretto
+Bibel
+ Bibbia
+Bibliothek
+ biblioteca
+Bibliothekar
+ bibliotecario
+Biene
+ ape
+Bienenkorb
+ alveare; arnia
+Bienenstock
+ alveare; arnia
+Bienenzucht
+ apicoltura; apicultura
+Bier
+ birra
+Bilanz
+ bilancio
+Bild
+ 1. illustrazione; immagine; pittura
+ 2. pittura
+Bildhauerwerk
+ scultura
+Bildsäule
+ statua
+Bildwerk
+ scultura
+Billard
+ biliardo
+Billett
+ biglietto
+Birke
+ betulla
+Birma
+ Birmania
+Birnbaum
+ pero
+Birne
+ 1. ampolla; lampadina
+ 2. pera
+Bischof
+ vescovo
+Biskuit
+ biscotto
+Bisquit
+ biscotto
+Bittschrift
+ petizione
+Blase
+ vescica
+Blatt
+ foglia; foglio
+Blaubeere
+ baccadimirtillo
+Blech
+ latta
+Blei
+ piombo
+Bleistift
+ lapis; matita
+Blinder
+ cieco
+Blindheit
+ cecita
+Blitz
+ baleno
+Block
+ blocco
+Blume
+ fiore
+Blumenkohl
+ cavolfiore
+Blumentopf
+ vasodafiori
+Bluse
+ blusa
+Blut
+ sangue
+Blutarmut
+ anemia
+Blödigkeit
+ timore; paura
+Boden
+ 1. fondo
+ 2. pavimento
+ 3. terra
+Bogen
+ arco
+Bohne
+ fava
+Bohrer
+ succiello
+Bollwerk
+ baluardo; bastione
+Bombe
+ bomba
+Bon
+ banconota
+Bonbon
+ confetto
+Boot
+ barca
+Bordbrett
+ asse
+Born
+ fonte; sorgente
+Botschafter
+ ambasciatore
+Brandbombe
+ bombaincendaria
+Brasilianer
+ brasiliano
+Brasilien
+ Brasile
+Bratpfanne
+ casseruola
+Brauch
+ costume
+Brauer
+ birraio
+Brauerei
+ birreria
+Braus
+ rumore
+Brause
+ doccia
+Braut
+ 1. fidanzata
+ 2. novellasposa; sposa
+Breite
+ 1. larghezza
+ 2. larghezza
+Bremse
+ freno
+Brennessel
+ ortica
+Brennpunkt
+ foco
+Brennspiritus
+ alcooldenaturato
+Bretagne
+ Bretagna
+Brett
+ asse
+Brief
+ lettera
+Briefkasten
+ bucadellelettere
+Briefmarke
+ bollo; francobollo
+Briefträger
+ portalettere; postino
+Briefumschlag
+ busta
+Brille
+ occhiali
+Britannien
+ GranBretagna
+Bronze
+ bronzo
+Brot
+ pane
+Bruder
+ fratello
+Brunnen
+ fontana
+Brust
+ petto
+Brut
+ covata
+Brötchen
+ panino
+Brücke
+ ponte
+Brüderlichkeit
+ fraternità
+Brühe
+ salsa
+Buch
+ libro
+Buche
+ faggio
+Buchhalter
+ contabile
+Buchhandlung
+ libreria
+Buchhändler
+ librario
+Buchrevisor
+ peritocontabile
+Bucht
+ baia
+Bude
+ granaio
+Bug
+ prua
+Bund
+ banda
+Burg
+ castello
+Burgund
+ Borgogna
+Bursche
+ servire
+Bus
+ autobus
+Busen
+ petto
+Butike
+ negozio
+Butter
+ burro
+Buße
+ pentimento; rimpianto
+Bäcker
+ fornaio
+Bäckerei
+ panetteria
+Bär
+ orso
+Bücherschrank
+ libreria
+Büchse
+ scatola
+Büfett
+ bar
+Büffel
+ bufalo
+Bügel
+ arco
+Bügeleisen
+ ferrodastiro
+Bündel
+ pacco
+Bündnis
+ banda
+Bürde
+ carico
+Bürgermeister
+ sindaco
+Büro
+ 1. ufficio
+ 2. ufficio
+Bürste
+ spazzola
+Bürzel
+ coda
+Büste
+ busto
+Cent
+ centesimo
+Centimeter
+ centimetro
+Chauffeur
+ autista
+Chaussee
+ cammino; corsia; pista; strada; via
+Chef
+ 1. capo
+ 2. capo
+Chemie
+ chimica
+Chile
+ Cile
+China
+ Cina
+Chinese
+ cinese
+Chirurg
+ chirurgo
+Chlor
+ cloro
+Christus
+ Cristo
+Coupon
+ cedola
+Coupé
+ scompartimento
+Cousin
+ cugino
+Crayon
+ lapis; matita
+Cäsar
+ Cesare
+Dach
+ tetto
+Dachs
+ tasso
+Dachziegel
+ tegola
+Daktylus
+ dattero
+Dame
+ signora
+Dank
+ grazie
+Darm
+ intestino
+Dasein
+ esistenza
+Dattel
+ dattero
+Datum
+ data
+Dauer
+ durata
+Daumen
+ 1. pollice
+ 2. pollice
+Dauß
+ asso
+Debit
+ smercio; vendita
+Deck
+ coperta; ponte
+Decke
+ 1. coperta
+ 2. coperta
+ 3. soffitto
+Deckel
+ coperta
+Degen
+ spada
+Dekret
+ decreto
+Delegierter
+ delegato; deputato
+Delphin
+ delfino
+Denker
+ filosofo
+Denkmal
+ monumento
+Despot
+ despota
+Dessert
+ dessert
+Detachement
+ brigata
+Deutscher
+ tedesco
+Deutschland
+ Germania
+Dezember
+ dicembre
+Dezimeter
+ decimetro
+Diadem
+ diadema
+Dialekt
+ dialetto
+Diamant
+ diamante
+Dichter
+ poeta
+Dichtkunst
+ poesia
+Dichtung
+ poesia
+Dieb
+ ladro
+Diebstahl
+ furto
+Diele
+ pavimento
+Dielung
+ pavimento
+Diener
+ servire
+Dienst
+ 1. funzione; impiego
+ 2. servizio
+ 3. servizio
+Dienstag
+ martedì
+Dienstmann
+ facchino
+Dimension
+ dimensione
+Diner
+ colazione
+Ding
+ 1. affare; faccenda
+ 2. cosa
+ 3. cosa; ogetto
+Diplom
+ diploma
+Diplomat
+ diplomatico
+Direktor
+ amministratoredelegato; direttore
+Dirne
+ piccola; ragazza
+Distrikt
+ circondario; distretto
+Diät
+ dieta; regime
+Doktor
+ 1. dottore
+ 2. dottore; medico
+Dokument
+ documento
+Dolch
+ pugnale
+Dom
+ catedrale; duomo
+Donau
+ Danubio
+Donner
+ tuono
+Donnerstag
+ giovedì
+Dorf
+ villaggio
+Dorn
+ spina
+Dorsch
+ merluzzo
+Dosis
+ dose
+Dotation
+ dote
+Drache
+ drago; dragone
+Draht
+ filo
+Drang
+ pressione
+Dreck
+ fango
+Dreieck
+ triangolo
+Dreikönigsfest
+ Befana; Epifania
+Dreirad
+ triciclo
+Dreschtenne
+ aia
+Drohung
+ minaccia
+Druck
+ pressione
+Drücken
+ pressione
+Dudelsack
+ cornamusa
+Duett
+ duetto
+Duft
+ aroma
+Dunkelheit
+ oscurità; tenebre
+Durst
+ sete
+Dusche
+ doccia
+Dynamit
+ dinamite
+Däne
+ danese
+Dänemark
+ Danimarca
+Düne
+ duna
+Ebbe
+ bassamarea
+Ebene
+ piano
+Eber
+ cinghiale
+Ecke
+ 1. angolo
+ 2. angolo
+Edikt
+ ordine
+Egge
+ erpice
+Ehe
+ matrimonio
+Ehemann
+ marito; sposo
+Ehepaar
+ coniugi; consorti
+Ehre
+ onore
+Ehrfurcht
+ rispetto
+Ehrgeiz
+ ambizione
+Ei
+ uovo
+Eiche
+ quercia
+Eichel
+ ghianda
+Eichhorn
+ scoiattolo
+Eichhörnchen
+ scoiattolo
+Eid
+ giuramento
+Eidam
+ genero
+Eifer
+ ardore; zelo
+Eifersucht
+ gelosia
+Eigenschaftswort
+ aggettivo
+Eigentum
+ possesso
+Eigentümer
+ proprietario
+Eiland
+ isola
+Eile
+ andatura
+Eilzug
+ trenorapido
+Eimer
+ secchia; secchio
+Einbildungskraft
+ fantasia
+Eingang
+ entrata
+Eingeständnis
+ confessione
+Einheit
+ unità
+Einigkeit
+ 1. accordo
+ 2. unità
+Einklang
+ accordo
+Einrichtung
+ accomodamento
+Einspruch
+ protesta
+Einspruch erheben
+ protestare
+Eintracht
+ 1. accordo
+ 2. accordo
+Eintreffen
+ arrivo; venuta
+Einverständnis
+ accomodamento; accordo; patto
+Einwohner
+ abitante
+Einöde
+ deserto
+Eis
+ ghiaccio
+Eisbär
+ orsobianco
+Eisen
+ ferro
+Eisenbahn
+ ferrovia
+Eisenbahnzug
+ treno
+Eiterbeule
+ ascesso
+Ekel
+ avversione; ripugnanza
+Elefant
+ elefante
+Elektrizität
+ elettricità
+Element
+ elemento
+Elend
+ miseria
+Ellbogen
+ gomito
+Elsaß‐Lothringen
+ Alsazia‐Lorena
+Elsaß
+ Alsace
+Elster
+ gazza
+Elsässer
+ alsaziano
+Eltern
+ genitori; padreemadre
+Empfehlung
+ raccomandazione
+Empfänger
+ destinario
+Ende
+ fine
+Endivie
+ indivia
+Engel
+ angelo
+England
+ 1. Inghilterra
+ 2. Inghilterra
+Engländer
+ inglese
+Enkel
+ nipote
+Enkelin
+ nipote
+Ente
+ anitra
+Entfernung
+ distanza
+Enthusiasmus
+ entusiasmo
+Entschluß
+ decisione
+Entwurf
+ 1. progetto
+ 2. progetto
+ 3. progetto
+Epigone
+ discendente
+Epik
+ epopea; poemaepico
+Epopöe
+ epopea; poemaepico
+Erbauung
+ costruzione
+Erbse
+ pisello
+Erdapfel
+ patata
+Erdbeben
+ terremoto
+Erdbeere
+ fragola
+Erdbeschreibung
+ geografia
+Erdboden
+ terra
+Erde
+ terra
+Erdgeschoß
+ pianterreno
+Erdkunde
+ geografia
+Erdpech
+ asfalto
+Erdschwamm
+ fungo
+Erfolg
+ 1. risultato
+ 2. esito; risultato
+ 3. successo
+Erfolg haben
+ riuscire; succedere
+Ergebnis
+ 1. risultato
+ 2. esito; risultato
+Erinnerung
+ memoria
+Erkältung
+ raffreddore
+Erle
+ ontano
+Erläuterung
+ spiegazione
+Ermahnung
+ ammonimento; esortazione
+Ernährung
+ alimento; cibo
+Errungenschaft
+ guadagno
+Ertrag
+ beneficio; guadagno; profitto; vantaggio
+Erz
+ bronzo
+Erzbischof
+ arcivescovo
+Erzeugung
+ prodotto
+Esche
+ frassino
+Esel
+ asino; ciuco
+Essig
+ aceto
+Etage
+ piano
+Etagenwohnung
+ appartamento
+Etikette
+ etichetta
+Etsch
+ Adige
+Eule
+ gufo
+Europa
+ 1. Europa
+ 2. Europa
+ 3. Europa
+Europäer
+ europeo
+Europäische Union
+ UnioneEuropea
+Evangelium
+ vangelo
+Examen
+ esame
+Exempel
+ esempio
+Exerzitium
+ esercizio
+Exil
+ esilio
+Existenz
+ esistenza
+Export
+ esportazione
+Fabrik
+ 1. fabbrica
+ 2. fabbrica
+Fackel
+ fiaccola; torcia
+Faden
+ filo
+Fahne
+ 1. bandiera
+ 2. stendardo
+ 3. coda
+Fahrer
+ autista
+Fahrgast
+ passagiere
+Fahrkarte
+ biglietto
+Fahrrad
+ 1. bicicletta
+ 2. bicicletta
+Fahrstuhl
+ ascensore
+Faktura
+ fattura
+Fall
+ 1. caso
+ 2. caso
+Fallissement
+ fallimento
+Fallit
+ fallimento
+Falter
+ farfalla
+Familie
+ famiglia
+Familienname
+ cognome
+Farbe
+ colore
+Fasan
+ fagiano
+Faseole
+ fagiolo; fagiuolo
+Faust
+ pugno
+Fauteuil
+ poltrona
+Faß
+ barile
+Februar
+ febbraio
+Feder
+ 1. molla
+ 2. penna
+Fee
+ fata
+Fehlen
+ mancanza
+Fehler
+ 1. errore; sbaglio
+ 2. mancanza
+Feier
+ festa
+Feige
+ fico
+Feigenbaum
+ 1. fico
+ 2. fico
+Feile
+ lima
+Feld
+ campo
+Fell
+ pelle
+Felleisen
+ valigia
+Fels
+ roccia
+Felsen
+ roccia
+Fenster
+ finestra
+Ferse
+ tallone
+Fest
+ festa
+Fett
+ grasso
+Feuer
+ 1. ardore
+ 2. fuoco
+Fichte
+ abete
+Fieber
+ febbre
+Figur
+ figura
+Film
+ film; pellicola
+Finger
+ dito
+First
+ cima
+Fisch
+ pesce
+Fittich
+ ala
+Flagge
+ bandiera
+Flamme
+ fiamma
+Flanell
+ flanella
+Flanke
+ fianco; lato
+Flasche
+ bottiglia
+Fleck
+ 1. luogo
+ 2. pezzo
+Fleisch
+ 1. carne
+ 2. carne
+Fleischer
+ macellaio
+Fleiß
+ applicazione; diligenza
+Fliege
+ mosca
+Floh
+ pulce
+Flosse
+ pinna
+Fluch
+ anatema
+Flucht
+ fuga
+Flugmaschine
+ aereo; aeroplano
+Flugplatz
+ aeroporto
+Flugzeug
+ aereo; aeroplano
+Flur
+ corridoio
+Flut
+ 1. altamarea
+ 2. altamarea
+ 3. altamarea
+Fluß
+ fiume
+Flußpferd
+ ippopotamo
+Flöte
+ flauto
+Flügel
+ ala
+Fokus
+ foco
+Folio
+ pagina
+Fontaine
+ fontana
+Fontäne
+ fontana
+Forelle
+ trota
+Format
+ formato
+Formel
+ formula
+Forst
+ bosco
+Fortschritt
+ progresso
+Foyer
+ passeggiata
+Frage
+ domanda
+Fraktion
+ partito
+Frange
+ frangia
+Frankatur
+ affrancatura
+Frankreich
+ Francia
+Franse
+ frangia
+Franzose
+ francese
+Frau
+ 1. moglie
+ 2. signora
+ 3. donna
+Fregatte
+ fregata
+Freiherr
+ barone
+Freistaat
+ repubblica
+Freitag
+ venerdì
+Fremdenheim
+ pensione
+Freude
+ 1. piacere
+ 2. gioia
+Freund
+ amico
+Freundin
+ amica
+Freundschaft
+ amicizia
+Frevel
+ delitto
+Friede
+ pace
+Friedhof
+ camposanto; cimitero
+Friseur
+ parrucchiere
+Frisör
+ parrucchiere
+Frosch
+ rana; ranocchio
+Frost
+ 1. gelo
+ 2. gelo
+Frucht
+ frutta
+Frühe
+ mattina
+Frühjahr
+ primavera
+Frühling
+ primavera
+Frühstück
+ colazione; primacolazione
+Fuchs
+ volpe
+Fuhre
+ carico
+Fundament
+ fondamento
+Funke
+ 1. accendino
+ 2. scintilla
+Funktion
+ funzione
+Furcht
+ paura
+Futter
+ alimento; cibo
+Futur
+ avvenire
+Futurum
+ avvenire
+Fußboden
+ pavimento
+Fußsohle
+ pianta
+Fußweg
+ sentiero
+Föhre
+ pino
+Fühler
+ antenna
+Fühlhorn
+ antenna
+Führer
+ capotreno
+Füller
+ pennastilografica
+Füllfeder
+ pennastilografica
+Gabe
+ dono; presente; regalo
+Gabel
+ forchetta
+Gage
+ paga; salario
+Galeere
+ galera
+Galerie
+ galleria
+Galgen
+ forca
+Galle
+ bile
+Gang
+ 1. marcia
+ 2. corridoio
+Gans
+ oca
+Ganze
+ tutto
+Garage
+ autorimessa
+Garantie
+ garanzia
+Garderobe
+ 1. guardaroba
+ 2. guardaroba
+Gardine
+ cortina
+Garn
+ 1. filo
+ 2. rete
+Garnison
+ guarnigione
+Garten
+ giardino
+Gas
+ gas
+Gasse
+ vicolo
+Gast
+ ospite
+Gatte
+ marito; sposo
+Gattung
+ genere; specie
+Gau
+ circondario; distretto
+Gaul
+ cavallo
+Gaumen
+ palato
+Gaunersprache
+ gergo
+Gebahren
+ condotta
+Gebein
+ 1. scheletro
+ 2. osso
+Gebet
+ preghiera
+Gebiet
+ teritorio
+Gebirge
+ montagne
+Gebiß
+ dentatura; denti
+Gebot
+ ordine
+Gebrauch
+ 1. costume
+ 2. impiego; uso
+Geburt
+ nascita
+Geburtstag
+ compleanno
+Gebärde
+ gesto
+Gebäude
+ edificio
+Gebühr
+ dovere
+Gebüsch
+ arbusto
+Gedanke
+ 1. idea; nozione
+ 2. pensiero
+Gedicht
+ poema
+Geduld
+ pazienza
+Gedächtnis
+ memoria
+Gefahr
+ pericolo
+Gefilde
+ campagna
+Gefängnis
+ 1. prigione
+ 2. prigione
+ 3. prigione
+Gefäß
+ tenaglie
+Gegensatz
+ contrasto
+Gegenstand
+ cosa; ogetto
+Gehalt
+ paga; salario
+Geheimnis
+ segreto
+Gehilfe
+ servire
+Gehirn
+ cervello
+Gehör
+ udito
+Geist
+ spirito
+Geistes‐
+ spirituale
+Geistliche
+ 1. ecclesiastico
+ 2. curato; prete; sacerdate
+Geiß
+ capra
+Gelaß
+ 1. luogo
+ 2. spazio
+Geld
+ denaro; soldi
+Geldstrafe
+ contravvenzione; multa
+Geldstück
+ moneta
+Gelingen
+ successo
+Geltung
+ valore
+Gelächter
+ risa
+Gelände
+ teritorio
+Geländer
+ parapetto
+Gelöbnis
+ promessa
+Gemach
+ 1. appartamento
+ 2. camera
+Gemahl
+ marito; sposo
+Gemahlin
+ moglie
+Gemisch
+ mistura
+Gemälde
+ pittura
+Gemüse
+ legume
+Gemüt
+ cuore
+Generation
+ 1. generazione
+ 2. generazione
+Genf
+ Ginevra
+Genius
+ spirito
+Genosse
+ collegio
+Genua
+ Genova
+Genuß
+ piacere
+Geographie
+ geografia
+Gepflogenheit
+ costume
+Geplauder
+ pettegolezzo
+Gepäck
+ bagaglio
+Gepäckträger
+ facchino
+Gepäckwagen
+ bagagliaio
+Gericht
+ giudizio
+Gerippe
+ 1. scheletro
+ 2. scheletro
+Gerste
+ orzo
+Gesamtheit
+ tutto
+Gesandter
+ ambasciatore
+Gesandtschaft
+ 1. ambasciata
+ 2. ambasciata
+Gesang
+ canzone
+Geschenk
+ dono; presente; regalo
+Geschichte
+ storia
+Geschicklichkeit
+ abilità; destrezza
+Geschlecht
+ 1. generazione
+ 2. sesso
+Geschmack
+ gusto
+Geschoß
+ piano
+Geschwindigkeit
+ 1. velocità
+ 2. andatura
+Geschwulst
+ ascesso
+Geschäft
+ negozio
+Geschäftsbesorger
+ agente
+Geschäftszimmer
+ ufficio
+Gesellschaft
+ 1. compagnia
+ 2. compagnia
+Gesicht
+ 1. aria
+ 2. vista
+ 3. faccia; viso
+Gesichtsfarbe
+ carnagione
+Gespons
+ marito; sposo
+Gespräch
+ conversazione
+Gestalt
+ figura
+Geste
+ gesto
+Geständnis
+ confessione
+Gesundheit
+ salute
+Gesäß
+ sedere
+Getränk
+ bevanda; bibita
+Gevatter
+ compare
+Gewalt
+ 1. autorità
+ 2. forza
+ 3. potere
+Gewaltherrscher
+ despota
+Gewand
+ 1. abito; costume
+ 2. abito
+Gewandtheit
+ abilità; destrezza
+Gewehr
+ fucile
+Gewerbe
+ 1. mestiere
+ 2. professione
+Gewicht
+ peso
+Gewinn
+ beneficio; guadagno; profitto; vantaggio
+Gewohnheit
+ costume
+Gewähr
+ garanzia
+Gezier
+ affettazione; posa
+Gift
+ veleno
+Gipfel
+ cima
+Giraffe
+ giraffa
+Gischt
+ schiuma
+Glas
+ 1. bicchiere
+ 2. vetro
+Gleichgewicht
+ equilibrio
+Gleichheit
+ eguaglianza
+Glied
+ 1. membro
+ 2. membro
+Globus
+ globo
+Glocke
+ campana
+Glut
+ ardore
+Gläubiger
+ creditore
+Glückwünsch
+ aŭguro
+Gold
+ oro
+Gott
+ 1. Dio; Iddio
+ 2. dio
+Gottesacker
+ camposanto; cimitero
+Gottesdienst
+ uffiziodivino
+Grad
+ grado
+Gras
+ erba
+Grashüpfer
+ cavalletta
+Grat
+ 1. spina
+ 2. orlo
+Grenze
+ confine; frontiera
+Greuel
+ orrore; ribrezzo
+Grieche
+ greco
+Griechenland
+ Grecia
+Griff
+ tenaglie
+Großeltern
+ nonni
+Großenkel
+ pronipote
+Großherzog
+ arciduca
+Großmutter
+ nonna
+Großneffe
+ pronipote
+Großvater
+ nonno
+Grund
+ 1. fondo
+ 2. causa
+ 3. terra
+Grundlage
+ fondamento
+Grundriß
+ progetto
+Grundsatz
+ 1. assioma
+ 2. principio
+Gruppe
+ gruppo
+Gruß
+ accoglienza; saluto
+Gräte
+ lisca
+Grönland
+ 1. Groenlandia
+ 2. Groenlandia
+Größe
+ grandezza
+Grün
+ verde
+Gummi
+ gomma
+Gurgel
+ gola; gorga
+Gurt
+ cintura
+Gut
+ 1. fattoria
+ 2. possesso
+Gutachten
+ giudizio
+Gähnen
+ sbadiglio
+Gärtner
+ giardiniere
+Götze
+ idolo
+Gürtel
+ cintura
+Haag
+ L'Aia
+Haar
+ capelli
+Haare
+ capelli
+Habitus
+ esteriore
+Hacke
+ 1. ascia; scure
+ 2. tallone
+Hafen
+ porto
+Hafer
+ avena
+Haft
+ arresto
+Hagel
+ grandine
+Hahn
+ gallo
+Hai
+ pescecane
+Haifisch
+ pescecane
+Halbinsel
+ penisola
+Halde
+ collina; colle
+Hall
+ suono
+Hals
+ collo
+Halsbinde
+ cravatta
+Haltestelle
+ fermata
+Halt machen
+ fermarsi
+Hamburg
+ Amburgo
+Hammel
+ pecora
+Hammelfleisch
+ carnedimontone
+Hammer
+ martello
+Hand
+ mano
+Handel
+ commercio
+Handfläche
+ palma
+Handgelenk
+ 1. polso
+ 2. polso
+Handhabe
+ tenaglie
+Handkoffer
+ valigia
+Handlung
+ azione
+Handreichung
+ aiuto
+Handtuch
+ asciugamano
+Handwerk
+ mestiere
+Hanke
+ anca
+Harmonie
+ accordo
+Hasard
+ caso
+Hase
+ lepre
+Haselnuß
+ nocciola; nocciuola
+Hast
+ andatura
+Haube
+ cappotta
+Hauch
+ alito
+Haufen
+ folla
+Haupt
+ 1. capo
+ 2. capo
+Hauptmann
+ capitano
+Haus
+ 1. casa
+ 2. casa
+Hausdiener
+ domestico
+Hausflur
+ corridoio
+Hausgerät
+ mobili
+Haut
+ pelle
+Haß
+ odio
+Heber
+ cricco
+Hecht
+ luccio
+Heck
+ poppa
+Heer
+ 1. esercito
+ 2. esercito
+Heft
+ 1. fascicolo
+ 2. tenaglie
+Hehl
+ segreto
+Heidelbeere
+ baccadimirtillo
+Heim
+ casa
+Heimat
+ patria
+Heldengedicht
+ epopea; poemaepico
+Henker
+ boia
+Henne
+ gallina
+Herbst
+ autunno
+Hering
+ aringa
+Herkunft
+ discendenza; nascita; origine
+Herr
+ 1. capo
+ 2. signore
+ 3. signore
+Herrin
+ signora
+Herz
+ cuore
+Heu
+ fieno
+Heuschrecke
+ cavalletta
+Hieb
+ colpo
+Hilfsoffizier
+ aiutante
+Himbeere
+ lampone
+Himmel
+ cielo
+Hinsicht
+ relazione
+Hinterindien
+ Indocina
+Hippe
+ falce
+Hirn
+ cervello
+Historie
+ storia
+Hobel
+ pialla
+Hochschule
+ università
+Hof
+ cortile
+Hoffnung
+ speranza
+Hofraum
+ cortile
+Holland
+ Olanda
+Holländer
+ 1. olandese
+ 2. Olandese
+Holz
+ legno
+Honig
+ miele
+Horizont
+ orizzonte
+Hose
+ calzoni; pantaloni
+Hospital
+ ospedale
+Hospiz
+ ospedale
+Hotel
+ albergo
+Huf
+ zoccolo
+Huhn
+ pollo
+Hummer
+ aragosta
+Hund
+ cane
+Hupe
+ tromba
+Hälfte
+ metà
+Händler
+ 1. commerciante
+ 2. commerciante
+Häscher
+ guardia; poliziotto
+Häupling
+ capo
+Höhe
+ 1. altitudine; altura
+ 2. altitudine
+Hüfte
+ anca
+Hügel
+ collina; colle
+Hühnerauge
+ callo
+Hütte
+ 1. granaio
+ 2. capanna
+Idee
+ idea; nozione
+Idol
+ idolo
+Igel
+ riccio
+Ihr
+ tuo; vostro
+Inbrunst
+ 1. ardore
+ 2. ardore; zelo
+India
+ India
+Indianer
+ indiano; indianoamericano
+Indien
+ India
+Infektion
+ infezione
+Ingenieur
+ ingegnere
+Inhaber
+ proprietario
+Inhalt
+ 1. contenuto
+ 2. contenuto
+Insasse
+ abitante
+Insekt
+ insetto
+Insel
+ isola
+Inserat
+ annuncio; avviso; inserzione
+Instrument
+ strumento
+Interesse
+ 1. interesse
+ 2. beneficio; guadagno; profitto; vantaggio
+ 3. beneficio; guadagno; profitto; vantaggio
+Ire
+ irlandese
+Irland
+ Irlanda
+Irre
+ pazzo
+Irrtum
+ errore; sbaglio
+Islam
+ Islam
+Island
+ Islanda
+Italien
+ Italia
+Italiener
+ italiano
+Jahr
+ anno
+Jahrestag
+ compleanno
+Jahreszeit
+ stagione
+Jalousie
+ persiana
+Januar
+ gennaio
+Japaner
+ giapponese
+Johannisbeere
+ ribes
+Journal
+ giornale
+Journalist
+ giornalista
+Jubel
+ allegria
+Jugoslawien
+ Iugoslavia
+Juli
+ luglio
+Junge
+ ragazzo
+Juni
+ giugno
+Juwelier
+ 1. gioielliere
+ 2. gioielliere
+Jux
+ scherzo
+Kabel
+ cavo
+Kabeljau
+ merluzzo
+Kabine
+ cabina
+Kadett
+ cadetto
+Kaffee
+ caffé
+Kai
+ piattaforma
+Kairo
+ Cairo
+Kaiserreich
+ impero
+Kaisertum
+ impero
+Kajüte
+ cabina
+Kakao
+ cacao
+Kaktus
+ cacto
+Kalb
+ vitello
+Kalbfleisch
+ carnedivitello
+Kalk
+ calce
+Kalkul
+ conto
+Kampf
+ battaglia
+Kampfplatz
+ arena
+Kanada
+ Canadà
+Kanarische Inseln
+ Canarie
+Kaninchen
+ coniglio
+Kanne
+ brocca
+Kante
+ orlo
+Kantor
+ cantante
+Kapazität
+ abilità; capacità
+Kapitän
+ 1. capitano
+ 2. capitano
+Kapotte
+ cappotta
+Karfiol
+ cavolfiore
+Karotte
+ carota
+Karte
+ 1. biglietto
+ 2. carta
+Kartoffel
+ patata
+Kaserne
+ 1. caserma
+ 2. caserma
+Kaskade
+ cascata
+Kasserole
+ casseruola
+Kastanie
+ castagna
+Kastanienbaum
+ 1. castagno
+ 2. castagno
+Kastell
+ castello
+Kastillien
+ Castiglia
+Kasus
+ caso
+Katalog
+ catalogo
+Kathedrale
+ catedrale; duomo
+Katze
+ gatto
+Kaufmann
+ 1. commerciante
+ 2. commerciante
+Kautschuck
+ gomma
+Kehle
+ gola; gorga
+Kellner
+ cameriere
+Kenntnis
+ conoscenza
+Kennzeichen
+ segno
+Kerze
+ 1. candela
+ 2. candela
+Kessel
+ calderotto
+Kette
+ catena
+Kiefer
+ 1. mascella
+ 2. pino
+Kiel
+ chiglia
+Kieme
+ branchia
+Kind
+ 1. bambino; fianciullo
+ 2. bambino; fianciullo
+Kinn
+ mento
+Kinnlade
+ mascella
+Kino
+ cinema
+Kirche
+ chiesa
+Kirchhof
+ camposanto; cimitero
+Kirschbaum
+ ciliegio
+Kirsche
+ ciliegia
+Kissen
+ 1. guanciale
+ 2. cuscino
+Klammeraffe
+ chiocciola; chiocciolina
+Klang
+ suono
+Klaue
+ artiglio
+Klaviatur
+ pianola; tastiera
+Kleid
+ 1. abito
+ 2. abito
+Kleidung
+ guardaroba
+Kleingeld
+ spicciole
+Kleinigkeit
+ inezia
+Klient
+ cliente; compratore
+Klima
+ aria; clima
+Klingel
+ campana
+Klotz
+ blocco
+Klugheit
+ freccia
+Knabe
+ ragazzo
+Knauf
+ tenaglie
+Knie
+ ginocchio
+Knochen
+ osso
+Knochengerüst
+ scheletro
+Knoten
+ nodo
+Knöchel
+ caviglia
+Kochpfanne
+ casseruola
+Koffer
+ baule
+Kognak
+ cognac
+Kohl
+ cavolo
+Kohle
+ carbone
+Koje
+ cabina
+Kollege
+ collegio
+Kollegium
+ collega
+Komitee
+ comitato
+Kommissar
+ 1. commissario
+ 2. commissario
+Kommunist
+ comunista
+Kompagnie
+ compagnia
+Kompaß
+ bussola
+Kompromiß
+ compromesso
+Komödie
+ commedia
+Kondukteur
+ capotreno
+Konferenz
+ conferenza
+Konfitüre
+ marmelata
+Konflikt
+ conflitto
+Kongreß
+ congresso
+Konkurrenz‐Prüfung
+ concorso
+Konservatorium
+ conservatorio
+Konsul
+ console
+Konsulat
+ consolato
+Kontakt
+ contatto
+Konto
+ conto
+Kontor
+ ufficio
+Kontrast
+ contrasto
+Kontribution
+ contributo
+Konversation
+ conversazione
+Konzert
+ concerto
+Kopf
+ testa
+Kopfkissen
+ guanciale
+Kopfsalat
+ lattuga
+Koran
+ Corano
+Korb
+ cesto
+Korea
+ Corea
+Kork
+ sughero
+Korkenzieher
+ cavatappi
+Korridor
+ corridoio
+Korsika
+ Corsica
+Kostüm
+ abito; costume
+Kot
+ fango
+Kotelett
+ costoletta
+Kotflügel
+ parafango
+Kraft
+ forza
+Kraftfahrrad
+ motocicletto
+Kralle
+ artiglio
+Kramladen
+ negozio
+Krankenhaus
+ ospedale
+Krankenschwester
+ infermiera
+Kraut
+ erba
+Krawatte
+ cravatta
+Krebs
+ gambero
+Kredit
+ avere; credito
+Kreditor
+ creditore
+Krehn
+ barbaforte
+Kreide
+ creta
+Kreis
+ circolo
+Kreuz
+ croce
+Krieg
+ guerra
+Krise
+ crisi
+Krisis
+ crisi
+Kroatien
+ Croazia
+Krokodil
+ coccodrillo
+Krug
+ 1. brocca
+ 2. cassa; tinozza; vaso
+Kröte
+ rospo
+Kuchen
+ torta
+Kugel
+ 1. globo
+ 2. palla
+Kugelmaschine
+ pallottoliere
+Kuh
+ vacca
+Kulm
+ punta
+Kunde
+ cliente; compratore
+Kupee
+ scompartimento
+Kupfer
+ rame
+Kupplung
+ frizione
+Kurve
+ curva
+Kusine
+ cugina
+Kuvert
+ 1. busta
+ 2. busta
+Kuß
+ bacio
+Käse
+ formaggio
+Köchin
+ cuoca
+Köder
+ esca
+Königreich
+ regno
+Körper
+ corpo
+Küche
+ cucina
+Kürbis
+ zucca
+Küste
+ costa
+LKW
+ 1. autocarro; camion
+ 2. autocarro; camion
+Labyrinth
+ labirinto
+Lache
+ risa
+Lachen
+ riso
+Lachs
+ salmone
+Lade
+ cassetto
+Laden
+ negozio
+Ladung
+ carico
+Lagerhütte
+ baracca
+Laken
+ lenzuolo
+Lamm
+ agnello
+Land
+ 1. campagna
+ 2. paese
+ 3. terra
+Landgut
+ fattoria
+Lappland
+ Lapponia
+Last
+ carico
+Lastauto
+ 1. autocarro; camion
+ 2. autocarro; camion
+Lastkraftwagen
+ 1. autocarro; camion
+ 2. autocarro; camion
+Lasur
+ azzurro
+Lattich
+ lattuga
+Latun
+ ottone
+Laus
+ pidocchio
+Laut
+ suono
+Leben
+ vita
+Leber
+ fegato
+Leder
+ cuoio
+Lehm
+ argilla
+Lehnstuhl
+ 1. poltrona
+ 2. poltrona
+Lehraufgabe
+ lezione
+Lehrer
+ maestro
+Lehrerin
+ maestra
+Leib
+ corpo
+Leichdorn
+ callo
+Leiter
+ 1. amministratoredelegato; direttore
+ 2. scala
+Lektion
+ lezione
+Lenkrad
+ 1. remo
+ 2. timone; volante
+Lenz
+ primavera
+Lerche
+ allodola
+Leuchtturm
+ faro
+Leute
+ gente
+Licht
+ 1. candela
+ 2. luce
+Liebhaber
+ dilettante
+Lied
+ canzone
+Lift
+ ascensore
+Liga
+ banda
+Linde
+ tiglio
+Lindenbaum
+ tiglio
+Linie
+ linea
+Linse
+ lenticchia
+Lippe
+ labbro
+Liste
+ lista
+Litauen
+ Lituania
+Loch
+ buco
+Lohn
+ ricompensa
+Lokomotive
+ locomotiva
+London
+ Londra
+Lorbeer
+ alloro
+Lorbeerbaum
+ alloro
+Luft
+ aria
+Lunge
+ polmone
+Lunte
+ coda
+Lust
+ desiderio
+Lustspiel
+ commedia
+Luxus
+ lusso
+Löffel
+ cucchiaio
+Löschpapier
+ cartaasciugante; cartaassorbente
+Löwe
+ leone
+Macht
+ potere
+Magen
+ stomaco
+Mai
+ maggio
+Mailand
+ Milano
+Mais
+ granturco
+Makrele
+ sgombro
+Maler
+ pittore
+Mandel
+ mandorla
+Mangold
+ barbabietola
+Manier
+ maniera; modo
+Manko
+ mancanza
+Mann
+ uomo
+Mannschaft
+ equipaggio
+Marille
+ albicocca
+Mariä Verkündigung
+ Annunciazone
+Markise
+ tettoia
+Markt
+ 1. bazar
+ 2. sbocco
+Marktplatz
+ mercato
+Marmelade
+ marmelata
+Marmor
+ marmo
+Maschine
+ macchina
+Masse
+ massa
+Mast
+ albero
+Material
+ materiale
+Materie
+ materia
+Matratze
+ materasso
+Mauer
+ muro
+Maul
+ bocca; imboccatura
+Maulbeerbaum
+ 1. gelso
+ 2. gelso
+Maulesel
+ mulo
+Maultier
+ mulo
+Maus
+ sorcio; topo
+Maß
+ misura
+Mechaniker
+ meccanico
+Meer
+ mare
+Meerrettich
+ barbaforte
+Megäre
+ megera
+Mehl
+ fioredellafarina
+Mehrwehrtsteuer
+ IVA
+Meinung
+ significato
+Meißel
+ scalpello
+Melone
+ melone
+Menge
+ folla
+Menü
+ 1. lista
+ 2. lista
+Merkzeichen
+ segno
+Messer
+ coltello
+Messias
+ Messia
+Messing
+ 1. ottone
+ 2. ottone
+Metall
+ metallo
+Methode
+ metodo
+Miene
+ aria
+Miesmuschel
+ vongola
+Milch
+ latte
+Million
+ milione
+Mineral
+ minerale
+Ministerium
+ ministero
+Minze
+ menta
+Mischling
+ bastardo
+Mitgift
+ dote
+Mitglied
+ membro
+Mittagessen
+ colazione
+Mitte
+ mezzo
+Mittel‐
+ medio
+Mittel
+ 1. arnese; strumento
+ 2. mezzo
+Mittelpunkt
+ centro
+Mittelwort
+ participio
+Mittwoch
+ mercoledì
+Mobilär
+ mobili
+Modistin
+ 1. modista
+ 2. modista
+Mohrrübe
+ carota
+Monat
+ mese
+Mond
+ luna
+Monolog
+ monologo
+Monstrum
+ mostro
+Montag
+ lunedì
+Monument
+ monumento
+Moped
+ ciclomotore
+Morgen
+ mattina
+Moskito
+ zanzara
+Mostrich
+ mostarda
+Motor
+ motore
+Motorrad
+ motocicletto
+Mund
+ bocca
+Mundart
+ dialetto
+Muschel
+ conchiglia
+Museum
+ museo
+Musikaufführung
+ concerto
+Musiker
+ musicista
+Muskel
+ muscolo
+Muster
+ campione
+Mut
+ coraggio
+Mutter
+ 1. madrevite
+ 2. madre
+ 3. madrevite
+Mädchen
+ piccola; ragazza
+Märchen
+ favola; fiaba
+März
+ marzo
+Möhre
+ carota
+Möwe
+ gabbiano
+Mündung
+ 1. bocca; imboccatura
+ 2. imboccatura
+Münster
+ catedrale; duomo
+Münze
+ moneta
+Nachbar
+ vicino
+Nachhut
+ retroguardia
+Nachkommenschaft
+ generazione
+Nachmittag
+ pomeriggio
+Nacht
+ notte
+Nachtigall
+ usignolo; usignuolo
+Nachtisch
+ dessert
+Nachwuchs
+ generazione
+Nadel
+ ago
+Nagel
+ 1. chiodo
+ 2. unghia
+Nahrung
+ alimento; cibo
+Nahrungsmittel
+ alimento; cibo
+Name
+ nome
+Nase
+ naso
+Nashorn
+ rinoceronte
+Natter
+ vipera
+Natur
+ 1. natura
+ 2. carattere; indole; natura
+Nebel
+ nebbia
+Neffe
+ nipote
+Nelke
+ garofano
+Nerv
+ nervo
+Netz
+ rete
+Neujahr
+ capod'anno
+Nichte
+ nipote
+Niederlage
+ disfatta
+Niederlande
+ Olanda
+Niederländer
+ Olandese
+Niere
+ rene
+Niveau
+ livello
+Norden
+ nord
+Norwegen
+ Norvegia
+Norweger
+ norvegese
+Not
+ miseria
+Notar
+ notaio
+November
+ novembre
+Nummer
+ numero
+Nutzen
+ 1. beneficio; guadagno; profitto; vantaggio
+ 2. beneficio; guadagno; profitto; vantaggio
+Nuß
+ noce
+Nußbaum
+ 1. noce
+ 2. noce
+Oberarm
+ omero
+Oberhaupt
+ capo
+Oberschenkel
+ coscia
+Objekt
+ cosa; ogetto
+Obstwein
+ sidro
+Ochs
+ bue
+Offerte
+ offerta
+Ohr
+ orecchio
+Oktober
+ ottobre
+Okzident
+ ovest
+Olive
+ oliva
+Olivenbaum
+ 1. olivo
+ 2. olivo
+Onkel
+ zio
+Optiker
+ ottico
+Orange
+ arancia
+Orangenbaum
+ 1. arancio
+ 2. arancio
+Orient
+ est
+Ort
+ 1. luogo
+ 2. luogo
+ 3. città
+ 4. villaggio
+Osten
+ est
+Ostern
+ Pasqua
+Ostsee
+ Baltico
+Paket
+ pacco
+Palast
+ palazzo
+Panorama
+ vista
+Papagei
+ pappagallo
+Papier
+ carta
+Papierkorb
+ cestinoperlacarta
+Pappel
+ albero; pioppo
+Paris
+ Parigi
+Partei
+ partito
+Particip
+ participio
+Participium
+ participio
+Partie
+ parte; porzione
+Passagier
+ passagiere
+Pasta
+ pasta
+Paste
+ pasta
+Pastor
+ curato; prete; sacerdate
+Pate
+ compare
+Pater
+ padre
+Paß
+ passaporto
+Peltz
+ pelle
+Pension
+ pensione
+Pensum
+ compito
+Person
+ persona
+Petersilie
+ prezzemolo
+Petroleum
+ petrolio
+Pfad
+ sentiero
+Pfanne
+ 1. casseruola
+ 2. tegola
+Pfarrer
+ curato; prete; sacerdate
+Pfeffer
+ pepe
+Pferd
+ cavallo
+Pflanzen
+ pianta
+Pflanzung
+ pianta
+Pflug
+ aratro
+Pfote
+ gamba
+Pfrieme
+ punteruolo
+Pfropfen
+ sughero
+Phantasie
+ fantasia
+Philosoph
+ filosofo
+Phrase
+ frase
+Pilz
+ fungo
+Pionier
+ iniziatore; pioniere
+Plan
+ 1. intenzione
+ 2. progetto
+ 3. progetto
+Platz
+ 1. luogo
+ 2. luogo
+ 3. piazza
+Pneumatik
+ gomma
+Poem
+ poema
+Poesie
+ poesia
+Poet
+ poeta
+Pokal
+ calice; bicchiere; boccale
+Pole
+ polacco
+Polen
+ Polonia
+Politik
+ politica
+Polizei
+ polizia
+Polizeiamt
+ questura
+Polizeiwache
+ questura
+Polizist
+ 1. guardia; poliziotto
+ 2. guardia; poliziotto
+Pomeranze
+ arancia
+Portion
+ porzione
+Porto
+ affrancatura
+Portugal
+ Portogallo
+Portugiese
+ portoghese
+Post
+ posta
+Postamt
+ ufficiopostale
+Postfach
+ casellapostale
+Postkarte
+ cartolinapostale
+Potenz
+ potere
+Preis
+ 1. premio
+ 2. prezzo
+Preisausschreiben
+ concorso
+Pressen
+ pressione
+Priester
+ curato; prete; sacerdate
+Prinzip
+ principio
+Probe
+ campione
+Probestück
+ campione
+Problem
+ problema
+Produktion
+ prodotto
+Profession
+ professione
+Projekt
+ progetto
+Proklamation
+ pubblicazione
+Promotion
+ promozione
+Proselyt
+ convertito
+Protektion
+ protezione
+Protokoll
+ contravvenzione
+Prozeß
+ processo
+Prämie
+ premio
+Prüfungszeugnis
+ diploma
+Puls
+ polso
+Pulsader
+ arteria
+Pumpe
+ pompa
+Punkt
+ punto
+Puppe
+ bambola
+Päckchen
+ pacco
+Quartier
+ circondario; distretto
+Quelle
+ fonte; sorgente
+Quittung
+ ricevuta
+Rabe
+ corvo
+Rache
+ vendetta
+Rad
+ 1. bicicletta
+ 2. bicicletta
+ 3. ruota
+Radiergummi
+ gomma
+Radieschen
+ ravanello
+Radio
+ radio
+Rahm
+ crema
+Rand
+ 1. orlo
+ 2. orlo
+Rasse
+ razza
+Rat
+ avviso; consiglio
+Rathaus
+ municipio
+Ration
+ porzione
+Rationalität
+ ragione
+Ratschlag
+ avviso; consiglio
+Ratte
+ topo
+Rauch
+ fumo
+Raucherabteil
+ fumatori
+Raum
+ spazio
+Raupe
+ bruco
+Rebe
+ vite
+Rebhuhn
+ pernice
+Rechenbrett
+ abaco; pallottoliere
+Rechenmaschine
+ pallottoliere
+Rechnung
+ 1. fattura
+ 2. conto
+Recht
+ diritto
+Redensart
+ frase
+Regal
+ asse
+Regel
+ regola
+Regen
+ pioggia
+Regenbogen
+ arcobaleno
+Reichtum
+ ricchezza
+Reifen
+ 1. gomma
+ 2. gomma
+Reihenfolge
+ ordine
+Reinheit
+ pulizia
+Reinlichkeit
+ pulizia
+Reis
+ riso
+Reise
+ viaggio
+Reisepaß
+ passaporto
+Rendezvous
+ appuntamento
+Republik
+ repubblica
+Respekt
+ rispetto
+Restaurant
+ ristorante
+Restauration
+ ristorante
+Resultat
+ 1. risultato
+ 2. esito; risultato
+Revue
+ rivista
+Rhein
+ Reno
+Richter
+ giudice
+Rinde
+ corteccia
+Rindfleisch
+ manzo
+Ring
+ anello
+Risiko
+ rischio
+Riß
+ progetto
+Robe
+ abito
+Roggen
+ segale
+Rohr
+ condotto
+Rolladen
+ persiana
+Rom
+ Roma
+Roman
+ romanzo
+Rot
+ rosso
+Rotte
+ compagnia
+Rover
+ bicicletta
+Ruder
+ remo
+Ruf
+ appello; chiamata
+Ruhe
+ riposo
+Runkelrübe
+ barbabietola
+Russe
+ russo
+Rute
+ coda
+Rußland
+ Russia
+Räuber
+ bandito; brigante
+Röhre
+ condotto
+Rübe
+ rapa
+Rücken
+ dorso
+Rückgrat
+ spinadorsale
+Rüster
+ olmo
+Sabbat
+ sabato
+Sache
+ affare; faccenda
+Sahne
+ crema
+Saison
+ stagione
+Salat
+ 1. lattuga
+ 2. insalata
+Salbei
+ salvia
+Salm
+ salmone
+Salon
+ salotto
+Salz
+ sale
+Salär
+ paga; salario
+Samstag
+ sabato
+Sand
+ sabbia
+Sarg
+ cassasamorto
+Satanas
+ Satana
+Satz
+ frase
+Sauberkeit
+ pulizia
+Sauce
+ salsa
+Saum
+ orlo
+Schachtel
+ scatola
+Schaden zufügen
+ danneggiare
+Schaf
+ pecora
+Schaffner
+ capotreno
+Schale
+ bacino
+Schall
+ suono
+Schalter
+ sportello
+Schalterfenster
+ sportello
+Schaltjahr
+ annobisestile
+Schankraum
+ bar
+Schatten
+ 1. ombra
+ 2. ombra
+Schaum
+ schiuma
+Schauspieler
+ attore
+Scheck
+ assegno; assegnobancario
+Scheidewasser
+ acquaforte
+Scheidung
+ divorzio
+Schein
+ 1. banconota
+ 2. apparenza; aria
+Schenkel
+ coscia
+Schere
+ forbici
+Scherz
+ scherzo
+Scheune
+ granaio
+Schiebefenster
+ sportello
+Schiefer
+ ardesia
+Schiefergestein
+ ardesia
+Schiff
+ navata
+Schiffsdeck
+ coperta; ponte
+Schinken
+ prosciutto
+Schirm
+ protezione
+Schlacht
+ battaglia
+Schlaf
+ sonno
+Schlafwagen
+ vetturaletti
+Schlafzimmer
+ cameradaletto
+Schlag
+ 1. apoplessia
+ 2. colpo
+ 3. genere; specie
+Schlagader
+ arteria
+Schlagfluß
+ apoplessia
+Schlamm
+ fango
+Schlange
+ serpente
+Schlauch
+ condotto
+Schleppe
+ coda
+Schlepper
+ rimorchiatore
+Schlips
+ cravatta
+Schloß
+ 1. castello
+ 2. palazzo
+ 3. serratura
+Schlußrechnung
+ bilancio
+Schläfe
+ tempia
+Schlüssel
+ chiave
+Schmerz
+ dolore
+Schmerz verursachen
+ farmale
+Schmetterling
+ farfalla
+Schmutz
+ fango
+Schnabel
+ becco
+Schnecke
+ 1. chiocciola
+ 2. lumaca
+Schneckenlinie
+ elica
+Schnee
+ neve
+Schneider
+ sarto
+Schnittlauch
+ cipollina
+Schnurrbart
+ baffi
+Schokolade
+ cioccolata
+Schornstein
+ fumaiuolo
+Schotte
+ scozzese
+Schottland
+ Scozia
+Schrank
+ armadio
+Schranke
+ 1. parapetto
+ 2. barriera
+ 3. confine; frontiera
+Schraube
+ 1. elica
+ 2. vite
+Schraubenschlüssel
+ chiave
+Schreibmaschine
+ macchinadascrivere
+Schriftsteller
+ autore
+Schritt
+ passo
+Schublade
+ cassetto
+Schuh
+ scarpa
+Schuhmacher
+ calzolaio
+Schuld
+ debito
+Schule
+ scuola
+Schulter
+ spalla
+Schuppe
+ squama
+Schuster
+ calzolaio
+Schutz
+ protezione
+Schutzmann
+ 1. guardia; poliziotto
+ 2. guardia; poliziotto
+Schwager
+ cognato
+Schwalbe
+ rondine
+Schwanz
+ coda
+Schwarz
+ nero
+Schwede
+ svedese
+Schweden
+ Svezia
+Schweif
+ coda
+Schwein
+ porco
+Schweinefleisch
+ maiale
+Schweiz
+ Svizzera
+Schweizer
+ svizzero
+Schwelle
+ soglia
+Schwester
+ sorella
+Schwieger‐
+ perviadimatrimonio
+Schwiegersohn
+ genero
+Schwiegervater
+ suocero
+Schwiele
+ callo
+Schädel
+ cranio
+Schüler
+ allievo; scolaro
+See
+ 1. lago
+ 2. mare
+Seehund
+ foca
+Seekrankheit
+ maldimare
+Seemann
+ marinaio
+Seezunge
+ sogliola
+Segel
+ vela
+Sehen
+ vista
+Seite
+ 1. fianco; lato
+ 2. pagina
+Sektion
+ divisione
+Sekunde
+ secondo
+Selbstherrscher
+ autocrate
+Sellerie
+ sedano
+Semmel
+ panino
+Senf
+ mostarda
+Senkel
+ filo
+Sense
+ falce
+September
+ settembre
+Serviette
+ tovagliolo
+Sex
+ sesso
+Sicherheit
+ sicurezza
+Sicht
+ vista
+Sie
+ 1. tu; voi
+ 2. tu; voi
+ 3. tu; voi
+ 4. tu; voi
+Sieg
+ vittoria
+Silber
+ argento
+Sizilien
+ Sicilia
+Skandal
+ scandalo
+Skelett
+ 1. scheletro
+ 2. scheletro
+Skizze
+ progetto
+Slang
+ gergo
+Sohle
+ pianta
+Sohn
+ figlio; figliolo
+Sommer
+ estate
+Sonnabend
+ sabato
+Sonne
+ sole
+Sophisma
+ sofisma
+Sorge
+ cura
+Sorte
+ genere; specie
+Souper
+ cena
+Sozietät
+ compagnia
+Soße
+ salsa
+Spalte
+ crepa; fessura; screpolatura
+Spanien
+ Spagna
+Spanier
+ spagnolo; spagnuolo
+Spargel
+ asparago
+Spatz
+ passero
+Spaß
+ scherzo
+Speck
+ lardo
+Speisekarte
+ 1. lista
+ 2. lista
+Speisesaal
+ saladapranzo
+Speisezimmer
+ saladapranzo
+Spende
+ dono; presente; regalo
+Sperling
+ passero
+Spezimen
+ campione
+Sphäre
+ sfera
+Spiegel
+ specchio
+Spiel
+ giuoco
+Spielzeug
+ giuocattolo
+Spinat
+ spinaci
+Spinne
+ ragno
+Spitze
+ punta
+Sport
+ sport
+Sprache
+ lingua
+Springbrunnen
+ fontana
+Spritus
+ alcool
+Spruch
+ giudizio
+Sprung
+ salto
+Staat
+ stato
+Staatsangehörigkeit
+ cittadinanza
+Stachel
+ 1. spina
+ 2. aculeo; pungiglione
+Stachelbeere
+ ribes
+Stadt
+ città
+Stadtviertel
+ circondario; distretto
+Staffel
+ grado
+Stahl
+ acciaio
+Stall
+ stalla
+Stamm
+ tronco
+Standarte
+ stendardo
+Standbild
+ statua
+Stange
+ barra
+Stapel
+ folla
+Statue
+ statua
+Staub
+ polvere
+Staude
+ arbusto
+Stechmücke
+ zanzara
+Steg
+ sentiero
+Steig
+ sentiero
+Stein
+ pierra
+Steinbock
+ Capricorno
+Steinmasse
+ roccia
+Stelle
+ 1. luogo
+ 2. luogo
+Stemmeisen
+ scalpello
+Stern
+ stella
+Sterz
+ coda
+Steuer
+ 1. remo
+ 2. contribuzione; imposta; tassa
+Steuerabgabe
+ contribuzione; imposta; tassa
+Steuerbord
+ destra
+Stiege
+ scala
+Stiel
+ tenaglie
+Stier
+ toro
+Stift
+ 1. chiodo
+ 2. punta
+Stillstand
+ fermata
+Stimme
+ voce
+Stirn
+ fronte
+Stock
+ piano
+Stockholm
+ Stoccolma
+Stockwerk
+ piano
+Stollen
+ galleria
+Stoß
+ spinta; urto
+Strafe
+ punizione
+Straferlaß
+ amnistia
+Strahl
+ sciopero
+Strand
+ spiaggia
+Strauch
+ arbusto
+Straße
+ via
+Straßenbahn
+ tram
+Strecke
+ cammino; corsia; pista; strada; via
+Streich
+ colpo
+Streichholz
+ fiammifero
+Streit
+ conflitto
+Strich
+ linea
+Strunk
+ tronco
+Strömung
+ corrente
+Stube
+ camera
+Student
+ studente
+Stufe
+ grado
+Stuhl
+ sedia
+Sturm
+ tempesta
+Sturzbad
+ doccia
+Stätte
+ luogo
+Stöpsel
+ sughero
+Stück
+ 1. parte; porzione
+ 2. pezzo
+Stütze
+ sostegno
+Suffix
+ suffisso
+Summe
+ importo; somma
+Suppe
+ minestra
+System
+ sistema
+Säge
+ sega
+Sänger
+ cantante
+Südamerika
+ AmericadelSud
+Süden
+ sud
+Tag
+ giorno
+Tagebuch
+ diario
+Tagesanbruch
+ alba
+Tal
+ valle
+Tanne
+ abete
+Tanz
+ ballo; danza
+Tasse
+ tazza
+Tastatur
+ pianola; tastiera
+Tat
+ azione
+Tatsache
+ fatto
+Tau
+ rugiada
+Taube
+ piccione
+Taufe
+ battesimo
+Tausch
+ cambiamento
+Tausend
+ migliaio
+Tee
+ tè
+Teebüchse
+ teiera
+Teer
+ catrame
+Teich
+ stagno
+Teig
+ pasta
+Teil
+ 1. parte; porzione
+ 2. parte; porzione
+Teilnahmslosigkeit
+ apatia
+Teint
+ carnagione
+Teller
+ piatto
+Tempo
+ velocità
+Tenne
+ aia
+Teppich
+ tappeto
+Terrain
+ 1. luogo
+ 2. terra
+Territorium
+ teritorio
+Tessin
+ Ticino
+Testimonium
+ certificatoattestato
+Teufel
+ 1. Satana
+ 2. demonio; diavolo
+Theater
+ teatro
+Thunfisch
+ tonno
+Tiefe
+ 1. abisso; burrone
+ 2. profondità
+ 3. profondità
+Tier
+ 1. animale
+ 2. animale; bestia
+Tierhaut
+ pelle
+Tierkreis
+ zodiaco
+Tiger
+ tigre
+Tinte
+ inchiostro
+Tisch
+ tavolo
+Tischlade
+ cassetto
+Tischtuch
+ toviglia
+Tochter
+ figlia; figliuola; figliola
+Tod
+ morte
+Todeskampf
+ agonia
+Toilettenpapier
+ cartaigienica
+Tomate
+ pomodoro
+Ton
+ 1. accento
+ 2. argilla
+ 3. suono
+Tonerde
+ argilla
+Tonne
+ barile
+Torheit
+ follia; sciocchezza
+Tour
+ viaggio
+Tracht
+ abito; costume
+Tragweite
+ importanza
+Traktat
+ 1. contratto
+ 2. trattato
+Trank
+ bevanda; bibita
+Transport
+ trasporto
+Traube
+ acino; chiccod'uva; uva
+Traum
+ sogno
+Treppe
+ scala
+Trieb
+ spinta; urto
+Triebfeder
+ molla
+Trinkgeld
+ mancia
+Tritt
+ passo
+Triumph
+ vittoria
+Trompete
+ tromba
+Tropfen
+ goccia
+Trost spenden
+ consolare
+Trug
+ truffa
+Träger
+ facchino
+Träne
+ lagrima
+Tugend
+ virtú
+Tunke
+ salsa
+Turm
+ torre
+Tyrann
+ tiranno
+Tätigkeit
+ funzione
+Täuschung
+ truffa
+Tümmler
+ delfino
+Tümpel
+ stagno
+Tür
+ porta; uscio
+Türke
+ turco
+Türkei
+ Turchia
+Uhr
+ orologio
+Uhrmacher
+ orlogiaio
+Ulme
+ olmo
+Umgebung
+ ambiente
+Umschag
+ coperta
+Umschlag
+ 1. busta
+ 2. busta
+Umstandswort
+ avverbio
+Unfall
+ accidente; disgrazia; incidente
+Ungar
+ ungherese
+Ungarn
+ Ungheria
+Ungeheuer
+ mostro
+Ungemach
+ disastro
+Ungetüm
+ mostro
+Unglück
+ disastro
+Unhold
+ mostro
+Universität
+ università
+Unterarm
+ avambraccio
+Unterhaltung
+ conversazione
+Unterhandlung
+ trattamento
+Unterhose
+ mutande
+Unterleib
+ ventre
+Unternehmung
+ impresa
+Unterrichtsstunde
+ lezione
+Unterschenkel
+ gamba
+Unterschleif
+ truffa
+Unterschrift
+ firma
+Untertasse
+ piattino
+Urahn
+ 1. bisnonno
+ 2. antenato
+Urenkel
+ pronipote
+Urgroßvater
+ bisnonno
+Urheber
+ autore
+Urkunde
+ 1. diploma
+ 2. documento
+Ursache
+ causa
+Ursprung
+ 1. discendenza; nascita; origine
+ 2. nascita; origine
+Urteil
+ giudizio
+Usus
+ costume
+Valet
+ addio; congedo
+Variation
+ variazone
+Vater
+ padre
+Vaterland
+ patria
+Vene
+ vena
+Venedig
+ Venecia
+Ventil
+ valvola
+Verachtung
+ sprezzo
+Veranlassung
+ causa
+Verband
+ banda
+Verbannung
+ esilio
+Verbindung
+ 1. banda
+ 2. relazione
+Verbrauchssteuer
+ dazioconsumo
+Verbrechen
+ delitto
+Verdacht
+ sospetto
+Verdeck
+ 1. coperta; ponte
+ 2. coperta
+Verderbnis
+ difetto
+Verdienst
+ beneficio; guadagno; profitto; vantaggio
+Verehrung
+ considerazione; stima; riguardo; rispetto
+Vereinigten Staaten
+ America; StatiUniti
+Verfasser
+ 1. autore
+ 2. autore
+Verfolgung
+ 1. inseguimento
+ 2. inseguimento
+Vergangenheit
+ passato
+Vergehen
+ delitto
+Vergnügen
+ piacere
+Verhalten
+ condotta
+Verhandlung
+ trattamento
+Verhältnis
+ relazione
+Verkauf
+ vendita
+Verkettung
+ ordine
+Verletzung
+ ferita
+Verlies
+ prigione
+Verlust
+ 1. perdita
+ 2. perdita
+Vermehrung
+ crescimento
+Vermerk
+ osservazione
+Vermächtnis
+ dono; presente; regalo
+Vernunftforscher
+ filosofo
+Vernunftgemäßheit
+ ragione
+Verpackung
+ bagaglio
+Versammlung
+ convegno
+Verschluß
+ serratura
+Versehen
+ errore; sbaglio
+Versicherung
+ assicurazione
+Versprechen
+ promessa
+Vertrag
+ contratto
+Vertrauen
+ fiducia
+Vertrieb
+ smercio; vendita
+Verwaltung
+ amministrazione; direzione; gestione
+Verwandter
+ parente
+Verwandtschaft
+ 1. parentado
+ 2. parentado; parentela
+Verweigerung
+ rifiuto
+Verwundung
+ ferita
+Verzeichnis
+ 1. catalogo
+ 2. lista
+Veränderung
+ 1. cambiamento
+ 2. cambiamento
+Vetter
+ cugino
+Viertel
+ 1. quartod'ora
+ 2. circondario; distretto
+Viertelstunde
+ quartod'ora
+Violincello
+ violoncello
+Visite
+ visita
+Vogel
+ uccello
+Vokabel
+ parola
+Volk
+ popolo
+Vollmond
+ plenilunio
+Volumen
+ tomo; volume
+Vorbedeutung
+ augurio
+Vorfahr
+ antenato
+Vorhang
+ cortina
+Vorname
+ prenome
+Vorrichtung
+ apparecchio
+Vorsteher
+ 1. amministratoredelegato; direttore
+ 2. capo
+Vorstellung
+ idea; nozione
+Vorteil
+ 1. beneficio; guadagno; profitto; vantaggio
+ 2. beneficio; guadagno; profitto; vantaggio
+Vorurteil
+ pregiudizio
+Vorwürfe machen
+ riprendere
+Vorzeichen
+ augurio
+Waage
+ bilancia
+Wade
+ polpaccio
+Wagen
+ vagone; vettura
+Wagentür
+ portiera
+Waggon
+ vagone; vettura
+Wagnis
+ rischio
+Wagon
+ vagone; vettura
+Wahl
+ scelta
+Wahrheit
+ 1. verità
+ 2. verità
+Wahrsagung
+ augurio
+Wald
+ bosco
+Wales
+ Galles
+Walfisch
+ balena
+Wallfahrt
+ pelegrinaggio
+Walze
+ cilindro
+Wand
+ 1. muro
+ 2. parete
+Wandbrett
+ asse
+Wandelgang
+ galleria
+Wange
+ guancia
+Warenhaus
+ bazar
+Warenrechnung
+ fattura
+Warnung
+ avviso
+Warteraum
+ salad'aspetto
+Wartesaal
+ salad'aspetto
+Waschanstalt
+ lavanderia
+Wasser
+ acqua
+Wasserfall
+ 1. cascata
+ 2. cascata
+Wechsel
+ 1. cambiale
+ 2. cambiamento
+Wecker
+ sveglia
+Wedel
+ coda
+Weg
+ cammino; corsia; pista; strada; via
+Weh
+ dolore
+Wehr
+ difesa
+Weib
+ 1. megera
+ 2. donna
+Weide
+ salcio; salice
+Weigerung
+ rifiuto
+Weiher
+ stagno
+Weihnachten
+ Natale
+Weile
+ durata
+Wein
+ vino
+Weinberg
+ vigna
+Weinstock
+ vite
+Weintraube
+ acino; chiccod'uva; uva
+Weise
+ maniera; modo
+Weisheit
+ freccia
+Weisung
+ ordine
+Weite
+ distanza
+Weizen
+ frumento
+Welle
+ 1. onda
+ 2. albero
+Welt
+ mondo
+Werk
+ 1. affare; faccenda
+ 2. opera
+Werkzeug
+ 1. arnese; strumento
+ 2. strumento
+Wert
+ valore
+Wespe
+ vespa
+Westen
+ 1. ovest
+ 2. ovest
+Wettbewerb
+ concorso
+Wetter
+ tempo
+Widerstreit
+ conflitto
+Wiederwillen
+ avversione; ripugnanza
+Wien
+ Vienna
+Wildnis
+ deserto
+Wildschwein
+ cinghiale
+Wille
+ volontà
+Wind
+ vento
+Wink
+ segno
+Wipfel
+ cima
+Wirksamkeit
+ funzione
+Wirt
+ maestro; padrone; principale
+Wissen
+ conoscenza
+Wissenschaft
+ 1. scienza
+ 2. conoscenza
+Witterung
+ tempo
+Woche
+ settimana
+Woge
+ onda
+Wohlgefallen
+ piacere
+Wohlklang
+ accordo
+Wohnhaus
+ alloggio; appartamento
+Wohnort
+ 1. residenza
+ 2. residenza
+Wohnsitz
+ residenza
+Wohnung
+ alloggio; appartamento
+Wohnzimmer
+ stanza
+Wolf
+ lupo
+Wolke
+ nube; nuvola; nuvolo
+Wonne
+ allegria
+Wort
+ parola
+Wuchs
+ crescimento
+Wucht
+ peso
+Wundarzt
+ chirurgo
+Wunde
+ ferita
+Wunsch
+ desiderio
+Wurm
+ verme
+Wurst
+ salsiccia
+Wörterbuch
+ dizionario
+Würfel
+ cubo; dado
+Wüste
+ deserto
+Wüterich
+ tiranno
+Zacke
+ punta
+Zahl
+ numero
+Zahlmeister
+ commissario
+Zahlung
+ pagamento
+Zahnarzt
+ dentista
+Zahnfleisch
+ gengiva
+Zehe
+ ditodelpiede
+Zeichen
+ segno
+Zeichnung
+ disegno
+Zeile
+ linea
+Zeit
+ tempo
+Zeitschrift
+ 1. rivista
+ 2. rivista
+Zeitung
+ giornale
+Zensor
+ censore
+Zensur
+ censura
+Zentimeter
+ centimetro
+Zentrum
+ centro
+Zerberus
+ Cerbero
+Zertifikat
+ certificatoattestato
+Zession
+ cessione
+Zettel
+ carta
+Zeug
+ guardaroba
+Zeughaus
+ arsenale
+Zeugnis
+ certificatoattestato
+Zicke
+ capra
+Zider
+ sidro
+Ziege
+ 1. capra
+ 2. capra
+Ziegel
+ 1. mattone
+ 2. tegola
+Ziegelstein
+ mattone
+Ziegenbock
+ caprobecco
+Ziehharmonika
+ fisarmonica
+Ziel
+ proposito; scopo
+Zimmer
+ camera
+Zimmerdecke
+ soffitto
+Zimmermädchen
+ cameriera
+Zinke
+ punta
+Zinn
+ stagno
+Zins
+ 1. interesse
+ 2. interesse
+Zinsabschnitt
+ cedola
+Zipfel
+ punta
+Zirkel
+ cerchio; circolo
+Zirkus
+ circo
+Zitadelle
+ cittadella
+Zitat
+ citazione
+Zitrone
+ limone
+Zodiakus
+ zodiaco
+Zofe
+ cameriera
+Zollamt
+ dogana
+Zone
+ cintura
+Zucker
+ zucchero
+Zufall
+ caso
+Zufluchtsstätte
+ asilo; ricovero
+Zufluß
+ altamarea
+Zug
+ 1. treno
+ 2. treno
+Zukunft
+ 1. avvenire
+ 2. avvenire
+Zunahme
+ crescimento
+Zunge
+ lingua
+Zuruf
+ chiamata
+Zusage
+ 1. accoglienza; accoglimento
+ 2. promessa
+Zusammenkunft
+ convegno
+Zusammenstellung
+ accomodamento
+Zuspruch
+ ammonimento; esortazione
+Zutat
+ materiale
+Zuversicht
+ 1. fiducia
+ 2. fiducia
+Zweck
+ proposito; scopo
+Zweig
+ ramo
+Zwerg
+ nano
+Zwieback
+ biscotto
+Zwiebel
+ cipolla
+Zwielicht
+ crepuscolo
+Zwinger
+ torre
+Zwirn
+ filo
+Zylinder
+ cilindro
+Zypern
+ Cipro
+Zypresse
+ cipresso
+Zündholz
+ fiammifero
+Zürich
+ Zurigo
+ab
+ 1. di
+ 2. lontano
+abbetteln
+ implorare; supplicare
+abbeuchen
+ lavare
+abbrechen
+ rompere; spezzare
+abdecken
+ scoprire
+abends
+ disera
+abergläubisch
+ superstizioso
+abermalig
+ ancora; dinuovo
+abermals
+ 1. ancora; dinuovo
+ 2. ancora; dinuovo
+abessynisch
+ abissino
+abgedroschen
+ banale
+abgelebt
+ decrepito
+abgeschmackt
+ assurdo
+abgesondert
+ separato
+abgewöhnen
+ perderel'abitunidedi
+abhanden
+ perduto
+abhängen
+ dipendere
+abhängig
+ dipendente
+ablehnen
+ rifiutarsi
+ableiten
+ 1. concludere; dedurre
+ 2. derivare
+ablösen
+ rilevare
+abmessen
+ misurare
+abnehmen
+ amputare
+abpflügen
+ rompere; staccare
+abreisen
+ andarsene; partire
+abreißen
+ rompere; staccare
+abräumen
+ ritirare
+abschlagen
+ rifiutarsi
+abschneiden
+ amputare
+abschweifen
+ svoltare
+abschätzen
+ 1. apprezzare; stimare; valutare
+ 2. apprezzare; stimare; valutare
+abschüssig
+ ripido
+absichtlich
+ apposta
+absondern
+ separare
+abstammen
+ discendere
+abstrakt
+ astratto
+abstumpfen
+ irritare
+absurd
+ assurdo
+abteilen
+ separare
+abtrennen
+ separare
+abtreten
+ cedere
+abweichen
+ svoltare
+abwesend
+ assente
+abwägen
+ pesare
+abzahlen
+ pagare
+abzeichnen
+ disegnare
+acht
+ otto
+achtbar
+ onorevole; rispettabile
+achten
+ 1. rispettare; stimare
+ 2. apprezzare
+achtgeben
+ aspettare; attendere
+achtlos
+ negligente; noncurante; sbadato
+achtzehn
+ diciotto
+achtzig
+ ottanta
+addieren
+ aggiungere
+adieu
+ addio
+adjektivisch
+ aggettivo
+administrieren
+ amministrare; dirigere
+adressieren
+ indirizzare
+affektieren
+ posare
+afghanisch
+ afgano
+afrikanisch
+ africano
+afterreden
+ calunniare
+agieren
+ agire
+ahnden
+ castigare; punire
+akklamieren
+ acclamare
+akkurat
+ esatto; preciso
+aktiv
+ attivo
+aktuell
+ attuale
+akut
+ acuto
+albanesisch
+ albanese
+albanisch
+ albanese
+albern
+ ignorante; sciocco; stupido
+algerisch
+ algerino
+allein
+ 1. non...che; soltanto
+ 2. solo
+alleinig
+ solo
+allemal
+ sempre
+allenthalben
+ dappertutto
+allerdings
+ certamente
+allerlei
+ diognigenere; ognisortadi
+allerliebst
+ affascinante; amabile; grazioso
+allerorten
+ dappertutto
+alles
+ tutto
+allgemein
+ 1. comune
+ 2. generale
+alljährlich
+ annualmente
+allmählich
+ pocoapoco
+alltäglich
+ ognigiorno; quotidianamente
+allwissend
+ onnisciente
+allzeit
+ sempre
+als
+ che; di
+alsbald
+ 1. frapoco
+ 2. frapoco; immediatamente; subito
+alsdann
+ allora
+also
+ perciò; perquésto
+als Tatsache feststellen
+ constatare
+als ob
+ comese
+alt
+ 1. vecchio
+ 2. antico
+altertümlich
+ antico
+amerikanisch
+ 1. americano
+ 2. americano
+amortisieren
+ ammortizzare
+amputieren
+ amputare
+amtlich
+ ufficiale
+amüsieren
+ divertire
+am liebsten
+ piuttosto
+am meisten
+ estremamente
+an
+ 1. a
+ 2. contro
+ 3. a; su
+analysieren
+ analizzare
+anbeten
+ adorare; venerare
+anbrechen
+ cominciare
+anbringen
+ portare
+anderer
+ altro
+andernfalls
+ diversamente; inmododiverso
+andernteils
+ d'altronde; inoltre
+anders
+ 1. altro
+ 2. diversamente; inmododiverso
+anderswo
+ altrove
+andeuten
+ indicare; mostrare
+andringen
+ insistere
+aneinander
+ insieme
+anerkennen
+ confessare
+anfallen
+ attaccare
+anfangen
+ 1. cominciare
+ 2. cominciare
+anfechten
+ protestare
+anfertigen
+ 1. fabbricare
+ 2. commettere; fare
+anfragen
+ domandare
+anfänglich
+ all'inizio; dapprima; dapprincipio
+anführen
+ citare
+angeben
+ 1. denunciare
+ 2. dare
+ 3. mostrare
+ 4. passare
+ 5. insegnare
+angehen
+ concernere; riguardare
+angehören
+ appartenere
+angemessen
+ conveniente
+angenehm
+ gradevole; piacevole
+angreifen
+ 1. irritare
+ 2. attaccare
+ 3. afferrare
+angrenzend
+ vicino
+angängig
+ possibile
+anhalten
+ 1. fermarsi
+ 2. fermare
+anhängen
+ sospendere
+anhören
+ ascoltare
+anklagen
+ accusare; caricare
+ankleiden
+ vestire
+ankundigen
+ insegnare
+ankündigen
+ annunciare; annunziare; pubblicare
+anlangen
+ concernere; riguardare
+anlegen
+ 1. affigere
+ 2. sostenere
+anlehnen
+ sostenere
+anmelden
+ annunciare; annunziare; pubblicare
+anmutig
+ affascinante; amabile; grazioso
+annehmen
+ accettare; accogliere
+annullieren
+ annullare
+annähernd
+ circa; verso
+anorden
+ predisporre; sistemare
+anpflanzen
+ piantare
+anpreisen
+ lodare
+anregen
+ stimolare
+anreizen
+ 1. incitare; spronare
+ 2. stimolare
+anrufen
+ chiamare
+anrühren
+ toccare
+anschaulich
+ distinto
+anschaulig
+ chiaro; evidente; palese
+anschließen
+ annunciare; comunicare
+anschwärzen
+ calunniare
+ansehen
+ vedere
+anspannen
+ caricare
+anspielen
+ alludere
+anspielen auf
+ alludere
+anspruchslos
+ modesto
+anstarren
+ fissare
+anstecken
+ infettare
+anstellig
+ abile; destro; lesto; sveglio
+anstoßend
+ vicino
+anständig
+ onesto
+antarktisch
+ antartico
+antik
+ antico
+antiseptisch
+ antisettico
+antizipieren
+ anticipare
+antreffen
+ incontrare
+antun
+ causare
+antworten
+ replicare; rispondere
+anverwandt
+ congiunto; parento
+anwachsen
+ crescere
+anweisen
+ 1. indicare; mostrare
+ 2. mostrare
+anwenden
+ 1. applicare
+ 2. impiegare; usare
+anwerben
+ arruolare; ingaggiare
+anwesend
+ presente
+anzeigen
+ 1. annunciare; annunziare; pubblicare
+ 2. denunciare
+anziehen
+ 1. attirare
+ 2. vestire
+applaudieren
+ applaudire; batterelemani
+approbieren
+ approvare
+arabisch
+ arabo
+arbeiten
+ lavorare
+arbeitsam
+ attivo; laborioso
+arg
+ 1. grave; importante
+ 2. irato
+ 3. crudo
+argwöhnen
+ sospettare
+arm
+ 1. povero
+ 2. povero
+armenisch
+ armeno
+arrangieren
+ predisporre; sistemare
+arretieren
+ arrestare
+artig
+ cortese
+asiatisch
+ asiatico
+assistieren
+ aiutare; assistere
+assyrisch
+ assiro
+athenisch
+ ateniese
+atmen
+ respirare
+auch
+ anche
+aufbauen
+ costruire
+aufbewahren
+ conservare
+aufbieten
+ pubblicare
+aufbrechen
+ rompere; spezzare
+aufgehen
+ salire
+aufhalten
+ tenere
+aufheben
+ alzare
+aufhetzen
+ incitare; spronare
+aufhängen
+ sospendere
+aufhören
+ cessare
+aufladen
+ caricare
+auflösen
+ 1. analizzare
+ 2. risolvere
+aufmachen
+ aprire
+aufmerksam
+ attento
+aufmessen
+ misurare
+aufpassen
+ aspettare; attendere
+aufputzen
+ decorare
+aufrecht
+ destro
+aufreizen
+ incitare; spronare
+aufrichtig
+ sincero
+aufstehen
+ 1. alzarsi
+ 2. alzarsi
+aufsuchen
+ cercare
+auftauen
+ sgelare
+aufwiegen
+ valere
+aufziehen
+ caricare
+aufzählen
+ contare
+auf Wiedersehen
+ addio
+auf die Weise
+ così
+auf keiner Weise
+ innessunmodo
+augenscheinlich
+ chiaro; evidente; palese
+ausbessern
+ migliorare
+ausbeuten
+ sfruttare
+ausersehen
+ destinare
+ausfallen
+ attaccare
+ausführen
+ compiere; eseguire
+ausgehen
+ uscire
+ausgelassen
+ cattivo
+ausgenommen
+ eccetto; salvo
+ausgiebig
+ ricco
+aushorchen
+ ascoltare
+auskömmlich
+ sufficiente
+ausleeren
+ vuotare
+auslegen
+ spendere
+auslesen
+ eleggere; scegliere
+auslöschen
+ spegnere; spengere
+ausmerzen
+ rifiutare
+ausnutzen
+ sfruttare
+ausputzen
+ decorare
+ausreichen
+ bastare
+ausreißen
+ fuggire
+ausrufen
+ proclamare; pubblicare
+ausrücken
+ uscire
+ausschauen nach
+ cercare
+ausschlagen
+ rifiutarsi
+ausspannen
+ caricare
+aussprechen
+ pronunciare
+austeilen
+ distribuire
+australisch
+ australiano
+austrocknen
+ 1. seccare
+ 2. seccare
+ausweichen
+ evitare
+auswendig
+ amemoria
+auswählen
+ eleggere; scegliere
+auswärtig
+ all'estero
+auszahlen
+ pagare
+auszeichnen
+ distinguere
+aus dem Kopfe
+ amemoria
+authentisch
+ vero
+außerdem
+ 1. d'altronde; inoltre
+ 2. d'altronde; inoltre
+außerordentlich
+ straordinario
+avisieren
+ annunciare; annunziare; pubblicare
+backen
+ 1. cuocere
+ 2. friggere
+baden
+ bagnare
+bald
+ frapoco
+baldig
+ frapoco
+banal
+ banale
+bang
+ 1. angoscioso; pauroso
+ 2. inquieto
+ 3. angoscioso; pauroso
+bannen
+ bandire; esiliare
+bar
+ contante
+barbieren
+ farlabarba
+barsch
+ rozzo; scortese
+bauen
+ costruire
+baufällig
+ decrepito
+beabsichtigen
+ intendere
+beachten
+ aspettare; attendere
+beanstanden
+ protestare
+beantworten
+ replicare; rispondere
+beaufsichtigen
+ 1. osservare
+ 2. badare
+beauftragen
+ caricare
+beben
+ tremare
+bedauern
+ rincrescere
+bedecken
+ coprire
+bedeuten
+ significare
+bedeutend
+ grave; importante
+bedeutsam
+ grave; importante
+bedienen
+ servire
+bedrohen
+ minacciare
+bedrücken
+ premere; serrare; stringere
+beeidigen
+ giurare
+beeilen
+ accelerare
+beeinträchtigen
+ nuocere
+beenden
+ finire; terminare
+beendigen
+ finire; terminare
+beengen
+ disturbare
+beerben
+ ereditare
+beerdigen
+ seppellire
+befallen
+ attaccare
+befestigen
+ fissare
+befinden
+ trovare
+befolgen
+ ubbidire
+befreien
+ liberare
+befremden
+ sorprendere
+befremdend
+ strano
+befördern
+ 1. accelerare
+ 2. trasportare
+befürchten
+ avertimore; temere
+begabt
+ 1. abile; adatto; capace; idoneo
+ 2. dotato
+begegnen
+ incontrare
+begierig
+ avido; bramoso
+beginnen
+ 1. cominciare
+ 2. cominciare
+begleiten
+ accompagnare
+beglückwünschen
+ felicitare
+begreifen
+ capire; comprendere
+begreiflich
+ comprensibile
+begrenzen
+ limitare; restringere
+begrifflich
+ astratto
+begründen
+ 1. fondere
+ 2. provare
+begrüßen
+ salutare
+begutachten
+ criticare
+begünstigen
+ 1. favorire
+ 2. proteggere
+behagen
+ piacere
+behaglich
+ gradevole; piacevole
+behalten
+ conservare
+behandeln
+ 1. guarire
+ 2. trattare
+beharren auf
+ insistere
+behaupten
+ 1. asserire; sostenere
+ 2. assicurare
+ 3. difendere
+behelligen
+ impedire
+behende
+ 1. agile; snello
+ 2. abile; destro; lesto; sveglio
+beherrschen
+ dominare; governare
+behindern
+ 1. impedire
+ 2. disturbare
+bei
+ a; su
+beichten
+ confessare
+beifügen
+ 1. aggiungere
+ 2. affigere
+beinahe
+ quasi
+beipflichten
+ concordare; essererd'accordo
+beisammen
+ insieme
+beispringen
+ aiutare
+beistehen
+ 1. aiutare; assistere
+ 2. aiutare
+beistimmen
+ concordare; essererd'accordo
+beizeiten
+ intempo
+beißen
+ mordere
+bejahen
+ affermare
+bejahrt
+ vecchio
+bekannt
+ conosciuto; noto
+bekehren
+ convertire
+bekleiden
+ 1. occupare
+ 2. vestire
+beklemmen
+ premere; serrare; stringere
+bekommen
+ ricevere
+bekräftigen
+ confermare
+beköstigen
+ alimentare
+beladen
+ caricare
+belagern
+ assediare
+belasten
+ caricare
+belauschen
+ 1. spiare
+ 2. origliare
+belegen
+ coprire
+belehren
+ insegnare; instruire
+beleidigen
+ 1. insultare; offendere
+ 2. insultare; offendere
+belieben
+ piacere
+beliebig
+ arbitrario
+belohnen
+ ricompensare
+belustigen
+ divertire
+belästigen
+ disturbare
+belügen
+ mentire
+bemerken
+ osservare
+benachbart
+ vicino
+benachrichten
+ informare; insegnare
+beneiden
+ invidiare
+benennen
+ chiamare
+benutzen
+ impiegare; usare
+benötigen
+ averbisognodi
+beobachten
+ osservare
+bequem
+ comodo
+beraten
+ consigliare; raccomandare
+berauben
+ derubare
+berauscht
+ brillo; ubriaco
+berechnen
+ calcolare
+bereden
+ discutere
+bereit
+ 1. pronto
+ 2. volentieri
+bereiten
+ allestire; preparare
+bereits
+ già
+bereitwillig
+ volentieri
+bergen
+ 1. nascondere
+ 2. conservare
+ 3. riparare
+berichtigen
+ correggere
+beruhigen
+ calmare; placare
+berücksichtigen
+ considerare
+berühmt
+ celebre; famoso; rinomato
+berühren
+ toccare
+bescheiden
+ modesto
+beschimpfen
+ insultare; offendere
+beschirmen
+ 1. proteggere
+ 2. riparare
+beschleunigen
+ accelerare
+beschließen
+ 1. decidere
+ 2. finire; terminare
+beschmutzen
+ insudiciare; sporcare
+beschreiben
+ descrivere
+beschränken
+ limitare; restringere
+beschuldigen
+ accusare; caricare
+beschwören
+ giurare
+beschädigen
+ danneggiare
+beschützen
+ 1. difendere
+ 2. proteggere
+ 3. riparare
+besetzen
+ occupare
+besetzt
+ occupato
+besitzen
+ 1. avere
+ 2. possedere
+besonder
+ separato
+besonders
+ 1. soprattutto
+ 2. principalmente; soprattutto
+besorglich
+ pericoloso
+besprechen
+ discutere
+besser
+ migliore
+bessern
+ migliorare
+best
+ migliore
+bestehen
+ esistere
+bestellen
+ 1. ordinare
+ 2. compiere; eseguire
+bestimmen
+ 1. destinare
+ 2. definire
+bestimmt
+ 1. certo
+ 2. certamente
+ 3. distinto
+bestrafen
+ castigare; punire
+beständig
+ costante
+bestätigen
+ 1. assicurare
+ 2. confermare
+bestürtzt
+ confuso; turbato
+besuchen
+ visitare
+besänftigen
+ calmare; pacificare; placare
+betagt
+ vecchio
+beten
+ pregare
+betrachten
+ 1. considerare
+ 2. osservare
+betreffen
+ concernere; riguardare
+betreffs
+ concernere
+betrunken
+ brillo; ubriaco
+beträchtlich
+ grave; importante
+betrügen
+ ingannare; truffare
+bevorstehen
+ minacciare
+bevorstehend
+ prossimo
+bewaffnen
+ armare
+bewegen
+ muovere
+beweglich
+ mobile
+beweisen
+ provare
+bewerten
+ apprezzare; stimare; valutare
+bewillkommnen
+ salutare
+bewirken
+ causare
+bewohnen
+ abitare
+bewundern
+ ammirare
+bewundernswert
+ ammirabile
+bezahlen
+ pagare
+bezeichnen
+ significare
+bezweifeln
+ dubitare
+bieder
+ 1. onesto
+ 2. fedele
+biegen
+ curvarsi
+billig
+ abuonmercato
+billigen
+ approvare
+binden
+ 1. rilegare
+ 2. legare
+binnen
+ dentro
+bitten
+ chiedere
+bitter
+ amaro
+blank
+ 1. brillante
+ 2. puro
+blasen
+ soffiare
+blau
+ azzurro; blu
+blaß
+ pallido
+bleiben
+ stare; restare; rimanere
+bleich
+ pallido
+blind
+ cieco
+blinken
+ brillare; risplendere
+blockieren
+ bloccare
+blond
+ biondo
+bloß
+ 1. nudo
+ 2. non...che; soltanto
+ 3. solo
+bluten
+ sanguinare
+blühen
+ fiorire
+boxen
+ fareilpugilato
+braten
+ friggere
+brauchen
+ 1. averbisognodi
+ 2. impiegare; usare
+braun
+ bruno; marrone
+brausen
+ 1. bollire
+ 2. muggire
+brechen
+ 1. rompere; spezzare
+ 2. rompersi
+breit
+ largo
+bremsen
+ fermare
+brennen
+ ardere
+bringen
+ portare
+brummig
+ brusco; rude
+bröckeln
+ sgretolarsi
+brüten
+ covare
+böse
+ 1. irato
+ 2. cattivo
+bündig
+ 1. breve; conciso; succinto
+ 2. giustamente; giusto
+bürgerlich
+ civile
+da
+ consideratoche; vistoche
+daheim
+ acasa; incasa
+daher
+ 1. dilà
+ 2. perciò; perquésto
+dahin
+ 1. lontano
+ 2. là; lì
+damals
+ allora
+danach
+ 1. dopo; inseguito; poi
+ 2. allora
+dankbar
+ grato; riconoscente
+danken
+ ringraziare
+dann
+ 1. dietro; dopo
+ 2. allora
+dann und wann
+ diquandoinquando; ognitanto
+darauf
+ dietro; dopo
+darlegen
+ spiegare
+darum
+ perciò; perquésto
+das
+ i; il; gli; la; le; lo
+das heißt
+ cioé
+das ist
+ cioé
+dauern
+ durare
+daß
+ che
+da sein
+ esistere
+decken
+ coprire
+deduzieren
+ concludere; dedurre
+definieren
+ definire
+definitiv
+ definitivo
+dein
+ 1. tuo
+ 2. tuo; vostro
+deinig
+ tuo; vostro
+delikat
+ delicato
+demütig
+ umile
+denken
+ pensare
+denn
+ consideratoche; vistoche
+denunzieren
+ denunciare
+der
+ i; il; gli; la; le; lo
+deshalb
+ perciò; perquésto
+destillieren
+ distillare
+deutlich
+ distinto
+deutsch
+ tedesco
+dicht
+ denso
+dick
+ grosso; spesso
+die
+ 1. i; il; gli; la; le; lo
+ 2. lei
+dienen
+ 1. servire
+ 2. essereutile; giovare; servire; utilizzare
+die Absicht haben
+ intendere
+die Bretagne
+ Bretagna
+die Niederlande
+ Olanda
+die Schweiz
+ Svizzera
+die Türkei
+ Turchia
+dingen
+ mercanteggiare
+direkt
+ destro
+diskret
+ discreto
+diskutieren
+ discutere
+disponieren
+ disporre
+dividieren
+ dividere
+doch
+ sì
+donnern
+ tuonare
+doppelt
+ doppio
+dorren
+ seccare
+dorthin
+ là; lì
+drastisch
+ efficace
+draußen
+ fuori
+drei
+ tre
+dreizehn
+ tredici
+dreißig
+ trenta
+dreschen
+ trebbiare
+dringen
+ spingere
+drohen
+ minacciare
+drollig
+ comico
+drucken
+ stampare
+drängen
+ insistere
+dräuhen
+ minacciare
+drücken
+ premere; serrare; stringere
+du
+ 1. tu; voi
+ 2. tu; voi
+duften
+ sentire
+dulden
+ sopportare; tollerare
+dumm
+ ignorante; sciocco; stupido
+dunkel
+ 1. buio; scuro
+ 2. oscuro; scuro; tenebroso
+durch
+ mediante; permezzodi
+durchaus nicht
+ nienteaffatto
+durchdringen
+ penetrare
+durchgehen
+ percorrere
+durchqueren
+ percorrere
+dämpfen
+ 1. spegnere; spengere
+ 2. calmare; pacificare; placare
+dörren
+ seccare
+düngen
+ concimare
+dürfen
+ potere
+düster
+ 1. afflitto; triste
+ 2. buio; scuro
+eben
+ piano
+ebenfalls
+ anche
+ebenso
+ così
+ebensosehr
+ tanto
+ebensoviel
+ tanto
+echt
+ vero
+egal
+ eguale
+ehrlich
+ onesto
+ehrlos
+ infame
+eigen
+ proprio
+eigenmächtig
+ arbitrario
+eigens
+ principalmente; soprattutto
+eigensinnig
+ ostinato
+eilen
+ affrettarsi
+ein
+ un; un'; una; uno
+einbinden
+ rilegare
+eindringen
+ penetrare
+eine
+ un; un'; una; uno
+einen Besuch abstatten
+ visitare
+einen Vertrag schließen
+ concludere
+einfach
+ semplice
+einfältig
+ semplice
+eingestehen
+ confessare
+einhüllen
+ coprire
+einkleiden
+ investire
+einladen
+ invitare
+einleuchten
+ spiegare
+einmal
+ unavolta
+einnehmen
+ occupare
+einpacken
+ avvolgere
+einrichten
+ predisporre; sistemare
+eins
+ un; un'; una; uno
+einsammeln
+ raccogliere
+einschlafen
+ addormentarsi
+einschließen
+ contenere
+einschmutzen
+ insudiciare; sporcare
+einschränken
+ limitare; restringere
+einschätzen
+ apprezzare; stimare; valutare
+einsenden
+ mandare
+einteilen
+ dividere
+eintragen
+ portare
+eintreten
+ entrare
+eintönig
+ 1. monotono
+ 2. monotono
+einwilligen
+ concordare; essererd'accordo
+einzahlen
+ pagare
+einzeln
+ separato
+einzig
+ 1. solo
+ 2. solo; unico
+ein Anschlag ausführen
+ aggredire; assalire
+ein Attentat ausführen
+ aggredire; assalire
+eitel
+ vanitoso
+elegant
+ elegante
+elend
+ miserabile; misero; povero
+elf
+ undici
+elsässisch
+ alsaziano
+empfangen
+ 1. accettare; accogliere
+ 2. ricevere
+empfehlungswert
+ raccomandabile
+enden
+ finire; terminare
+endgültig
+ definitivo
+endigen
+ finire; terminare
+endlich
+ allafine; finalmente
+englisch
+ inglese
+entdecken
+ 1. inventare
+ 2. scoprire
+entern
+ attraversare
+entfernt
+ distante; lontano
+entfliehen
+ fuggire
+entgegen
+ evitare
+entgegnen
+ replicare; rispondere
+enthalten
+ 1. contenere
+ 2. contenere
+enthüllen
+ scoprire
+entlaufen
+ fuggire
+entledigen
+ liberare
+entleeren
+ vuotare
+entlegen
+ distante; lontano
+entraten
+ sconsigliare
+entreißen
+ strappare
+entrichten
+ pagare
+entscheiden
+ decidere
+entscheidend
+ decisivo
+entschieden
+ decisivo
+entsetzlich
+ terribile
+entspringen
+ discendere
+entstehen
+ 1. discendere
+ 2. nascere
+entweichen
+ evitare
+entwenden
+ rubare
+entwerfen
+ 1. progettare
+ 2. progettare
+entziehen
+ ritirare
+entzünden
+ 1. accendere
+ 2. accendere
+entäußern
+ abbandonare
+er
+ lui
+erachten
+ 1. calcolare
+ 2. trovare
+erbauen
+ costruire
+erben
+ ereditare
+erbeuten
+ prendere
+erblicken
+ intravedere; scorgere
+erbärmlich
+ miserabile; misero; povero
+erbötig
+ pronto
+erdichten
+ figurarsi
+erdrosseln
+ soffocare
+erfassen
+ capire; comprendere
+erfinden
+ inventare
+erforderlich
+ necessario; occorrente
+erfrieren
+ gelarsi; congelarsi
+erfüllen
+ compiere; eseguire
+ergiebig
+ fecondo
+ergreifen
+ 1. afferrare
+ 2. prendere
+ergötzen
+ divertire
+erhaben
+ alto
+erhalten
+ 1. conservare
+ 2. ricevere
+erheben
+ alzare
+erheblich
+ grave; importante
+erhängen
+ sospendere
+erhärten
+ provare
+erkenntlich
+ grato; riconoscente
+erklären
+ spiegare
+erkranken
+ ammalarsi
+erlangen
+ arrivare
+erlauben
+ permettere
+erledigen
+ 1. finire; terminare
+ 2. liberare
+erläutern
+ spiegare
+erlösen
+ salvare
+ermitteln
+ trovare
+ermorden
+ ammazzare; uccidere
+ernennen
+ chiamare
+ernst
+ 1. grave; importante
+ 2. serio
+ernsthaft
+ serio
+ernähren
+ alimentare
+erpressen
+ opprimere
+erproben
+ provare
+erregen
+ muovere
+erreichen
+ arrivare
+erretten
+ salvare
+erringen
+ guadagnare
+ersaufen
+ annegarsi
+erscheinen
+ apparire
+erschießen
+ fucilare
+erschlaffen
+ debilitare
+erschweren
+ renderedifficile
+ersetzen
+ rilevare
+ersichtlich
+ chiaro; evidente; palese
+erst
+ 1. non...che; soltanto
+ 2. dapprima; inprimoluogo; prima
+erstaunen
+ stupirsi
+erste
+ primo
+ersteigen
+ salire
+erstens
+ dapprima; inprimoluogo; prima
+erster
+ primo
+erstes
+ primo
+ersticken
+ soffocare
+ersuchen
+ chiedere
+ertappen
+ prendere
+erteilen
+ dare
+ertrinken
+ annegarsi
+ertränken
+ annegare
+erwarten
+ aspettare
+erwidern
+ replicare; rispondere
+erwischen
+ prendere
+erwägen
+ considerare
+erwählen
+ eleggere; scegliere
+erwähnen
+ 1. citare
+ 2. dire
+erwünscht
+ desiderabile
+erwürgen
+ soffocare
+erzeugen
+ produrre
+erzielen
+ arrivare
+erzwingen
+ estorcere
+erzählen
+ raccontare
+erörtern
+ discutere
+etwa
+ circa; verso
+etwaige
+ possibile
+euer
+ tuo; vostro
+eurige
+ tuo; vostro
+eventuell
+ forse
+evident
+ chiaro; evidente; palese
+ewig
+ eterno
+exakt
+ esatto; preciso
+examinieren
+ esaminare
+existieren
+ esistere
+exploitieren
+ sfruttare
+extrem
+ estremo
+eßbar
+ commestibile; mangiabile
+fabrizieren
+ fabbricare
+fade
+ banale
+fahl
+ pallido
+fahnden
+ perseguire; perseguitare
+fahren
+ 1. andare; camminare
+ 2. camminare
+fahrlässig
+ negligente; noncurante; sbadato
+falls
+ se
+falsch
+ falso
+falten
+ piegare
+fanatisch
+ fanatico
+fangen
+ prendere
+fassen
+ 1. prendere
+ 2. prendere
+fast
+ quasi
+faul
+ pigro
+faßbar
+ comprensibile
+feige
+ angoscioso; pauroso
+feilschen
+ mercanteggiare
+fein
+ delicato
+feist
+ grasso
+fern
+ distante; lontano
+fertig
+ 1. finito; terminato
+ 2. pronto
+fest
+ 1. continuo; durevole; permanente
+ 2. fermo
+ 3. costante
+festnehmen
+ arrestare
+festsetzen
+ 1. destinare
+ 2. fissare
+fett
+ grasso
+fettig
+ grasso
+finden
+ trovare
+finster
+ oscuro; scuro; tenebroso
+fix
+ 1. fermo
+ 2. abile; destro; lesto; sveglio
+fixieren
+ fissare
+flach
+ 1. piano
+ 2. basso
+flau
+ 1. debole
+ 2. depresso; triste
+fliegen
+ volare
+fließen
+ fluire; scorrere
+flugs
+ 1. presto
+ 2. frapoco; immediatamente; subito
+flunkern
+ mentire
+flüstern
+ bisbigliare; sussurrare
+folgen
+ 1. ubbidire
+ 2. seguire
+folgend
+ seguente
+folgern
+ 1. concludere; dedurre
+ 2. concludere; dedurre
+folgsam
+ ubbidiente
+forsch
+ energico
+fort
+ 1. lontano
+ 2. inoltre
+fortfahren
+ continuare
+fortführen
+ continuare
+fortgehen
+ andarsene; partire
+fortlassen
+ abbandonare
+fortlaufen
+ fuggire
+fortnehmen
+ 1. ritirare
+ 2. ritirare
+fortwährend
+ sempre
+fragen
+ domandare
+fraglich
+ dubbioso
+frankieren
+ affrancare; pestare
+französisch
+ francese
+frecht
+ impertinente; insolente
+freilassen
+ liberare
+freilich
+ 1. certamente
+ 2. difatto
+frei machen
+ liberare
+freundlich
+ amichevole; benevole; carino; cortese; gradevole; grazioso
+frisch
+ fresco
+frommen
+ essereutile; giovare; servire; utilizzare
+fruchtbar
+ fecondo
+fruchtlos
+ sterile
+fröhlich
+ allegro
+früh
+ dibuon'ora
+früher
+ davanti
+fundieren
+ fondere
+furchtbar
+ terribile
+fähig
+ abile; adatto; capace; idoneo
+fällen
+ pronunciare
+fälschlich beschuldigen
+ calunniare
+fäulniswidrig
+ antisettico
+fördern
+ accelerare
+fügen
+ congiungere
+füglich
+ conveniente
+fügsam
+ ubbidiente
+führen
+ condurre; guidare
+fünf
+ cinque
+fünfzehn
+ quindici
+fünfzig
+ cinquanta
+fürchten
+ avertimore; temere
+fürwahr
+ davvero; infatti
+für null und nichtig erklären
+ annullare
+füsilieren
+ fucilare
+galant
+ cortese
+ganz
+ completo; intero; totale; tutto
+ganz nicht
+ nienteaffatto
+ganz und gar nicht
+ nienteaffatto
+gar
+ perfino
+gar nicht
+ innessunmodo
+gastlich
+ ospitale
+geben
+ dare
+gebogen
+ curvo
+gebrauchen
+ impiegare; usare
+gebrechlich
+ decrepito
+gedeihen
+ 1. crescere
+ 2. prosperare
+gedrängt
+ 1. denso
+ 2. breve; conciso; succinto
+geeignet
+ conveniente
+gefallen
+ piacere
+gefährlich
+ pericoloso
+gefügig
+ ubbidiente
+gegen
+ contro
+gegenwärtig
+ 1. attuale
+ 2. attuale
+gegenüber
+ contro
+geheim
+ segreto
+geheimnissvoll
+ misterioso
+gehen
+ 1. andare; camminare
+ 2. camminare
+gehorsam
+ ubbidiente
+gehörchen
+ ubbidire
+gehören
+ 1. appartenere
+ 2. convenire
+gehörig
+ decente
+geil
+ grasso
+geistig
+ spirituale
+geistreich
+ spiritoso
+geizig
+ avaro
+gelassen
+ calmo; tranquillo
+gelb
+ giallo
+gelinde
+ 1. delicato
+ 2. debole
+gelingen
+ 1. prosperare
+ 2. riuscire; succedere
+gellen
+ sonare
+geloben
+ promettere
+gelten
+ valere
+geläufig
+ 1. facile
+ 2. liscio
+ 3. consueto; usuale
+gemein
+ comune
+gemeinsam
+ comune
+gemeinschaftlich
+ comune
+gemessen
+ misurato
+gemächlich
+ comodo
+gemütlich
+ calmo; tranquillo
+genau
+ 1. esatto; preciso
+ 2. esatto; preciso
+genehm
+ gradevole; piacevole
+genehmigen
+ 1. accettare; accogliere
+ 2. approvare
+geneigt zu
+ disposto
+generell
+ generalmente
+genieren
+ disturbare
+genießbar
+ 1. commestibile; mangiabile
+ 2. potabile
+genug
+ abbastanza
+genügen
+ bastare
+genügend
+ 1. sufficiente
+ 2. abbastanza
+gerad
+ destro
+geraten
+ prosperare
+gering
+ piccolo
+gern
+ volentieri
+gern haben
+ amare; volerebene
+gesamt
+ insieme
+geschehen
+ accadere; arrivare; succedere
+gescheit
+ 1. sensato
+ 2. saggio
+geschickt
+ abile; destro; lesto; sveglio
+geschlossen
+ 1. denso
+ 2. chiuso
+geschmackvoll
+ elegante
+geschwind
+ presto
+geschäftig
+ attivo; laborioso
+gesellen
+ congiungere
+gesetzt
+ serio
+gesichtskreis
+ orizzonte
+gestatten
+ permettere
+gestehen
+ confessare
+gestern
+ ieri
+gestorben
+ morto
+gewahr werden
+ 1. accorgersi
+ 2. intravedere; scorgere
+gewandt
+ 1. agile; snello
+ 2. abile; destro; lesto; sveglio
+gewinnen
+ guadagnare
+gewissermaßen
+ percosìdire
+gewiß
+ 1. certo
+ 2. certamente
+gewärtigen
+ aspettare
+geübt
+ abile; destro; lesto; sveglio
+gießen
+ versare
+giftig
+ velenoso
+glatt
+ 1. piano
+ 2. liscio
+glauben
+ credere
+gleich
+ 1. eguale
+ 2. direttamente
+ 3. frapoco; immediatamente; subito
+gleichen
+ rassomiglare
+gleichfalls
+ anche
+gleichlaufend
+ parallelo
+gleichsam
+ comese
+gliedern
+ dividere
+glänzen
+ brillare; risplendere
+gläubig
+ fedele
+glücken
+ prosperare
+glücklig
+ felice
+gradlinig
+ destro
+gratulieren
+ felicitare
+grau
+ bigio; grigio
+grausam
+ crudele
+greifen
+ afferrare
+griechisch
+ greco
+groß
+ grande
+grundlos
+ senzafondo
+gräßlich
+ terribile
+grün
+ verde
+gründen
+ fondere
+grüßen
+ salutare
+gut
+ buono
+gutheißen
+ approvare
+gähnen
+ sbadigliare
+gütig
+ buono
+haben
+ avere
+habgierig
+ avido; bramoso
+halb
+ mezzo
+halsstarrig
+ ostinato
+halten
+ 1. fermarsi
+ 2. tenere
+handeln
+ agire
+harnen
+ orinare; pisciare
+harren
+ aspettare
+hart
+ 1. duro
+ 2. dura
+hartnäckig
+ ostinato
+hassen
+ odiare
+hauen
+ battere
+hausen
+ abitare; dimorare; stare
+heben
+ alzare
+heftig
+ 1. acuto
+ 2. agitato
+hegen
+ alimentare
+hehlen
+ nascondere
+heilen
+ guarire
+heim
+ acasa; incasa
+heimlich
+ segreto
+heiter
+ allegro
+heizen
+ riscaldare
+heißen
+ 1. chiamare
+ 2. chiamarsi
+helfen
+ 1. aiutare; assistere
+ 2. aiutare
+henken
+ sospendere
+heranbringen
+ portare
+heraus
+ lontano
+herb
+ acido; agro
+herkommen
+ discendere
+herleiten
+ derivare
+hernach
+ dietro; dopo
+herreichen
+ 1. dare
+ 2. passare
+herrlich
+ gradevole; piacevole
+herrschen
+ dominare; governare
+herstellen
+ 1. fabbricare
+ 2. commettere; fare
+hervor
+ avanti
+hervorbringen
+ produrre
+hervorheben
+ distinguere
+heute
+ oggi
+heute abend
+ stasera
+hierauf
+ 1. dietro; dopo
+ 2. allora
+hierher
+ quà; qui
+hierhin
+ 1. là; lì
+ 2. quà; qui
+hindern
+ 1. sbarrare
+ 2. impedire
+hindurch
+ attraverso
+hindurchgehen
+ percorrere
+hinfällig
+ 1. decrepito
+ 2. vanitoso
+hinken
+ zoppicare
+hinlänglich
+ abbastanza
+hinreichen
+ bastare
+hinten
+ 1. didietro; infondo
+ 2. dietro; dopo
+hinter
+ 1. dietro; dopo
+ 2. dietro; dopo
+hinterbringen
+ denunciare
+hintergehen
+ ingannare; truffare
+hinterher
+ dietro; dopo
+hinterlassen
+ abbandonare; lasciare
+hinter einander
+ successivamente
+hinweg
+ lontano
+hinweisen
+ mostrare
+hinüber
+ attraverso
+hitzig
+ acuto
+hoch
+ alto
+hochfahrend
+ fiero; orgoglioso
+hochmütig
+ fiero; orgoglioso
+hochschätzen
+ rispettare; stimare
+hoffen
+ sperare
+hohl
+ cavo
+hold
+ 1. caro
+ 2. affascinante; amabile; grazioso
+holen
+ ottenere
+honett
+ onesto
+horchen
+ ascoltare
+humpeln
+ zoppicare
+hundert
+ cento
+huschen
+ volare
+husten
+ tossire
+hängen
+ 1. curvarsi
+ 2. pendere
+häufig
+ frequentemente; sovente; spesso
+höflich
+ cortese
+höher
+ superiore
+hören
+ udire
+hübsch
+ 1. bello; carino
+ 2. bellino; grazioso
+ich
+ 1. io
+ 2. io
+ 3. io
+ 4. io
+ihm
+ lui
+ihn
+ lui
+ihr
+ 1. tu; voi
+ 2. tu; voi
+ 3. lei
+ihre
+ diloro
+ihrer
+ lei
+ihrige
+ tuo; vostro
+illuminieren
+ illuminare
+imitieren
+ imitare
+immer
+ sempre
+immerhin
+ certamente
+impertinent
+ impertinente; insolente
+imstande
+ abile; adatto; capace; idoneo
+in
+ 1. a
+ 2. a; dentro
+infizieren
+ infettare
+informieren
+ informare; insegnare
+inhibieren
+ impedire
+inne
+ dentro
+innehaben
+ avere
+innerhalb
+ dentro
+innerlich
+ interno
+inne werden
+ accorgersi
+insbesondere
+ principalmente; soprattutto
+insgeheim
+ dinascosto
+insgesamt
+ insieme
+insofern
+ 1. se
+ 2. tanto
+inspizieren
+ esaminare
+instruieren
+ insegnare; instruire
+ins Exil schicken
+ bandire; esiliare
+intellektuell
+ spirituale
+interessieren
+ interessare
+intern
+ interno
+investieren
+ investire
+inwendig
+ 1. interno
+ 2. dentro
+in Anspruch nehmen
+ occupare
+in Ohnmacht fallen
+ svenirsi
+in Verwunderung setzen
+ sbalordire
+in keiner Weise
+ innessunmodo
+irdisch
+ terrestre
+irgendwo
+ inqualcheluogo
+irre
+ matto
+ja
+ 1. perfino
+ 2. sì
+jagen
+ cacciare
+jammern
+ gemere
+ja sagen
+ affermare
+jederzeit
+ sempre
+jenseits
+ attraverso
+jugendlich
+ giovane
+jung
+ giovane
+jäh
+ aduntratto; improvvisamente
+jährlich
+ annuale
+jämmerlich
+ miserabile; misero; povero
+kahl
+ calvo
+kalkulieren
+ calcolare
+kalt
+ 1. freddo
+ 2. freddo
+kapitulieren
+ arrendersi
+kappen
+ rovesciare
+kassieren
+ annullare
+kauen
+ masticare
+kaum
+ appena
+kein
+ non
+keineswegs
+ innessunmodo
+kennen
+ conoscere
+klagen
+ lagnarsi
+klar
+ distinto
+kleben
+ appiccicare
+kleiden
+ vestire
+klein
+ piccolo
+kleinlaut
+ umile
+klingen
+ sonare
+klopfen
+ colpire; picchiare
+klug
+ 1. sensato
+ 2. saggio
+kochen
+ bollire
+komisch
+ comico
+kommen
+ venire
+kommend
+ prossimo
+konfirmieren
+ confermare
+konkav
+ cavo
+konservieren
+ conservare
+konstant
+ costante
+konstatieren
+ constatare
+konstruieren
+ costruire
+kontant
+ contante
+kontrollieren
+ controllare; verificare
+konvenieren
+ piacere
+konzis
+ breve; conciso; succinto
+korrigieren
+ correggere
+kosten
+ costare
+kraft
+ mediante; permezzodi
+krank
+ malato
+krank werden
+ ammalarsi
+kratzen
+ raschiare
+kritisieren
+ criticare
+krumm
+ curvo
+kräftig
+ forte
+kränken
+ insultare; offendere
+kurieren
+ guarire
+kurios
+ strano
+kurz
+ 1. breve; conciso; succinto
+ 2. corto
+ 3. corto
+kurzsichtig
+ miope
+kämmen
+ pettinare
+können
+ potere
+kühl
+ fresco
+künftig
+ prossimo
+künsteln
+ posare
+küssen
+ baciare
+lachen
+ ridere
+laden
+ caricare
+lang
+ lungo
+lange
+ alungo; damolto; permoltotempo
+laufen
+ 1. correre
+ 2. camminare
+laut
+ adaltavoce; forte
+leben
+ vivere
+lebe wohl
+ addio
+lediglich
+ non...che; soltanto
+leer
+ vuoto
+legen
+ 1. mettere; ponere
+ 2. piantare
+lehnen
+ sostenere
+lehren
+ insegnare; instruire
+leicht
+ facile
+leidenschaftlich
+ fanatico
+leimen
+ appiccicare
+leisten
+ compiere; eseguire
+leiten
+ 1. commettere; fare
+ 2. condurre; guidare
+lenken
+ condurre; guidare
+lernen
+ imparare
+lesen
+ leggere
+letzte
+ scorso; ultimo
+letzter
+ scorso; ultimo
+letztes
+ scorso; ultimo
+leugnen
+ negare
+lieb
+ caro
+lieben
+ amare; volerebene
+lieber
+ 1. piuttosto
+ 2. piuttosto
+lieblich
+ affascinante; amabile; grazioso
+links
+ asinistra
+loben
+ lodare
+lohnen
+ ricompensare
+losreißen
+ rompere; staccare
+loyal
+ fedele
+lustig
+ allegro
+lutschen
+ succhiare
+lächeln
+ sorridere
+lächerlich
+ ridicolo
+lästern
+ bestemmiare
+lästig fallen
+ disturbare
+läuten
+ sonare
+löschen
+ ammortizzare
+lösen
+ risolvere
+lüften
+ aerare; arieggiare; ventilare
+lügen
+ mentire
+lüstern
+ avido; bramoso
+machen
+ commettere; fare
+mager
+ magro
+mahlen
+ macinare
+malen
+ dipingere
+manchmal
+ qualchevolta; talvolta
+markten
+ mercanteggiare
+marschieren
+ camminare
+matt
+ stanco
+meiden
+ evitare
+mein
+ mio
+meist
+ estremamente
+melden
+ 1. annunciare; annunziare; pubblicare
+ 2. insegnare
+messen
+ misurare
+mieten
+ prendereinaffitto
+mild
+ mite
+mit
+ mediante; permezzodi
+mitmachen
+ spartire
+mitteilen
+ 1. informare; insegnare
+ 2. annunciare; comunicare
+ 3. insegnare
+mittelst
+ mediante; permezzodi
+mittlere
+ medio
+mittlerer
+ medio
+mittleres
+ medio
+moderig
+ ammuffito
+monoton
+ monotono
+morgen
+ domani
+multiplizieren
+ moltiplicare
+mutwillig
+ cattivo
+mysteriös
+ misterioso
+mögen
+ 1. amare; volerebene
+ 2. apprezzare
+möglicherweise
+ forse
+müde
+ stanco
+mühelos
+ facile
+nach
+ 1. a
+ 2. a; dentro
+ 3. dietro; dopo
+nachahmen
+ imitare
+nachbilden
+ imitare
+nachgeben
+ cedere
+nachher
+ dietro; dopo
+nachsehen
+ 1. esaminare
+ 2. controllare; verificare
+nachzusetzen
+ perseguire; perseguitare
+nach dort
+ là; lì
+nach hier
+ quà; qui
+nach und nach
+ pocoapoco
+nackt
+ nudo
+nahe
+ 1. prossimo
+ 2. vicino
+nahezu
+ quasi
+national
+ nazionale
+natürlich
+ naturalmente
+naß
+ bagnato
+neben
+ accanto
+nehmen
+ prendere
+nein
+ no
+nennen
+ 1. citare
+ 2. menzionare
+ 3. chiamare
+neu
+ 1. fresco
+ 2. nuovo
+neugierig
+ 1. curioso
+ 2. curioso
+neun
+ nove
+neunzehn
+ diciannove
+neunzig
+ novanta
+neutral
+ neutrale; neutro
+nicht
+ non
+nicht mehr
+ non...più
+nicht schwierig
+ facile
+nie
+ mai; non...mai
+niedrig
+ basso
+niemals
+ mai; non...mai
+nimmer
+ mai; non...mai
+nirgends
+ innessunluogo
+noch
+ ancora
+notwendig
+ necessario; occorrente
+nur
+ non...che; soltanto
+nächst
+ 1. prossimo
+ 2. seguente
+ 3. seguente
+nähren
+ alimentare
+nötig
+ necessario; occorrente
+nötig haben
+ averbisognodi
+nützen
+ essereutile; giovare; servire; utilizzare
+nützlich
+ utile
+oben
+ disopra
+oberhalb
+ sopra
+obgleich
+ benche; sebbene
+obschon
+ benche; sebbene
+offen
+ aperto
+offenbar
+ 1. chiaro; evidente; palese
+ 2. evidentemente
+offiziell
+ ufficiale
+oft
+ frequentemente; sovente; spesso
+ohnmächtig werden
+ svenirsi
+ordnen
+ predisporre; sistemare
+packen
+ avvolgere
+parallel
+ parallelo
+passieren
+ accadere; arrivare; succedere
+perfekt
+ perfetto
+persönlich
+ personale
+pfeifen
+ fischiare
+pflanzen
+ piantare
+pflegen
+ curare
+pflücken
+ rompere; staccare
+planen
+ progettare
+plaudern
+ chiacchierare
+plötzlich
+ subitaneo
+politisch
+ politico
+praktizieren
+ praticare
+preisen
+ lodare
+pressen
+ premere; serrare; stringere
+privat
+ particulare; privado
+pro
+ a; dentro
+probieren
+ provare
+produzieren
+ produrre
+profitieren
+ approfittare
+projektieren
+ progettare
+proklamieren
+ proclamare; pubblicare
+promovieren
+ promuovere
+proportional
+ proporzionale
+prosperieren
+ prosperare
+protektieren
+ proteggere
+protestieren
+ protestare
+prägen
+ stampare
+prüfen
+ 1. esaminare
+ 2. provare
+pumpen
+ pompare
+quer
+ attraverso
+quer mitten
+ attraverso
+rasend
+ furibondo; furioso
+rasieren
+ farlabarba
+raten
+ consigliare; raccomandare
+ratgeben
+ consigliare; raccomandare
+rauchen
+ fumare
+rauh
+ crudo
+real
+ reale
+rechnen
+ calcolare
+recht
+ 1. corretto
+ 2. vero
+rechter
+ destro
+rechts
+ adestra
+rechtschaffen
+ onesto
+reden
+ parlare
+regieren
+ dominare; governare
+regnen
+ piovere
+reich
+ ricco
+reichen
+ arrivare
+reif
+ maturo
+rein
+ 1. puro
+ 2. puro
+reinlich
+ puro
+reisen
+ viaggiare
+reizen
+ 1. incitare; spronare
+ 2. stimolare
+reizend
+ affascinante; amabile; grazioso
+reparieren
+ riparare
+repräsentieren
+ rappresentare
+reservieren
+ riservare
+respektieren
+ rispettare
+retten
+ salvare
+rezitieren
+ recitare
+richtig
+ corretto
+riechen
+ sentire
+rinnen
+ fluire; scorrere
+riskieren
+ arrischiare
+ritzen
+ raschiare
+rmee
+ esercito
+roh
+ crudo
+rostig
+ arrugginito
+rot
+ 1. rosso
+ 2. rosso
+rufen
+ chiamare
+ruhen
+ riposarsi
+ruhig
+ calmo; tranquillo
+rund
+ rotondo
+rücken
+ spingere
+rühren
+ toccare
+rüsten
+ armare
+sagen
+ dire
+saldieren
+ saldare
+sammeln
+ raccogliere
+sauber
+ puro
+sauer
+ acido; agro
+saugen
+ succhiare
+sausen
+ muggire
+schalkhaft
+ cattivo
+scharf
+ 1. affilato; tagliente
+ 2. acuto; affilato; aguzzo; appuntito; aspro; piccante; tagliente
+scheiden
+ separare
+scheinen
+ 1. brillare; risplendere
+ 2. parere
+schelmisch
+ cattivo
+schelten
+ 1. insultare; offendere
+ 2. riprendere
+scherzen
+ scherzare
+schicken
+ 1. convenire
+ 2. mandare
+schier
+ quasi
+schimmern
+ brillare; risplendere
+schimpfen
+ insultare; offendere
+schirmen
+ riparare
+schlafen
+ dormire
+schlagen
+ 1. battere
+ 2. colpire; picchiare
+schlecht
+ cattivo
+schleudern
+ gettare
+schließen
+ 1. chiudere
+ 2. concludere; dedurre
+ 3. serrareachiave
+schmal
+ stretto
+schmecken
+ gustare
+schmeicheln
+ lusingare
+schmerzen
+ farmale
+schmücken
+ decorare
+schnarchen
+ russare
+schneiden
+ tagliare
+schneien
+ nevicare
+schnell
+ presto
+schon
+ già
+schrecklich
+ terribile
+schreiben
+ scrivere
+schreien
+ gridare
+schulden
+ dovere
+schuldig
+ colpevole
+schuldig sein
+ dovere
+schwach
+ debole
+schwanger
+ 1. incinta
+ 2. incinta
+schwanken
+ esitare; titubare
+schwarz
+ nero
+schwatzen
+ chiacchierare
+schweigen
+ tacere
+schweigend
+ silenzioso
+schwer
+ difficile; pesante
+schwer sein
+ pesare
+schwimmen
+ nuotare
+schwitzen
+ sudare; traspirare
+schwören
+ giurare
+schädlich
+ nocivo
+schätzen
+ 1. apprezzare; stimare; valutare
+ 2. apprezzare
+schön
+ bello; carino
+schütten
+ versare
+schützen
+ proteggere
+sechs
+ sei
+sechzehn
+ sedici
+sechzig
+ sessanta
+sehen
+ vedere
+sehr
+ assai; molto
+sein
+ suo
+seiner
+ lui
+seit
+ di
+selber
+ stesso
+selbst
+ 1. perfino
+ 2. stesso
+selten
+ raramente
+seltsam
+ strano
+senden
+ mandare
+seperat
+ separato
+setzen
+ mettere; ponere
+seufzen
+ gemere
+sicher
+ certo
+sich aufführen
+ comportarsi; condursi
+sich aufhalten
+ trovarsi
+sich ausruhen
+ riposarsi
+sich bedanken
+ ringraziare
+sich befinden
+ trovarsi
+sich beklagen
+ lagnarsi
+sich benehmen
+ comportarsi; condursi
+sich betragen
+ comportarsi; condursi
+sich bewegen
+ muoversi
+sich brechen
+ vomitare
+sich bücken
+ curvarsi
+sich duellieren
+ duellare
+sich einbilden
+ figurarsi
+sich entschließen
+ decidere
+sich erbrechen
+ vomitare
+sich ereignen
+ accadere; arrivare; succedere
+sich ergeben
+ arrendersi
+sich erheben
+ salire
+sich erkundigen
+ informarsi
+sich erkälten
+ raffredarsi
+sich gehören
+ convenire
+sich gewöhnen
+ solere
+sich irren
+ errare; sbagliarsi
+sich schämen
+ vergognarsi
+sich setzen
+ 1. sedersi
+ 2. sedersi
+sich stellen
+ 1. alzarsi
+ 2. alzarsi
+sich verehelichen
+ 1. maritarsi
+ 2. ammogliarsi
+sich verhalten
+ comportarsi; condursi
+sich verheiraten
+ 1. maritarsi
+ 2. ammogliarsi
+sich verirren
+ perdersi; smarrirsi
+sich verlaufen
+ fuggire
+sich verlieben
+ innamorarsi
+sich verlohnen
+ valere
+sich verständigen
+ convenire; pattuire
+sich vorstellen
+ figurarsi
+sich wundern
+ stupirsi
+sich zieren
+ posare
+sich ängsten
+ avertimore; temere
+sich ängstigen
+ avertimore; temere
+sich übergeben
+ vomitare
+sich überlegen
+ considerare
+sie
+ lei
+sieben
+ sette
+siebzehn
+ diciasette
+siebzig
+ settanta
+sieden
+ bollire
+singen
+ cantare
+sinnreich
+ spiritoso
+sitzen
+ essereseduto
+skizzieren
+ progettare
+so
+ 1. così
+ 2. così
+ 3. così
+sofern
+ tanto
+sofort
+ frapoco; immediatamente; subito
+sogar
+ perfino
+sogleich
+ 1. direttamente
+ 2. frapoco; immediatamente; subito
+sonderbar
+ strano
+sonst
+ 1. altro
+ 2. diversamente; inmododiverso
+sosehr
+ tanto
+soviel
+ tanto
+soweit
+ tanto
+sozial
+ sociale
+spalten
+ fendere
+spannen
+ caricare
+spaßhaft
+ comico
+speien
+ sputare
+sperren
+ 1. sbarrare
+ 2. fermare
+spezial
+ speciale
+speziell
+ speciale
+sphärisch
+ sferico
+spielen
+ giocare; suonare
+spionieren
+ spiare
+spitz
+ appuntato
+sprachlos
+ muto
+sprechen
+ parlare
+sprechen über
+ discutere
+springen
+ saltare
+spröde
+ rigido
+spucken
+ sputare
+sputen
+ affrettarsi
+spät
+ tardo
+später
+ dietro; dopo
+spülen
+ lavare
+stacheln
+ pungere
+stammen
+ discendere
+stark
+ forte
+starr
+ rigido
+starren
+ fissare
+starrköpfig
+ ostinato
+stattfinden
+ accadere; arrivare; succedere
+staunen
+ stupirsi
+stechen
+ pungere
+stecken
+ 1. mettere; ponere
+ 2. pungere
+ 3. piantare
+stehen
+ stareinpiedi
+stehlen
+ rubare
+steif
+ rigido
+steigen
+ 1. salire
+ 2. salire
+steil
+ ripido
+stellen
+ mettere; ponere
+stemmen
+ 1. sostenere
+ 2. poggiare; appoggiare; sostenere
+sterben
+ morire
+steril
+ sterile
+stetig
+ costante
+stets
+ sempre
+sticheln
+ pungere
+still
+ calmo; tranquillo
+stimulieren
+ stimolare
+stocken
+ fermarsi
+stolz
+ fiero; orgoglioso
+stoppen
+ fermarsi
+stoßen
+ spingere
+strafen
+ castigare; punire
+straffen
+ caricare
+strahlen
+ brillare; risplendere
+strapazieren
+ affaticare; spossare; stancare
+streiken
+ faresciopero
+streng
+ severo
+sträuben
+ alzarsi
+strömen
+ fluire; scorrere
+studieren
+ studiare
+stumm
+ muto
+stumpf
+ smussato; spuntato
+ständig
+ costante
+stöhnen
+ gemere
+stören
+ 1. impedire
+ 2. disturbare
+stürmisch
+ furibondo; furioso
+stützen
+ sostenere
+subskribieren
+ firmare
+suchen
+ cercare
+sudeln
+ insudiciare; sporcare
+sukzessive
+ pocoapoco
+sächlig
+ neutrale; neutro
+säen
+ seminare
+säugen
+ allattare
+südpolar
+ antartico
+süß
+ dolce
+tangieren
+ toccare
+tanzen
+ ballare
+tapezieren
+ tappezzare
+tatsächlich
+ difatto
+taub
+ sordo
+taubstumm
+ sordomuto
+tauen
+ sgelare
+taufen
+ battezzare
+tauglich
+ adatto; capace; idoneo
+taumeln
+ esitare; titubare
+tauschen
+ cambiare
+tausend
+ mille
+teilen
+ dividere
+teilhaftig machen
+ annunciare; comunicare
+teilnehmen
+ spartire
+teils
+ inparte; parzialmente
+terrestrisch
+ terrestre
+teuer
+ 1. caro; costoso
+ 2. caro; costoso
+teuflisch
+ diabolico
+tief
+ fondo; profondo
+tippen
+ scrivereamacchina
+toll
+ 1. matto
+ 2. furibondo; furioso
+tot
+ morto
+total
+ completo; intero; totale; tutto
+tragen
+ portare
+traktieren
+ trattare
+traurig
+ afflitto; triste
+treffen
+ colpire
+trefflich
+ perfetto
+treiben
+ spingere
+treten
+ 1. andare; camminare
+ 2. camminare
+treu
+ fedele
+treulos
+ infedele
+trinken
+ bere
+trocken
+ secco
+trocknen
+ seccare
+trotzen
+ insistere
+trotzig
+ ostinato
+trunken
+ brillo; ubriaco
+trächtig
+ incinta
+träge
+ depresso; triste
+träumen
+ sognare
+trösten
+ consolare
+trübe
+ buio; scuro
+tun
+ commettere; fare
+täglich
+ 1. giornaliero; quotidiano
+ 2. ognigiorno; quotidianamente
+tätig
+ attivo
+täuschen
+ ingannare; truffare
+tödlich
+ mortale
+tönen
+ sonare
+töten
+ ammazzare; uccidere
+tüchtig
+ 1. energico
+ 2. abile; adatto; capace; idoneo
+ 3. adatto; capace; idoneo
+u.s.w.
+ ecc.
+um
+ intornoa
+umgehend
+ 1. seguente
+ 2. frapoco; immediatamente; subito
+umreißen
+ distruggere
+umringen
+ circondare
+umsonst
+ invano
+umstimmen
+ convertire
+umstoßen
+ rovesciare
+umstürzen
+ rovesciare
+umtauschen
+ cambiare
+umwechseln
+ cambiare
+umwerfen
+ rovesciare
+umzingeln
+ circondare
+umändern
+ cambiare
+um ... herum
+ intornoa
+unablässig
+ costante
+unberührt
+ fresco
+unbändig
+ dissoluto; licenzioso
+undankbar
+ ingrato
+ungefähr
+ 1. quasi
+ 2. circa; verso
+ungereimt
+ assurdo
+ungezogen
+ rozzo; scortese
+unglücklig
+ infelice
+universal
+ universale
+unmittelbar
+ destro
+unredlich
+ disonesto
+unruhig
+ agitato
+uns
+ noi
+unser
+ noi
+unten
+ dabbasso; giú
+unter
+ sotto
+unterdrücken
+ opprimere
+unterhalb
+ 1. sotto
+ 2. dabbasso; giú
+unterhalten
+ 1. divertire
+ 2. poggiare; appoggiare; sostenere
+unterhandeln
+ trattare
+unterlassen
+ abbandonare
+unterrichten
+ insegnare; instruire
+untersagen
+ vietare
+unterscheiden
+ distinguere
+unterstützen
+ 1. sostenere
+ 2. poggiare; appoggiare; sostenere
+untersuchen
+ esaminare
+unterweisen
+ insegnare; instruire
+unterwürfig
+ umile
+unverfroren
+ rozzo; scortese
+unverschämt
+ impertinente; insolente
+unwirklich
+ astratto
+unwirsch
+ brusco; rude
+urkundlich
+ vero
+verabreden
+ convenire; pattuire
+verabscheuen
+ detestare
+verallgemeinern
+ distribuire
+veranlassen
+ causare
+veranstalten
+ predisporre; sistemare
+verantwortlich
+ responsabile
+verausgaben
+ spendere
+verbannen
+ bandire; esiliare
+verbergen
+ nascondere
+verbessern
+ 1. correggere
+ 2. migliorare
+verbieten
+ vietare
+verbinden
+ 1. annunciare; comunicare
+ 2. legare
+verborgen
+ segreto
+verbrennen
+ accendere; bruciare
+verbringen
+ passare
+verdammen
+ condannare
+verdanken
+ ringraziare
+verderben
+ danneggiare
+verdienen
+ meritare
+verdorren
+ seccare
+verdrießen
+ annoiare
+verdächtigen
+ sospettare
+veredeln
+ migliorare
+verehren
+ adorare; venerare
+vereinbaren
+ convenire; pattuire
+vereinigen
+ congiungere
+vereinsamt
+ isolato
+verfahren
+ agire
+verfertigen
+ fabbricare
+verfolgen
+ perseguire; perseguitare
+verfügen
+ disporre
+vergebens
+ invano
+vergeblich
+ invano
+vergelten
+ 1. restituire
+ 2. ricompensare
+vergessen
+ dimenticare
+vergewissern
+ assicurare
+vergiften
+ avvelenare
+vergleichen
+ confrontare
+vergnügt
+ allegro
+vergöttern
+ adorare; venerare
+verhaften
+ arrestare
+verhandeln
+ discutere
+verheeren
+ rovinare
+verhehlen
+ nascondere
+verheimlichen
+ nascondere
+verheirated
+ 1. sposato
+ 2. sposato
+verheißen
+ promettere
+verhindern
+ impedire
+verhältnismäßig
+ proporzionale
+verhüllen
+ coprire
+verkaufen
+ vendere
+verklagen
+ lagnarsi
+verkünden
+ 1. annunciare; annunziare; pubblicare
+ 2. insegnare
+verletzen
+ 1. danneggiare
+ 2. insultare; offendere
+ 3. ferire
+verleumden
+ calunniare
+verlieren
+ perdere
+vermeiden
+ evitare
+vermieten
+ affittare
+vermittels
+ mediante; permezzodi
+vermuten
+ supporre
+vermögen
+ potere
+vermögend
+ ricco
+vernehmen
+ udire
+verneinen
+ negare
+vernichten
+ distruggere
+vernünftig
+ sensato
+verrückt
+ matto
+versagen
+ rifiutarsi
+verschieden
+ differente
+verschiedenartig
+ differente
+verschließen
+ 1. chiudere
+ 2. serrareachiave
+verschwiegen
+ 1. discreto
+ 2. silenzioso
+versorgen
+ prendereacuore
+versperren
+ sbarrare
+versprechen
+ promettere
+verstecken
+ nascondere
+verstehen
+ capire; comprendere
+verstohlen
+ 1. segreto
+ 2. dinascosto
+verstorben
+ morto
+verständig
+ sensato
+verständlich
+ 1. comprensibile
+ 2. volgare
+versuchen
+ provare
+verteidigen
+ difendere
+verteilen
+ 1. distribuire
+ 2. dividere
+vertreten
+ rappresentare
+verursachen
+ causare
+verurteilen
+ condannare
+vervielfältigen
+ moltiplicare
+vervolgen
+ osservare
+vervollständigen
+ completare
+verwalten
+ amministrare; dirigere
+verwandt
+ congiunto; parento
+verweigern
+ rifiutarsi
+verwenden
+ 1. applicare
+ 2. impiegare; usare
+verwerten
+ impiegare; usare
+verwunden
+ ferire
+verwundern
+ sbalordire
+verwundert
+ sorpreso
+verzagt
+ depresso; triste
+verziehen
+ tirare
+verzieren
+ decorare
+veräußern
+ vendere
+veröffentlichen
+ pubblicare
+viel
+ molto
+vielleicht
+ forse
+vier
+ quattro
+vierzehn
+ quattordici
+vierzig
+ quaranta
+voll
+ pieno
+vollendet
+ perfetto
+vollkommen
+ perfetto
+von
+ 1. di
+ 2. di
+von Zeit zu Zeit
+ diquandoinquando; ognitanto
+von neuem
+ 1. ancora; dinuovo
+ 2. ancora; dinuovo
+vorausnehmen
+ anticipare
+voraussetzen
+ supporre
+vorbehalten
+ riservare
+vorbereiten
+ allestire; preparare
+vorfinden
+ trovare
+vorgehen
+ agire
+vorhaben
+ intendere
+vorhanden sein
+ esistere
+vorig
+ passato
+vorkommen
+ accadere; arrivare; succedere
+vornehmlich
+ principalmente; soprattutto
+vorstellen
+ rappresentare
+vorteilhaft
+ utile
+vortragen
+ recitare
+vorwerfen
+ riprendere
+vorwärts
+ avanti
+vorzüglich
+ principalmente; soprattutto
+votieren
+ votare
+vulgär
+ volgare
+völlig
+ 1. completamente
+ 2. completamente
+wachsen
+ crescere
+wackeln
+ esitare; titubare
+waffnen
+ armare
+wagen
+ arrischiare
+wahnsinnig
+ matto
+wahr
+ vero
+wahrhaft
+ vero
+wahrhaftig
+ davvero; infatti
+wahrlich
+ davvero; infatti
+wahrscheinlich
+ 1. probabile
+ 2. probabilmente
+wallen
+ bollire
+walten
+ disporre
+warm
+ caldo
+warnen
+ avvertire
+warten
+ 1. aspettare
+ 2. curare
+ 3. badare
+waschen
+ 1. lavare
+ 2. lavare
+wechseln
+ cambiare
+weg
+ lontano
+wegnehmen
+ ritirare
+wehen
+ soffiare
+wehe tun
+ farmale
+wehklagen
+ gemere
+weich
+ molle
+weichen
+ cedere
+weigern
+ rifiutarsi
+weil
+ consideratoche; vistoche
+weinen
+ piangere
+weise
+ saggio
+weisen
+ 1. indicare; mostrare
+ 2. mostrare
+weit
+ 1. largo
+ 2. distante; lontano
+weiter
+ inoltre
+weiß
+ 1. bianco
+ 2. bianco
+weltlich
+ mondano
+wenigstens
+ almeno; perlomeno
+wenn
+ se
+wenn auch
+ benche; sebbene
+werben
+ arruolare; ingaggiare
+werfen
+ gettare
+wert
+ caro; costoso
+wertschätzen
+ apprezzare
+wert sein
+ valere
+wetten
+ scommettere
+wichtig
+ grave; importante
+wider
+ contro
+widersinnig
+ assurdo
+widersprechen
+ contraddire
+wieder
+ 1. ancora; dinuovo
+ 2. ancora; dinuovo
+wiedergeben
+ restituire
+wiederholen
+ ripetere
+wiederholt
+ ancora; dinuovo
+wiederwärtig
+ sgradevole; spiacevole
+wiegen
+ 1. pesare
+ 2. pesare
+wild
+ selvaggio
+willkürlich
+ arbitrario
+wimmern
+ gemere
+wir
+ noi
+wirken
+ agire
+wirklich
+ 1. reale
+ 2. davvero; infatti
+wissen
+ sapere
+wissentlich
+ cosciente
+witzig
+ spiritoso
+wofern
+ se
+wohl
+ 1. certamente
+ 2. forse
+ 3. probabilmente
+wohnen
+ abitare; dimorare; stare
+wohnlich
+ comodo
+wollen
+ volere
+wunderbar
+ ammirabile
+wunderlich
+ strano
+wägen
+ pesare
+wählen
+ eleggere; scegliere
+währen
+ durare
+während
+ durante
+wünschen
+ desiderare
+würdigen
+ apprezzare
+wütend
+ furibondo; furioso
+zagen
+ 1. avertimore; temere
+ 2. esitare; titubare
+zaghaft
+ angoscioso; pauroso
+zahlen
+ pagare
+zahlreich
+ molto
+zahm
+ ubbidiente
+zart
+ delicato
+zaudern
+ 1. esitare; titubare
+ 2. esitare; titubare
+zehn
+ dieci
+zeichnen
+ disegnare
+zeigen
+ 1. indicare; mostrare
+ 2. mostrare
+zeitgemäß
+ conveniente
+zeitig
+ 1. dibuon'ora
+ 2. intempo
+zeitweilig
+ diquandoinquando; ognitanto
+zentral
+ centrale
+zergliedern
+ analizzare
+zerlegen
+ dividere
+zerstören
+ distruggere
+ziehen
+ tirare
+ziemen
+ convenire
+ziemlich
+ 1. sufficiente
+ 2. abbastanza
+zischen
+ muggire
+zitieren
+ citare
+zittern
+ tremare
+zivil
+ civile
+zu
+ 1. a
+ 2. a; dentro
+ 3. chiuso
+ 4. troppo
+ 5. a; su
+zubringen
+ passare
+zucken
+ tremare
+zudecken
+ coprire
+zudem
+ 1. d'altronde; inoltre
+ 2. inoltre
+zuerst
+ dapprima; inprimoluogo; prima
+zufrieden
+ contento
+zufügen
+ 1. aggiungere
+ 2. causare
+zugehören
+ appartenere
+zugleich
+ 1. insieme
+ 2. allostessotempo
+zuhören
+ ascoltare
+zujauchzen
+ acclamare
+zulänglich
+ sufficiente
+zumachen
+ chiudere
+zumal
+ principalmente; soprattutto
+zumeist
+ tutt'alpiù
+zum Beispiel
+ peresempio
+zunächst
+ soprattutto
+zureichen
+ bastare
+zurichten
+ apprestare; preparare
+zurück
+ 1. indietro
+ 2. ancora; dinuovo
+zurückbehalten
+ riservare
+zurückbleiben
+ restidietro
+zurückgeben
+ restituire
+zurückhalten
+ ritenere
+zurückkehren
+ ritornare
+zurücklegen
+ 1. togliere
+ 2. commettere; fare
+zurückschrecken
+ impaurire; spaventare
+zurücksenden
+ rinviare
+zur rechten Zeit
+ intempo
+zusagen
+ promettere
+zusammen
+ insieme
+zusammenlegen
+ piegare
+zuschließen
+ serrareachiave
+zusehen
+ aspettare; attendere
+zustimmen
+ concordare; essererd'accordo
+zuversichtlich
+ certo
+zuvor
+ davanti
+zuvörderst
+ soprattutto
+zuwilligen
+ concordare; essererd'accordo
+zu Hause
+ acasa; incasa
+zu sehr
+ troppo
+zu viel
+ troppo
+zwanzig
+ venti
+zwar
+ 1. certamente
+ 2. benche; sebbene
+zweckdienlich
+ 1. efficace
+ 2. utile
+zwei
+ due
+zweifach
+ doppio
+zweifeln
+ dubitare
+zweifelsohne
+ sicapisce
+zwingen
+ costringere; forzare
+zwängen
+ premere; serrare; stringere
+zwölf
+ dodici
+zählen
+ contare
+zögern
+ 1. esitare; titubare
+ 2. esitare; titubare
+züchtigen
+ 1. calmare; pacificare; placare
+ 2. castigare; punire
+zücken
+ alzare
+zügellos
+ dissoluto; licenzioso
+zünden
+ accendere
+Ägypten
+ Egitto
+Ägäische Meer
+ MarEgeo
+Ähre
+ spiga
+Änderung
+ cambiamento
+Äquator
+ equatore
+Ärgernis
+ scandalo
+Äroplan
+ aereo; aeroplano
+Äthiopien
+ Etiopia
+Ätzung
+ alimento; cibo
+Äußere
+ 1. esteriore
+ 2. aria
+Öl
+ olio
+Ölbaum
+ olivo
+Österreich
+ Austria
+Österreicher
+ austriaco
+Übelkeit
+ avversione; ripugnanza
+Überblick
+ sguardo
+Übereinkommen
+ accordo
+Übereinkunft
+ 1. accordo
+ 2. accomodamento; accordo; patto
+Übereinstimmung
+ accordo
+Übernahme
+ accoglienza; accoglimento
+Überraschung
+ sorpresa
+Überschuß
+ beneficio; guadagno; profitto; vantaggio
+Übersetzung
+ traduzione
+Übersicht
+ sommario
+Übertragung
+ traduzione
+Übung
+ esercizio
+ächzen
+ gemere
+äffen
+ ingannare; truffare
+ähneln
+ rassomiglare
+ähnlich
+ simile
+ändern
+ cambiare
+äußerlich
+ fuori
+äußerster
+ estremo
+öffentlich
+ pubblico
+öffnen
+ aprire
+österreichisch
+ austriaco
+über
+ 1. sopra
+ 2. attraverso
+überall
+ dappertutto
+überbringen
+ portare
+übereinkommen
+ convenire; pattuire
+überfallen
+ 1. attaccare
+ 2. sorprendere
+übergeben
+ attraversare
+überhaupt
+ generalmente
+überlassen
+ abbandonare
+überlegen
+ superiore
+übermorgen
+ dopodomani; posdomani
+übermütig
+ cattivo
+überraschen
+ sorprendere
+überreden
+ convincere
+übersetzen
+ tradurre
+übertragen
+ 1. tradurre
+ 2. trasportare
+übertreten
+ attraversare
+überwachen
+ controllare; verificare
+überzeugen
+ convincere
+üblich
+ 1. consueto; usuale
+ 2. volgare
+übrigbleiben
+ stare; restare; rimanere
+pgöähyzqrisjakbßcétulmde vfüwnxo

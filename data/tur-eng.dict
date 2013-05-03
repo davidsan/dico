@@ -1,0 +1,2210 @@
+
+00-database-dictfmt-1.10.11
+Turkish-English FreeDict Dictionary
+
+
+Edition: 0.2.1
+Size: about 1 000 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version. This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version. This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details. You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: tur-eng.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This file was converted from the Ergane
+  dictionaries.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-19 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-01-04 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-30 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane (http://www.travlang.com) -
+   Thanks!
+Turkish-English FreeDict Dictionary ver. 0.2.1
+
+Afrika
+ Africa
+Afrikalı
+ African
+Alman
+ 1. German
+ 2. German
+Almanya
+ Germany
+Amerika
+ UnitedStatesofAmerica; USA
+Amerikalı
+ American
+Amerikan timsahı
+ alligator
+Anadolu
+ Anatolia; AsiaMinor
+Ankara
+ Angora; Ankara
+Arap
+ Arab
+Arjantin
+ Argentina
+Arnavut
+ Albanian
+Arnavutluk
+ Albania
+Asya
+ Asia
+Atlas Okyanusu
+ Atlantic; AtlanticOcean
+Avrupalı
+ 1. European
+ 2. European
+Avustralya
+ Australia
+Avustralyalı
+ Australian
+Avusturya
+ Austria
+Avusturyalı
+ Austrian
+Belçika
+ Belgium
+Belçikalı
+ Belgian
+Birleşik Devletler
+ UnitedStatesofAmerica; USA
+Boğaziçi
+ Bosporus
+Brezilya
+ Brazil
+Brezilyalı
+ Brazilian
+Britanya
+ Britain; GreatBritain
+Bulgaristan
+ Bulgaria
+Büyük Okyanus
+ Pacific; PacificOcean
+Cezayir
+ Algeria
+Cezayirli
+ Algerian
+Danimarka
+ Denmark
+Danimarkalı
+ Dane
+Filistin
+ Palestine
+Finlandiya
+ Finland
+Fransa
+ France
+Fransız
+ French
+Habeşistan
+ Abyssinia; Ethiopia
+Hindistan
+ India
+Hintli
+ Indian
+Hollanda
+ 1. Holland
+ 2. Holland; theNetherlands
+Hollandalı
+ 1. Dutch
+ 2. Dutchman; Hollander
+ 3. Dutch
+ 4. Dutchman
+Hıristiyan
+ Christian
+Japonca
+ 1. Japanese
+ 2. Japanese
+Japonya
+ Japan
+Japonyalı
+ 1. Japanese
+ 2. Japanese
+Kanada
+ Canada
+Kanadalı
+ Canadian
+Kıbrıs
+ Cyprus
+Kıbrıslı
+ Cypriot
+Kızılderili
+ Indian; AmericanIndian
+Lübnan
+ Lebanon
+Macaristan
+ Hungary
+Muhammet
+ Mohammed; Muhammad
+Musevi
+ Jew
+Müslüman
+ Mohammedan; Moslem; Muslim; Mussulman
+Mısır
+ Egypt
+Mısırlı
+ 1. Egyptian
+ 2. Egyptian
+Noel
+ Christmas; Yule
+Norveç
+ Norway
+Norveçce
+ Norwegian
+Norveçli
+ 1. Norwegian
+ 2. Norwegian
+Paskalya
+ Easter
+Polonya
+ Poland
+Polonyalı
+ 1. Polish
+ 2. Pole
+Portekiz
+ Portugal
+Portekizli
+ 1. Portuguese
+ 2. Portuguese
+Ren
+ Rhine
+Romanya
+ Romania
+Rumanya
+ Romania
+Rumca
+ Greek
+Rus
+ Russian
+Rusya
+ Russia
+Rusça
+ Russian
+Suriye
+ Syria
+Suriyeli
+ Syrian
+Türkiye
+ Turkey
+Yahudi
+ Jew
+Yugoslav
+ Yugoslav; Yugoslavian
+Yugoslavya
+ Yugoslavia
+Yunanistan
+ Greece
+Yunanlı
+ Greek
+abajur
+ lamp‐shade
+abartmak
+ exaggerate
+abes
+ 1. absurd
+ 2. abortive; useless
+ 3. abortive; futile; useless; vain
+abide
+ monument
+abla
+ 1. sister
+ 2. eldersister
+abluka
+ blockade
+abluka etmek
+ block; blockade
+abone
+ 1. subscriber
+ 2. subscription
+abuk sabuk
+ nonsense
+acayip
+ odd; peculiar; strange
+acele
+ 1. hurried
+ 2. haste
+ 3. fast; quick; rapid; speedy; swift
+acemi
+ 1. beginner
+ 2. novice
+ 3. inexperienced
+acente
+ agent
+acil
+ pressing; urgent
+aciz
+ 1. faint; light; weak
+ 2. helpless
+acı
+ 1. acerbic; bitter
+ 2. ache; pain
+ 3. sadness; sorrow
+acıklı
+ 1. affecting; moving; touching
+ 2. affecting; moving; touching
+ 3. dismal; gaunt; miserable; sad
+ 4. tragedy
+ 5. tragic
+ 6. dismal; dreary; sad
+acıkmak
+ 1. besorryabout; regret
+ 2. behungry
+acılık
+ 1. acerbity; bitterness
+ 2. acerbity; bitterness
+acımak
+ ache; bepainful; hurt
+acındırmak
+ excitepity
+acıtmak
+ hurt
+ad
+ appellation; name
+ada
+ island
+adam
+ man; humanbeing
+adres
+ address
+af
+ actofgrace; amnesty
+akasya
+ acacia
+akordeon
+ accordion
+akrobat
+ acrobat
+aktris
+ actress
+aktör
+ actor
+akustik
+ acoustics
+akvaryum
+ aquarium
+akümülatör
+ accumulator; battery; storagebattery
+akşam
+ evening
+akıl
+ brain
+alay
+ irony
+alaşım
+ alloy
+albay
+ colonel
+albüm
+ album
+alev
+ flame
+aleyhinde
+ acrossfrom; against; inexchangefor; opposedto; opposite; upon
+alfabe
+ alphabet
+alkiş
+ acclaim; acclamation; approval
+alkol
+ alcohol
+alkışlamak
+ acclaim; applaud; clap
+almak
+ 1. get; layholdof; pickup; take
+ 2. get; have; receive
+almanak
+ almanac
+altı
+ six
+alüminyum
+ aluminium; aluminum
+amatör
+ amateur; fancier
+amerikalı
+ American
+amiral
+ admiral
+amonyak
+ ammonia
+amper
+ ampère
+anahtar
+ key; wrench
+anarşi
+ anarchy
+anarşist
+ anarchist
+anatomi
+ anatomy
+ancak
+ barely; hardly; onlyjust; scarcely
+anemi
+ anaemia
+anlamak
+ understand; realize
+anne
+ mother
+anonim
+ anonymous; nameless; withoutaname
+anormal
+ abnormal
+ansiklopedi
+ encyclopaedia
+anten
+ aerial; antenna
+antika
+ ancient; antique
+apostrof
+ apostrophe
+apse
+ abscess
+aralık
+ December
+aramak
+ lookfor; seek
+arasında
+ among; between
+arena
+ arena
+arkadaş
+ friend
+arkasından
+ 1. behind; after
+ 2. after; behind
+arpa
+ barley
+arzu
+ appetite
+arı
+ bee
+arı kovanı
+ beehive
+asfalt
+ asphalt
+asker
+ 1. army
+ 2. army
+ 3. pawn; soldier
+astronomi
+ astronomy
+astronot
+ astronaut; spaceman
+astım
+ asthma; shortnessofbreath; wheeziness
+asır
+ centennial; century
+at
+ horse
+ata
+ forefather
+atardamar
+ artery
+ateş
+ fire
+atlas
+ atlas
+atlet
+ athlete
+atmak
+ throw
+atmosfer
+ atmosphere
+atom
+ atom
+avantaj
+ advantage; benefit
+avantajlı
+ advantageous
+ay
+ 1. moon
+ 2. month
+ayak bileği
+ ankle
+ayak parmağı
+ toe
+aç
+ hungry
+açgözlü
+ insatiable
+açmak
+ open; openup
+açık
+ 1. bright; clear; light
+ 2. clear; distinct; plain
+ 3. open
+ 4. vacant
+açıkgöz
+ clever; cunning; sly; smart
+açıklama
+ 1. account; explanation
+ 2. account; explanation
+açıklamak
+ 1. accountfor; explain
+ 2. accountfor; clarify; explain
+ 3. publish; reveal
+açıkça
+ 1. clearly
+ 2. frankly; openly
+ 3. openly
+ağustos
+ August
+baba
+ dad; daddy
+babacığım
+ dad; daddy
+baca
+ chimney; smokestack
+bagaj
+ baggage; luggage
+bakteriler
+ bacterium
+bakışım
+ symmetry
+balina
+ whale
+balkon
+ balcony
+balon
+ balloon
+balta
+ axe
+balık
+ fish
+balıkçı
+ fisherman
+banka
+ bank
+banyo
+ bathroom
+banyo odası
+ bathroom
+barbar
+ barbarian
+barikat
+ barricade
+barometre
+ barometer
+baron
+ baron
+basur
+ haemorhoids
+battaniye
+ blanket
+batı
+ west; West
+batıya ait
+ western
+baykuş
+ owl
+bayrak
+ banner; flag
+başka
+ other; another; else
+başlamak
+ begin; commence; start
+bebek
+ baby
+beden
+ body
+beden yapısı
+ anatomy
+beklemek
+ abide; expect; wait; await; waitfor
+belkemiği
+ spine
+benzin
+ gasolene; gasoline; petrol
+berber
+ barber
+beygir
+ horse
+beyin
+ brain
+bez
+ cloth
+beş
+ five
+beğenmek
+ 1. approve
+ 2. appreciate; like
+biftek
+ steak; beefsteak
+bilardo
+ billiards
+bilet
+ bill; ticket; note
+bilezik
+ 1. bracelet
+ 2. bracelet
+bilgisinde
+ adjective
+bilmek
+ know; knowhow
+bina
+ building
+bir
+ 1. one
+ 2. a; an
+bira
+ ale; beer
+birader
+ brother
+biriktirmek
+ collect; gather; pickup
+birlik
+ unity
+bir daha
+ other; another; else
+bir uzvu kesmek
+ amputate
+bisiklet
+ 1. bike; cycle; bicycle
+ 2. bike; bicycle
+biz
+ us; we
+biçak
+ knife
+boksör
+ boxer
+bomba
+ bomb
+boş
+ empty; void
+boğa güreşi alanı
+ arena
+broşür
+ leaflet; pamphlet; paperback
+bugün
+ today
+bulmak
+ find
+bulunmayış
+ absence
+bulut
+ cloud
+bulüz
+ blouse
+burun
+ nose
+burç
+ horoscope
+buz
+ ice
+böbrek
+ kidney
+bölüm
+ chapter
+bülbül
+ nightingale
+bütün
+ all; altogether; everything
+büyük
+ big; great; large
+büyük elçi
+ ambassador
+büyük kilise
+ cathedral
+büyük zil
+ cymbal
+bırakmak
+ absentonself; depart; goaway; leave
+cadde
+ street
+cambaz
+ acrobat
+cami
+ mosque
+cebir
+ algebra
+cephane
+ munition; ammunition
+cevap
+ answer; reply
+cevap vermek
+ answer; reply; respond
+ceviz
+ walnut
+ceylan
+ gazelle
+coğrafya
+ geography
+cuma
+ Friday
+cumartesi
+ Sabbath
+cümle kuruluşu
+ syntax
+da
+ also; likewise; too
+daha iyi
+ better
+daha şimdiden
+ already; bynow; yet
+dahi
+ also; likewise; too
+daima
+ always; ever
+daire
+ circle
+damat
+ son‐in‐law
+dana
+ calf
+dans
+ dance
+dans etmek
+ dance
+dar
+ narrow
+darı
+ corn; Indiancorn; maize; mealies
+dağ
+ mountain
+de
+ also; likewise; too
+defter
+ notebook
+demek
+ say; tell
+demir
+ iron
+demirci
+ smith
+deri
+ leather
+dev
+ giant
+deve
+ camel
+dikenli çalı
+ thorn
+diktatör
+ dictator
+dilenci
+ beggar
+dilenmek
+ beg
+dimağ
+ brain
+dinamit
+ dynamite
+dinlemek
+ listen
+dinsizlik
+ atheism
+dip
+ bottom; foundation; ground
+diploma
+ diploma
+diplomat
+ diplomat
+dirsek
+ elbow
+diyalog
+ dialogue
+diz
+ knee
+diğer bir
+ other; another; else
+dokuz
+ nine
+dolar
+ dollar
+domuz
+ hog; pig; swine
+domuz eti
+ pork
+domuz pastarması
+ bacon
+dondurma
+ ice; icecream
+doğru
+ accurate; ontime; prompt; punctual
+doğu
+ east; East
+doğum
+ birth
+doğum günü
+ birthday
+doğuya ait
+ eastern; Oriental
+duka
+ duke
+durmak
+ halt; cometoahalt; stop
+dört
+ four
+dük
+ duke
+dükkân
+ boutique; shop; store
+dülger
+ carpenter
+dün
+ yesterday
+dünya
+ world
+düzenlemek
+ arrange; fixup
+düşes
+ duchess
+düşmek
+ drop; fall
+düşünmek
+ think
+ecnebi memlekette
+ foreigncountry
+ekim
+ October
+ekmek
+ bread; loaf
+elbise
+ clothes; clothing
+elektrik
+ electricity
+elektriki
+ electric
+elma
+ apple
+emniyet
+ police
+engel
+ barrier
+erkek
+ fellow; man
+erkek domuz
+ boar
+erkek kardeş
+ brother
+eski
+ 1. ex‐; former
+ 2. old
+etmek
+ achieve; act; do; make; perform
+evet
+ yes
+ev kadını
+ housewife
+eylül
+ September
+eş
+ wife
+eşek
+ ass; donkey
+eşkiya
+ bandit
+eşlik etmek
+ accompany
+eğer
+ if; providedthat
+eğlence
+ amusement; fun
+eğlendirmek
+ amuse
+fakat
+ but
+falı
+ horoscope
+fare
+ mouse
+fark
+ difference
+fasulye
+ bean
+felaket
+ catastrophe
+fena
+ bad; miserable; nasty; poor
+feshetmek
+ abjure; abolish; abrogate; annul; cancel; remit
+fikir
+ idea
+fikir vermek
+ advise; counsel
+fil
+ elephant
+fildişi
+ ivory
+fizik
+ physics
+fizikçi
+ physicist
+formül
+ formula
+fotoğraf
+ 1. photograph
+ 2. photograph
+fren
+ brake
+fıkra
+ anecdote
+fındık
+ nut
+fırıncı
+ baker
+fırında pişirmek
+ bake
+fıskiye
+ fountain
+gaga
+ beak; bill
+gazeteci
+ journalist
+gece
+ night
+gelmek
+ come
+gemi
+ boat
+genelev
+ brothel
+genişlik
+ width
+geometri
+ geometry
+geriye doğru
+ backward; backwards
+getirmek
+ bring; fetch
+girmek
+ goin; enter; perform
+gitar
+ guitar
+gitmek
+ go
+gri
+ grey
+grup
+ group
+göbek
+ abdomen; belly; tummy
+göndermek
+ send; transmit
+görmek
+ see
+gövde
+ body
+gün
+ day
+gündem
+ agenda; appointmentbook
+gündüz
+ day
+gürültü
+ ado; din; noise
+gürültücü
+ noisy
+gürültülü
+ noisy
+güve
+ moth
+güzel
+ beautiful; fine; handsome; lovely
+güzellik
+ beauty
+güzel koku
+ aroma; flavour
+güzel sanat
+ art
+güç
+ energy
+haber vermek
+ advertise; announce; givenotice
+hafta
+ week
+hala
+ aunt
+halihazırda
+ already; bynow; yet
+halita
+ alloy
+hareket
+ achievement; act; action
+hasırdan yapılmış
+ straw
+hava
+ 1. air
+ 2. atmosphere
+havalimanı
+ airport
+havaî
+ aerial; antenna
+havuç
+ carrot
+havyar
+ caviar
+haydut
+ bandit
+hayran olmak
+ admire
+hayvan
+ 1. animal
+ 2. animal; beast
+hayvanat bahçesi
+ zoo
+hayvanbilim
+ zoology
+hayvansal
+ 1. animal
+ 2. animal; beast
+haziran
+ June
+hece
+ syllable
+hedef
+ aim; goal; purpose; target
+hemen hemen
+ almost; nearly
+her zaman
+ always; ever
+hesap
+ account
+heyet
+ committee
+hikâye
+ anecdote
+hiçbir yerde
+ nowhere
+hiçbir şey
+ nothing
+horoz
+ cock; rooster
+hortlak
+ ghost; phantom
+hoş
+ 1. agreeable; enjoyable; lovely; nice; pleasant
+ 2. pretty
+ 3. gentle; soft; sweet; tender
+hücum
+ access; aggression; attack
+hürmet göstermek
+ honor; honour
+hırslı
+ ambitious
+hırsızlık
+ abstraction; theft
+hıyar
+ cucumber
+hızlandırmak
+ accelerate; advance
+idealist
+ idealist
+ideoloji
+ ideology
+ihtiras
+ ambition
+iki
+ two
+iklim
+ climate
+ilahi
+ anthem; hymn
+ilahiyat
+ theology
+ilan
+ ad; advertisement
+ilan etmek
+ advertise; announce; givenotice
+imparator
+ emperor
+imparatoriçe
+ empress
+imparatorluk
+ empire
+inanmak
+ account; accredit; believe; deem
+inanç
+ belief
+inek
+ cow
+iptal etmek
+ abjure; abolish; abrogate; annul; cancel; remit
+irtifa
+ altitude; height
+ise
+ if; providedthat
+isim
+ 1. appellation; name
+ 2. noun; substantive
+isimsiz
+ anonymous; nameless; withoutaname
+istasyon
+ railwaystation
+istek
+ appetite
+istihza
+ irony
+istiridye
+ oyster
+itaat etmek
+ obey
+itham etmek
+ accuse
+iyod
+ iodine
+izin vermek
+ accord; admit; afford; allow; permit
+içilen şey
+ beverage; drink
+içmek
+ 1. smoke
+ 2. drink
+iş
+ 1. affair; business; businessdeal; case; matter
+ 2. achievement; act; action
+ 3. job; work
+işitmek
+ hear
+iştah
+ appetite
+jeoloji
+ geology
+kabul edilebilir
+ acceptable
+kabul etmek
+ accept; receive; take; takein
+kafes
+ cage
+kahve
+ coffee
+kahverengi
+ brown
+kalay
+ tin
+kalori
+ calorie
+kalça
+ thigh
+kan
+ blood
+kanal
+ canal; channel
+kanarya
+ canary
+kansızlık
+ anaemia
+kanyak
+ brandy; cognac
+kaos
+ chaos; tangle
+kapamak
+ close; shut
+kaplan
+ tiger
+kaptan
+ captain
+kapı
+ gate; gateway; portal
+kara
+ black
+karaağaç
+ elm
+karakol
+ police‐station
+karmakarışık hal
+ chaos; tangle
+karnabahar
+ cauliflower
+kart
+ card; map; menu
+kartal
+ eagle
+kartpostal
+ postcard
+karşı
+ acrossfrom; against; inexchangefor; opposedto; opposite; upon
+karı
+ wife
+karın
+ abdomen; belly; tummy
+karınca
+ ant; emmet
+kas
+ muscle
+kasap
+ butcher
+kasım
+ November
+kasırga
+ cyclone
+katalog
+ catalogue; directory
+kategori
+ category
+katolik
+ Catholic
+kat'î
+ accurate; ontime; prompt; punctual
+kaybetmek
+ lose
+kaynana
+ mother‐in‐law
+kayık
+ boat
+kayısı
+ apricot
+kaza
+ accident
+kedı
+ cat
+kelebek
+ butterfly
+kemik
+ bone
+kent
+ city; town
+kereviz
+ celery
+kesin
+ accurate; ontime; prompt; punctual
+keskin
+ acerbic; bitter
+kesmek
+ cut; slice
+kestane
+ chestnut; horse‐chestnut
+keza
+ also; likewise; too
+keşiş
+ monk
+kibirli
+ arrogant
+kil
+ clay
+kilo
+ kilo
+kimya
+ 1. chemistry
+ 2. chemistry
+kiraz
+ cherry
+kirli
+ dirty; filthy; nasty; soiled; unclean
+kitap
+ book
+kitapçı dükkanı
+ bookshop; bookstore
+kişla
+ barracks
+klinik
+ clinic
+kobra yılanı
+ cobra
+kokain
+ cocaine
+koleksiyon
+ collection
+kolera
+ cholera
+koltuk
+ armchair
+komedi
+ comedy
+komite
+ committee
+komünizm
+ communism
+komşu
+ neighbour
+kongre
+ congress; convention
+konuşma
+ dialogue
+kova
+ bucket; pail
+koşmak
+ run
+kral
+ king
+kraliyet
+ kingdom
+kristal
+ crystal
+kriz
+ crisis; depression; emergency
+krom
+ chromium
+kulak
+ ear
+kullanmak
+ employ; use; makeuseof
+kulübe
+ cabin; hut; shack
+kulüp
+ club; society
+kum
+ sand
+kumaş
+ cloth
+kumsal
+ beach
+kurt
+ worm
+kutlamak
+ celebrate
+kutsal
+ holy; sacred
+kutu
+ box
+kuvvet
+ 1. energy
+ 2. force; strength; vigour
+kuyruklu yıldız
+ comet
+kuzey
+ north; North
+kuzeye ait
+ northern
+kuş
+ bird
+kuğu
+ swan
+kyruk
+ tail
+köknar
+ fir
+köpek
+ dog
+köpek kulübesi
+ kennel; dog‐kennel
+köprü
+ bridge
+kötü
+ bad; miserable; nasty; poor
+köşeli
+ gaunt
+küe
+ earring
+kül
+ ash; cinder
+kültür
+ culture
+kül tablası
+ ashtray
+kâtip
+ clerk
+kâğıt para
+ bank‐note
+kılıç
+ sword
+kırlangıç
+ swallow
+kısaltmak
+ abbreviate; abridge; curtail; shorten
+kısım
+ chapter
+kıyı
+ coast; seaside; shore
+kız
+ 1. daughter
+ 2. girl; lass; wench
+kızgın
+ 1. angry; cross
+ 2. hot
+kız evlat
+ daughter
+kıç
+ bottom; foundation; ground
+kış
+ winter
+lahana
+ cabbage
+lehçe
+ dialect
+limon
+ lemon
+limonata
+ lemonade
+maaş
+ salary; wage; wages
+macera
+ affair; business; businessdeal; case; matter
+madde
+ thing
+makine
+ engine; machine
+manda
+ buffalo
+mandalina
+ tangerine
+marangoz
+ carpenter
+mart
+ March
+marul
+ lettuce
+mavi
+ blue
+maymun
+ ape; monkey
+mayıs
+ May
+melek
+ angel
+merkez
+ centre
+mermi
+ bullet
+mesele
+ affair; business; businessdeal; case; matter
+meslekdaş
+ colleague
+mezarlık
+ cemetery; God'sacre; graveyard
+meşe
+ oak
+midilli
+ pony
+millet
+ nation
+mimar
+ architect
+misafir
+ guest
+modern
+ modern
+molekül
+ molecule
+motel
+ motel
+motor
+ engine; motor
+motosiklet
+ motorcycle
+muharebe
+ action; battle; scuffle; struggle
+muhasebeci
+ accountant
+muhteris
+ ambitious
+muktedir
+ able; capable
+mum
+ candle
+mutfak
+ kitchen
+mutlaka
+ absolutely
+muvafakat etmek
+ accede; agree; consent
+muz
+ banana
+mücadele
+ conflict
+mühendis
+ engineer
+mühim
+ important; serious
+münasip
+ acceptable
+müneccimlik
+ astrology
+müsaade etmek
+ accord; admit; afford; allow; permit
+müvekkil
+ client; customer
+müşteri
+ client; customer
+mısır
+ corn; Indiancorn; maize; mealies
+mızrak
+ lance; spear
+nakletmek
+ carry; wear
+nalbant
+ smith
+namevcut
+ 1. absent
+ 2. absent
+namus
+ honor; honour
+nashihat
+ advice; counsel
+nazari
+ abstract
+nefes
+ breath
+nefes alma
+ breath
+nefes almak
+ breathe
+nefis
+ pretty
+nehir
+ river
+nisan
+ April
+normal
+ normal
+o
+ 1. he; him
+ 2. it
+ 3. her; she
+ocak ayı
+ January
+ok
+ arrow
+oksijen
+ oxygen
+okumak
+ read
+olay
+ accident
+olmak
+ 1. become; comeabout; grow; happen
+ 2. become; get; grow
+on
+ ten
+on bır
+ eleven
+ordu
+ 1. army
+ 2. army
+orospu
+ hooker; whore
+otel
+ hotel
+otobüs
+ bus; autobus; omnibus
+otomatik
+ automatic
+otomobil
+ car
+oturmak
+ sit
+oğlan
+ boy; lad; laddie
+oğul
+ son
+palyaço
+ clown
+papatya
+ daisy
+para
+ money
+pars
+ leopard
+patates
+ potato
+patron
+ boss; chief; leader
+pazar
+ Sunday
+pazartesi
+ Monday
+pek
+ quite; very; verymuch
+pençe
+ claw
+perde
+ curtain
+perhiz
+ diet
+peri
+ nymph
+perşembe
+ Thursday
+peynir
+ cheese
+pire
+ flea
+piskopos
+ bishop
+piç
+ bastard
+plaj
+ beach
+polis
+ police
+politikacı
+ politician
+porsuk
+ badger
+portakal
+ orange
+puro
+ cigar
+pusula
+ compass
+rahibe
+ nun
+rejim
+ diet
+reklam
+ ad; advertisement
+renk
+ colour; dye
+ressam
+ artist
+revolver
+ revolver
+roman
+ novel
+rüzgar
+ wind
+saat
+ 1. clock; watch
+ 2. hour; o'clock; time
+sabah
+ morning
+sabah kahvaltısı
+ breakfast
+sadaka
+ alms; charity
+sadece
+ barely; hardly; onlyjust; scarcely
+sahil
+ coast; seaside; shore
+sakal
+ beard
+salata
+ lettuce
+salatalık
+ cucumber
+saldırmak
+ assault; attack
+saldırı
+ aggression; aggro
+saldırış
+ access; aggression; attack
+salı
+ Tuesday
+saman
+ straw
+sanatkâr
+ artist
+sandal
+ 1. boat
+ 2. sandal
+sandalye
+ chair
+sandviç
+ sandwich
+sanki
+ asif; asthough; inaway
+sanmak
+ guess; presume; suppose; surmise
+santimetre
+ centimetre
+sargı
+ bandage
+sarmaşık
+ ivy
+sarışın
+ blond; fair
+satmak
+ disposeof; sell; vend
+savaş
+ war
+sayfa
+ page
+saymak
+ count
+saçma
+ absurd
+sağır
+ deaf
+sekiz
+ eight
+selvi
+ cypres
+sembol
+ symbol
+sene
+ year
+sepet
+ basket
+sertlik
+ acerbity; bitterness
+sesli harf
+ vowel
+ses düzeni
+ acoustics
+sevmek
+ love
+seçmek
+ choose; elect; pickout
+sidik torbası
+ bladder; bubble
+sigar
+ cigar
+sigara
+ cigarette
+silah
+ 1. weapon
+ 2. gun; rifle
+silindir
+ cylinder; roller
+simetri
+ symmetry
+simetrik
+ symmetric
+sincap
+ squirrel
+sinema
+ cinema; movietheatre
+sirk
+ circus
+sivrisinek
+ mosquito
+siyah
+ black
+siyaset adamı
+ politician
+sokak
+ street
+solucan
+ worm
+solumak
+ breathe
+som balığı
+ salmon
+sonbahar
+ autumn
+sonra
+ 1. behind; after
+ 2. after; behind
+ 3. afterwards; next; subsequently
+sonraları
+ afterwards; next; subsequently
+sormak
+ ask
+soyadı
+ surname
+soğan
+ onion
+soğuk
+ bleak; chilly; cold
+sporcu
+ athlete
+su
+ water
+sultan
+ sultan
+susamiş
+ thirsty
+susuzluk
+ thirst
+suçlama
+ accusal; accusation
+suçlamak
+ accuse
+suçlu
+ guilty
+söylemek
+ say; tell
+söz
+ word
+sözcük
+ word
+sülün
+ pheasant
+süngü
+ bayonet
+süpürge
+ broom
+sütyen
+ bra
+sıcak
+ hot
+sıfır
+ naught; nought; null; zero; zilch
+sıgır eti
+ beef
+sınıf
+ category
+sıra
+ bench
+sıtma
+ malaria
+takdire değer
+ admirable
+takdir etmek
+ acclaim; applaud; clap
+taksi
+ taxi
+takvim
+ 1. almanac
+ 2. calendar
+tam
+ 1. accurate; ontime; prompt; punctual
+ 2. accurate; precise
+tamamen
+ absolutely
+tanımak
+ beacquaintedwith; know
+taparcasına sevmek
+ adore; worship
+tarak
+ comb
+taramak
+ comb
+tatlı
+ gentle; soft; sweet; tender
+tavan
+ ceiling
+tavşan
+ 1. rabbit
+ 2. hare
+tayyare
+ aeroplane; airplane; plane
+tayyare mayadanı
+ airport
+taşımak
+ carry; wear
+tedavi
+ therapy
+tehlike
+ danger; peril
+tehlikeli
+ dangerous
+tekrar
+ 1. afresh; again; alloveragain; anew
+ 2. afresh; again; oncemore
+temmuz
+ July
+teoloji
+ theology
+teorik
+ abstract
+tepe
+ hill
+ter
+ perspiration; sweat
+tereyağı
+ butter
+terlemek
+ sweat
+termometre
+ thermometer
+tertip etmek
+ arrange; fixup
+terzi
+ tailor
+teyze
+ aunt
+tezgâh
+ bench
+teşekkür
+ thankyou; thanks
+tilki
+ fox
+timsah
+ crocodile
+tiyatro
+ theatre
+top
+ 1. gun; rifle
+ 2. cannon
+toplamak
+ collect; gather; pickup
+toprak
+ earth; land; soil
+tren
+ 1. train
+ 2. train
+tugay
+ brigade
+tunç
+ bronze
+tutku
+ ambition
+tutkulu
+ ambitious
+tutmak
+ hangonto; hold
+tuz
+ salt
+tuzlu
+ salty
+tuğla
+ brick
+tören
+ ceremony
+tüfek
+ gun; rifle
+tütün
+ tobacco
+tırmanmak
+ climb
+tırtıl
+ caterpillar
+ufuk
+ horizon
+ulus
+ nation
+ulusal
+ national
+ummak
+ hope
+umut
+ hope
+unutmak
+ forget
+uygun
+ agreeable; enjoyable; lovely; nice; pleasant
+uyumak
+ beasleep; sleep
+uzak
+ distant; far; remote
+uçak
+ 1. aeroplane; airplane; plane
+ 2. aircraft
+uçaklar
+ aircraft
+uçmak
+ fly
+vapur
+ steamship
+varil
+ barrel
+varış
+ arrival
+ve
+ and
+vermek
+ give
+vestiyer
+ cloakroom
+virgül
+ 1. apostrophe
+ 2. comma
+viski
+ whisky; whiskey
+volkan
+ volcano
+vücut
+ body
+yaban eşeği
+ zebra
+yakında
+ soon
+yalan
+ lie; tellalie
+yalnız
+ alone; only; sole; solitary
+yamyam
+ cannibal
+yapmak
+ achieve; act; do; make; perform
+yarar
+ advantage; benefit
+yararlı
+ advantageous
+yat
+ yacht
+yatak
+ bed
+yatak odası
+ bedroom
+yavru kedi
+ kitten
+yazar
+ author
+yazmak
+ write
+yaş
+ age
+yaşamak
+ bealive; live
+yağ
+ oil
+yedi
+ seven
+yemin
+ oath
+yeni
+ new; novel
+yeryüzü
+ earth; land; soil
+yetişkin
+ accrue; grow
+yeşil
+ green
+yeğen
+ 1. niece
+ 2. nephew
+yine
+ 1. afresh; again; alloveragain; anew
+ 2. afresh; again; oncemore
+yok
+ absent
+yokluk
+ absence
+yollamak
+ send; transmit
+yonca
+ clover; shamrock; trefoil
+yulaf
+ oats
+yumurta
+ egg
+yunus baliğı
+ dolphin
+yüksek okul
+ college
+yün
+ wool
+yürümek
+ march; walk
+yüz
+ hundred; onehundred
+yüzmek
+ float; swim
+yüzyıl
+ centennial; century
+yüzünden
+ as; because; for; since
+yıldız
+ horoscope
+yıllık
+ 1. almanac
+ 2. annual; yearly
+zabıta
+ police
+zambak
+ lily
+zarf
+ adverb
+zarif
+ elegant
+zar zor
+ barely; hardly; onlyjust; scarcely
+zebra
+ zebra
+zehir
+ poison
+zeki
+ clever; cunning; sly; smart
+zeytin
+ olive
+zincir
+ chain
+zooloji
+ zoology
+zürafa
+ giraffe
+Ürdün
+ Jordan
+öfkeli
+ angry; cross
+öldürmek
+ kill; liquidate; slay
+ölmek
+ die; expire; passaway
+ölmüş
+ dead
+ölü
+ dead
+önlük
+ apron
+ördek
+ duck
+örümcek ağı
+ spiderweb
+özel
+ particular; special
+özerklik
+ autonomy
+öğleden sonra
+ afternoon
+öğle vakti
+ midday; noon
+öğrenmek
+ learn
+öğüt
+ advice; counsel
+öğüt vermek
+ advise; counsel
+ülkücü
+ idealist
+üniversite
+ university
+üç
+ three
+Çek
+ Czech
+Çekoslovakya
+ Czechoslovakia
+Çin
+ China
+Şeytan
+ Lucifer; Satan
+çakı
+ knife
+çalar saat
+ alarm; alarmclock
+çalişmak
+ work
+çalışkan
+ diligent; hardworking; industrious
+çaprazvari
+ across; beyond; ontheothersideof
+çarşamba
+ Wednesday
+çarşı
+ bazaar; fair; market
+çay
+ tea
+çek
+ check; cheque
+çekmek
+ drag; draw; haul; pull; tug
+çene
+ 1. jaw; jawbone
+ 2. chin
+çeşme
+ fountain
+çikolata
+ chocolate
+çilek
+ strawberry
+çimento
+ cement
+çingene
+ gypsy; Gypsy
+çinko
+ zinc
+çiplak
+ bare; naked; nude
+çiğnemek
+ chew
+çok beğenmek
+ admire
+çok geçmeden
+ soon
+çorba
+ soup
+çoçuk
+ boy; lad; laddie
+çoğulu
+ life
+çünkü
+ as; because; for; since
+çıkmak
+ exit; goout
+şapka
+ hat
+şarap
+ wine
+şarkı
+ song
+şehir
+ city; town
+şeref
+ honor; honour
+şey
+ thing
+şiddetli
+ acerbic; bitter
+şikayet etmek
+ complain
+şikâyet
+ complaint
+şimdi
+ atpresent; now
+şişe
+ bottle
+şoför
+ chauffeur; driver
+şubat
+ February
+ılık
+ warm
+ırmak
+ river
+İncil
+ Bible
+İngiliz
+ 1. English
+ 2. Englishman; Sassenach
+ 3. British
+İngilizce
+ English
+İngiliz kamışı
+ bamboo
+İngiltere
+ 1. England
+ 2. England
+İran
+ Iran; Persia
+İranlı
+ Iranian
+İrlanda
+ Ireland
+İrlandalı
+ 1. Irish
+ 2. Irishman
+İsa
+ Christ
+İslam
+ Islam
+İspanya
+ Spain
+İspanyol
+ Spaniard
+İsrail
+ 1. Israel
+ 2. Israel
+İstanbul
+ Istanbul
+İsveç
+ Sweden
+İsveçli
+ 1. Swedish
+ 2. Swede
+İsviçre
+ Switzerland
+İsviçreli
+ 1. Swiss
+ 2. Swiss
+İtalya
+ Italy
+İtalyan
+ 1. Italian
+ 2. Italian
+İtalyanca
+ 1. Italian
+ 2. Italian
+pgıöhîyzrisjaşçkbctulmdev âfünğo

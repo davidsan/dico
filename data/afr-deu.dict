@@ -1,0 +1,8556 @@
+
+00-database-dictfmt-1.10.11
+Afrikaans-German FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.1
+Size: about 3800 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+ID# (svn): $Id: afr-deu.tei 1109 2011-01-07 11:50:42Z bansp $
+Published at: http://freedict.org/
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make available many
+  translating dictionaries for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-24 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-18 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-07-19 Michael Bunk:
+   Check for Debian Bug#318024 (Africaan -> Afrikaans). Actually, the
+   missing 's' was already fixed in the TEI file. Just it was not released
+   for so long. Changed the 'c' to 'k' as well.
+ * 2005-01-04 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-27 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-10 Horst Eyermann:
+   This Database was generated from Ergane - Thanks!
+Afrikaans-German FreeDict Dictionary ver. 0.2.1
+http://freedict.org/
+Aandster
+ Venus
+Abessinies
+ abessynisch
+Abessinië
+ Abessinien
+Abessiniër
+ Abessinier
+Achilles
+ Achilles
+Adam
+ Adam
+Adriatiese See
+ Adria; Adriatisches Meer
+Afgaan
+ Afghane
+Afgaans
+ afghanisch
+Afganistan
+ Afghanistan
+Afrika
+ Afrika <n>
+Afrikaan
+ Afrikaner
+Afrikaans
+ 1. afrikanisch
+ 2. kapholländisch
+ 3. Afrikaans; Kapholländisch
+Afrikaner
+ 1. Afrikaander; Afrikander; Bure
+ 2. Bure
+Afrikanertroos
+ Kaffee <m>
+Afro‐Asiaties
+ afro‐asiatisch
+Agter‐Indië
+ Hinterindien
+Aken
+ Aachen
+Albaans
+ albanesisch; albanisch
+Albanees
+ 1. albanesisch; albanisch
+ 2. Albaner; Albanier
+Albanies
+ 1. albanesisch; albanisch
+ 2. Albanesisch; Albanisch
+Albaniese taal
+ Albanesisch; Albanisch
+Albanië
+ Albanien
+Algerië
+ Algerien
+Algeryn
+ Algerier
+Algeryns
+ algerisch
+Allah
+ Allah
+Allerheilige
+ Allerheiligen <n>
+Allersiele
+ Allerseelen
+Alpe
+ Alpen <f>
+Amerika
+ 1. Amerika
+ 2. Vereinigten Staaten
+Amerikaans
+ 1. amerikanisch
+ 2. amerikanisch
+Amerikaner
+ 1. Amerikaner <m>
+ 2. Amerikaner <m>
+Anatolië
+ Anatolien
+Angel‐Sakser
+ Angelsachse <m>
+Angel‐Saksies
+ angelsächsisch
+Anglikaans
+ anglikanisch
+Angola
+ Angola
+Annunsiasie
+ Mariä Verkündigung
+Antille
+ Antillen
+April
+ April <m>
+Arabier
+ Araber
+Arabies
+ arabisch
+Arabië
+ Arabien
+Ardenne
+ Ardennen; Ardennerwald
+Argentinië
+ Argentinien
+Argentyn
+ Argentinier
+Argentyns
+ argentinisch
+Argus
+ Argus
+Aries
+ arisch
+Ariër
+ Arier
+Armenies
+ armenisch
+Armenië
+ Armenien
+Armeniër
+ Armenier
+Asdag
+ Aschermittwoch <m>
+Asepoestertjie
+ Aschenbrödel
+Asiaat
+ Asiat <m>
+Asiaties
+ asiatisch
+Asië
+ Asien <n>
+Assiries
+ assyrisch
+Assirië
+ Assyrien
+Assiriër
+ Assyrer
+Atheens
+ athenisch
+Athene
+ 1. Athene
+ 2. Athen
+Athener
+ Athener
+Atlanties
+ Atlantik‐
+Atlantiese Oseaan
+ Atlantischer Ozean
+Atlas
+ Atlas <m>
+Augias
+ Augias
+Augiasstal
+ Augiasstall
+Augustus
+ 1. August <m>
+ 2. August <m>
+Aurora
+ Aurora
+Australies
+ australisch
+Australië
+ Australien
+Australiër
+ Australier
+Babilonies
+ babylonisch
+Babilonië
+ Babylonien
+Balkan
+ Balkan
+Balties
+ baltisch
+Baltiese See
+ Baltisches Meer; Ostsee
+Bantoe‐
+ Bantu‐
+Bantoe
+ Bantu
+Bask
+ Baske
+Baskies
+ baskisch
+Bataaf
+ Bataver
+Bataviaan
+ Bataver
+Batavier
+ Bataver
+Beier
+ Bayer <m>
+Beiere
+ 1. Bayern <n>
+ 2. Bayern <n>
+Beiers
+ bayerisch; bayrisch
+Belg
+ Belgier
+Belgies
+ belgisch
+België
+ Belgien <n>
+Belgrado
+ Belgrad
+Benediktyner
+ Benediktiner
+Benediktynermonnik
+ Benediktiner
+Benelux
+ Benelux
+Bengaals
+ bengalisch
+Bengaalse vuur
+ bengalisches Feuer
+Bengale
+ Bengalen
+Berlyn
+ Berlin
+Berlyner
+ Berliner
+Berlyns
+ berliner
+Bern
+ Bern
+Betlehem
+ Bethlehem
+Betsjoeanaland
+ Botswana
+Birma
+ Birma
+Birmees
+ birmanisch
+Bisantium
+ Byzanz
+Bisantyns
+ byzantinisch
+Bloubaard
+ Blaubart
+Boeddha
+ Buddha
+Boekarest
+ Bukarest
+Boer
+ 1. Afrikaander; Afrikander; Bure
+ 2. Bure
+Boesman
+ Buschmann
+Boheems
+ böhmisch
+Boheme
+ Böhmen
+Boliwië
+ Bolivien
+Brabander
+ Brabanter
+Brabant
+ Brabant
+Brabants
+ brabantisch
+Brasiliaan
+ Brasilianer <m>
+Brasiliaans
+ brasilianisch
+Brasilië
+ Brasilien
+Bretagne
+ Bretagne; die Bretagne
+Brit
+ Brite
+Brits
+ britisch
+Brunswyk
+ Braunschweig
+Brussel
+ Brüssel
+Brussels
+ brüsseler
+Brusselse spruitjies
+ Rosenkohl <m>
+Bulgaar
+ Bulgare
+Bulgaars
+ bulgarisch
+Bulgarye
+ Bulgarien
+Bybel
+ Bibel <f>
+Caesar
+ Cäsar
+Calvyn
+ Kalvin
+Chileen
+ Chilene
+Chileens
+ chilenisch
+Chili
+ Chile
+China
+ China <n>
+Chinees
+ 1. chinesisch
+ 2. Chinese
+Christen
+ Christ
+Christendom
+ Christentum
+Christus
+ Christus
+Cipries
+ zyprisch
+Ciprioot
+ Zypriot
+Ciprus
+ Zypern
+Dalmasië
+ Dalmatien
+Deen
+ Däne
+Deens
+ dänisch
+Denemarke
+ Dänemark
+Desember
+ Dezember <m>
+Dinsdag
+ Dienstag <m>
+Donau
+ Donau
+Donderdag
+ Donnerstag <m>
+Driekoninge
+ Dreikönigsfest
+Driekoningefees
+ Dreikönigsfest
+Duits
+ 1. deutsch
+ 2. Deutsch; deutsche Sprache
+Duitser
+ Deutscher
+Duitse taal
+ Deutsch; deutsche Sprache
+Duitsland
+ Deutschland <m>
+Edam
+ Edam
+Eden
+ Eden
+Egipte
+ Ägypten
+Egiptenaar
+ Ägypter
+Egipties
+ egyptisch
+Eksodus
+ Exodus
+Elsasies
+ elsässisch
+Elsasser
+ Elsässer
+Engeland
+ 1. England
+ 2. England
+Engels
+ 1. englisch
+ 2. Englisch <n>; englische Sprache
+Engelsman
+ Engländer
+Eskimo
+ Eskimo
+Esperanto
+ Esperanto
+Est
+ Este
+Estland
+ Estland
+Ests
+ estisch
+Ethiopië
+ Äthiopien
+Europa
+ 1. Europa <n>
+ 2. Europa <n>
+ 3. Europa <n>
+Europeaan
+ Europäer
+Europees
+ europäisch
+Europese bison
+ Wisent <m>
+Europeër
+ Europäer
+Februarie
+ Februar <m>
+Fins
+ finnländisch
+Frankryk
+ Frankreich
+Frans
+ 1. französisch
+ 2. Französisch; französische Sprache
+Franse taal
+ Französisch; französische Sprache
+Genesis
+ Genesis
+Geneve
+ Genf
+Genua
+ Genua
+Germaan
+ Germane
+God
+ Gott <m>
+Goties
+ gotisch
+Griek
+ Grieche <m>
+Griekeland
+ Griechenland <n>
+Grieks
+ 1. griechisch
+ 2. altgriechisch; hellenisch
+Groenland
+ 1. Grönland
+ 2. Grönland
+Groot‐Brittanje
+ Britannien
+Havanna
+ Havana
+Hebreeus
+ hebräisch
+Hebreër
+ Hebräer; Jude <m>
+Helleens
+ altgriechisch; hellenisch
+Hindoe
+ Hindu
+Holland
+ Holland
+Hollander
+ Holländer
+Hollands
+ holländisch
+Hongaar
+ Ungar
+Hongaars
+ ungarisch
+Hongarye
+ Ungarn
+Ier
+ Ire <m>
+Ierland
+ Irland <n>
+Indiaan
+ Indianer <m>
+Indies
+ indisch
+Indiese tier
+ Tiger
+Indië
+ India; Indien
+Indiër
+ Inder
+Indo‐China
+ Hinterindien
+Indo‐Sjina
+ Hinterindien
+Islam
+ Islam
+Israel
+ 1. Israel <m>
+ 2. Israel <m>
+Israeliet
+ Hebräer; Jude <m>
+Italiaan
+ Italiener <m>
+Italiaans
+ italienisch
+Italianer
+ Italiener <m>
+Italië
+ Italien <n>
+Januarie
+ Januar <m>
+Japannees
+ japanisch
+Japanner
+ Japaner <m>
+Japans
+ japanisch
+Jood
+ 1. Hebräer; Jude <m>
+ 2. Jude <m>
+Joods
+ jüdisch
+Julie
+ Juli <m>
+Junie
+ Juni <m>
+Kalifornië
+ Kalifornien
+Kanada
+ Kanada
+Kanadees
+ 1. kanadisch
+ 2. Kanadier <m>
+Kanaries
+ kanarisch
+Kanariese Eilande
+ Kanarische Inseln
+Kapitool
+ Kapitol <n>
+Karpate
+ Karpathen
+Kaïro
+ Kairo
+Kelties
+ gälisch
+Kersfees
+ Weihnachten
+Keulen
+ Köln
+Kopenhagen
+ Kopenhagen <n>
+Kroasië
+ Kroatien
+Kuba
+ Kuba
+Kubaan
+ Kubaner
+Lap
+ Lappländer
+Lapland
+ Lappland
+Laplander
+ Lappländer
+Latyn
+ Latein <n>
+Latyns
+ lateinisch
+Leiden
+ Leiden
+Litaue
+ Litauen
+Litauer
+ Lithauer
+Litaus
+ lithauisch
+Londen
+ London
+Lotaringe
+ Lothringen
+Lucifer
+ 1. Luzifer
+ 2. Satanas; Teufel
+Luik
+ Lüttich
+Lusern
+ Luzern
+Maandag
+ Montag <m>
+Maart
+ März
+Madonna
+ Madonna
+Madrid
+ Madrid
+Maria‐ligmis
+ Lichtmeß
+Marokko
+ Marokko
+Mei
+ Mai <m>
+Moedermaagd
+ Madonna
+Mohammedanisme
+ Islam
+Nederlander
+ Holländer; Niederländer
+Nederlands
+ holländisch; niederländisch
+Noor
+ Norweger <m>
+Noors
+ norwegisch
+Noorweegs
+ norwegisch
+Noorweë
+ Norwegen
+Noorweër
+ Norweger <m>
+November
+ November <m>
+Nuwejaarsdag
+ Neujahrstag
+Oekraine
+ 1. Ukraine; die Ukraine
+ 2. Ukraine; die Ukraine
+Oktober
+ Oktober <m>
+Oos‐Duitsland
+ Deutsche Demokratische Republik; DDR
+Oossee
+ Baltisches Meer; Ostsee
+Oostenryk
+ Österreich
+Oostenryker
+ Österreicher
+Oostenryks
+ österreichisch
+Paasfees
+ Ostern <n>
+Parys
+ Paris
+Pase
+ Ostern <n>
+Peking
+ Peking
+Persies
+ persisch
+Pireneë
+ Pyrenäen
+Pole
+ Polen
+Pool
+ Pole
+Pools
+ polnisch
+Portugees
+ 1. portugiesisch
+ 2. Portugiesisch; portugiesische Sprache
+Roemeen
+ Rumäne
+Roemenië
+ Rumänien
+Roemeniër
+ Rumäne
+Rome
+ Rom
+Rooihuid
+ Indianer <m>
+Rus
+ Russe <m>
+Rusland
+ Rußland
+Russies
+ russisch
+Satan
+ Satanas; Teufel
+September
+ September <m>
+Serwies
+ serbisch
+Serwiër
+ Serbe <m>
+Sjina
+ China <n>
+Sjinees
+ chinesisch
+Skot
+ Schotte <m>
+Skotland
+ Schottland
+Skots
+ schottisch
+Spaans
+ 1. spanisch
+ 2. Spanisch; spanische Sprache
+Spaanse taal
+ Spanisch; spanische Sprache
+Spanje
+ Spanien <n>
+Steenbok
+ Steinbock <m>
+Suid‐Afrika
+ Südafrika
+Suid‐Amerika
+ Südamerika
+Suidpool‐
+ antarktisch; südpolar
+Swede
+ Schweden
+Sweed
+ Schwede
+Sweeds
+ schwedisch
+Switser
+ 1. schweizerisch
+ 2. Schweizer
+Switserland
+ Schweiz <f>; die Schweiz
+Tsjeggies
+ tschechisch
+Turk
+ Türke
+Turks
+ türkisch
+Turkye
+ Türkei; die Türkei
+VSA
+ Vereinigten Staaten
+Vatikaan
+ Vatikan
+Venus
+ 1. Venus
+ 2. Venus
+Vlaams
+ flämisch; flandrisch
+Vlaandere
+ Flandern
+Vrouedag
+ Lichtmeß
+Vrydag
+ Freitag <m>
+Waleland
+ Wallonien
+Wallis
+ Wales
+Westers
+ westlich
+Woensdag
+ Mittwoch <m>
+Wolga
+ Wolga
+Ysland
+ Island <n>
+Zeus
+ Zeus
+a
+ ach; o; ho; oh
+aag
+ weh; wehe
+aai
+ 1. schmeicheln
+ 2. ach; o; ho; oh
+aaklig
+ wiederwärtig
+aakligheid
+ Abscheu <f>; Greuel <m>
+aal
+ Aal <m>
+aalbessie
+ 1. Johannisbeere
+ 2. Johannisbeere
+aalbessiebos
+ Johannisbeerstrauch
+aalmoes
+ Almosen
+aalwee
+ Aloe
+aalwyn
+ Aloe
+aambeie
+ Hämorrhoiden
+aamborstigheid
+ Asthma <n>
+aan
+ 1. an; in; nach; zu
+ 2. an; bei; neben
+ 3. an; auf
+ 4. an; bei; zu
+aanbehoort
+ gehören; angehören; zugehören
+aanbel
+ anläuten; klingeln; anklingeln
+aanbesteding
+ Lieferungsausschreibung; Verdingung
+aanbestee
+ öffentlich ausschreiben; verdingen
+aanbetref
+ 1. angehen; anlangen; betreffen
+ 2. sich beziehen; verkehren
+aanbetrou
+ betrauen mit; vertrauen mit; Vertrauen setzen in; zutrauen
+aanbeveel
+ empfehlen
+aanbeveelbaar
+ empfehlungswert
+aanbevelenswaardig
+ empfehlungswert
+aanbeveling
+ Empfehlung <f>
+aanbid
+ anbeten; verehren; vergöttern
+aanbidbaar
+ anbetenswert
+aanbiddelik
+ anbetenswert
+aanbieding
+ 1. Anerbieten; Offerte
+ 2. Darbietung; Darreichung; Darstellung <f>; Vorlegung; Vorstellung <f>
+ 3. Aufführung; Darbietung; Vorlegung; Vorstellung <f>; Präsentation
+aanblik
+ Anblick <m>; Aussehen <n>
+aanbly
+ bleiben; übrigbleiben
+aanbod
+ Anerbieten; Offerte
+aanbou
+ Anbau <m>
+aanbrand
+ anbrennen
+aanbrandsteker
+ Funke <m>
+aanbreek
+ 1. anbrechen
+ 2. anfangen; beginnen
+aanbring
+ 1. bringen; anbringen; eintragen; heranbringen; überbringen
+ 2. angeben; anzeigen; denunzieren; hinterbringen
+aand
+ Abend <m>
+aandag
+ Achtung <f>; Aufmerksamkeit <f>
+aandagtig
+ aufmerksam
+aandagtigheid
+ Zuvorkommenheit <f>
+aandblad
+ Abendzeitung <f>
+aandeel
+ 1. Aktie <f>; Anteilschein <m>
+ 2. Anteil <m>; Teil <n>
+ 3. Anteil <m>; Portion <f>; Ration <f>
+aandeelhebber
+ Aktieninhaber; Aktionär
+aandeelhouer
+ Aktieninhaber; Aktionär
+aandenking
+ Andenken <n>
+aandete
+ Abendessen; Abendmahl; Souper
+aandgrou
+ Zwielicht <n>
+aandien
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+aandiening
+ Annonce; Anzeige <f>; Inserat <n>
+aandkoerant
+ Abendzeitung <f>
+aandoen
+ 1. berühren
+ 2. antun; bewirken; veranlassen; verursachen; zufügen
+aandoening
+ 1. Affekt; Bewegung <m>; Gemütsbewegung; Krankheit <f>; Rührung
+ 2. Bewegung <m>; Rührung
+aandoenlik
+ ergreifend
+aandra
+ bringen; anbringen; eintragen; heranbringen; überbringen
+aandraag
+ bringen; anbringen; eintragen; heranbringen; überbringen
+aandrang
+ Andrang <m>
+aandrif
+ Andrang <m>; Andrift; Antrieb <m>; Impuls <m>; Trieb <m>
+aandring
+ andringen; beharren auf; drängen; trotzen
+aandryf
+ anfeuern; jagen; treiben; vor sich hertreiben
+aandrywe
+ anfeuern; jagen; treiben; vor sich hertreiben
+aandskemering
+ Zwielicht <n>
+aandui
+ 1. andeuten; weisen; anweisen; zeigen
+ 2. angeben; weisen; anweisen; hinweisen; zeigen
+ 3. andeuten; markieren; zeichnen; anzeichnen; kennzeichnen
+aaneen‐
+ aneinander‐
+aaneen
+ 1. aneinander; beisammen; gesamt; insgesamt; zugleich; zusammen
+ 2. hinter einander
+ 3. hinter einander
+aaneenbind
+ verbinden; verknüpfen
+aaneenskakeling
+ Aneinanderreihung; Reihenfolge <f>; Verkettung <f>
+aaneensluit
+ verdichten
+aaneenvoeg
+ fügen; gesellen; vereinigen
+aanfluiting
+ Hohn <m>; Spott <m>; Spotten
+aangee
+ 1. angeben; anzeigen; denunzieren; hinterbringen
+ 2. erteilen; geben; angeben; herreichen
+ 3. angeben; herreichen; verbringen; zubringen
+aangenaam
+ behaglich; herrlich; genehm; angenehm
+aangesien
+ 1. da; weil
+ 2. da; weil
+ 3. da; denn; weil
+aangeskote
+ angeheitert
+aangetroud
+ Schwieger‐
+aangetroude broer
+ Schwager
+aangewing
+ Anzeige <f>
+aangifte
+ Angabe <f>; Anzeige <f>
+aangrensend
+ angrenzend; anstoßend
+aangry
+ 1. bewegen; erschüttern; rühren
+ 2. ergreifen; erregen; rühren; berühren
+aanhaal
+ anführen; erwähnen; nennen; zitieren
+aanhaling
+ Zitat <n>
+aanhang
+ Anhang <m>
+aanhanklik
+ 1. anhänglich; ergeben; zugetan
+ 2. ergeben
+aanhou
+ tierzüchten
+aanhoudelik
+ fest
+aanhoudend
+ 1. fest
+ 2. beständig; fest; konstant; ständig; stetig; unablässig
+aanhouding
+ Arrest <m>; Haft <f>
+aankla
+ anklagen; beschuldigen
+aanklaag
+ anklagen; beschuldigen
+aanklae
+ anklagen; beschuldigen
+aankoms
+ Ankunft <f>; Eintreffen <n>
+aankondig
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+aankondiging
+ Annonce; Anzeige <f>; Inserat <n>
+aankyker
+ Zuschauer
+aanland
+ ankommen; eintreffen; gelangen; zukommen; herzukommen
+aanloksel
+ Anreiz <m>
+aanlonk
+ gaffen
+aanloop
+ Anlauf <m>
+aanlê
+ stranden
+aanmaak
+ anfertigen; fabrizieren; herstellen; verfertigen
+aanmaan
+ anhalten; vermahnen; zureden
+aanmaning
+ Ermahnung <f>; Zuspruch
+aanminlik
+ allerliebst; anmutig; hold; lieblich; reizend
+aanmoedig
+ ermannen; ermutigen
+aanneem
+ annehmen; empfangen; genehmigen
+aanneemlik
+ glaubhaft
+aanpak
+ erproben; probieren; prüfen; versuchen
+aanplakbiljet
+ Affiche; Anschlag <m>; Anschlagzettel <m>
+aanprys
+ empfehlen
+aanprysing
+ Empfehlung <f>
+aanraai
+ raten; beraten; ratgeben
+aanraak
+ rühren; anrühren; berühren; tangieren
+aanrading
+ Rat <m>; Ratschlag <m>
+aanraking
+ Berührung
+aanrand
+ ein Anschlag ausführen; ein Attentat ausführen
+aanranding
+ Anschlag <m>; Attentat
+aanroep
+ anrufen; zurufen
+aans
+ eventuell; möglicherweise; vielleicht; wohl
+aansien
+ 1. Anblick <m>; Aussehen <n>
+ 2. Ansehen <n>
+aansies
+ eventuell; möglicherweise; vielleicht; wohl
+aansig
+ Anblick <m>; Aussehen <n>
+aansit
+ antun; anziehen
+aanskakel
+ anstellen
+aanskerp
+ schleifen; wetzen
+aanslag
+ Anschlag <m>; Attentat
+aansluiting
+ Union
+aansoek doen
+ erstreben; sich bestreben; sich bewerben um; trachten nach
+aanspreeklik
+ verantwortlich
+aanstaande
+ 1. bevorstehend; kommend; künftig; nächst; nahe
+ 2. kommender; nächster
+aansteker
+ Funke <m>
+aansterf
+ erben; beerben
+aanstoot
+ Ärgernis; Skandal <m>
+aansyn
+ Bestehen; Dasein <n>; Existenz <f>
+aansê
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+aantal
+ Anzahl <f>; Zahl <f>
+aanteken
+ 1. registrieren
+ 2. empfehlen
+aantekening
+ Aufzeichnung <f>; Note <f>; Notiz <f>
+aantonende wys
+ Indikativ
+aantoon
+ andeuten; weisen; anweisen; zeigen
+aantrek
+ antun; anziehen
+aantrekkingskrag
+ Anziehungskraft <f>
+aanvaar
+ annehmen; empfangen; genehmigen
+aanvaarding
+ Annahme <f>; Aufnahme <f>; Übernahme; Zusage <f>
+aanval
+ 1. anfallen; angreifen; ausfallen; befallen; überfallen
+ 2. Anfall <m>; Angriff <m>
+aanvallig
+ allerliebst; anmutig; hold; lieblich; reizend
+aanvalligheid
+ Anmut <m>
+aanvang
+ 1. anbrechen; anfangen; beginnen
+ 2. anfangen; beginnen
+ 3. Anfang <m>; Beginn <m>
+ 4. Anfang <m>; Beginn <m>
+aanvangsletter
+ Initial
+aanvanklik
+ anfänglich
+aanvul
+ vervollständigen
+aanwesig
+ anwesend
+aan die ander kant
+ anderseits
+aan die brand steek
+ zünden; entzünden
+aan die een kant
+ einerseits
+aan my
+ 1. mir
+ 2. mir
+ 3. mir
+ 4. mir
+aan wie
+ wem
+aap
+ Affe <m>
+aar
+ 1. Ähre
+ 2. Ader <f>; Vene
+aarbei
+ Erdbeere <f>
+aarbeiboomvrug
+ Erdbeerbaum <m>
+aard
+ 1. Charakter <m>; Gemüt
+ 2. Natur <m>
+aardbewing
+ Erdbeben <n>
+aardbol
+ Erdball <m>; Erdkugel
+aarde
+ Boden <m>; Erdboden <m>; Erde <f>; Grund <m>; Land <n>; Terrain <n>
+aardgees
+ Gnom <m>
+aardhommel
+ Hummel <f>
+aardig
+ hübsch
+aardkloot
+ Erdball <m>; Erdkugel
+aardkunde
+ Geologie <f>
+aardmannetjie
+ Gnom <m>
+aardmeetkunde
+ Feldmeßkunst; Geodäsie; Vermessungskunst
+aardmeting
+ Feldmeßkunst; Geodäsie; Vermessungskunst
+aardrykskunde
+ Erdbeschreibung; Erdkunde <f>; Geographie
+aards
+ irdisch; terrestrisch
+aardskudding
+ Erdbeben <n>
+aardtrilling
+ Erdbeben <n>
+aars
+ After <m>
+aartappel
+ Erdapfel; Kartoffel <f>
+aartsbiskop
+ Erzbischof <m>
+aartsherog
+ Großherzog
+aartspriester
+ 1. Pontifex
+ 2. Hauptpastor; Hohepriester; Pontifex
+aartsvader
+ Erzvater; Patriarch <m>
+aas
+ 1. Anreiz <m>
+ 2. As <n>; Dauß
+ 3. Aas <n>
+aasvoël
+ Geier
+ab
+ Abt <m>
+abakus
+ 1. Abakus
+ 2. Abakus; Kugelmaschine; Rechenmaschine <f>
+abc
+ Alphabet <n>
+abdominaal
+ den Unterbauch betreffend
+abdy
+ Abtei <f>
+abeel
+ Espe <f>; Zitterpappel <f>
+ablatief
+ Ablativ
+abonnement
+ Abonnement <n>
+absensie
+ 1. Abwesenheit <f>
+ 2. Abwesenheit <f>
+absent
+ abwesend
+abses
+ Abszeß; Eiterbeule; Geschwulst
+absint
+ Absinth
+absolutisme
+ Absolutismus <m>
+abstrak
+ abstrakt; begrifflich; unwirklich
+absurd
+ abgeschmackt; absurd; ungereimt; widersinnig
+absurditeit
+ 1. Verdrehtheit <f>
+ 2. Verdrehtheit <f>
+abuis
+ Fehler <m>; Irrtum <m>; Versehen <n>
+achternadraai
+ Erfolg <m>; Ergebnis <n>; Resultat <n>
+acre
+ Acker <m>
+adagio
+ Adagio <n>
+adder
+ Natter <f>
+adekwaat
+ adäquat; angemessen; entsprechend
+adel
+ Adel <m>
+adelaar
+ Adler
+adem
+ Atem <m>; Hauch <m>
+ademhaling
+ Atmen; Atmung <f>
+adieu
+ adieu; auf Wiedersehen; lebe wohl
+adjektief
+ Adjektiv <n>; Eigenschaftswort <n>
+adjektiwies
+ adjektivisch
+administrasie
+ Verwaltung <f>
+administrateur
+ Verwalter <m>; Verweser
+administreer
+ administrieren; verwalten
+admiraal
+ Admiral <m>
+adoreer
+ anbeten; verehren; vergöttern
+adres
+ Adresse <f>
+adresseer
+ adressieren
+adverbium
+ Adverb <n>; Umstandswort <n>
+adverteer
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+advertensie
+ Annonce; Anzeige <f>; Inserat <n>
+advies
+ 1. Avis; Ankündigung; Benachrichtigung <f>
+ 2. Rat <m>; Ratschlag <m>
+adviseer
+ raten; beraten; ratgeben
+afbreek
+ abbrechen
+afdeling
+ 1. Abteilung <f>; Fach <n>
+ 2. Sektion <f>
+ 3. Abteilung <f>; Detachement
+afdelingswinkel
+ Geschäft; Kaufladen; Lagerhaus <n>; Magazin <n>; Warenhaus <n>
+afding
+ dingen; feilschen; markten
+afdwaal
+ sich verirren
+affiks
+ Affix; Zusatzsilbe
+affêre
+ Angelegenheit <f>; Ding <n>; Sache <f>; Werk
+affêring
+ Angelegenheit <f>; Ding <n>; Sache <f>; Werk
+afgee
+ ausbreiten
+afgelope
+ vorig
+afgod
+ Abgott <m>; Götze; Idol <n>
+afgrond
+ Abgrund <m>; Tiefe <f>
+afgryse
+ Abscheu <f>; Greuel <m>
+afhaal
+ zurücklegen
+afhanklik
+ abhängig
+afkappingsteken
+ Apostroph <n>
+afklim
+ 1. aussteigen
+ 2. aussteigen
+afkondig
+ 1. ausrufen; proklamieren
+ 2. aufbieten; veröffentlichen
+aflewer
+ liefern
+afluiter
+ Verschluß
+afmeting
+ Ausdehnung <f>; Dimension <f>
+afoes
+ einernten; schneiden
+aforisme
+ Aphorismo; Gedankensplitter <m>
+afraai
+ entraten
+afros
+ 1. verhauen
+ 2. striegeln
+afrot
+ abfaulen
+afruim
+ abschaffen; beseitigen; entfernen; fortschaffen; wegbringen
+afruk
+ abreißen; losreißen; pflücken; abpflügen
+afry
+ abfahren; abreisen
+afsend
+ 1. abfertigen; befördern; expedieren; fortsenden; spedieren
+ 2. abschicken; entsenden; fortschicken; wegschicken
+afsender
+ Absender <m>
+afset
+ Absatz <m>; Debit; Vertrieb <m>
+afsetgebied
+ Markt <m>
+afsien
+ entsagen; verzichten
+afsit
+ 1. abnehmen; abschneiden; amputieren
+ 2. zurücklegen
+ 3. entthronen
+ 4. anhalten; bremsen; sperren
+ 5. abstellen
+afskaafsel
+ Span
+afskaf
+ abschaffen; beseitigen; entfernen; fortschaffen; wegbringen
+afskaffer
+ Abstinenzler
+afskei
+ absondern; abteilen; abtrennen; scheiden
+afskeid
+ Abschied <m>; Valet
+afskeiding
+ Abteilung <f>
+afskeur
+ abreißen; losreißen; pflücken; abpflügen
+afskeuring
+ Schisma <n>
+afskiet
+ entladen
+afskilder
+ malen
+afskrif
+ Abdruck <m>; Abschrift <f>; Kopie <f>; Nachbildung <f>
+afskrik
+ 1. Abscheu <f>; Greuel <m>
+ 2. zurückschrecken
+afskryf
+ amortisieren; löschen
+afskuwelik
+ entsetzlich; furchtbar; gräßlich; schrecklich
+afslaan
+ 1. abschweifen; abweichen
+ 2. ausmerzen
+ 3. ablassen; nachlassen; Rabatt geben
+afslag
+ Nachlaß; Rabatt <m>; Vergünstigung; Vergütung
+afsluit
+ 1. hindern; sperren; versperren
+ 2. beschließen; enden; beenden; endigen; beendigen; erledigen
+ 3. saldieren
+ 4. schließen; verschließen; zuschließen
+afsluiting
+ 1. Gehege; Hürde; Schranke <f>
+ 2. Hecke <f>; Schranke <f>; Sperre <f>; Zaun <m>
+afsmeek
+ abbetteln
+afsny
+ abschneiden
+afsonder
+ 1. absondern; abteilen; abtrennen; scheiden
+ 2. absondern; außer Verbindung setzen; isolieren
+afsonderlik
+ abgesondert; besonder; einzeln; seperat
+afsper
+ hindern; sperren; versperren
+afsplits
+ sich überwerfen
+afspoel
+ gurgeln; spülen
+afspraak
+ 1. Einverständnis; Übereinkunft
+ 2. Rendezvous <n>
+afspreek
+ sich verständigen; übereinkommen; verabreden; vereinbaren
+afstaan
+ abtreten; nachgeben; weichen
+afstam
+ entspringen; entstehen; herkommen; stammen; abstammen
+afstammeling
+ Abkomme <m>; Abkömmling; Epigone
+afstand
+ 1. Zession <f>
+ 2. Abstand <m>; Entfernung <f>; Weite <f>
+afstand doen van
+ abtreten; nachgeben; weichen
+afsteek
+ abschneiden
+afstempel
+ abstempeln
+afstof
+ abstauben
+afstomp
+ abstumpfen
+afstoot
+ verdrängen
+afstroop
+ abdecken; häuten
+afstuit
+ abprallen
+afsydig
+ 1. abgesondert; besonder; einzeln; seperat
+ 2. neutral; sächlig
+afsydigheid
+ Besonderheit <f>
+afsê
+ annullieren; für null und nichtig erklären; kassieren
+aftandig
+ abgelebt; baufällig; gebrechlich; hinfällig
+aftands
+ abgelebt; baufällig; gebrechlich; hinfällig
+aftap
+ 1. ableiten; herleiten
+ 2. drainieren; entwässern
+ 3. anzapfen
+afteken
+ 1. zeichnen; abzeichnen
+ 2. visieren
+aftel
+ abrechnen
+aftreding
+ Austritt <m>
+aftree
+ abdanken
+aftrek
+ 1. Absatz <m>; Debit; Vertrieb <m>
+ 2. Abnahme <f>
+ 3. abreißen; losreißen; pflücken; abpflügen
+ 4. abreisen; fortgehen
+ 5. ablassen; nachlassen; Rabatt geben
+ 6. abziehen; subtrahieren
+afvaardig
+ abordnen; deputieren
+afvaart
+ Abfahrt <f>
+afval
+ 1. fallen
+ 2. Bestand; Nachbleibsel; Rückstand; Überbleibsel
+ 3. Müll; Schutt <m>
+afvallig
+ 1. abtrünnig
+ 2. treulos
+afvallige
+ Renegat
+afvee
+ wischen
+afveeg
+ wischen
+afvloei
+ verfließen
+afvoer
+ fortführen; wegbringen
+afvries
+ abfrieren
+afvuur
+ abfeuern; abschießen
+afwaarts
+ 1. abwärts; herab; herunter; hinab; hinunter
+ 2. hinunter; nach unterhalb; unterwärts
+afwagting
+ Anwartschaft
+afwater
+ drainieren; entwässern
+afweer
+ 1. behaupten; beschützen; verteidigen
+ 2. Abwehr <f>; Wehr <n>
+afwen
+ 1. abgewöhnen; entwöhnen
+ 2. abgewöhnen
+afwerk
+ ausarbeiten
+afwerp
+ erzeugen; hervorbringen; produzieren
+afwesigheid
+ 1. Abwesenheit <f>
+ 2. Abwesenheit <f>
+afwesig wees
+ fehlen; mangeln; ermangeln
+afwikkel
+ abrechnen; liquidieren
+afwimpel
+ ausmerzen
+afwis
+ wischen
+afwyk
+ 1. abweichen
+ 2. abschweifen; abweichen
+afwyking
+ 1. Anomalie <f>; Unregelmäßigkeit
+ 2. Abweichung <f>
+ 3. Abnormalität
+afwys
+ 1. ausmerzen
+ 2. ablehnen; abschlagen; ausschlagen; versagen; weigern; verweigern
+afwysing
+ Verweigerung <f>; Weigerung <f>
+ag
+ 1. Achtung <f>; Aufmerksamkeit <f>
+ 2. achten; hochschätzen
+ 3. glauben
+ 4. acht
+ 5. bedünken; befinden; dafür halten; erachten; meinen
+ 6. weh; wehe
+agaat
+ Achat
+agbaar
+ 1. achtbar
+ 2. ehrbar; ehrenhaft
+ageer
+ agieren; handeln; verfahren; vorgehen; wirken
+agenda
+ Agenda; Notizbuch <n>
+agent
+ 1. Agent <m>; Geschäftsbesorger
+ 2. Polizist <m>; Schutzmann <m>
+ 3. Häscher; Polizist <m>; Schutzmann <m>
+agentskap
+ 1. Agentur <f>
+ 2. Agentur <f>
+aggewing
+ Zuvorkommenheit <f>
+aggregaat
+ Aggregat; Haufen
+agio
+ Agio <m>; Aufgeld <n>
+agiteer
+ agitieren
+agnaat
+ Agnat
+agteloos
+ achtlos; fahrlässig
+agtelosig
+ achtlos; fahrlässig
+agtenswaard
+ 1. achtbar
+ 2. ehrbar; ehrenhaft
+agtenswaardig
+ achtbar
+agter
+ 1. hinter
+ 2. hinten
+agteraan
+ hinten
+agterbly
+ zurückbleiben
+agterboeg
+ Heck <n>
+agterdog
+ Argwohn <m>; Verdacht <m>
+agterdogtig
+ argwöhnisch
+agtereen
+ 1. hinter einander
+ 2. hinter einander
+agtereenvolgens
+ hinter einander
+agterent
+ After <m>; Arsch <m>; Gesäß
+agtergrond
+ Boden <m>; Grund <m>
+agterhoede
+ Nachhut <f>
+agterhou
+ verschweigen
+agterin
+ hinten
+agterkleinseun
+ Großenkel; Urenkel
+agterlaag
+ Anstand <m>; Hinterhalt <m>; Versteck <n>
+agterlaat
+ hinterlassen
+agterloop
+ sich verspäten
+agterlosig
+ achtlos; fahrlässig
+agtermiddag
+ Nachmittag <m>
+agternaam
+ Familienname <m>
+agternadoen
+ imitieren; nachahmen; nachbilden
+agternadraai
+ Folge <f>; Konsequenz <f>
+agterneef
+ Großneffe
+agternig
+ Großnichte
+agterniggie
+ Großnichte
+agterskip
+ Heck <n>
+agterstand
+ Ausstand <m>
+agterste
+ 1. letzte; letzter; letztes
+ 2. After <m>; Arsch <m>; Gesäß
+agtersten
+ Heck <n>
+agterstewe
+ Heck <n>
+agteruit
+ zurück
+agtervoegsel
+ Affix; Zusatzsilbe
+agtervolg
+ fahnden; nachzusetzen; verfolgen
+agterwaarts
+ zurück
+agterweë laat
+ 1. unterlassen
+ 2. verpassen
+agter wees
+ sich verspäten
+agtien
+ achtzehn
+agting
+ 1. Achtung <f>; Verehrung <f>
+ 2. Achtung <f>; Ehrfurcht <f>; Respekt
+ag slaan op
+ achtgeben; aufpassen; beachten; zusehen
+ahorn
+ Ahorn <m>
+aikôna
+ durchaus nicht; ganz und gar nicht; ganz nicht
+air
+ Anblick <m>; Aussehen <n>
+akademie
+ Akademie <f>
+akant
+ Akanthus; Bärenklau
+akasia
+ Akazie
+akelei
+ Aglei; Glockenblume <f>
+akkedis
+ Eidechse <f>
+akkeldis
+ Eidechse <f>
+akker
+ 1. Acker <m>
+ 2. Eichel <f>
+ 3. Eiche <f>
+akkerboom
+ Eiche <f>
+akkerbou
+ Ackerbau <m>
+akkerdis
+ Eidechse <f>
+akklamasie
+ Beifall <m>
+akklimatiseer
+ akklimatisieren
+akkompanjeer
+ begleiten
+akkompanjement
+ Geleit <n>
+akkompanjis
+ Gefährte
+akkoord
+ 1. Abkommen <n>; Einklang <m>; Übereinkommen; Übereinkunft; Übereinstimmung
+ 2. Akkord <m>
+ 3. Einrichtung <f>; Zusammenstellung <f>
+ 4. Einverständnis; Übereinkunft
+akkordeon
+ Ziehharmonika <f>
+akkumulator
+ Akkumulator <m>
+akkuraat
+ 1. akkurat; genau
+ 2. exakt; genau
+ 3. bestimmt; bündig; exakt; genau; präzis; präzise; pünktlich
+akkusatief
+ Akkusativ <m>
+akoestiek
+ Akustik <f>
+akoliet
+ Akoluth; Meßdiener
+akoniet
+ Akonit
+akrobaat
+ Akrobat <m>
+aksent
+ Akzent <m>; Betonung <f>; Ton <m>
+aksepteer
+ annehmen; empfangen; genehmigen
+aksie
+ Handlung <f>; Tat <f>
+aksioma
+ Axiom <n>; Grundsatz <m>
+aksionaris
+ Aktieninhaber; Aktionär
+aksioom
+ Axiom <n>; Grundsatz <m>
+aksyns
+ Akzise; Verbrauchssteuer <f>
+akteur
+ Schauspieler
+aktief
+ aktiv; tätig
+aktivis
+ Aufwiegler
+aktueel
+ aktuell; gegenwärtig
+akwarel
+ Aquarell <n>
+akwarium
+ Aquarium <n>
+al
+ bereits; schon
+alarm
+ Alarm <m>
+albas
+ Alabaster
+albei
+ beide
+album
+ Album <n>
+albumine
+ Eiweiß
+alchemie
+ Alchemie; Alchimie
+aldaar
+ da; dort
+aldeur
+ fortwährend; unaufhörlich
+alfabet
+ Alphabet <n>
+alg
+ Alge
+alge
+ Alge
+algebra
+ Algebra <f>; Buchstabenrechnung
+algemeen
+ allgemein
+algodedom
+ Pantheismus
+alhaas
+ 1. bald; alsbald; baldig
+ 2. beinahe; fast; nahezu; schier; ungefähr
+alhoewel
+ obgleich; obschon; wenn auch; zwar
+alibi
+ Alibi <n>
+alimentasie
+ Alimente <f>; Unterhalt <m>
+alinea
+ Absatz <m>; Alinea
+aljare
+ alljährlich
+alkohol
+ Alkohol <m>; Spritus
+alkoholisme
+ Alkoholismus
+alle
+ alle
+alledaags
+ 1. abgedroschen; banal; fade
+ 2. täglich
+allee
+ Allee <f>; Baumgang
+alleen
+ 1. allein; bloß; erst; lediglich; nur
+ 2. allein; alleinig; bloß; einzig
+alleenhandel
+ Monopol <n>
+alleenheerser
+ Autokrat <m>; Selbstherrscher
+alleenheerskapy
+ Autokratie <f>; Selbstherrschaft
+alleenspraak
+ Monolog <m>
+alleenverkoop
+ Monopol <n>
+allegaartjie
+ Gemisch <n>
+allegorie
+ Allegorie; Sinnbild <n>
+allegro
+ Allegro
+allengs
+ allmählich; nach und nach; sukzessive
+allengskens
+ allmählich; nach und nach; sukzessive
+allenig
+ allein; alleinig; bloß; einzig
+aller
+ jedermanns; jedes
+alleraardigst
+ allerliebst
+allerbekoorliks
+ allerliebst
+allerhande
+ 1. allerhand; jeglicher
+ 2. allerlei
+allerlei
+ 1. allerhand; jeglicher
+ 2. allerlei
+allerweë
+ allenthalben; allerorten; überall
+alles
+ 1. alles
+ 2. Alles; das Ganze
+allesbehalwe
+ durchaus nicht; ganz und gar nicht; ganz nicht
+allesins
+ allweg; auf jede Weise
+alliasie
+ Legierung <f>
+allig
+ eventuell; möglicherweise; vielleicht; wohl
+alligator
+ Alligator <m>
+allooi
+ Legierung <f>
+allopatie
+ Allopathie
+alluvie
+ Alluvium
+alluvio
+ Alluvium
+alluvium
+ Alluvium
+almag
+ Allmacht <f>
+almal se
+ jedermanns; jedes
+almanak
+ Almanach
+almeteens
+ alsbald; flugs; gleich; sofort; sogleich; umgehend
+alom
+ allenthalben; allerorten; überall
+alomvattend
+ universal
+alpakka
+ Alpaka
+alperoos
+ Alpenrose <f>; Rosenbaum
+alras
+ bald; alsbald; baldig
+alreeds
+ bereits; schon
+alruin
+ Alraun
+alsem
+ Beifuß
+alt
+ Altstimme <f>
+altaar
+ Altar <m>
+altaardienaar
+ Akoluth; Meßdiener
+altans
+ wenigstens
+altemit
+ eventuell; möglicherweise; vielleicht; wohl
+altemits
+ eventuell; möglicherweise; vielleicht; wohl
+altemitters
+ eventuell; möglicherweise; vielleicht; wohl
+alternatief
+ Alternative
+altoos
+ allemal; allzeit; fortwährend; immer; jederzeit; stets
+altstem
+ Altstimme <f>
+altwee
+ beide
+altyd
+ allemal; allzeit; fortwährend; immer; jederzeit; stets
+altyddurend
+ endlos; unendlich
+aluin
+ Alaun
+aluminium
+ Aluminium <n>
+alvermoë
+ Allmacht <f>
+alvorens
+ bevor; ehe
+alwaar
+ wo; woselbst
+alweer
+ 1. abermalig; abermals; von neuem; wieder
+ 2. abermals; von neuem; wieder; wiederholt; zurück
+alwetend
+ allwissend
+al's
+ 1. alles
+ 2. Alles; das Ganze
+al die
+ alle
+amalgaam
+ Amalgam <n>
+amandel
+ Mandel <f>
+amarant
+ Tausendschön
+amasone
+ Amazone <f>
+amateur
+ Amateur <m>; Liebhaber <m>
+ambag
+ Beruf <m>; Gewerbe <n>; Handwerk <n>
+ambassade
+ 1. Gesandtschaft <f>
+ 2. Gesandtschaft <f>
+ambassadeur
+ Botschafter <m>; Gesandter <m>
+amber
+ Ambra
+ambieer
+ erstreben; sich bestreben; sich bewerben um; trachten nach
+ambigeer
+ zweifeln; bezweifeln
+ambisie
+ Ehrgeiz <m>
+ambisieus
+ ehrgeizig
+ambroos
+ Ambrosia; Götterspeise
+ambrosyn
+ Ambrosia; Götterspeise
+amen
+ amen
+ametis
+ Amethyst
+ameublement
+ Hausgerät; Mobilär
+amfibie
+ Amphibie
+amfiteater
+ Amphitheater
+amfora
+ Amphora
+ammoniak
+ Ammoniak <n>
+ammonium
+ Ammonium
+ammunisie
+ Munition <f>
+amnestie
+ Amnestie; Begnadigung <f>; Straferlaß
+amok
+ Tollwut <f>
+amorf
+ amorph
+amortiseer
+ amortisieren; löschen
+amp
+ Amt <n>; Anstellung <f>; Dienst <m>
+amper
+ 1. kaum
+ 2. beinahe; fast; nahezu; schier; ungefähr
+ampertjies
+ kaum
+ampgenoot
+ 1. Kollegium <n>
+ 2. Amtsbruder <m>; Amtsgenosse; Genosse <m>; Kollege <m>
+ampsbroer
+ Amtsbruder <m>; Amtsgenosse; Genosse <m>; Kollege <m>
+amptelik
+ 1. amtlich
+ 2. amtlich; offiziell
+amptenaarstand
+ Behörde
+ampul
+ Birne <f>
+amputeer
+ abnehmen; abschneiden; amputieren
+ampère
+ Ampère
+amulet
+ Amulett <n>
+amuseer
+ amüsieren; belustigen; ergötzen; unterhalten
+anachronisme
+ Anachronismus <m>
+anagram
+ Anagram
+analfabeet
+ Analphabet <m>
+analiseer
+ analysieren; auflösen; zergliedern
+analogie
+ Analogie <f>
+ananas
+ Ananas <f>
+anapes
+ Anapäst
+anargie
+ Anarchie <f>
+anargisme
+ Anarchismus
+anatomie
+ Anatomie <f>; Zergliederungskunst
+ander
+ anderer; anders; sonst
+anderland
+ Ausland <n>
+anderlander
+ Ausländer
+anders
+ andernfalls; anders; sonst
+andyvie
+ Endivie <f>
+anekdote
+ Anekdote <f>
+anemie
+ Blutarmut <f>
+anemoon
+ Anemone
+angel
+ 1. Angelhaken
+ 2. Stachel <m>
+angelier
+ Nelke <f>
+angina
+ Angina; Bräune
+angst
+ 1. Angst <f>
+ 2. Angst <f>
+angstig
+ grausig
+angsvallig
+ skrupulös
+angswekkend
+ grausig
+aniline
+ Anilin
+animo
+ Gemüt; Seele <f>
+anker
+ Anker <m>
+annekseer
+ annektieren; einverleiben
+annonseer
+ ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+annulleer
+ annullieren; für null und nichtig erklären; kassieren
+anomalie
+ Anomalie <f>; Unregelmäßigkeit
+anoniem
+ anonym; ungenannt
+ansjovis
+ Anchovis
+antenne
+ Fühler; Fühlhorn
+antichris
+ Antichrist
+antiek
+ altertümlich; antik
+antiloop
+ Antilope <f>
+antimonium
+ Antimon <m>
+antimoon
+ Antimon <m>
+antipatie
+ Abneigung <f>; Antipathie <f>; Wiederwillen
+antipatiek
+ wiederwärtig
+antipirien
+ Antipyrin
+antipirine
+ Antipyrin
+antipode
+ Antipode; Gegenfüßler
+antisepties
+ antiseptisch; fäulniswidrig
+antisipeer
+ antizipieren; vorausnehmen
+antrasiet
+ Anthrazit
+antropologie
+ Anthropologie <f>; Menschenkunde <f>
+antwoord
+ 1. antworten; beantworten; entgegnen; erwidern
+ 2. Antwort <f>
+anus
+ After <m>
+anys
+ Anis <m>
+aorta
+ Aorta <f>
+apart
+ abgesondert; besonder; einzeln; seperat
+apatie
+ Apathie <f>; Teilnahmslosigkeit <f>
+apaties
+ indolent
+apekool
+ Gallimathias; Unsinn <m>
+apogeum
+ Apogäum; Erdferne
+apokalips
+ Apokalypse <f>; Offenbarung <f>
+apokrief
+ apokryph
+apopleksie
+ Schlag <m>; Schlagfluß
+apostel
+ Apostel <m>
+apostroof
+ Apostroph <n>
+apoteose
+ Apotheose; Vergötterung
+apparaat
+ Apparat <m>; Vorrichtung <f>
+appartement
+ Appartement <n>; Etagenwohnung <f>; Gemach
+appel
+ Apfel <m>
+appelboom
+ Apfelbaum <m>
+appeldrank
+ Apfelwein <m>; Obstwein; Zider
+appelkoos
+ Aprikose <f>; Marille <f>
+appelwyn
+ Apfelwein <m>; Obstwein; Zider
+applikant
+ 1. Aspirant; Bewerber
+ 2. Bewerber; Kandidat <m>
+apploudiseer
+ applaudieren; Beifall spenden
+applous
+ Applaus <m>; Beifall <m>
+appèl
+ Appellation; Berufung <f>
+aprilblom
+ Chrysanthemum
+apteek
+ Apotheke <f>
+apteker
+ Apotheker <m>
+aptyt
+ Appetit <m>
+arabesk
+ Arabeske
+arak
+ Arrak; Reisbranntwein
+araroet
+ Arrowroot
+arbei
+ arbeiten
+arbeid
+ Arbeit <f>
+arbeider
+ Arbeiter
+arbeidsaam
+ arbeitsam; geschäftig
+arbeidsdag
+ Werktag <m>; Wochentag <m>
+arbeidsloosheid
+ Arbeitlosigkeit
+are
+ Ar
+area
+ Flächeninhalt
+arena
+ Arena <f>; Kampfplatz <m>
+arend
+ Adler
+argaïes
+ veraltet
+argaïsme
+ Archaismus <m>
+argeologie
+ Archäologie; Altertumskunde
+argipel
+ Archipel; Inselgruppe <f>; Inselmeer
+argitek
+ Architekt <m>
+argitraaf
+ Architrav
+argon
+ Argon
+argot
+ Gaunersprache; Slang <m>
+argument
+ 1. Argument <n>; Beweis <m>
+ 2. Fehde <f>; Hader; Streit <m>; Zank <m>; Zwiespalt; Zwietracht <m>; Zwist <m>
+argumenteer
+ argumentieren; beweisen
+argwaan
+ Argwohn <m>; Verdacht <m>
+argwanend
+ argwöhnisch
+aria
+ Arie <f>
+aristokraat
+ Aristokrat <m>; Edelmann
+ark
+ Arche <f>
+arm
+ 1. Arm <m>
+ 2. arm
+ 3. arm
+armband
+ Armband <n>
+armoede
+ Armut <m>
+arnika
+ Arnika
+aroma
+ Aroma <n>; Duft <m>
+arrestant
+ Arrestant
+arrestasie
+ Arrest <m>; Haft <f>
+arresteer
+ arretieren; festnehmen; verhaften
+arsenaal
+ 1. Zeughaus
+ 2. Arsenal <n>; Zeughaus
+arsenik
+ Arsen <n>
+arsenikum
+ Arsen <n>
+arterie
+ Arterie <f>; Pulsader; Schlagader <f>
+artesies
+ artesisch
+artikel
+ 1. Artikel
+ 2. Abhandlung <f>; Artikel
+artillerie
+ Artillerie <f>
+artis
+ Artist <m>
+artisjok
+ Artischocke <f>
+artritis
+ Gicht <f>
+arts
+ Arzt <m>; Doktor <m>
+as
+ 1. Asche <f>
+ 2. als
+ 3. falls; insofern; wenn; wofern
+asbes
+ Asbest <m>
+asem
+ atmen
+asetileen
+ Azetylen
+asfalt
+ Asphalt <m>; Erdpech
+asfiksie
+ Scheintod <m>
+asiel
+ Asyl <n>; Zufluchtsstätte
+asjoublief
+ bitte
+askeet
+ Asket
+asketisme
+ Askese <f>
+asma
+ Asthma <n>
+asof
+ als ob; gleichsam
+aspek
+ Anblick <m>; Aussehen <n>
+aspersie
+ Spargel <m>
+asseblief
+ bitte
+assimileer
+ ähnlich machen; assimilieren
+assisteer
+ assistieren; beistehen; helfen
+assistent
+ 1. Assistent <m>
+ 2. Gehilfe <n>
+assuransie
+ Assekuranz; Versicherung <f>
+assureer
+ versichern
+aster
+ Aster <f>
+asteroïde
+ Asteroide
+asteroïed
+ Asteroide
+astigmatisme
+ Astigmatismus <m>
+astrakan
+ Astrachan
+astrologie
+ Astrologie <f>; Sterndeutung
+astronomie
+ Astronomie <f>; Himmelskunde; Sternkunde <f>
+astronoom
+ Astronom <m>
+asyn
+ Essig <m>
+atavisme
+ Ahnenähnlichkeit
+ateïs
+ Atheist <m>
+ateïsme
+ Atheismus; Atheïsmus; Gottesleugnung
+athenaeum
+ Athenäum
+atleet
+ Athlet <m>
+atmosfeer
+ Atmosphäre
+atomisme
+ Atomismus
+atonie
+ Atonie
+atoom
+ Atom <n>
+atrofie
+ Athrophie; Darrsucht
+attensie
+ Achtung <f>; Aufmerksamkeit <f>
+attent
+ aufmerksam
+auditorium
+ Auditorium; Hörsaal
+auto‐da‐fé
+ Glaubensgericht; Glaubenshandlung
+avonturier
+ Abenteurer <m>
+avontuur
+ Abenteuer
+awend
+ Abend <m>
+aërometer
+ Aerometer; Luftmesser
+aërostaat
+ Ärostat; Ballon <m>; Luftballon <m>
+a foei tog
+ bedauerlich; leider
+a ja a
+ allerdings; bestimmt; freilich; gewiß; immerhin; wohl; zwar
+a nee a
+ durchaus nicht; ganz und gar nicht; ganz nicht
+baadjie
+ Jacke <f>; Männerrock
+baai
+ Bai; Bucht <f>
+baaierd
+ Chaos <n>
+baaiklere
+ Badeanzug <m>
+baaikostuum
+ Badeanzug <m>
+baan
+ 1. Breite <f>
+ 2. Flugbahn <f>
+ 3. Bahn <f>; Chaussee; Strecke <f>; Weg <m>
+baanbreker
+ Bahnbrecher; Pionier <m>
+baantjie
+ Posten <m>
+baar
+ 1. Welle <f>; Woge <f>
+ 2. Bahre <f>; Träger
+baard
+ Bart <m>
+baarmoeder
+ Gebärmutter; Uterus
+baars
+ Barsch <m>
+baas
+ 1. Befehlshaber <m>; Chef <m>; Haupt <n>; Häupling; Herr <m>; Oberhaupt; Vorsteher
+ 2. Wirt <m>
+baat
+ 1. Ertrag <m>; Gewinn <m>; Interesse <n>; Nutzen <m>; Überschuß; Verdienst <n>; Vorteil <m>
+ 2. dienen; frommen; nützen
+ 3. Interesse <n>; Nutzen <m>; Vorteil <m>
+baatsug
+ Egoismus <m>; Selbstsucht <f>
+baatsugtigheid
+ Egoismus <m>; Selbstsucht <f>
+baccarat
+ Kartenhazardspiel
+bad
+ 1. Bad <n>
+ 2. Bad <n>
+badgas
+ Badegast <m>
+badhuis
+ Bad <n>
+badkamer
+ 1. Bad <n>
+ 2. Badestube
+badklere
+ Badeanzug <m>
+badkostuum
+ Badeanzug <m>
+badkuip
+ Bad <n>
+badpak
+ Badeanzug <m>
+badplaas
+ Badeort <m>
+badshuis
+ Bad <n>
+bagasie
+ Bagage; Gepäck; Verpackung <f>
+bagasiebak
+ Gepäckraum
+bagatel
+ Bagatelle; Kleinigkeit <f>
+baie
+ 1. viel; zahlreich
+ 2. mancher; viele
+ 3. viel; viele
+ 4. sehr
+bajonet
+ Bajonett
+bak
+ 1. backen
+ 2. backen; braten
+ 3. Bottich; Bütte; Wanne <f>; Zober; Zuber
+ 4. Becken; Schale <f>
+bakatel
+ Bagatelle; Kleinigkeit <f>
+bakbaard
+ Backenbart <m>
+bakboord
+ Backbord <n>
+bakkebaard
+ Backenbart <m>
+bakker
+ Bäcker
+baksteen
+ Backstein <m>; Ziegel; Ziegelstein <m>
+bakterie
+ Bakterie <f>
+bakteriologie
+ Bakterienkunde <f>
+bal
+ 1. Ball <m>
+ 2. Ball <m>
+balans
+ Gleichgewicht <n>
+baldakyn
+ Baldachin
+balderja
+ Baldrian <n>
+balderjan
+ Baldrian <n>
+balk
+ Balken <m>
+balkon
+ Altan; Balkon <m>
+ballade
+ Ballade <f>
+ballast
+ Ballast <m>
+ballingskap
+ Acht; Exil <n>; Verbannung <f>
+ballistiek
+ Ballistik <f>
+ballon
+ Ballon <m>
+balsem
+ Balsam <n>
+balustrade
+ Balustrade; Geländer; Schranke <f>
+bamboes
+ Bambus <n>
+banaal
+ abgedroschen; banal; fade
+banana
+ Banane <f>
+band
+ 1. Binde <f>; Streifen
+ 2. Pneumatik; Reifen
+ 3. Reifen
+bandiet
+ Bandit <m>; Räuber
+bang
+ bang
+bank
+ 1. Bank <f>
+ 2. Bank <f>
+bankier
+ 1. Bankier <m>
+ 2. Bankier <m>
+bankrot
+ Bankerott; Fallissement; Fallit
+bankrot raak
+ fallieren
+bannelingskap
+ Acht; Exil <n>; Verbannung <f>
+barak
+ Baracke <f>; Lagerhütte
+barbaar
+ Barbar <m>
+barbarisme
+ Barbarismus; Sprachwidrigkeit
+barbier
+ Barbier
+bard
+ Barde <f>; Sänger
+bariton
+ Bariton
+barnsteen
+ Bernstein <m>
+barometer
+ Barometer
+baron
+ Baron <m>; Freiherr <m>
+barones
+ Freifrau
+barrikade
+ Barrikade; Verhau
+barrière
+ Barriere <f>; Schranke <f>
+bars
+ spalten
+bas‐relief
+ Basrelief
+basaar
+ Basar <m>; Markt <m>; Warenhaus <n>
+basalt
+ Basalt
+basil
+ Bazillus <m>
+basiliek
+ Basilika <f>
+basilika
+ Basilika <f>
+basilisk
+ Basilisk
+bassin
+ Bassin; Wasserbecken <n>
+bastion
+ Bastei <f>; Bastion <f>; Bollwerk <n>
+bataljon
+ Bataillon <n>
+battery
+ 1. Akkumulator <m>
+ 2. Batterie <f>
+bazaar
+ Basar <m>; Markt <m>; Warenhaus <n>
+bed
+ Bett <n>; Bettstelle <f>
+bedaar
+ beruhigen
+bedags
+ tags
+bedank
+ 1. danken; sich bedanken; verdanken
+ 2. abdanken
+ 3. ausmerzen
+ 4. ablehnen; abschlagen; ausschlagen; versagen; weigern; verweigern
+bedanking
+ Verweigerung <f>; Weigerung <f>
+beddeken
+ Bettdecke <f>; Decke <f>
+beddekussing
+ Kissen; Kopfkissen <n>
+bedding
+ Beet <n>
+bedeel
+ ausstatten; dotieren
+bedehuis
+ Kirche <f>
+bedek
+ belegen; decken; bedecken; einhüllen; verhüllen; zudecken
+bedelaar
+ Bettler
+bedenking
+ Anbetracht; Erwägung
+bedenktyd
+ Bedenkzeit <f>
+bederf
+ 1. beschädigen; Schaden zufügen; verderben; verletzen
+ 2. korrumpieren; verderben
+ 3. verderben; verschlechtern; verschlimmern
+ 4. faulen; verfaulen; vermodern; verwesen
+bederfwerend
+ antiseptisch; fäulniswidrig
+bederwe
+ 1. verderben; verschlechtern; verschlimmern
+ 2. faulen; verfaulen; vermodern; verwesen
+bedevaart
+ Wallfahrt
+bedien
+ dienen; bedienen
+bediende
+ 1. Dienstbote <m>; Magd
+ 2. Bursche <m>; Diener; Gehilfe <n>
+bediening
+ Bedienung <f>; Dienst <m>
+bedil
+ schikanieren; Kleinigkeiten tadeln; wegen
+beding
+ Bedingung <f>; Klausel <f>; Vorbehalt <m>
+bedinging
+ Bedingung <f>; Klausel <f>; Vorbehalt <m>
+bedink
+ bedenken; erwägen; sich überlegen
+bedissel
+ 1. arrangieren; einrichten; ordnen; anorden; veranstalten
+ 2. bereiten; vorbereiten
+bedkussing
+ Kissen; Kopfkissen <n>
+bedlaken
+ Betttuch; Bettlaken; Laken <n>
+bedoel
+ absehen; bezwecken; trachten nach; zielen
+bedoeling
+ 1. Absicht <f>; Plan <m>
+ 2. Bedeuting; Bezeichnung <f>; Meinung <f>
+bedol
+ irre; toll; verrückt; wahnsinnig
+bedorwe
+ faul; faulig
+bedot
+ narren; mystifizieren; zum besten halten
+bedrag
+ Betrag <m>; Summe <f>
+bedreig
+ bevorstehen; dräuhen; drohen; bedrohen
+bedreiging
+ Bedrohung <f>; Drohung <f>
+bedremmeld
+ bestürtzt
+bedrewe
+ 1. geübt
+ 2. anstellig; behende; fix; geschickt; geübt; gewandt
+bedrewenheid
+ Geschicklichkeit <f>; Gewandtheit <f>
+bedrieg
+ äffen; betrügen; hintergehen; täuschen
+bedrieglik
+ verfänglich
+bedrieëry
+ Betrug <m>; Täuschung; Trug; Unterschleif
+bedrië
+ äffen; betrügen; hintergehen; täuschen
+bedroef
+ 1. bekümmern; betrüben
+ 2. betrüben
+bedroefdheid
+ Betrübnis
+bedroewe
+ 1. bekümmern; betrüben
+ 2. betrüben
+bedrog
+ Betrug <m>; Täuschung; Trug; Unterschleif
+bedruk
+ traurig
+bedruktheid
+ Betrübnis
+bedryf
+ 1. Unternehmung <f>
+ 2. anfertigen; herstellen; leiten; machen; tun; zurücklegen
+ 3. Beruf <m>; Gewerbe <n>; Handwerk <n>
+ 4. ausführen; bestellen; erfüllen; leisten
+ 5. Beruf <m>; Gewerbe <n>; Profession
+bedrywe
+ 1. anfertigen; herstellen; leiten; machen; tun; zurücklegen
+ 2. ausführen; bestellen; erfüllen; leisten
+bedrywigheid
+ Tätigkeit
+bedug
+ 1. besorgt; unruhig
+ 2. bang
+bedugtheid
+ 1. Bangigkeit; Unruhe <f>
+ 2. Angst <f>; Unruhe <f>
+ 3. Angst <f>; Furcht <f>
+beduidenis
+ Bedeuting; Bezeichnung <f>; Meinung <f>
+bedwing
+ 1. zügeln
+ 2. herrschen; beherrschen; regieren
+beef
+ beben; zittern; zucken
+beek
+ Bach <m>
+beeld
+ 1. Ansicht <f>; Bild <n>
+ 2. Abbild <n>; Figur <f>; Gestalt <f>
+ 3. Metapher <n>
+ 4. Bildsäule; Standbild <n>; Statue <f>
+beeldend
+ plastisch
+beelderig
+ 1. entzückend
+ 2. allerliebst; anmutig; hold; lieblich; reizend
+beeldhou
+ hauen; skulptieren
+beeldhouwerk
+ Bildhauerwerk; Bildwerk
+beeldig
+ 1. entzückend
+ 2. allerliebst; anmutig; hold; lieblich; reizend
+beeldskoon
+ herrlich; stattlich; wunderbar
+beeldspraak
+ Metapher <n>
+beeltenis
+ 1. Ansicht <f>; Bild <n>
+ 2. Bild <n>; Bildnis <n>; Porträt
+been
+ 1. Bein <n>
+ 2. Bein <n>; Pfote <f>; Unterschenkel <m>
+ 3. Gebein; Knochen
+beer
+ Bär
+beerklou
+ Akanthus; Bärenklau
+beerwyfie
+ Bärin
+bees
+ 1. Tier <n>
+ 2. Rind
+beesfilet
+ Filet <n>; Lendenstück
+beesvleis
+ Rindfleisch <n>
+beet
+ 1. Beete; Mangold; Runkelrübe
+ 2. Biß
+beetgryp
+ erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+beethê
+ narren; mystifizieren; zum besten halten
+beetkry
+ erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+beetneem
+ 1. erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+ 2. narren; mystifizieren; zum besten halten
+beetnemery
+ Mystifikation
+beetpak
+ erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+beetvat
+ erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+befaamd
+ berühmt
+befaamdheid
+ Fama; Gerücht; Ruf <m>
+begaaf
+ begabt
+begaafdheid
+ Talent <n>
+begaan
+ 1. anfertigen; herstellen; leiten; machen; tun; zurücklegen
+ 2. ausführen; bestellen; erfüllen; leisten
+ 3. besteigen
+begeef hom
+ fahren; gehen; treten
+begeer
+ 1. gelüsten
+ 2. wünschen
+begeerbaar
+ erwünscht
+begeerlik
+ erwünscht
+begeerte
+ 1. Gelüst; Gierde; Habsucht <f>
+ 2. Begehr; Lust <f>; Wunsch <m>
+begeester
+ begeistern; einflößen; eingeben; inspirieren
+begelei
+ 1. begleiten
+ 2. eskortieren; geleiten
+begeleider
+ Gefährte
+begeleiding
+ 1. Geleit <n>
+ 2. Eskorte
+begeleier
+ Gefährte
+begenadig
+ entschuldigen; verzeihen
+begenadiging
+ Begnadigung <f>; Vergebung <f>; Verzeihung <f>
+begerig
+ begierig; habgierig; lüstern
+begerigheid
+ Gelüst; Gierde; Habsucht <f>
+begewe hom
+ fahren; gehen; treten
+begiftig
+ 1. schenken; beschenken; stiften; verehren; verschenken
+ 2. ausstatten; dotieren
+begin
+ 1. anbrechen; anfangen; beginnen
+ 2. anfangen; beginnen
+ 3. Anfang <m>; Beginn <m>
+ 4. Anfang <m>; Beginn <m>
+beginletter
+ Initial
+beginsel
+ 1. Element <n>
+ 2. Grundsatz <m>; Prinzip <n>
+beginselverklaring
+ Programm <n>
+begluur
+ belauschen; spionieren
+begogel
+ 1. bezaubern; verhexen; verzaubern
+ 2. wähnen
+begogelsing
+ 1. Zauber <m>
+ 2. Einbildung <f>; Illusion <f>; Täuschung; Wahn <m>
+begoël
+ 1. bezaubern; verhexen; verzaubern
+ 2. wähnen
+begoëlsing
+ 1. Zauber <m>
+ 2. Einbildung <f>; Illusion <f>; Täuschung; Wahn <m>
+begraaf
+ beerdigen
+begraafplaas
+ Friedhof <m>; Gottesacker; Kirchhof <m>
+begraafplek
+ Friedhof <m>; Gottesacker; Kirchhof <m>
+begrafnis
+ 1. Begräbnis
+ 2. Begräbnis; Beisetzung <f>
+begrawe
+ beerdigen
+begrawing
+ 1. Begräbnis
+ 2. Begräbnis; Beisetzung <f>
+begrens
+ begrenzen; beschränken; einschränken
+begrip
+ 1. Gedanke <m>; Idee <f>; Vorstellung <f>
+ 2. Verständnis
+ 3. Konzept <n>
+begroet
+ grüßen; begrüßen; bewillkommnen
+begroot
+ abschätzen; bewerten; schätzen; abschätzen; einschätzen
+begryp
+ begreifen; erfassen; verstehen
+begrypbaar
+ begreiflich; faßbar; verständlich
+begryplik
+ begreiflich; faßbar; verständlich
+begunstig
+ begünstigen
+begunstigde
+ Favorit <m>; Günstling
+begunstiging
+ 1. Gnade <f>; Gunst <f>; Huld; Vergünstigung
+ 2. Begünstigung; Protektion; Schirm <m>; Schutz <m>
+begyn
+ Beguine
+begyntjie
+ Beguine
+behaag
+ behagen; belieben; gefallen; konvenieren
+behaaglik
+ 1. behaglich; herrlich; genehm; angenehm
+ 2. bequem; gemächlich; wohnlich
+behaaglikheid
+ Annehmlichkeit <f>
+behaagsiek
+ gefallsüchtig; kokett
+behaal
+ 1. erbeuten; erlangen; erringen; habhaft werden; sich erwerben
+ 2. erlangen; erzielen; reichen; erreichen
+ 3. erringen; gewinnen
+behalwe
+ 1. ausgenommen
+ 2. ausgenommen; außer
+behandel
+ 1. behandeln; heilen; kurieren
+ 2. bereden; besprechen; sprechen über
+ 3. behandeln
+ 4. behandeln; traktieren; unterhandeln
+behandeling
+ 1. Behandlung <f>
+ 2. Behandlung <f>; Manipulation <f>
+ 3. Behandlung <f>; Unterhandlung; Verhandlung <f>
+behang
+ Tapete <f>
+behangsel
+ Tapete <f>
+behangselpapier
+ Tapete <f>
+behartig
+ versorgen
+beheer
+ Verwaltung <f>
+beheers
+ herrschen; beherrschen; regieren
+beheerser
+ 1. Herrscher <m>; Statthalter <m>
+ 2. Souverän
+beheersing
+ Regieren; Regierung <f>
+beheks
+ bezaubern; verhexen; verzaubern
+behels
+ 1. enthalten
+ 2. einschließen; enthalten
+behendig
+ anstellig; behende; fix; geschickt; geübt; gewandt
+behendigheid
+ Geschicklichkeit <f>; Gewandtheit <f>
+behoed
+ 1. wahren
+ 2. begünstigen; beschirmen; protektieren; schützen; beschützen
+ 3. bergen; schirmen; beschirmen; beschützen
+behoedsaamheid
+ Vorsicht <f>
+behoef
+ benötigen; brauchen; nötig haben
+behoefte
+ Bedarf <m>; Bedürfnis
+behoeftig
+ unvermögend
+behoor
+ 1. gehören; angehören; zugehören
+ 2. gehören; schicken; sich gehören; ziemen
+ 3. müssen; sollen
+behoorlik
+ 1. gehörig
+ 2. zurecht
+behoorlikheidshalwe
+ zurecht
+behoort
+ 1. gehören; angehören; zugehören
+ 2. gehören; schicken; sich gehören; ziemen
+ 3. müssen; sollen
+behou
+ 1. aufbewahren; behalten; bergen; erhalten; konservieren
+ 2. retten; erlösen; erretten
+ 3. halten; aufhalten
+behoud
+ Heil <n>
+behoudend
+ konservativ
+behoudenis
+ Heil <n>
+behoudensgesind
+ konservativ
+beiaard
+ Glockenspiel <n>
+beide
+ beide
+beidersyds
+ beiderseitig; beiderseits
+beier
+ hallen; klingen; läuten; schallen; tönen
+beitel
+ 1. meißeln; ziselieren
+ 2. Meißel; Stemmeisen
+bejaard
+ alt; bejahrt; betagt
+bejammer
+ 1. bedauern
+ 2. bejammern; betrauern
+bejammerenswaardig
+ bedauerlich; bedauernswert
+bek‐en‐klouseer
+ Mundschwamm
+bek
+ 1. Schnabel <m>
+ 2. Maul <n>
+bekeer
+ bekehren; umstimmen
+bekeerling
+ Proselyt
+beken
+ anerkennen; gestehen; eingestehen
+bekend
+ bekannt
+bekendheid
+ 1. Bekanntschaft <f>
+ 2. Begriff <m>; Kenntnis <f>; Kenntnisse
+bekendmaak
+ 1. ausrufen; proklamieren
+ 2. angeben; ankundigen; melden; mitteilen; verkünden
+bekendmaking
+ 1. Proklamation <f>
+ 2. Auskunft <f>; Bekanntmachung <f>
+bekendstel
+ 1. ausrufen; proklamieren
+ 2. angeben; ankundigen; melden; mitteilen; verkünden
+bekentenis
+ Bekenntnis <f>; Eingeständnis; Geständnis
+beker
+ Becher; Pokal <m>
+bekken
+ 1. Zimbel
+ 2. Becken; Schale <f>
+beklaag
+ bemitleiden; Mitleid haben; sich erbarmen
+beklaaglik
+ erbärmlich
+beklad
+ 1. afterreden; anschwärzen; fälschlich beschuldigen; verleumden
+ 2. flecken; beflecken; einflecken; sudeln
+beklae
+ bemitleiden; Mitleid haben; sich erbarmen
+beklaenswaardig
+ erbärmlich
+beklag
+ Beschwerde <f>; Klage <f>
+beklagenswaardig
+ erbärmlich
+beklag doen
+ klagen; sich beklagen; verklagen
+beklee
+ 1. bekleiden; besetzen; einnehmen; in Anspruch nehmen
+ 2. beziehen; überziehen
+ 3. anziehen; kleiden; ankleiden; bekleiden
+bekleed
+ 1. beziehen; überziehen
+ 2. anziehen; kleiden; ankleiden; bekleiden
+beknibbel
+ dingen; feilschen; markten
+beknor
+ schelten; vorwerfen; Vorwürfe machen
+bekom
+ bekommen; empfangen; erhalten
+bekommerd
+ besorgt
+bekommering
+ 1. Bangigkeit; Unruhe <f>
+ 2. Besorgnis <f>; Sorge <f>
+bekommernis
+ 1. Bangigkeit; Unruhe <f>
+ 2. Besorgnis <f>; Sorge <f>
+bekonkel
+ intriguieren; Ränke anzetteln
+bekoor
+ 1. in Versuchung führen; versuchen
+ 2. anmuten
+bekoorlik
+ allerliebst; anmutig; hold; lieblich; reizend
+bekoorlikheid
+ Anmut <m>
+bekoring
+ 1. Versuchung <f>
+ 2. Anmut <m>
+bekort
+ abkürzen; verkürzen
+bekprater
+ Großtuer
+bekragtig
+ 1. bekräftigen; bestätigen; konfirmieren
+ 2. sanktionieren
+bekragtiging
+ Firmelung
+bekritiseer
+ begutachten; kritisieren
+bekrompe
+ schmal
+bekroon
+ prämiieren; preiskrönen
+bekryg
+ bekriegen
+bekvegter
+ Großtuer
+bekwaald
+ kaum
+bekwaam
+ 1. begabt; fähig; imstande; tüchtig
+ 2. befähigen
+bekwaamheid
+ 1. Kapazität
+ 2. Befähigung; Kapazität; Vermögen
+bel
+ 1. anläuten; klingeln; anklingeln
+ 2. Glocke <f>; Klingel <f>
+ 3. anrufen
+ 4. Schelle <f>
+belaai
+ beauftragen; belasten; laden; aufladen; beladen
+belaglik
+ lächerlich
+beland
+ ankommen; eintreffen; gelangen; zukommen; herzukommen
+belang
+ 1. Tragweite
+ 2. Interesse <n>; Zins <m>
+ 3. Ertrag <m>; Gewinn <m>; Interesse <n>; Nutzen <m>; Überschuß; Verdienst <n>; Vorteil <m>
+ 4. Interesse <n>; Nutzen <m>; Vorteil <m>
+belangende
+ betreffs
+belangrik
+ arg; bedeutend; bedeutsam; beträchtlich; erheblich; ernst; wichtig
+belangrykheid
+ Tragweite
+belangstelling
+ Interesse <n>
+belas
+ beauftragen; belasten; laden; aufladen; beladen
+belaster
+ afterreden; anschwärzen; fälschlich beschuldigen; verleumden
+belasting
+ Abgabe <f>; Steuer <n>; Steuerabgabe
+beledig
+ 1. beleidigen; schelten; schimpfen; beschimpfen
+ 2. beleidigen; kränken; verletzen
+beledigend
+ anzüglich; beleidigend; verletzend
+belediging
+ Anstoß; Beleidigung <f>; Kränkung
+beleef
+ 1. erleben
+ 2. artig; galant; höflich
+beleg
+ 1. einkleiden; investieren
+ 2. belegen; decken; bedecken; einhüllen; verhüllen; zudecken
+ 3. hervorrufen
+ 4. Belagerung <f>
+beleid
+ 1. Politik <f>
+ 2. Umsicht <f>
+ 3. Takt <m>
+belemmer
+ 1. behelligen; hindern; behindern; inhibieren; stören; verhindern
+ 2. beengen; behindern; belästigen; genieren; lästig fallen; stören
+belemmering
+ 1. Schranke <f>
+ 2. Hindernis <n>
+belendend
+ angrenzend; anstoßend
+belet
+ Hindernis <n>
+beletsel
+ 1. Hindernis <n>
+ 2. Schranke <f>
+belewe
+ erleben
+belewenis
+ 1. Erfahrung <f>
+ 2. Erlebnis <n>
+belewing
+ 1. Erfahrung <f>
+ 2. Erlebnis <n>
+beleë
+ reif
+beleënheid
+ Reife <f>
+beleër
+ belagern
+beleëring
+ Belagerung <f>
+belief
+ bitte
+belladonna
+ Belladonna; Tollkirsche <f>
+belletrie
+ Belletristik <f>
+beloer
+ belauschen; spionieren
+belofte
+ Gelöbnis; Versprechen; Zusage <f>
+beloning
+ Belohnung <f>; Lohn <m>
+beloof
+ geloben; verheißen; versprechen; zusagen
+beloon
+ lohnen; belohnen; vergelten
+belowe
+ geloben; verheißen; versprechen; zusagen
+belroos
+ Rose <f>; Rotlauf
+beluister
+ anhören; horchen; aushorchen; zuhören
+beluistering
+ Verhör
+belus
+ begierig; habgierig; lüstern
+belus wees op
+ gelüsten
+bely
+ beichten
+belydenis
+ Beichte <f>
+belê
+ 1. einkleiden; investieren
+ 2. belegen; decken; bedecken; einhüllen; verhüllen; zudecken
+ 3. hervorrufen
+bemagtig
+ greifen; angreifen; ergreifen
+bemanning
+ Mannschaft <f>
+bemerk
+ bemerken
+bemerkbaar
+ bemerkbar
+bemes
+ düngen
+bemiddel
+ vermitteln
+bemiddeld
+ wohlhabend
+bemin
+ gern haben; lieben; mögen
+beminde
+ 1. Geliebte <m;f>
+ 2. Geliebte <m;f>
+beminnaar
+ Freier
+bemoedig
+ ermannen; ermutigen
+bemoeienis
+ Anstrengung <f>
+bemoeigees
+ Fürwitz; Indiskretion <f>
+bemoeilik
+ erschweren
+bemoeisiek
+ indiskret
+bemoeisug
+ Fürwitz; Indiskretion <f>
+bemoeisugtig
+ indiskret
+bemoontlik
+ ermöglichen; möglich machen
+benaam
+ heißen; nennen; benennen; ernennen
+benadeel
+ beeinträchtigen
+benaming
+ Name <m>
+benardheid
+ Hemmnis <n>; Lästiges; Verlegenheit <f>
+bende
+ Bande <f>; Horde; Rotte <f>; Troß
+benede
+ 1. unten
+ 2. unten; unterhalb
+benedeverdieping
+ Erdgeschoß
+benedy
+ segnen
+beneem
+ abräumen; fortnehmen; entziehen; fortnehmen; wegnehmen
+benefice
+ Benefiz
+beneficevoorstelling
+ Benefiz
+benepe
+ 1. armselig
+ 2. bang; zaghaft
+beneweld
+ angeheitert
+benewens
+ zuzüglich
+benodig
+ erforderlich; nötig; notwendig
+benoem
+ heißen; nennen; benennen; ernennen
+benoeming
+ Nomade <n>
+benou
+ beängstigen; beunruhigen
+benoud
+ 1. besorgt; unruhig
+ 2. erstickend; schwül; Stick‐; stickig
+benoudheid
+ Angst <f>; Unruhe <f>
+benouend
+ erstickend; schwül; Stick‐; stickig
+bensien
+ Benzin <n>
+bensine
+ Benzin <n>
+bensol
+ Benzol <n>
+benul
+ 1. Gedanke <m>; Idee <f>; Vorstellung <f>
+ 2. Auffassung <f>; Begriff <m>; Verständnis
+benut
+ anwenden; benutzen; brauchen; gebrauchen; verwenden; verwerten
+benuttig
+ anwenden; benutzen; brauchen; gebrauchen; verwenden; verwerten
+beny
+ beneiden
+beoefen
+ praktizieren
+beoog
+ absehen; bezwecken; trachten nach; zielen
+beoordeel
+ begutachten; kritisieren
+beoorlog
+ bekriegen
+beoorloog
+ bekriegen
+bepaal
+ 1. bestimmen; definieren
+ 2. befestigen; festsetzen; fixieren
+ 3. qualifizieren
+ 4. begrenzen; beschränken; einschränken
+ 5. anordnen; befehlen; gebieten; verordnen; vorschreiben
+bepaling
+ 1. Bestimmung <f>
+ 2. Ergänzung; Komplement; Vervollständigung
+ 3. Bedingung <f>; Klausel <f>; Vorbehalt <m>
+bepantsering
+ Harnisch; Küraß; Panzer <m>
+beperk
+ begrenzen; beschränken; einschränken
+bepleister
+ in Stuck arbeiten
+beploe
+ pflügen
+beploege
+ pflügen
+beploë
+ pflügen
+bepoeier
+ pudern; stäuben
+bepraat
+ bereden; besprechen; sprechen über
+beproef
+ 1. bekümmern; betrüben
+ 2. erproben; probieren; prüfen; versuchen
+beproewe
+ 1. bekümmern; betrüben
+ 2. erproben; probieren; prüfen; versuchen
+beraadslaag
+ überlegen
+beraam
+ entwerfen; planen; projektieren
+beraming
+ Entwurf <m>; Plan <m>; Projekt <n>
+beredder
+ 1. arrangieren; einrichten; ordnen; anorden; veranstalten
+ 2. abrechnen; liquidieren
+beredenering
+ Räsonement
+berei
+ 1. bereiten; vorbereiten
+ 2. zurichten
+bereid
+ bereit; erbötig; fertig
+bereiding
+ Bereitung; Vorbereitung <f>
+bereidvaardigheid
+ Gefälligkeit
+bereidwillig
+ bereitwillig
+bereik
+ erlangen; erzielen; reichen; erreichen
+bereken
+ erachten; kalkulieren; rechnen; berechnen
+berekening
+ Kalkul
+berg
+ Berg <m>
+bergamot
+ Bergamotte
+berging
+ Heil <n>
+bergkristal
+ Quarz <m>
+bergpik
+ Asphalt <m>; Erdpech
+berig
+ 1. Auskunft <f>; Bericht <m>; Bescheid
+ 2. Bericht <m>; Mitteilung <f>; Nachricht <f>
+ 3. Auskunft <f>; Bekanntmachung <f>
+beril
+ Beryll
+berin
+ Bärin
+berispe
+ 1. zurechtweisen
+ 2. schelten; vorwerfen; Vorwürfe machen
+berisping
+ 1. Tadel <m>
+ 2. Tadel <m>; Vorweis; Vorwurf <m>
+berk
+ Birke <f>
+berkeboom
+ Birke <f>
+beroemd
+ 1. berühmt
+ 2. berühmt; glorreich
+beroemdheid
+ 1. Berühmtheit
+ 2. Berühmtheit
+ 3. Berühmtheit; Glorie
+ 4. Renommee
+beroep
+ 1. Appellation; Berufung <f>
+ 2. Beruf <m>; Gewerbe <n>; Handwerk <n>
+ 3. Beruf <m>; Gewerbe <n>; Profession
+beroeps‐
+ beruflich; Berufs‐; berufsmäßig; Gewerbe‐; gewerbsmäßig
+beroer
+ 1. agitieren
+ 2. beängstigen; beunruhigen
+ 3. leicht berühren; streifen
+beroerd
+ 1. böse; schlecht
+ 2. elend; erbärmlich; jämmerlich
+beroerte
+ Schlag <m>; Schlagfluß
+berokken
+ antun; bewirken; veranlassen; verursachen; zufügen
+beroof
+ berauben
+berooid
+ unvermögend
+berou
+ Buße
+berowe
+ berauben
+berower
+ Freibeuter; Wegelagerer
+berusting
+ Resignation <f>
+berym
+ reimen
+besadig
+ 1. mäßig
+ 2. abstinent; mäßig; nüchtern
+besef
+ 1. begreifen; erfassen; verstehen
+ 2. Auffassung <f>; Begriff <m>; Verständnis
+ 3. bei Bewußtsein sein; sich ... bewußt sein
+ 4. Bewußtsein
+besem
+ Besen
+besending
+ Sendung <f>
+beset
+ 1. trächtig; schwanger
+ 2. besetzt
+besete
+ irre; toll; verrückt; wahnsinnig
+besetene
+ Irre <m;f>
+besetting
+ 1. Besatzung <f>; Garnison <f>
+ 2. Beschäftigung; Besetzung <f>
+beseël
+ 1. bekräftigen; bestätigen; konfirmieren
+ 2. siegeln; versiegeln
+besie
+ Grille <f>; Heimchen <n>
+besiel
+ 1. begeistern
+ 2. begeistern; einflößen; eingeben; inspirieren
+besieling
+ Begeisterung <f>; Enthusiasmus
+besien
+ sehen; ansehen
+besig
+ besetzt
+besigheid
+ Beschäftigung
+besighou
+ zerstreuen
+besinksel
+ Hefe <f>
+besinning
+ Bewußtsein
+besit
+ 1. Besitz <m>; Besitztum <n>; Besitzung; Eigentum <n>; Gut <n>
+ 2. besitzen
+ 3. Besitz <m>
+besitlik voornaamwoord
+ Possessivpronomen; Possessivum
+besitter
+ Eigentümer; Inhaber
+besitting
+ 1. Besitz <m>; Besitztum <n>; Besitzung; Eigentum <n>; Gut <n>
+ 2. Besitztum <n>; Eigentum <n>
+beskaaf
+ bilden; gesittet machen; zivilisieren
+beskaam
+ beschämen; blamieren
+beskadig
+ beschädigen; Schaden zufügen; verderben; verletzen
+beskadiging
+ Verderbnis
+beskawe
+ bilden; gesittet machen; zivilisieren
+beskawing
+ Aufklärung; Bildung <f>; Gesittung <f>; Zivilisation <f>
+beskeid
+ 1. Dokument <n>; Urkunde <f>
+ 2. Antwort <f>
+beskeidenheid
+ 1. Diskretion <f>
+ 2. Bescheidenheit <f>
+beskeie
+ 1. diskret; verschwiegen
+ 2. mäßig
+ 3. anspruchslos; bescheiden
+beskerm
+ 1. begünstigen; beschirmen; protektieren; schützen; beschützen
+ 2. bergen; schirmen; beschirmen; beschützen
+beskermheer
+ Patron; Schirmherr
+beskermheerskap
+ Patronat
+beskermheilige
+ Patron; Schirmherr
+beskiet
+ beschießen; bombardieren
+beskik
+ arrangieren; einrichten; ordnen; anorden; veranstalten
+beskikking
+ 1. Einrichtung <f>; Zusammenstellung <f>
+ 2. Austrag <m>; Beschluß; Entschluß
+beskimmel
+ schimmeln; verschimmeln
+beskimmeld
+ moderig
+beskinder
+ afterreden; anschwärzen; fälschlich beschuldigen; verleumden
+beskonke
+ berauscht; trunken; betrunken
+beskonkenheid
+ Betrunkenheit <f>
+beskrywing
+ Beschreibung <f>
+beslis
+ absolut; ausdrücklich; durchaus; unausbleiblich; unfehlbar
+besluit
+ beschließen; entscheiden; sich entschließen
+besoedel
+ beschmutzen; einschmutzen; sudeln
+besoedeling
+ Pollution
+besoek
+ Besuch <m>; Visite
+bespaar
+ erübrigen; sparen; ersparen
+bestaan
+ bestehen; da sein; existieren; vorhanden sein
+beste
+ best
+besteding
+ Aufwand <m>; Ausgabe <f>; Auslage <f>
+bestel
+ bestellen
+bestelling
+ Auftrag <m>; Bestellung <f>
+bestuur
+ 1. dirigieren; führen; richten; steuern
+ 2. führen; leiten
+bestuurder
+ 1. Dirigent <m>; Inhaber
+ 2. Direktor <m>; Leiter; Vorsteher
+beswaar
+ 1. Einrede; Einwand <m>; Einwendung <f>; Einwurf; Gegenrede <f>
+ 2. Einspruch <m>
+betaal
+ zahlen; abzahlen; auszahlen; bezahlen; einzahlen; entrichten
+betaam
+ gehören; schicken; sich gehören; ziemen
+beteken
+ bedeuten; bezeichnen
+betekenis
+ Bedeuting; Bezeichnung <f>; Meinung <f>
+beter
+ besser
+betrekking
+ Posten <m>
+betyds
+ beizeiten; zeitig; zur rechten Zeit
+beuk
+ Buche <f>
+beurs
+ Stipendium <n>
+bevat
+ 1. enthalten
+ 2. einschließen; enthalten
+bevestig
+ 1. bejahen; ja sagen
+ 2. bekräftigen; bestätigen; konfirmieren
+bevolking
+ Bevölkerung
+bevorder
+ promovieren
+bevordering
+ Promotion
+bevrug
+ trächtig; schwanger
+bewaar
+ aufbewahren; behalten; bergen; erhalten; konservieren
+beweeg
+ 1. bewegen; erregen
+ 2. sich bewegen
+beweging
+ 1. Bewegung <m>
+ 2. Bewegung <m>
+bewonder
+ bewundern
+bewys
+ Ausweis <m>; Beweis <m>; Beleg <m>
+beëdig
+ beeidigen; vereidigen
+beëindig
+ beschließen; enden; beenden; endigen; beendigen; erledigen
+beëindiging
+ Ende <n>
+beërf
+ erben; beerben
+beërwe
+ erben; beerben
+beïndruk
+ Eindruck machen
+beïnvloed
+ beeinflussen; Einfluß haben auf; einwirken
+biblioteek
+ Bibliothek <f>
+bibliotekaris
+ Bibliothekar <m>
+bid
+ beten
+bieg
+ 1. beichten
+ 2. Beichte <f>
+bier
+ Bier <n>
+biljart
+ Billard <n>
+billik
+ billig; gerecht
+bind
+ binden; verbinden
+binne
+ in; nach; pro; zu
+binnelands
+ einheimisch
+biologie
+ Biologie <f>; Lebenslehre
+bioskoop
+ Kino <n>
+biskop
+ Bischof <m>
+bismut
+ Wismut <n>
+bison
+ Bison
+bitter
+ bitter
+blaarslaai
+ Kopfsalat <m>; Lattich; Salat <m>
+blaas
+ blasen; wehen
+bladsy
+ Folio; Seite <f>
+blank
+ weiß
+blanke
+ Europäer
+blind
+ blind
+blink
+ blank
+bloed
+ Blut <n>
+bloeding
+ Blutung <f>
+bloedverwant
+ Verwandter
+bloese
+ Bluse <f>
+blok
+ Block <m>; Klotz <m>
+blom
+ Blume <f>
+blou
+ blau
+blus
+ auslöschen; dämpfen
+bly
+ 1. bleiben; übrigbleiben
+ 2. froh
+bo
+ 1. oberhalb; über
+ 2. oben
+bobbejaan
+ Pavian <m>
+boek
+ Buch <n>
+boereplaas
+ Bauernhof <m>; Besitzung; Gut <n>; Landgut
+boete
+ Geldstrafe <f>
+boetekaartjie
+ Protokoll <n>
+boikot
+ boykottieren; sperren
+boks
+ Büchse; Schachtel <f>
+bokser
+ Boxer
+bondel
+ Bund <m>; Bündel; Büschel; Fascikel
+boom
+ Baum <m>
+boor
+ Bohrer
+bord
+ Teller <m>
+bordeel
+ Bordell <n>
+bors
+ Brust <m>; Busen <m>
+bos
+ Forst <m>; Wald <m>
+botsing
+ 1. Kollision <f>
+ 2. Zusammenstoß
+bottel
+ Flasche <f>
+botter
+ Butter <f>
+braai
+ braten; rösten
+brand
+ 1. brennen
+ 2. Brand; Brunst
+brandewyn
+ Branntwein <m>; Schnaps <m>
+brandweer
+ Feuerwehr <f>
+breek
+ brechen; abbrechen; aufbrechen
+brein
+ Gehirn <n>; Hirn <n>
+brief
+ Brief <m>
+briefkaart
+ Postkarte <f>
+bril
+ Augengläser; Brille <f>
+bring
+ bringen; anbringen; eintragen; heranbringen; überbringen
+brinjal
+ 1. Eierpflanze
+ 2. Eierpflanze
+broei
+ brüten
+broer
+ Bruder <m>
+broerskind
+ 1. Nichte <f>
+ 2. Neffe <m>
+bron
+ Born; Quelle <f>
+brons
+ Bronze <f>; Erz <n>
+brood
+ Brot <n>
+brosjure
+ Broschüre
+brug
+ Brücke
+bruin
+ braun
+buffel
+ Büffel
+buffer
+ Puffer
+buig
+ 1. biegen; beugen; flektieren
+ 2. biegen
+buis
+ Rohr <n>; Röhre; Schlauch <m>
+buite
+ außer; außerhalb
+buiteland
+ Ausland <n>
+bul
+ Stier <m>
+burger
+ 1. Bürger
+ 2. Bürger
+buro
+ Amt <n>; Büro
+bus
+ Autobus <m>; Bus <m>
+buurman
+ Nachbar <m>
+by
+ 1. an; bei; neben
+ 2. an; bei; zu
+bybel
+ Bibel <f>
+bylae
+ Anhang <m>; Beilage <f>; Supplement; Zugabe <f>; Zusatz <m>; Zuschlag <m>; Zuschuß
+bymekaar
+ aneinander; beisammen; gesamt; insgesamt; zugleich; zusammen
+bymekaarbring
+ 1. sammeln; einsammeln
+ 2. fügen; gesellen; vereinigen
+byna
+ beinahe; fast; nahezu; schier; ungefähr
+byt
+ beißen
+byvoeg
+ addieren; beifügen; zufügen
+bywoord
+ Adverb <n>; Umstandswort <n>
+by benadering
+ annähernd; etwa; ungefähr
+bêre
+ 1. einschließen
+ 2. bergen; suspendieren; zurücklegen
+ 3. aufbewahren; behalten; bergen; erhalten; konservieren
+bêreplek
+ Gewahrsam <m>
+casino
+ Gesellschaftshaus; Kasino <n>
+chaos
+ Chaos <n>
+chemie
+ Chemie <f>
+chirurg
+ Chirurg <m>; Wundarzt
+chloor
+ Chlor <n>
+daad
+ 1. Handlung <f>; Tat <f>
+ 2. Handlung <f>; Tat <f>
+daag
+ anweisen; assignieren; überweisen
+daagliks
+ 1. täglich
+ 2. täglich; alltäglich
+daar
+ 1. da; dort
+ 2. da; dort
+daaraan
+ darüber
+daarby
+ damit
+daardie
+ die; jene
+daarmee
+ dadurch
+daarna
+ dann; darauf; hernach; hierauf; hinten; hinterher; nachher; später
+daarom
+ 1. dafür; darum; deshalb
+ 2. also; daher; darum; deshalb
+daarso
+ da; dort
+daarvandaan
+ daher
+daarvoor
+ dafür; dazu
+daar gunder
+ da; dort
+dadelik
+ 1. gleich; sogleich
+ 2. alsbald; flugs; gleich; sofort; sogleich; umgehend
+dag
+ Tag <m>
+dan
+ damals; dann; alsdann; danach; hierauf
+dank
+ danken; sich bedanken; verdanken
+dankbaar
+ 1. dankbar
+ 2. dankbar; erkenntlich
+dankie
+ danke
+danksy
+ dank
+dans
+ 1. tanzen
+ 2. Tanz <m>
+dapperheid
+ Mut <m>
+darem
+ 1. tatsächlich
+ 2. fürwahr; wahrhaftig; wahrlich; wirklich
+das
+ Halsbinde <f>; Krawatte <f>; Schlips <m>
+dat
+ daß
+datum
+ Datum <n>
+deeglik
+ außerordentlich; höchst; überaus; ungemein
+deel
+ Anteil <m>; Teil <n>
+deelneem
+ mitmachen; teilnehmen
+deelnemer
+ Sozius
+deels
+ teils
+definisie
+ Bestimmung <f>
+definitief
+ absolut; ausdrücklich; durchaus; unausbleiblich; unfehlbar
+deftig
+ hübsch; schön
+dek
+ belegen; decken; bedecken; einhüllen; verhüllen; zudecken
+deken
+ Bettdecke <f>; Decke <f>
+dekor
+ Auszeichnung <f>; Dekoration <f>; Schmückung
+delikaat
+ delikat; fein; gelinde; zart
+demokrasie
+ Demokratie <f>
+den
+ 1. Fichte <f>; Tanne <f>
+ 2. Föhre; Kiefer
+denneboom
+ 1. Fichte <f>; Tanne <f>
+ 2. Tanne <f>; Edeltanne
+departement
+ Departement
+deponeer
+ deponieren; hinterlegen
+dertien
+ dreizehn
+dertig
+ dreißig
+destyds
+ damals; dann; alsdann; danach; hierauf
+deur
+ 1. durch; kraft; mit; mittelst; vermittels
+ 2. Tür
+ 3. hindurch; quer mitten
+deurbring
+ angeben; herreichen; verbringen; zubringen
+deurdat
+ da; weil
+deurmaak
+ 1. erleben
+ 2. zurücklegen
+deurmekaar
+ bestürtzt
+deursnee
+ Profil <n>
+diamant
+ Diamant <m>
+die
+ 1. das; der; die
+ 2. das; der; die
+dieet
+ Diät
+dief
+ Dieb <m>
+diens
+ Dienst <m>
+diep
+ tief
+diepte
+ 1. Tiefe <f>
+ 2. Tiefe <f>
+ 3. Tiefe <f>
+dier
+ 1. Tier <n>
+ 2. Tier <n>
+dieselfde
+ dasselbe; derselbe; dieselbe
+digter
+ Dichter; Poet <m>
+dikwels
+ häufig; oft
+dimensie
+ Ausdehnung <f>; Dimension <f>
+dinee
+ Diner; Mittagessen
+ding
+ Angelegenheit <f>; Ding <n>; Sache <f>; Werk
+dink
+ 1. bedünken; befinden; dafür halten; erachten; meinen
+ 2. denken
+diploma
+ Diplom <n>; Prüfungszeugnis; Urkunde <f>
+direk
+ aufrecht; direkt; gerad; gradlinig; unmittelbar
+direkteur
+ Direktor <m>; Leiter; Vorsteher
+dissipline
+ Disziplin <f>
+dit
+ 1. das; dies; jenes
+ 2. dies
+ 3. dies
+ 4. es; ihm
+dit daardie
+ das; dies; jenes
+dit hierdie
+ 1. dies
+ 2. dies
+dié
+ 1. die; jene
+ 2. diese; dieses; dieser
+ 3. diese; dieses; dieser
+dobbel
+ spekulieren
+doel
+ Ziel <n>; Zweck <m>
+doen
+ anfertigen; herstellen; leiten; machen; tun; zurücklegen
+dogter
+ 1. Tochter <f>
+ 2. Dirne <f>; Mädchen
+dokter
+ Arzt <m>; Doktor <m>
+doktrine
+ Doktrin <f>; Lehre <f>
+dokument
+ Dokument <n>; Urkunde <f>
+dom
+ albern; dumm
+dominee
+ Pastor <m>; Pfarrer <m>
+donasie
+ Angebinde; Gabe <f>; Geschenk <n>; Spende <f>; Vermächtnis
+donderbui
+ Gewitter
+donker
+ 1. dunkel; düster; trübe
+ 2. dunkel; finster
+donkie
+ Esel
+dood
+ 1. gestorben; tot; verstorben
+ 2. Tod <m>
+ 3. entseelt
+doodmaak
+ auslöschen; dämpfen
+doodskiet
+ erschießen; füsilieren
+doof
+ taub
+doop
+ Taufe <f>
+doos
+ Büchse; Schachtel <f>
+dor
+ trocken
+dorp
+ Dorf <n>; Ort <m>
+dors wees
+ dürsten
+dosent
+ Dozent <m>
+dra
+ tragen
+draagbaar
+ Bahre <f>; Träger
+draai
+ 1. abschweifen; abweichen
+ 2. Wende <f>; Wendung <f>
+dragtig
+ trächtig; schwanger
+drama
+ Drama <n>; Schauspiel <n>
+dreigement
+ Bedrohung <f>; Drohung <f>
+drie
+ drei
+drink
+ 1. saufen; zechen
+ 2. trinken
+dromedaris
+ Dromedar <n>
+dronk
+ berauscht; trunken; betrunken
+droog
+ trocken
+druif
+ Traube <f>; Weintraube <f>
+druk
+ beklemmen; drücken; bedrücken; pressen; zwängen
+drup
+ träufeln; triefen; tropfen
+dryf
+ 1. schwimmen
+ 2. anfeuern; jagen; treiben; vor sich hertreiben
+duidelik
+ ausdrücklich
+duim
+ 1. Daumen
+ 2. Daumen
+duin
+ Düne
+duisend
+ tausend
+duister
+ dunkel; finster
+duiwel
+ Teufel
+dukaat
+ Dukaten
+durf
+ Mut <m>
+dus
+ folglich
+duur
+ 1. teuer; wert
+ 2. teuer
+dwerg
+ 1. Zwerg <m>
+ 2. Pygmäe; Zwerg <m>
+dwing
+ zwingen
+edel
+ edel; edelmütig; erhaben
+eed
+ Eid <m>
+eekhoring
+ Eichhorn; Eichhörnchen
+eekhorinkie
+ Eichhorn; Eichhörnchen
+een‐en‐twintig
+ einundzwanzig
+een
+ ein; eine; eins
+eend
+ Ente <f>
+eendag
+ ehemals; einmal; einst; einstens; einstmals; irgendwann; je; jemals
+eenheid
+ 1. Einigkeit <f>; Einheit <f>
+ 2. Einer; Einheit <f>
+eensaam
+ einsam
+eenvoud
+ Einfachkeit
+een en twintig
+ einundzwanzig
+eerlik
+ anständig; bieder; ehrlich; honett; rechtschaffen
+eers
+ 1. ehemals; einmal; einst; einstens; einstmals; irgendwann; je; jemals
+ 2. erst; erstens; zuerst
+eerskomende
+ bevorstehend; kommend; künftig; nächst; nahe
+eerste
+ erste; erster; erstes
+eetkamer
+ Speisesaal <m>; Speisezimmer <n>
+eetservies
+ Geschirr <n>; Tisch‐Service
+effek
+ 1. Effekt <m>; Wirkung <f>
+ 2. Wirksamkeit <f>
+ 3. Eindruck <m>
+effektief
+ effektiv; faktisch; tatsächlich; wirklich
+eggenoot
+ Ehemann <m>; Gatte <m>; Gemahl; Gespons
+eggo
+ Echo <n>; Widerhall
+egter
+ aber; doch; dennoch; jedoch
+ei
+ Ei <n>
+eie
+ eigen
+eienaar
+ Inhaber
+eienaardig
+ 1. befremdend; kurios; seltsam; sonderbar; wunderlich
+ 2. typisch
+eierplant
+ Eierpflanze
+eiervrug
+ Eierpflanze
+eik
+ Eiche <f>
+eiland
+ Eiland <n>; Insel <f>
+einde
+ Ende <n>
+eindig
+ 1. beschließen; enden; beenden; endigen; beendigen; erledigen
+ 2. enden; endigen
+eintlik
+ eigentlich
+ekonomies
+ haushälterisch; ökonomisch; sparsam; wirtschaftlich
+eksamen
+ Examen <n>
+eksperiment
+ Experiment <n>; Versuch <m>
+ekstase
+ Ekstase <f>; Entzückung
+ekstra
+ 1. besonders; extra
+ 2. aparte
+ekstreem
+ äußerster; extrem
+eland
+ Elch <m>; Elen; Elentier
+elders
+ anderswo
+elegant
+ elegant; geschmackvoll
+elegie
+ Elegie; Klagelied <n>
+elektrisiteit
+ Elektrizität
+elementêr
+ elementar
+elf
+ 1. elf
+ 2. Elf
+els
+ Erle <f>
+elsboom
+ Erle <f>
+emigreer
+ auswandern
+emosie
+ 1. Affekt; Bewegung <m>; Gemütsbewegung; Krankheit <f>; Rührung
+ 2. Bewegung <m>; Rührung
+en
+ und
+energie
+ Energie <f>; Tatkraft <f>; Willenskraft <f>
+enige
+ ein paar; einige; einiger; einiges; etliche; manche
+enigiemand
+ ein gewisser; einer; irgend einer; irgendwer; jemand
+enigiets
+ etwas; irgendetwas; irgendwas
+enigste
+ allein; alleinig; bloß; einzig
+enkele
+ ein paar; einige; einiger; einiges; etliche; manche
+ens.
+ u.s.w.
+erediens
+ Gottesdienst <m>
+erf
+ erben; beerben
+erg
+ arg; bedeutend; bedeutsam; beträchtlich; erheblich; ernst; wichtig
+erken
+ bekräftigen; bestätigen; konfirmieren
+ernstig
+ arg; bedeutend; bedeutsam; beträchtlich; erheblich; ernst; wichtig
+ertjie
+ Erbse <f>
+ervare
+ bewandert; erfahren; gewiegt; kundig
+ervaring
+ Erfahrung <f>
+esel
+ Esel
+esperantis
+ Esperantist
+ete
+ Essen <n>; Fraß; Mahlzeit <f>
+ewe
+ 1. gleich
+ 2. gleich; gleichfalls
+ewig
+ 1. ewig
+ 2. fortwährend
+fabriek
+ 1. Fabrik <m>
+ 2. Fabrik <m>
+faktor
+ Faktor <m>
+familie
+ Familie <f>
+familielid
+ Verwandter
+fase
+ Phase <f>
+fasiliteer
+ erleichtern
+fee
+ Fee
+feit
+ Tatsache <f>
+ferm
+ 1. fest; befestigt; haltbar; wiederstandsfähig
+ 2. gesetzt; solide
+fiets
+ Fahrrad <n>; Rad <n>; Rover
+fiks
+ gesund; heil
+film
+ Film <m>
+firma
+ Firma <m>
+flard
+ Fetzen; Hader; Lappen
+fliekhuis
+ Kino <n>
+flikker
+ flackern
+floreer
+ 1. blühen
+ 2. gedeihen; gelingen; geraten; glücken; prosperieren
+flou word
+ in Ohnmacht fallen; ohnmächtig werden
+fluit
+ Flöte
+fooitjie
+ Trinkgeld <n>
+forel
+ Forelle <f>
+formasie
+ Formation
+fossiel
+ Fossil
+fout
+ Fehler <m>; Irrtum <m>; Versehen <n>
+framboos
+ Himbeere <f>
+funksie
+ Funktion <f>; Tätigkeit; Wirksamkeit <f>
+gaaf
+ gut; gütig
+gaan
+ 1. fahren; gehen; treten
+ 2. werden
+gaan staan
+ halten; anhalten; Halt machen; stocken; stoppen
+gade
+ Frau <f>; Gemahlin
+galery
+ Galerie <f>; Stollen <m>; Wandelgang <m>
+gans
+ Gans <f>
+garage
+ Garage <f>
+gas
+ 1. Gas <n>
+ 2. Gast <m>
+gasvry
+ gastlich
+gat
+ Loch <n>
+geadresseerde
+ Adressat <m>; Empfänger
+gebed
+ Gebet <n>
+gebeur
+ geschehen; passieren; sich ereignen; stattfinden; vorkommen
+gebeurtenis
+ 1. Begebenheit <f>
+ 2. Ereignis <n>
+ 3. Ereignis <n>
+ 4. Begebenheit <f>; Ereignis <n>
+ 5. Begebenheit <f>; Gelegenheit <f>; Geschehnis; Ereignis <n>; Fall <m>; Vorfall <m>
+ 6. Ereignis <n>
+gebied
+ 1. Flächeninhalt
+ 2. Bereich <m>; Gebiet <n>; Gegend <f>; Region <f>
+geboorte
+ Geburt <f>
+gebore
+ gebürtig
+gebou
+ Bau <m>; Bauwerk <n>; Gebäude
+gebruik
+ 1. Angewohnheit <f>; Brauch <m>; Gebrauch <m>; Gepflogenheit; Gewohnheit <f>; Usus
+ 2. anwenden; benutzen; brauchen; gebrauchen; verwenden; verwerten
+gedaante
+ Form <f>; Gestalt <f>
+gedagte
+ Gedanke <m>
+gedeelte
+ Anteil <m>; Teil <n>
+gedeeltelik
+ teils
+gedek
+ trächtig; schwanger
+gedig
+ Gedicht <n>; Poem
+gedra hom
+ sich aufführen; sich benehmen; sich betragen; sich verhalten
+geduld
+ Geduld <f>
+geduldig
+ geduldig
+gedurende
+ während
+gee
+ erteilen; geben; angeben; herreichen
+geel
+ gelb
+gees
+ 1. Gemüt; Seele <f>
+ 2. Geist <m>; Gespenst <n>; Phantom <n>; Spuk <m>
+ 3. Geist <m>; Intellekt <m>; Verstand <m>
+ 4. Geist <m>
+ 5. Geist <m>; Genius
+geesdrif
+ Begeisterung <f>; Enthusiasmus
+geheim
+ 1. geheim; heimlich; verborgen; verstohlen
+ 2. Geheimnis <n>; Hehl
+gehoorsaam
+ folgen; befolgen; gehörchen
+gehoorstuk
+ Hörer
+geld
+ Geld <n>
+geldstuk
+ Geldstück; Münze
+geleentheid
+ Begebenheit <f>; Gelegenheit <f>; Geschehnis; Ereignis <n>; Fall <m>; Vorfall <m>
+geliefde
+ 1. Geliebte <m;f>
+ 2. Geliebte <m;f>
+geluk
+ 1. Glück
+ 2. Glück
+gelukkig
+ glücklig
+gelukkig wees
+ Glück haben
+gelykheid
+ Gleichheit <f>
+gemiddeld
+ mittlere; mittlerer; mittleres; Mittel‐
+genealogie
+ Genealogie <f>; Geschlechtsregister
+genealogies
+ genealogisch
+geneig
+ geneigt zu
+generaal
+ Feldherr; General
+generasie
+ 1. Generation; Geschlecht <n>
+ 2. Generation; Geschlecht <n>
+geniet
+ 1. frohlocken; sich freuen
+ 2. genießen; sich freuen an
+genoeg
+ auskömmlich; genügend; ziemlich; zulänglich
+genot
+ 1. Freude <f>; Genuß; Vergnügen; Wohlgefallen
+ 2. Genuß
+geparenteer
+ verwandt; anverwandt
+geraamte
+ 1. Gebein; Gerippe <n>; Knochengerüst; Skelett <n>
+ 2. Gerippe <n>; Skelett <n>
+gereed
+ bereit; erbötig; fertig
+gereedskap
+ Gerät; Utensilien; Zeug <n>
+geregtigheid
+ Gerechtigkeit <f>; Justiz <f>
+gerieflik
+ bequem; gemächlich; wohnlich
+geruime tyd
+ lange
+gesag
+ 1. Autorität; Gewalt <f>
+ 2. Herrschaft <f>
+ 3. Blendwerk
+gesels
+ reden; sprechen
+gesig
+ 1. Aussehen <n>; Äußere; Gesicht <n>; Miene <f>
+ 2. Angesicht; Antlitz <n>; Gesicht <n>
+gesin
+ Familie <f>
+geskenk
+ Angebinde; Gabe <f>; Geschenk <n>; Spende <f>; Vermächtnis
+geskie
+ geschehen; passieren; sich ereignen; stattfinden; vorkommen
+geskiedenis
+ Geschichte <f>; Historie <f>
+geskikt
+ 1. angemessen; füglich; geeignet; zeitgemäß
+ 2. bequem; gelegen; gemächlich
+ 3. tauglich; tüchtig
+geslag
+ 1. Generation; Geschlecht <n>
+ 2. Generation; Geschlecht <n>
+ 3. Geschlecht <n>; Sex
+geslaglys
+ 1. Generation; Geschlecht <n>
+ 2. Generation; Geschlecht <n>
+geslagregister
+ 1. Generation; Geschlecht <n>
+ 2. Generation; Geschlecht <n>
+gesond
+ gesund; heil
+gesondheid
+ Gesundheit <f>
+gespanne
+ gespannt
+gesprek
+ 1. Gespräch; Unterhaltung <f>; Unterredung <f>
+ 2. Gespräch; Konversation <f>; Unterhaltung <f>
+getroud
+ 1. verheirated
+ 2. verheirated
+geur
+ Geruch <m>
+geveg
+ Kampf <m>; Schlacht <f>
+gevolglik
+ folglich
+geweldig
+ heftig
+gewete
+ Gewissen <n>
+gewig
+ Gewicht <n>; Wucht <f>
+gewild
+ populär; volkstümlich
+gewoon
+ gewöhnlich
+gewoond wees
+ sich gewöhnen
+gewoonte
+ Angewohnheit <f>; Brauch <m>; Gebrauch <m>; Gepflogenheit; Gewohnheit <f>; Usus
+gier
+ Geier
+giet
+ gießen; schütten
+giftig
+ giftig
+gil
+ heulen; zetern
+gimnastiek
+ Gymnastik <f>
+ginder
+ da; dort
+ginds
+ da; dort
+gister
+ gestern
+glad nie
+ durchaus nicht; ganz und gar nicht; ganz nicht
+glas
+ 1. Glas <n>
+ 2. Glas <n>
+gleuf
+ Falz <m>
+glimlag
+ lächeln
+glo
+ glauben
+gly
+ gleiten; glitschen; rutschen
+god
+ Gott <m>
+godsdiens
+ Glaube <m>; Religion <f>
+godsdienstig
+ 1. fromm; gottesfürchtig
+ 2. religiös
+goed
+ gut; gütig
+goedkoop
+ 1. billig
+ 2. billig
+gooi
+ schleudern; werfen
+gordyn
+ Gardine <f>; Vorhang <m>
+gou
+ flugs; geschwind; schnell
+goud
+ Gold <n>
+goue
+ golden; Gold‐
+gou maak
+ eilen; sputen
+graad
+ 1. Grad <m>; Staffel <f>; Stufe <f>
+ 2. Titel
+graag
+ bereit; bereitwillig; gern
+gram
+ Gramm <n>
+grammatika
+ Grammatik <f>; Sprachlehre
+gras
+ Gras <n>
+gratis
+ unentgeltlich
+grens
+ Grenze <f>; Schranke <f>
+gretig
+ begierig; habgierig; lüstern
+griep
+ Grippe <f>
+groen
+ 1. grün
+ 2. Grün
+groente
+ Gemüse
+groep
+ Gruppe <f>
+groet
+ 1. grüßen; begrüßen; bewillkommnen
+ 2. Gruß
+grondwet
+ Konstitution <f>; Verfassung <f>
+groot
+ groß
+grootmoeder
+ Großmutter
+grootouers
+ Großeltern
+grootte
+ Ausdehnung <f>; Bereich <m>; Dimension <f>; Fassung <f>; Gehalt <n>; Umfang <m>
+grootvader
+ Großvater
+grot
+ 1. Grotte <f>
+ 2. Grube <f>; Höhle
+groutjie
+ Esel
+gryp
+ greifen; angreifen; ergreifen
+grys
+ grau
+gunsteling‐
+ gewogen; gnädig; günstig; hold
+haai
+ Hai <m>; Haifisch
+haalbaar
+ 1. ausführbar
+ 2. tunlich
+haan
+ Hahn <m>
+haar
+ 1. ihr
+ 2. die; ihr; ihrer; sie
+ 3. ihr; ihrige
+ 4. sie
+haarkapper
+ Friseur <m>; Frisör
+haarself
+ sich
+haas
+ 1. Hase <m>
+ 2. eilen; sputen
+haastig
+ geschwind; hurtig; rasch; schnell
+haat
+ Haß
+hael
+ Hagel <m>
+hakie
+ Klammer <f>; Krampe
+hals
+ Hals <m>
+hand
+ Hand <m>
+handel
+ Handel <m>
+handelaar
+ 1. Händler; Kaufmann <m>
+ 2. Händler; Kaufmann <m>
+handstuk
+ Hörer
+handtekening
+ Unterschrift <f>
+hang
+ 1. hängen
+ 2. anhängen; aufhängen; erhängen; henken
+hanteer
+ handhaben; manipulieren
+hard
+ laut
+hardloop
+ laufen
+hare
+ Haar <n>; Haare
+hart
+ Gemüt; Herz <n>
+hartlik
+ 1. herzlich
+ 2. herzlich
+hawe
+ Hafen <m>
+heelal
+ Universum <n>; Weltall <n>
+heeltemal
+ ganz; gänzlich; gar
+heerlik
+ behaglich; herrlich; genehm; angenehm
+heide
+ Heide <f>
+heilig
+ heiligen; weihen
+heks
+ Hexe <f>
+hel
+ 1. Dschehenna
+ 2. Hölle
+held
+ Held <m>; Heroe; Heros
+helder
+ 1. hell; licht; lichtvoll
+ 2. anschaulich; bestimmt; deutlich; klar
+ 3. hell
+heldhaftig
+ heroisch
+heldin
+ Heldin <f>
+hele
+ ganz; total
+helm
+ Helm <m>; Sturmhaube
+help
+ 1. assistieren; beistehen; helfen
+ 2. beistehen; beispringen; helfen
+hemel
+ Himmel <m>
+hemp
+ Hemd <n>
+hen
+ Henne <f>
+hengel
+ Angelrute <f>
+herder
+ 1. Hirt <m>; Senner
+ 2. Hirt <m>
+herfs
+ Herbst <m>
+herhaal
+ 1. entgegnen
+ 2. wiederholen
+herinnering
+ Andenken <n>; Erinnerung <f>; Gedächtnis
+herkoms
+ 1. Abkunft; Abstammung <f>; Herkunft <f>; Ursprung <m>
+ 2. Ursprung <m>
+heroïen
+ Heroin
+heroïne
+ Heroin
+hert
+ Hirsch <m>
+heuning
+ Honig <m>
+heup
+ Hanke; Hüfte
+hierdie
+ 1. diese; dieses; dieser
+ 2. diese; dieses; dieser
+hierheen
+ hierher; hierhin; nach hier
+higiënies
+ gesundheitlich
+hings
+ Hengst <m>
+hiëna
+ Hyäne
+hoed
+ Hut <m>
+hoekom
+ weshalb; weswegen
+hoender
+ 1. Huhn <n>
+ 2. Huhn <n>
+hoerhuis
+ Bordell <n>
+hoes
+ husten
+hoeveel
+ 1. wieviel
+ 2. wieviel
+ 3. wieviel
+ 4. wieviel
+hok
+ Bauer <m>; Käfig
+hom
+ 1. ihm
+ 2. ihn
+homself
+ sich
+hom besin
+ bedenken; erwägen; sich überlegen
+hond
+ Hund <m>
+honderd
+ hundert
+honger
+ hungrig
+hoofpyn
+ Kopfschmerzen
+hoofsaaklik
+ besonders; eigens; insbesondere; vornehmlich; vorzüglich; zumal
+hoofstad
+ 1. Metropole <f>
+ 2. Hauptstadt <f>
+hoop
+ hoffen
+hoor
+ 1. hören; vernehmen
+ 2. erfahren; vernehmen
+horlosie
+ Uhr <f>
+hospitaal
+ Hospital <m>; Hospiz <n>; Krankenhaus <n>
+hotel
+ Hotel <n>
+hou
+ halten; aufhalten
+houding
+ Aufführung; Benehmen <n>; Betragen <n>; Gebahren; Verhalten
+houer
+ Besteck <n>; Etui; Gehäuse
+hout
+ Holz <n>
+hou van
+ achten; mögen; schätzen; wertschätzen; würdigen
+hoërskool
+ Oberschule
+huidig
+ 1. heutig
+ 2. gegenwärtig; heutig; jetzig
+ 3. gegenwärtig
+huis
+ Haus <n>
+huisves
+ unterbringen
+huis toe
+ nach Hause
+huldig
+ ehren; beehren; verehren
+hulle
+ 1. ihre
+ 2. sie
+ 3. sie
+ 4. ihnen; sie
+ 5. ihnen; sie
+hulleself
+ sich
+hulp
+ Beihilfe <f>; Beistand <m>; Handreichung
+hurk
+ kauern
+huur
+ mieten
+huurmotor
+ Taxe; Taxi <n>
+huwelik
+ 1. Ehe <f>
+ 2. Ehe <f>
+ 3. Vermählung
+ 4. Heirat <f>; Hochzeit <f>; Vermählung
+ 5. Ehe <f>
+hy
+ er; ihm; ihn; seiner
+hyser
+ Aufzug <m>; Fahrstuhl <m>; Lift <m>
+hê
+ besitzen; haben; innehaben
+idee
+ Gedanke <m>; Idee <f>; Vorstellung <f>
+idioom
+ Dialekt <m>; Idiom; Mundart <f>
+iemand
+ ein gewisser; einer; irgend einer; irgendwer; jemand
+iep
+ Rüster; Ulme <f>
+iets
+ etwas; irgendetwas; irgendwas
+ignoreer
+ ignorieren; nicht berücksichtigen; unbeachtet lassen
+impak
+ 1. Wirksamkeit <f>
+ 2. Eindruck <m>
+in
+ 1. in; nach; pro; zu
+ 2. darin
+indeks
+ Index <m>; Register; Verzeichnis <n>
+indien
+ falls; insofern; wenn; wofern
+individueel
+ individuell
+indruk
+ 1. Effekt <m>; Wirkung <f>
+ 2. Eindruck <m>
+industrie
+ Gewerbe <n>; Industrie <f>
+informasie
+ Auskunft <f>; Bericht <m>; Bescheid
+ingenieur
+ Ingenieur <m>
+inheems
+ einheimisch
+inhoud
+ 1. Inhalt <m>
+ 2. Inhalt <m>
+inlewer
+ 1. liefern
+ 2. angeben; aushändigen; einhändigen; herreichen; überliefern
+inligting
+ Auskunft <f>; Bericht <m>; Bescheid
+inligtingskantoor
+ Auskunftstelle
+inmaak
+ einlegen; einmachen
+innig
+ 1. gemütlich; innig; intim; vertraulich; vertraut
+ 2. aufrichtig
+inrigting
+ Anstalt; Institut <n>
+inruil
+ austauschen; auswechseln; umtauschen; vertauschen; verwechseln
+insident
+ Ereignis <n>
+insig
+ Auffassung <f>; Begriff <m>; Verständnis
+insit
+ 1. stecken
+ 2. einsetzen; inserieren
+insluitend
+ einschießlich; inklusive
+inspektisto
+ Aufsichtsbeamter; Inspektor <m>
+inspuit
+ einspritzen; injizieren
+instel
+ 1. anbrechen; anfangen; beginnen
+ 2. aufrichten; aufschlagen; gründen; herstellen; zurichten
+instituut
+ Anstalt; Institut <n>
+instruksie
+ Belehrung <f>; Instruktion; Verhaltungsbefehl; Weisung
+inteendeel
+ 1. dagegen; entgegengesetzt; gegenteils; hingegen; im Gegensatz
+ 2. dagegen; entgegengesetzt; gegenteils; hingegen
+intelligent
+ einsichtsvoll; intelligent; verständig
+intens
+ intensiv
+internasionaal
+ international
+intusse
+ einstweilen; indes; inzwischen; unterdessen
+invoer
+ importieren
+invul
+ ausfüllen; erfüllen
+in alleryl
+ flugs; geschwind; schnell
+in bedwang hou
+ herrschen; beherrschen; regieren
+in die algemeen
+ generell; überhaupt
+in die ander tyd
+ schwanger
+in die geheim
+ insgeheim; verstohlen
+in kennis stel
+ Auskunft geben; benachrichten; informieren; mitteilen
+in verband met
+ betreffs; bezüglich
+ivoor
+ Elfenbein <n>
+ja
+ ja; doch
+jaag
+ 1. eilen; rennen
+ 2. jagen
+jaar
+ Jahr <n>
+jaarliks
+ jährlich
+jag
+ 1. Jacht <f>; Yacht <f>
+ 2. Weidwerk
+ 3. Jagd <f>
+jager
+ Jäger; Weidmann
+jakkals
+ Schakal <m>
+jaloers
+ eifersüchtig
+jammer
+ bedauerlich; leider
+jammer wees
+ bedauern
+jas
+ 1. Mantel <m>; Paletot; Überrock; Überzieher
+ 2. Mantel <m>; Überrock; Überzieher
+jeens
+ 1. um
+ 2. an; gegen; gegenüber; wider
+joernalis
+ 1. Journalist <m>
+ 2. Journalist <m>
+jokkie
+ Jockei
+jongmens
+ Jüngling
+jonk
+ jugendlich; jung
+josie
+ Teufel
+jou
+ 1. dir
+ 2. dein
+ 3. dich
+ 4. dein; deinig; euer; eurige; Ihr; ihrige
+ 5. dich; euch; Sie
+joune
+ 1. der deine; das deine; die deine
+ 2. der deine; der euere; der Ihre
+juis
+ 1. bestimmt; bündig; exakt; genau; präzis; präzise; pünktlich
+ 2. recht; richtig; zutreffend
+julle
+ 1. dein; deinig; euer; eurige; Ihr; ihrige
+ 2. dich; euch; Sie
+ 3. Sie
+ 4. du
+julle s'n
+ der deine; der euere; der Ihre
+juweel
+ 1. Gemme
+ 2. Edelstein <m>; Juwel <n>; Kostbarkeit <f>; Kleinod <n>
+juwelier
+ 1. Juwelier <m>
+ 2. Juwelier <m>
+jy
+ du; Sie
+kaart
+ 1. Karte <f>
+ 2. Karte <f>
+kaartjie
+ Billett; Fahrkarte <f>; Karte <f>
+kabeljou
+ Dorsch <m>; Kabeljau <m>
+kabinet
+ 1. Kabinett <n>
+ 2. Ministerium <n>
+kak
+ Auswurf <m>; Exkrement; Kot <m>; Unrat
+kalkoen
+ Truthahn
+kalm
+ 1. fromm; gelassen; ruhig; sanft
+ 2. gelassen; gemütlich; ruhig; still
+kalmeer
+ beruhigen
+kam
+ kämmen
+kameel
+ Kamel <n>
+kameelperd
+ Giraffe <f>
+kamer
+ Gemach; Stube; Zimmer <n>
+kamp
+ 1. Campingplatz <m>; Zeltplatz <m>
+ 2. Lager <n>; Zeltlager
+kampeerterrein
+ Campingplatz <m>; Zeltplatz <m>
+kan
+ dürfen; können; vermögen
+kanaal
+ Graben <m>; Kanal <m>
+kandidaat
+ 1. Aspirant; Bewerber
+ 2. Bewerber; Kandidat <m>
+kangeroe
+ Kängeruh
+kans
+ Chance <n>
+kanselleer
+ annullieren; für null und nichtig erklären; kassieren
+kant
+ Flanke <f>; Seite <f>
+kantoor
+ 1. Büro; Geschäftszimmer; Kontor
+ 2. Amt <n>; Büro
+kantoorklerk
+ Angestellte <m>; Kanzlist
+kap
+ bröckeln; abbröckeln; krümeln; abkrümeln
+kaptein
+ 1. Hauptmann <m>; Kapitän
+ 2. Kapitän
+kar
+ 1. Auto <n>
+ 2. Fuder <m>; Fuhre; Karren
+karakter
+ Charakter <m>; Gemüt
+kas
+ Schrank <m>
+kasset
+ Kassette <f>
+kasteel
+ Burg <f>; Kastell <n>; Schloß
+kat
+ Katze <f>
+katalogus
+ Katalog <m>; Verzeichnis <n>
+katolisisme
+ Katholizismus <m>
+keel
+ Gurgel <f>; Kehle <f>
+keer
+ 1. Mal
+ 2. anhalten; bremsen; sperren
+kelder
+ Keller
+kelner
+ Kellner
+ken
+ kennen
+kennis
+ 1. Bekannter <m>
+ 2. Begriff <m>; Kenntnis <f>; Kenntnisse
+ 3. Kenntnis <f>; Wissen <n>; Wissenschaft <f>
+kennisgewing
+ 1. Auskunft <f>; Bericht <m>; Bescheid
+ 2. Bericht <m>; Mitteilung <f>; Nachricht <f>
+ 3. Auskunft <f>; Bekanntmachung <f>
+kers
+ Kerze <f>; Licht <n>
+keuse
+ Auslese <f>; Wahl <f>
+kies
+ auslesen; wählen; auswählen; erwählen
+kiesel
+ Silicium; Silizium <n>
+kilogram
+ Kilogramm <n>
+kilometer
+ Kilometer <m>
+kind
+ 1. Abkomme <m>; Abkömmling; Ableger; Sproß; Sprößling
+ 2. Kind <n>
+ 3. Kind <n>
+kiosk
+ Kiosk
+kla
+ klagen; sich beklagen; verklagen
+klaar
+ 1. bereits; schon
+ 2. bereit; erbötig; fertig
+klank
+ 1. Hall; Klang <m>; Laut; Schall <m>; Ton <m>
+ 2. Laut
+klap
+ klopfen; schlagen
+klaploper
+ Parasit <m>; Schmarotzer
+klas
+ Klasse <f>
+klassiek
+ klassisch
+klavier
+ Klavier <n>
+klee
+ anziehen; kleiden; ankleiden; bekleiden
+klein
+ gering; klein
+kleindogter
+ Enkelin <f>
+kleingeld
+ 1. Kleingeld <n>
+ 2. Kleingeld <n>
+kleinseun
+ Enkel
+klere
+ Kleider
+kleur
+ 1. Farbe <f>
+ 2. färben
+kleurryk
+ bunt
+klier
+ Drüse
+klik
+ klacken; klappen; schnalzen
+klim
+ klettern; klimmen
+klimaat
+ Klima <n>
+kliniek
+ Klinik <f>
+klink
+ gellen; klingen; läuten; tönen
+kliënt
+ Klient <m>; Kunde <m>
+klomp
+ Ar
+kloof
+ Schlucht <f>
+klub
+ Klub <m>
+knal
+ erschallen
+knie
+ Knie <n>
+knip
+ Verschluß
+knippie
+ Kniff <m>
+knoop
+ Knoten
+kobalt
+ Kobalt <n>
+kodeks
+ Kodex
+koei
+ Kuh <f>
+koel
+ kühl
+koepee
+ Abteil <n>; Coupé; Kupee
+koerant
+ 1. Zeitung <f>
+ 2. Journal <n>; Zeitung <f>
+koeël
+ Kugel <f>
+koffer
+ Koffer
+koffie
+ Kaffee <m>
+kollega
+ Amtsbruder <m>; Amtsgenosse; Genosse <m>; Kollege <m>
+kollege
+ Kollegium <n>
+kolom
+ Kolumne <f>; Säule; Spalte <f>
+kolonie
+ Ansiedelei; Ansiedlung; Kolonie <f>
+kom
+ kommen
+kombuis
+ Küche
+komedie
+ Komödie; Lustspiel <n>
+kommandant
+ Befehlshaber <m>
+kommentaar
+ Erläuterung; Kommentar <m>
+kommissie
+ Courtage
+kompak
+ fest; kompakt; massig
+kompartement
+ Abteil <n>; Coupé; Kupee
+kompetisie
+ Konkurrenz‐Prüfung; Preisausschreiben; Wettbewerb <m>
+koms
+ 1. Ankunft <f>; Eintreffen <n>
+ 2. Kommen
+kondor
+ Kondor <m>
+kondukteur
+ Aufseher; Führer; Kondukteur; Schaffner <m>
+koning
+ König
+koninkryk
+ Königreich
+konsep
+ 1. Brouillon
+ 2. Entwurf <m>; Plan <m>; Projekt <n>
+konsert
+ Musikaufführung; Konzert <n>
+konsul
+ Konsul <m>
+kontak
+ Berührung; Kontakt <m>
+kontant
+ 1. bar; kontant
+ 2. bar
+kontrak
+ Akkord <m>; Traktat; Vertrag <m>
+kontrole
+ Verwaltung <f>
+kontroleer
+ kontrollieren; nachsehen; überwachen
+konyn
+ Kaninchen
+kook
+ 1. brausen; kochen; sieden; wallen
+ 2. kochen
+koors
+ Fieber <n>
+kop
+ 1. Kopf <m>
+ 2. Kopf <m>
+kopiereg
+ Verlagsrecht <n>
+koppelaar
+ Kupplung <f>
+koppie
+ Tasse <f>
+kort
+ 1. kurz
+ 2. kurz
+kos
+ 1. kosten
+ 2. Gericht <n>; Speise <f>
+ 3. Ätzung; Ernährung; Futter <n>; Nahrung <f>; Nahrungsmittel <n>
+kosmetiek
+ Kosmetik <f>
+kostelik
+ 1. herrlich; stattlich; wunderbar
+ 2. ausgezeichnet; gediegen; trefflich; vortrefflich; vorzüglich
+kou
+ kauen
+kous
+ Strumpf <m>
+krag
+ Gewalt <f>; Kraft <f>
+krap
+ kratzen; ritzen
+kreef
+ 1. Krebs
+ 2. Hummer
+kreëer
+ schaffen; erschaffen
+krimpvark
+ Igel
+krisis
+ Krisis; Krise <f>
+kristal
+ Kristall <m>
+kriterium
+ Kriterium <n>
+kritiseer
+ begutachten; kritisieren
+krokodil
+ Krokodil <n>
+kronkel
+ sich schlängeln
+kropslaai
+ Kopfsalat <m>; Lattich; Salat <m>
+kruier
+ Dienstmann <m>; Gepäckträger; Träger
+kruip
+ kriechen
+kruis
+ Kreuz <n>
+kruisskyf
+ Beefsteak
+kry
+ bekommen; empfangen; erhalten
+kubus
+ Kubus; Würfel
+kudde
+ Ar
+kuier
+ besuchen; einen Besuch abstatten
+kultuur
+ Kultur <f>
+kunstenaar
+ Artist <m>
+kunstig
+ anstellig; behende; fix; geschickt; geübt; gewandt
+kurk
+ Kork <m>; Pfropfen <m>; Stöpsel
+kursus
+ Kurs <m>; Kursus
+kus
+ 1. Kuß
+ 2. Küste
+kussing
+ Kissen
+kwaai
+ böse; schlecht
+kwalifiseer
+ qualifizieren
+kwartier
+ Viertel <n>; Viertelstunde <f>
+kwessie
+ 1. Frage <f>
+ 2. Disput; Streit <m>; Wortwechsel <m>; Zank <m>
+kyker
+ Zuschauer
+laag
+ Scheibe <f>; Schicht <f>
+laai
+ 1. Lade <f>; Schublade <f>; Tischlade
+ 2. beauftragen; belasten; laden; aufladen; beladen
+laat
+ 1. lassen; überlassen; unterlassen; zurücklassen
+ 2. spät
+ 3. spät
+laatste
+ letzte; letzter; letztes
+lag
+ lachen
+laken
+ Betttuch; Bettlaken; Laken <n>
+lam
+ Lamm <n>
+lama
+ Lama
+lamp
+ Lampe <f>
+landbou
+ Ackerbau <m>
+landskap
+ Landschaft <f>
+lang
+ lang
+langdurig
+ weitläufig
+langs
+ 1. an; bei; neben
+ 2. neben
+langsaan
+ beiläufig; dabei; daneben
+lank
+ lange
+later
+ dann; darauf; hernach; hierauf; hinten; hinterher; nachher; später
+lawaai
+ 1. Aufsehen <n>; Braus
+ 2. Aufruhr <m>; Aufstand <m>; Getümmel; Krawall <m>; Tumult
+leef
+ leben
+leek
+ Laie <f>
+leen
+ borgen; entlehnen
+leer
+ 1. lehren; belehren; instruieren; unterrichten; unterweisen
+ 2. Leder <n>
+ 3. lernen
+leerling
+ Zögling
+lees
+ lesen
+leeu
+ Löwe
+leeuwyfie
+ Löwin
+legende
+ Legende <f>
+lei
+ 1. führen; leiten; lenken
+ 2. führen; leiten
+leiding
+ Estrade
+leier
+ Führer
+lek
+ Loch <n>
+lekker
+ behaglich; herrlich; genehm; angenehm
+lektor
+ Lektor
+lelie
+ Lilie <f>
+lelik
+ häßlich
+lemoen
+ Apfelsine <f>; Orange <n>; Pomeranze
+lening
+ Anleihe <f>; Borg; Leihen
+lente
+ Frühjahr; Frühling; Lenz <m>
+lepel
+ Löffel
+les
+ Lehraufgabe; Lektion <f>; Unterrichtsstunde
+lessenaar
+ Pult <n>
+lettergreep
+ Silbe <f>
+letterkunde
+ Literatur <f>
+leunstoel
+ Fauteuil; Lehnstuhl <m>
+lewe
+ Leben
+lewendig
+ aufgeweckt; flink; frisch; gewandt; hurtig; munter; wach
+lewer
+ 1. Leber <f>
+ 2. liefern
+leër
+ 1. Armee <f>; Heer <n>
+ 2. rmee; Heer <n>
+lid
+ 1. Anhänger; Glied <n>
+ 2. Glied <n>; Mitglied <n>
+liefhê
+ gern haben; lieben; mögen
+lieflik
+ süß
+lief wees vir
+ achten; mögen; schätzen; wertschätzen; würdigen
+liewer
+ 1. lieber
+ 2. am liebsten; lieber
+lig
+ Licht <n>
+liggaam
+ Körper; Leib <m>
+lindeboom
+ Linde <f>; Lindenbaum
+linguïstiek
+ Linguistik
+links
+ links
+linne
+ Leinenzeug; Wäsche
+lisensie
+ Erlaubnis <f>; Gewerbeschein <m>; Lizenz <m>
+liter
+ Liter
+literatuur
+ Literatur <f>
+logies
+ logisch
+lok
+ ködern; locken
+long
+ Lunge <f>
+loop
+ fließen; rinnen; strömen
+lork
+ Lärche
+lorkboom
+ Lärche
+lot
+ 1. Bestimmung <f>
+ 2. Verhängnis
+ 3. Fügung; Geschick <n>; Los <n>; Schicksal <n>; Verhängnis
+lourier
+ Lorbeer <m>; Lorbeerbaum <m>
+lug
+ Luft <f>
+lui
+ 1. faul
+ 2. faul; träge
+ 3. gellen; klingen; läuten; tönen
+luiperd
+ Leopard <m>
+luister
+ anhören; horchen; aushorchen; zuhören
+luister naar
+ anhören; horchen; aushorchen; zuhören
+lupien
+ Wölfin
+lupine
+ Wölfin
+lus
+ Inklination; Lust <f>
+luukse
+ 1. luxuriös
+ 2. Aufwand <m>; Luxus <m>
+lyf
+ Körper; Leib <m>
+lyk
+ 1. Kadaver; Leiche <f>
+ 2. scheinen
+lyn
+ Linie <f>; Strich <m>; Zeile <f>
+lys
+ Liste <f>; Verzeichnis <n>
+lê
+ gelegen sein; liegen
+ma
+ Mutter <m>
+maag
+ Magen <m>
+maak
+ anfertigen; herstellen; leiten; machen; tun; zurücklegen
+maal
+ Mal
+maaltyd
+ Essen <n>; Fraß; Mahlzeit <f>
+maan
+ Mond <m>
+maand
+ Monat <m>
+maar
+ 1. aber; allein; dagegen; sondern
+ 2. aber; doch; dennoch; jedoch
+maer
+ 1. mager
+ 2. hager; mager
+mag
+ 1. Gewalt <f>; Kraft <f>
+ 2. dürfen
+ 3. Gewalt <f>; Macht <f>; Potenz <m>
+ 4. dürfen; können; vermögen
+ 5. Fähigkeit; Gewalt <f>; Können; Kraft <f>; Macht <f>; Vermögen
+ 6. dürfen
+makker
+ Genosse <m>; Kamerad <m>
+maklik
+ 1. geläufig; leicht; mühelos; nicht schwierig
+ 2. bequem; gemächlich; wohnlich
+mal
+ irre; toll; verrückt; wahnsinnig
+malmok
+ Murmeltier <n>
+malmokkie
+ 1. Meerschweinchen <n>
+ 2. Murmeltier <n>
+mal wees oor
+ mögen
+man
+ Ehemann <m>; Gatte <m>; Gemahl; Gespons
+mandjie
+ Korb <m>
+mangaan
+ Mangan <n>
+mark
+ 1. Basar <m>; Markt <m>; Warenhaus <n>
+ 2. Marktplatz <m>
+marmotjie
+ 1. Meerschweinchen <n>
+ 2. Murmeltier <n>
+marter
+ Marder
+masboom
+ Föhre; Kiefer
+masjien
+ Maschine <f>
+masker
+ Maske <f>
+massa
+ 1. Haufen; Menge <f>; Stapel <m>
+ 2. Masse <f>
+mat
+ Teppich <m>
+materieel
+ materiell
+matig
+ mäßig
+medies
+ medizinisch
+medium
+ mittlere; mittlerer; mittleres; Mittel‐
+meebring
+ mitbringen; mitnehmen
+meedeel
+ 1. anschließen; mitteilen; teilhaftig machen; verbinden
+ 2. angeben; ankundigen; melden; mitteilen; verkünden
+meen
+ 1. glauben
+ 2. vermuten; voraussetzen
+meer
+ 1. See <m>
+ 2. mehr
+ 3. ferner; fürder; mehr; weiter
+meeste
+ meist; am meisten
+meganisme
+ Mechanismus <m>
+meisie
+ Dirne <f>; Mädchen
+mekaar
+ einander
+meld
+ 1. ankündigen; anzeigen; avisieren; melden; anmelden; verkünden
+ 2. angeben; berichten; melden; rapportieren; referieren
+ 3. angeben; ankundigen; melden; mitteilen; verkünden
+melk
+ Milch <f>
+meng
+ mengen; mischen
+mengsel
+ Gemisch <n>
+menigte
+ Haufen; Menge <f>; Stapel <m>
+mening
+ Äußerung; Gesinnung <f>; Gutdünken; Meinung <f>
+mens
+ Mensch <m>
+mensekind
+ Mensch <m>
+merk
+ 1. auffassen; perzipieren; wahrnehmen
+ 2. bemerken
+merrie
+ Stute <f>
+merrieperd
+ Stute <f>
+mes
+ Messer
+met
+ 1. in Begleitung von; mit; zusammen mit; zuzüglich
+ 2. durch; kraft; mit; mittelst; vermittels
+meter
+ Meter
+meubel
+ Möbel
+middagete
+ Diner; Mittagessen
+mielies
+ Mais <m>
+miljoen
+ Million <f>
+millimeter
+ Millimeter
+min
+ 1. wenig
+ 2. wenig
+minder
+ weniger
+mineraal
+ Mineral <n>
+minister
+ Minister <m>
+minste
+ mindest; wenigst
+minuut
+ Minute <f>
+mis
+ Nebel
+miskien
+ eventuell; möglicherweise; vielleicht; wohl
+misterieus
+ geheimnissvoll; mysteriös
+mite
+ Mythus
+mode
+ Mode <f>; Weise <m;f>
+modern
+ modern
+moed
+ Mut <m>
+moedeloos
+ verzagt
+moeder
+ Mutter <m>
+moeg
+ matt; müde
+moeilik
+ schwer
+moeilikheid
+ Schwierigkeit <f>
+moeite
+ Mühe; Mühsal
+moet
+ müssen; sollen
+mol
+ Maulwurf <m>
+mond
+ Mund <m>
+monnik
+ Mönch
+monster
+ 1. Monstrum; Ungeheuer <n>; Ungetüm; Unhold
+ 2. Muster; Probe <f>; Probestück; Spezimen
+monument
+ Denkmal <m>; Monument
+mooi
+ hübsch; schön
+moontlik
+ angängig; etwaige
+moreel
+ moralisch; sittlich
+mossie
+ Spatz <m>; Sperling
+mot
+ Motte <f>
+motor
+ Auto <n>
+motorfiets
+ Kraftfahrrad; Motorrad <n>
+motorhawe
+ Garage <f>
+muis
+ Maus <f>
+munt
+ Geldstück; Münze
+muntstuk
+ Geldstück; Münze
+mus
+ Mütze
+museum
+ Museum <m>
+musiek
+ Musik <f>
+muur
+ Mauer <f>; Wand <f>
+my
+ 1. mir
+ 2. mir
+ 3. mir
+ 4. mir
+ 5. mein
+ 6. mich
+ 7. mich
+ 8. mich
+ 9. mich
+myl
+ Meile
+myn
+ Bergwerk <n>
+myne
+ der meine; die meine; das meine
+môre
+ morgen
+na
+ 1. an; in; nach; zu
+ 2. hinter; nach
+ 3. nachdem
+ 4. nahe
+naaldwerk doen
+ heften; nähen
+naam
+ 1. heißen; nennen; benennen; ernennen
+ 2. Name <m>
+naamlik
+ zwar
+naburig
+ angrenzend; anstoßend; benachbart
+naby
+ 1. an; bei; neben
+ 2. nahe
+nadat
+ nachdem
+naderkom
+ bevorstehen
+nael
+ Nagel <m>
+nag
+ Nacht <f>
+nagereg
+ Dessert <n>; Nachtisch <m>
+nagvlinder
+ Motte <f>
+nakomelingskap
+ Generation; Nachkommenschaft; Nachwuchs <m>
+namekaar
+ hinter einander
+nar
+ Hanswurst <m>; Harlekin <m>
+narkose
+ Betäubung; Narkose <f>
+nasien
+ revidieren
+nasionaal
+ national
+nasionaliteit
+ Staatsangehörigkeit
+nat
+ naß
+natuur
+ 1. Natur <m>
+ 2. Natur <m>
+natuurlik
+ 1. verständlich
+ 2. natürlich
+ 3. natürlich
+naverwantskap
+ Verwandtschaft <f>
+navorsing
+ Examen <n>
+navraag
+ Frage <f>
+na ... toe
+ an; in; nach; zu
+na behore
+ zurecht
+nee
+ kein; nicht
+neef
+ 1. Cousin <m>; Vetter <m>
+ 2. Neffe <m>
+neem
+ 1. annehmen; empfangen; genehmigen
+ 2. fassen; nehmen
+nege
+ neun
+negentien
+ neunzehn
+negentig
+ neunzig
+nek
+ Hals <m>
+net
+ 1. allein; bloß; erst; lediglich; nur
+ 2. gerade
+ 3. eben; gerade; just; soeben
+netnou
+ bald; alsbald; baldig
+neus
+ Nase <f>
+nie
+ nein
+niemand nie
+ keine; keiner; keines; niemand
+nier
+ Niere <f>
+nietemin
+ aber; doch; dennoch; jedoch
+nig
+ Nichte <f>
+niggie
+ 1. Base <f>; Kusine <f>
+ 2. Nichte <f>
+niks
+ 1. nichts
+ 2. gar nichts
+niks nie
+ nichts
+nodig hê
+ benötigen; brauchen; nötig haben
+noem
+ nennen
+nog
+ noch
+nogal
+ 1. ein bischen; ein wenig; etwas; ziemlich
+ 2. inmitten
+ 3. genug; genügend; hinlänglich; ziemlich
+nommer
+ Nummer <f>
+noodhulp
+ Erste Hilfe; Unfallhilfe
+nooi
+ einladen
+noordelik
+ nördlich
+noordpool‐
+ arktisch; nordpolar
+noot
+ 1. Bon; Schein <m>
+ 2. Aufzeichnung <f>; Note <f>; Notiz <f>
+normaal
+ normal
+notisie
+ Aufzeichnung <f>; Note <f>; Notiz <f>
+nou‐nou
+ bald; alsbald; baldig
+nou
+ jetzt; gegenwärtig; nun
+nou net
+ eben; gerade; just; soeben
+nuus
+ Neues; Neuheit <f>; Neuigkeit <f>
+nuuskierig
+ 1. neugierig
+ 2. gespannt; neugierig
+ 3. neugierig
+nuut
+ neu
+nuweling
+ Novize
+nywerheid
+ Gewerbe <n>; Industrie <f>
+nêrens nie
+ nirgends
+o
+ ach; o; ho; oh
+oefen
+ exerzieren; üben; einüben
+oefening
+ Exerzitium; Übung
+oeros
+ Auerochs; Ur
+of
+ oder
+offisieel
+ amtlich; offiziell
+olie
+ Öl
+olifant
+ Elefant <m>
+olm
+ Rüster; Ulme <f>
+om
+ 1. um
+ 2. an; bei; zu
+omdat
+ 1. da; weil
+ 2. da; weil
+ 3. da; denn; weil
+omgewing
+ Umgebung <f>
+omsit
+ antun; anziehen
+omstandigheid
+ Bewandnis; Umstand <m>
+omtrent
+ annähernd; etwa; ungefähr
+om te
+ für; um; um zu
+onaangenaam
+ wiederwärtig
+ondankbaar
+ undankbar
+onder
+ 1. unter; unterhalb
+ 2. unten; unterhalb
+onderaan
+ unten
+onderdaan
+ Untertan <m>
+onderdruk
+ 1. erpressen; unterdrücken
+ 2. erdrosseln; ersticken; erwürgen
+onderhoud
+ 1. Gespräch; Unterhaltung <f>; Unterredung <f>
+ 2. Interview <n>
+onderklere
+ Wäsche
+onderneming
+ Unternehmung <f>
+ondersoek
+ 1. examinieren; inspizieren; nachsehen; prüfen; untersuchen
+ 2. Examen <n>
+ 3. forschen; ausforschen; erforschen; unterforschen; untersuchen
+ondersteun
+ stemmen; unterhalten; unterstützen
+ondertoe
+ 1. abwärts; herab; herunter; hinab; hinunter
+ 2. hinunter; nach unterhalb; unterwärts
+ondervinding
+ Erfahrung <f>
+onderwerp
+ Thema <n>
+onderwys
+ Unterricht <m>
+onderwyser
+ Lehrer
+onderwyseres
+ Lehrerin <f>
+ongeduldig
+ 1. ungeduldig
+ 2. ungeduldig
+ongeluk
+ Unfall <m>
+ongelukkig
+ unglücklig
+onjuis
+ 1. falsch; irrig
+ 2. verkehrt
+onreg
+ Unbill; Unrecht <n>
+ons
+ 1. uns
+ 2. uns; unser; wir
+ 3. unser; unsere; unsre; unserige
+ 4. uns
+onskuldig
+ harmlos
+ons s'n
+ der unsere; das unsere
+ontbied
+ entbieten; holen; kommen lassen
+ontbreek
+ fehlen; mangeln; ermangeln
+ontbyt
+ Frühstück
+ontdek
+ abdecken; entdecken; enthüllen
+onthaal
+ Bewirtung; Speisung
+onthou
+ 1. behalten; gedenken; sich erinnern
+ 2. behalten
+ontklee
+ entkleiden
+ontlok
+ 1. ausschließen; aussondern
+ 2. entlocken; entziehen; extrahieren; zapfen; zücken
+ontmoet
+ antreffen; begegnen
+ontploffing
+ Explosion <f>
+ontslaan
+ abdanken; entlassen; verabschieden
+ontspan
+ sich zerstreuen
+ontspanning
+ Erholung <f>
+ontvang
+ bekommen; empfangen; erhalten
+ontvangs
+ Empfang <m>; Erhalten
+onvatbaar
+ immun
+oog
+ Auge <n>
+oogmerk
+ Ziel <n>; Zweck <m>
+ooi
+ Mutterschaf <n>
+ook
+ auch; ebenfalls; gleichfalls
+oom
+ Onkel <m>
+oomblik
+ Augenblick <m>; Moment <m>
+oomskind
+ Cousin <m>; Vetter <m>
+oop
+ offen
+oopgaan
+ aufgehen
+oopmaak
+ aufmachen; öffnen
+oor
+ 1. Ohr <n>
+ 2. hinter; nach
+ 3. anbelangt; betreffend; über; von
+ 4. oberhalb; über
+oordeel
+ 1. richten; urteilen; beurteilen
+ 2. Gericht <n>; Gutachten <n>; Spruch <m>; Urteil <n>
+oordra
+ 1. angeben; herreichen; verbringen; zubringen
+ 2. angeben; aushändigen; einhändigen; herreichen; überliefern
+ooreenkoms
+ Abkommen <n>; Einklang <m>; Übereinkommen; Übereinkunft; Übereinstimmung
+ooreenstemming
+ Abkommen <n>; Einklang <m>; Übereinkommen; Übereinkunft; Übereinstimmung
+oorgang
+ Übertritt
+oorleef
+ überleben
+oorlog
+ Krieg <m>
+oorlog voer
+ kriegen; Krieg führen
+oorsend
+ schicken; senden; einsenden
+oorsending
+ Sendung <f>
+oorsig
+ Übersicht
+oorskry
+ entern; übergeben; übertreten
+oorsprong
+ 1. Genesis
+ 2. Ursprung <m>
+oorspronklik
+ 1. ursprünglich; Ursprungs‐
+ 2. eigentümlich; originell
+oorsteek
+ entern; übergeben; übertreten
+oortreding
+ Sünde
+oortree
+ sündigen; sich versündigen
+oorweeg
+ 1. berücksichtigen; betrachten; erwägen; sich überlegen
+ 2. bedenken; erwägen; sich überlegen
+oorwinning
+ Sieg <m>
+ooste
+ Orient <m>; Osten <m>
+oostelik
+ östlich
+ooswaarts
+ nach Osten; ostwärts
+op
+ 1. in; nach; pro; zu
+ 2. an; auf
+opdrag
+ 1. Auftrag <m>; Bestellung <f>; Kommission <f>
+ 2. Mission
+opera
+ Oper <f>
+operasie
+ Operation <f>
+opereer
+ operieren
+opgaan
+ 1. steigen; ersteigen
+ 2. besteigen
+ophang
+ anhängen; aufhängen; erhängen; henken
+ophef
+ Aufsehen <n>; Braus
+ophou
+ 1. enden; endigen
+ 2. aufhören
+opinie
+ Äußerung; Gesinnung <f>; Gutdünken; Meinung <f>
+opklaar
+ 1. erhellen
+ 2. sich aufklären
+oplaai
+ entflammen
+oplei
+ 1. aufziehen; bilden; erziehen; züchten
+ 2. lehren; belehren; instruieren; unterrichten; unterweisen
+ 3. befähigen
+opleiding
+ Erziehung <f>
+oplewer
+ erzeugen; hervorbringen; produzieren
+oplossing
+ 1. Auflösung
+ 2. Auflösung; Lösung
+opmerk
+ bemerken
+opmerking
+ 1. Anschauung
+ 2. Bemerkung <f>
+ 3. Bemerkung <f>; Beobachtung <f>; Vermerk <m>
+oppas
+ achtgeben; aufpassen; beachten; zusehen
+opperbevelhebber
+ Generalissimus <m>; Oberfeldherr
+oppervlakte
+ Flächeninhalt
+oppik
+ fassen; nehmen
+opraak
+ zehren
+oproep
+ 1. anrufen; zurufen
+ 2. Anruf <m>; Zuruf <m>
+opsig
+ Beziehung <f>; Hinsicht <f>; Verbindung <f>; Verhältnis
+opsit
+ antun; anziehen
+opstaan
+ 1. aufstehen; sich stellen
+ 2. aufgehen; sich erheben; steigen
+ 3. aufstehen; sich stellen; sträuben
+opstandig
+ 1. abtrünnig; widerspenstig
+ 2. aufrührerisch; wiederspenstig
+optel
+ fassen; nehmen
+optree
+ 1. agieren; handeln; verfahren; vorgehen; wirken
+ 2. ausschreiten
+optrek
+ heben; aufheben; erheben; zücken
+opvatting
+ 1. Gedanke <m>; Idee <f>; Vorstellung <f>
+ 2. Konzept <n>
+ 3. Äußerung; Gesinnung <f>; Gutdünken; Meinung <f>
+opvoering
+ Darbietung; Darreichung; Darstellung <f>; Vorlegung; Vorstellung <f>
+opwen
+ aufziehen; spannen; anspannen; ausspannen; straffen
+op die proef stel
+ erproben
+op tyd
+ beizeiten; zeitig; zur rechten Zeit
+oral
+ allenthalben; allerorten; überall
+organisasie
+ Einrichtung <f>; Organisation <f>
+organiseer
+ einrichten; organisieren
+orgidee
+ Orchidee <f>
+orkes
+ Orchester <n>
+oseaan
+ Ozean <m>; Weltmeer
+otter
+ Fischotter
+oud
+ 1. alt; bejahrt; betagt
+ 2. alt
+ouderdom
+ Alter <n>
+ouerloos
+ verwaist; Waisen‐
+ouers
+ Eltern
+o wêreld
+ weh; wehe
+pa
+ Vater <m>
+pad
+ Bahn <f>; Chaussee; Strecke <f>; Weg <m>
+padda
+ 1. Kröte
+ 2. Frosch <m>
+pak
+ 1. packen; einpacken
+ 2. packen; einpacken; verpacken
+pakket
+ Ballen; Paket <n>
+pakkie
+ Bündel; Päckchen; Paket <n>
+pakplek
+ Gewahrsam <m>
+pak klere
+ Anzug <m>; Gewand <n>; Kostüm; Tracht <f>
+paling
+ Aal <m>
+palladium
+ Palladium
+pampoen
+ Kürbis
+pan
+ 1. Bratpfanne <f>; Kasserole; Kochpfanne; Pfanne <f>
+ 2. Pfanne <f>
+ 3. See <m>
+ 4. Pfanne <f>
+pap
+ leer
+papegaai
+ Papagei <m>
+paradys
+ Paradies <n>
+parasiet
+ 1. Parasit <m>; Schmarotzer
+ 2. Parasit <m>; Schmarotzer
+parfuum
+ Parfüm
+party
+ 1. Feier <f>; Fest <n>
+ 2. mancher; viele
+ 3. viel; viele
+pas
+ 1. behagen; fügen; ziemen; geziemen
+ 2. allein; bloß; erst; lediglich; nur
+ 3. anziehen; kleiden; ankleiden; bekleiden
+passasier
+ Fahrgast <m>; Passagier <m>
+pater
+ Pater <m>
+pawiljoen
+ Pavillon <m>
+peer
+ Birne <f>
+peil
+ sondieren
+pensioentrekker
+ Emeritus
+pensionaris
+ Emeritus
+peper
+ Pfeffer <m>
+per
+ 1. in; nach; pro; zu
+ 2. durch; kraft; mit; mittelst; vermittels
+ 3. pro
+perd
+ Gaul <m>; Pferd <n>
+permanent
+ 1. fest
+ 2. beständig; fest; konstant; ständig; stetig; unablässig
+ 3. immer; stätig; stets
+perron
+ Bahnsteig <m>; Kai <m>
+persent
+ 1. Prozent <n>
+ 2. Prozent <n>
+ 3. Prozent <n>; Zins <m>
+persentasie
+ Prozent <n>
+persepsie
+ Auffassung <f>; Wahrnehmung <f>
+perske
+ Pfirsich <m>
+persoon
+ Person <f>
+persoonlik
+ 1. individuell
+ 2. persönlich
+petrol
+ Benzin <n>
+piano
+ Klavier <n>
+piekniek
+ Picknick <n>
+piesang
+ Banane <f>
+pil
+ Pille <f>
+pit
+ Kern <n>; Obststein
+plaas
+ 1. Bauernhof <m>; Besitzung; Gut <n>; Landgut
+ 2. legen; stellen
+ 3. legen; setzen; stecken; stellen
+plaaslik
+ lokal; örtlich
+plaat
+ Diskus <m>; Wurfscheibe <f>
+plaatsvind
+ geschehen; passieren; sich ereignen; stattfinden; vorkommen
+plak
+ 1. kleben; leimen
+ 2. Tafel <f>
+ 3. Scheibe <f>; Schnitte
+plan
+ 1. Absicht <f>; Plan <m>
+ 2. Abriß; Entwurf <m>; Plan <m>; Riß; Grundriß
+ 3. Entwurf <m>; Plan <m>; Projekt <n>
+plant
+ Anlage <f>; Pflanzen; Anpflanzen; Pflanzung <f>; Anpflanzung
+pleeg
+ anfertigen; herstellen; leiten; machen; tun; zurücklegen
+plek
+ 1. Anstalt; Gelaß; Ort <m>; Platz <m>; Stelle <f>
+ 2. Fleck <m>; Ort <m>; Platz <m>; Stätte; Stelle <f>; Terrain <n>
+plesier
+ Freude <f>; Genuß; Vergnügen; Wohlgefallen
+plig
+ Gebühr
+ploert
+ 1. Gauner; Halunke <m>; Schuft <m>; Schurke <m>; Spitzbube
+ 2. Bandit <m>; Canaille; Kanaille; Schuft <m>; Schurke <m>
+plooi
+ furchen
+pluimvee
+ Federvieh
+poeding
+ Pudding
+poeier
+ 1. Puder <n>
+ 2. Pulver <n>
+poging
+ 1. Bemühung; Mühe; Mühsal; Versuch <m>
+ 2. Probe <f>; Prüfung; Versuch <m>
+poliesman
+ 1. Polizist <m>; Schutzmann <m>
+ 2. Häscher; Polizist <m>; Schutzmann <m>
+polisie
+ Polizei <f>
+polisiestasie
+ Polizeiamt; Polizeiwache <f>
+politiek
+ politisch
+polities
+ politisch
+pomp
+ pumpen
+poot
+ Bein <n>; Pfote <f>; Unterschenkel <m>
+pop
+ Puppe <f>
+populier
+ Pappel <f>
+populêr
+ populär; volkstümlich
+porsie
+ Anteil <m>; Portion <f>; Ration <f>
+pos
+ 1. zur Post geben; zur Post tragen
+ 2. Posten <m>
+posbus
+ Postfach <n>
+posgeld
+ Frankatur; Porto <n>
+poskantoor
+ Postamt <n>
+pot
+ Hafen <m>; Kanne <f>; Krug <m>; Topf <m>
+pous
+ Papst <m>
+pouse
+ Pause <f>
+poësie
+ Dichtkunst <f>; Dichtung <f>; Poesie <f>
+praat
+ reden; sprechen
+pragtig
+ 1. herrlich; stattlich; wunderbar
+ 2. blank
+prakties
+ praktisch
+predikant
+ Pastor <m>; Pfarrer <m>
+prent
+ Film <m>
+president
+ Präsident
+presies
+ bündig
+presteer
+ erlangen; erzielen; reichen; erreichen
+pretensieus
+ anspruchsvoll
+preuts
+ prüde; zimperlich
+primitief
+ primitiv
+prinsipaal
+ Rektor <m>
+privaat‐
+ privat
+privaat
+ privat
+probeer
+ erproben; probieren; prüfen; versuchen
+probleem
+ Problem <n>
+produk
+ Erzeugung <f>; Produktion <f>
+produksie
+ Erzeugung <f>; Produktion <f>
+produseer
+ erzeugen; hervorbringen; produzieren
+proe
+ kosten; schmecken
+professioneel
+ beruflich; Berufs‐; berufsmäßig; Gewerbe‐; gewerbsmäßig
+professor
+ Professor <m>
+profyt
+ 1. Gewinn <m>; Überschuß; Verdienst <n>; Vorteil <m>
+ 2. Ertrag <m>; Gewinn <m>; Interesse <n>; Nutzen <m>; Überschuß; Verdienst <n>; Vorteil <m>
+program
+ Programm <n>
+projek
+ Entwurf <m>; Plan <m>; Projekt <n>
+prokureur
+ Jurist <m>; Rechtsgelehrter
+promosie
+ 1. Avancement
+ 2. Promotion
+proses
+ Prozeß
+protes
+ Einspruch <m>
+protesteer
+ anfechten; beanstanden; Einspruch erheben; protestieren
+provinsie
+ Provinz <f>
+prys
+ 1. loben; preisen; rühmen; verherrlichen
+ 2. loben; preisen; anpreisen
+ 3. Preis <m>
+publiek
+ öffentlich
+puik
+ ausgezeichnet; gediegen; trefflich; vortrefflich; vorzüglich
+puisie
+ Finne; Pickel
+punt
+ Punkt <m>
+put
+ Brunnen
+pyl
+ Pfeil <m>
+pyn
+ 1. Schmerz <m>; Weh
+ 2. Föhre; Kiefer
+pynappel
+ Ananas <f>
+pyp
+ Pfeife <f>
+questionnaire
+ Formular <n>
+raad
+ Rat <m>; Ratschlag <m>
+raadpleeg
+ befragen; konsultieren; nachschlagen; zu Rate ziehen
+raak
+ 1. geschehen; vorkommen; werden; zu stande kommen
+ 2. werden
+raamwerk
+ Einfassung <f>; Rahmen
+raas
+ stürmen; toben
+rabbi
+ Rabbiner
+radio
+ 1. Strahl <m>
+ 2. Radio <n>
+radium
+ Radium <n>
+rakkie
+ Bordbrett; Brett <n>; Regal <n>; Wandbrett
+ram
+ Widder <m>
+rapport
+ Bericht <m>; Meldung <f>; Rapport; Referat <n>; Vortrag <m>
+ras
+ Rasse <f>
+ratel
+ Dachs <m>
+rebel
+ 1. Aufrührer; Insurgent; Rebell <m>
+ 2. Rebell <m>
+rede
+ 1. Anlaß; Grund <m>; Ursache <f>; Veranlassung <f>
+ 2. Vernunft <f>; Verstand <m>
+ 3. Rationalität; Vernunftgemäßheit
+ree
+ 1. Reh <n>
+ 2. Kapriole <f>; Luftsprung <m>
+reeds
+ bereits; schon
+reg
+ 1. Befugnis <f>; Recht <n>
+ 2. authentisch; echt; recht; urkundlich; wahr; wahrhaft
+ 3. recht; richtig; zutreffend
+regeer
+ herrschen; beherrschen; regieren
+reghoekig
+ rechtwinklig
+regime
+ Regierungsform
+registreer
+ registrieren
+regmaak
+ reparieren
+regop
+ aufrecht; direkt; gerade; geradeaus; geradeswegs; geradezu
+regs
+ rechts
+regterkant
+ Steuerbord <n>
+regtig
+ tatsächlich
+regverdig
+ billig; gerecht
+reis
+ 1. reisen
+ 2. Reise <f>; Tour <f>
+rekenbord
+ Rechenbrett <m>
+rekening
+ 1. Faktura; Rechnung <f>; Warenrechnung
+ 2. Kalkul
+ 3. Konto <n>; Rechnung <f>
+rekenmeester
+ Buchrevisor
+rekenraam
+ Abakus; Kugelmaschine; Rechenmaschine <f>
+rektig
+ fürwahr; wahrhaftig; wahrlich; wirklich
+rem
+ Bremse <f>
+renoster
+ Nashorn <n>
+reparasie
+ Reparatur <f>
+republiek
+ Freistaat; Republik <f>
+res
+ 1. Bestand; Nachbleibsel; Rückstand; Überbleibsel
+ 2. Rest <m>; Übriges
+resep
+ Rezept <n>
+respek
+ Achtung <f>; Ehrfurcht <f>; Respekt
+respekteer
+ Achtung erweisen; respektieren
+reuk
+ Geruch <m>
+reus
+ Gigant <m>; Riese <m>
+revolusionêr
+ Revolutionär
+rewolwer
+ Revolver
+reël
+ 1. arrangieren; einrichten; ordnen; anorden; veranstalten
+ 2. Regel <f>
+reën
+ 1. regnen
+ 2. Regen <m>
+reënboog
+ Regenbogen <m>
+reënjas
+ Regenmantel <m>
+rig
+ dirigieren; führen; richten; steuern
+rigting
+ Kurs <m>; Richtung <f>
+ring
+ Ring <m>
+ritus
+ Ritus <m>
+rivier
+ Fluß
+rob
+ Seehund <m>
+robyn
+ Rubin <m>
+roer
+ 1. quirlen
+ 2. bewegen; erregen
+rog
+ Roggen <m>
+rok
+ Rock <m>; Frauenrock
+rol
+ Rolle <f>
+rolletjie
+ Brötchen; Semmel
+rolprent
+ Film <m>
+rolystervark
+ Igel
+romp
+ Rock <m>; Frauenrock
+rond
+ rund
+rondkyk
+ umsehen
+rood
+ 1. rot
+ 2. rot
+rooikat
+ Luchs <m>
+rook
+ 1. rauchen
+ 2. Rauch <m>
+room
+ Rahm <m>; Sahne <f>
+roos
+ Rose <f>
+rooster
+ Gitter
+rot
+ Ratte <f>
+rots
+ Fels <m>; Felsen; Steinmasse
+rou
+ arg; rauh; roh
+rubriek
+ Rubrik <m>
+rug
+ Rücken
+rugryer
+ Parasit <m>; Schmarotzer
+ruik
+ riechen; wittern
+rukkie
+ Augenblick <m>; Moment <m>
+rus
+ 1. ruhen; sich ausruhen
+ 2. Ruhe <f>
+rusie
+ Fehde <f>; Hader; Streit <m>; Zank <m>; Zwiespalt; Zwietracht <m>; Zwist <m>
+ry
+ 1. reiten
+ 2. fahren
+rybewys
+ Fahrerschein; Führerschein
+ryk
+ ausgiebig; reich; vermögend
+rykdom
+ Reichtum <m>
+ryp
+ reif
+rys
+ Reis <m>
+saad
+ Same <m>
+saag
+ sägen
+saak
+ Angelegenheit <f>; Ding <n>; Sache <f>; Werk
+saal
+ Sattel <m>
+saam
+ aneinander; beisammen; gesamt; insgesamt; zugleich; zusammen
+saambring
+ mitbringen; mitnehmen
+saamgaan
+ sich treffen; sich versammeln; zusammenkommen; zusammentreffen
+saam met
+ 1. in Begleitung von; mit; zusammen mit; zuzüglich
+ 2. zuzüglich
+saans
+ abends
+sag
+ weich
+sago
+ Sago <m>
+sak
+ Tasche <f>
+sakeman
+ 1. Händler; Kaufmann <m>
+ 2. Händler; Kaufmann <m>
+sal
+ werden
+salamander
+ Molch; Salamander <m>
+salaris
+ Gage <f>; Gehalt <n>; Salär
+salmander
+ Molch; Salamander <m>
+sambreel
+ Regenschirm <m>
+samelewing
+ Gesellschaft <f>
+sand
+ Sand <m>
+sandaal
+ Sandale <f>
+sanger
+ Berufssänger; Kantor <m>; Sänger
+sanksie
+ Sanktion <f>
+sap
+ Saft <m>
+sardien
+ 1. Sardelle <f>
+ 2. Sardine <f>
+sebra
+ Zebra <n>
+sedert
+ seit
+see
+ Meer <n>; See <m>
+seehond
+ Seehund <m>
+seekoei
+ Flußpferd
+seer wees
+ Schmerz verursachen; schmerzen; wehe tun
+seil
+ Segel
+seker
+ 1. allerdings; bestimmt; freilich; gewiß; immerhin; wohl; zwar
+ 2. wahrscheinlich; wohl
+sekerheid
+ 1. Bestimmtheit <f>; Gewißheit; Sicherheit <f>; Zuversicht <n>
+ 2. Sicherheit <f>
+sekerlik
+ allerdings; bestimmt; freilich; gewiß; immerhin; wohl; zwar
+seker maak
+ behaupten; bestätigen; vergewissern
+sektor
+ Sektor <m>
+selde
+ selten
+self
+ selber; selbst
+selfs
+ gar; ja; selbst; sogar
+sendeling
+ Missionar <m>
+sensitief
+ empfindlich; empfindsam; sensibel
+sent
+ Cent
+sentimeter
+ Centimeter; Zentimeter <n>
+sentraal
+ zentral
+sertifikaat
+ Attest <n>; Testimonium; Zeugnis <n>; Zertifikat <n>
+sertifiseer
+ behaupten; bestätigen; vergewissern
+servette
+ Serviette <f>
+ses
+ sechs
+sestien
+ sechzehn
+sestig
+ sechzig
+seun
+ 1. Sohn <m>
+ 2. Junge <m>; Knabe <m>
+sewe
+ sieben
+sewentien
+ siebzehn
+sewentig
+ siebzig
+seën
+ segnen
+siek
+ krank
+sien
+ 1. antreffen; begegnen
+ 2. sehen; ansehen
+sieraad
+ 1. Verzierung <f>; Zierat
+ 2. Ausschmückung; Dekoration <f>; Schmücken; Zierat
+sigaar
+ Zigarre <f>
+sigaret
+ Zigarette <f>
+sigbaar
+ augenscheinlich; bemerkbar; ersichtlich
+sigeuner
+ Zigeuner
+silicium
+ Silicium; Silizium <n>
+silwer
+ Silber <n>
+simbool
+ Symbol <n>
+simfonie
+ Symphonie
+simpatie
+ Sympathie <f>
+simpatiseer
+ sympathisieren
+sin
+ 1. Phrase <f>; Redensart <f>; Satz <m>
+ 2. Satz <m>; Satzgefüge
+sing
+ singen
+sinies
+ zynisch
+sinneloos
+ widersinnig
+sit
+ 1. legen; setzen; stecken; stellen
+ 2. sitzen
+sitkamer
+ Wohnzimmer
+situasie
+ 1. Fassung <f>; Lage <f>; Situation <f>; Zustand <m>
+ 2. Stand <m>; Zustand <m>
+sjokolade
+ Schokolade <f>
+skaak
+ Schach; Schachspiel
+skaal
+ Maßstab; Skala <f>
+skaam hom
+ sich schämen
+skaap
+ Hammel; Schaf <n>
+skaapkameel
+ Lama
+skaapvleis
+ Hammelfleisch <n>
+skaars
+ kaum
+skadu
+ 1. Schatten
+ 2. Schatten
+skakel
+ anrufen; telephonieren
+skakering
+ Abstufung <f>; Nuance; Schattierung <f>; Ton <m>
+skandaal
+ Ärgernis; Skandal <m>
+skare
+ 1. Haufen; Menge <f>; Stapel <m>
+ 2. Ar
+ 3. Bande <f>; Horde; Rotte <f>; Troß
+skat
+ Schatz <m>; Tresor <m>
+skatkis
+ Tresor <m>
+skeef
+ indirekt; obliquus; schief; schräg
+skeer
+ barbieren; rasieren
+skema
+ Schema <n>
+skemer
+ Zwielicht <n>
+skep
+ schaffen; erschaffen
+skerm
+ Schutzwand
+skerp
+ 1. scharf
+ 2. scharf
+skets
+ Entwurf <m>; Skizze <f>
+skielik
+ jäh
+skiereiland
+ Halbinsel <f>
+skil
+ Borke <f>; Hülse; Rinde <f>; Schale <f>
+skilderagtig
+ malerisch
+skildery
+ Bild <n>; Gemälde
+skilpad
+ Schildkröte
+skip
+ Schiff <n>
+skitterend
+ blank
+skoen
+ Schuh <m>
+skok
+ 1. rütteln; schütteln; schüttern; erschüttern
+ 2. Anstoß
+skool
+ 1. Ar
+ 2. Schule <f>
+skoon
+ blank; rein; reinlich; sauber
+skoonbroer
+ Schwager
+skoonseun
+ Eidam <m>; Schwiegersohn <m>
+skop
+ stampfen; trampeln
+skottelgoed
+ Gedeck; Service
+skouer
+ Achsel <f>; Schulter <f>
+skraal
+ mager
+skreeu
+ schreien
+skrif
+ Handschrift <f>
+skriftelik
+ Schrift‐; schriftlich
+skryf
+ schreiben
+skrywer
+ Schriftsteller; Verfasser
+skuim
+ schaumen
+skuld
+ 1. schulden; schuldig sein
+ 2. Ausstand <m>; Schuld <f>
+skuldig
+ schuldig
+skyf
+ 1. Diskus <m>; Wurfscheibe <f>
+ 2. Scheibe <f>; Schnitte
+skyn
+ scheinen
+skêr
+ Schere <f>
+slaaf
+ Knecht <m>; Sklave <f>
+slaag
+ Erfolg haben; gelingen
+slaai
+ Salat <m>
+slaap
+ 1. schlafen
+ 2. Schlaf <m>
+slaapkamer
+ Schlafzimmer
+slag
+ 1. Hieb <m>; Schlag <m>; Streich <m>
+ 2. erschlagen; schlachten
+slagter
+ Fleischer <m>
+slang
+ Schlange <f>
+sleep
+ schleppen; nachschleppen
+sleg
+ böse; schlecht
+slegs
+ allein; bloß; erst; lediglich; nur
+sleutel
+ Schlüssel
+slim
+ abgefeimt; arglistig; gerieben; gewiegt; gewitzigt; listig; schlau
+slinger
+ schmeißen
+sloot
+ Graben <m>
+sluit
+ zufallen
+sluk
+ schlingen; schlucken
+smaak
+ 1. schmecken
+ 2. Geschmack <m>
+smaaklik
+ delikat
+smeek
+ beschwören; flehen
+smeerlap
+ Wicht
+snags
+ nachts; nächtlicherweile
+snawel
+ Schnabel <m>
+sneeu
+ 1. schneien
+ 2. Schnee <m>
+snelheid
+ Eile <f>; Geschwindigkeit <f>; Hast <f>
+snelheidsgrens
+ Höchstgeschwindigkeit
+sny
+ 1. scheren; abscheren; schneiden; abschneiden
+ 2. Scheibe <f>; Schnitte
+ 3. Einschnitt <m>; Schnitt <m>
+so
+ annähernd; etwa; ungefähr
+soek
+ ausschauen nach; suchen; aufsuchen
+soen
+ küssen
+soet
+ süß
+sofa
+ Couch; Sofa <n>
+sog
+ Sau <f>
+sokkie
+ Halbstrumpf; Socke <f>
+solank
+ einstweilen; indes; inzwischen; unterdessen
+soldaat
+ Soldat <m>
+somer
+ Sommer <m>
+sommer
+ 1. lieber
+ 2. am liebsten; lieber
+sommige
+ ein paar; einige; einiger; einiges; etliche; manche
+somtyds
+ manchmal
+son
+ Sonne <f>
+sonde
+ Sünde
+sonder
+ ohne
+soort
+ Abart; Art <f>; Gattung <f>; Schlag <m>; Sorte <f>
+sorg
+ Sorge tragen; sorgen
+sorgvuldig
+ sorgfältig; sorgsam
+sosiaal
+ sozial
+sous
+ Brühe; Sauce <f>; Soße; Tunke <f>
+sout
+ Salz <n>
+sowaar
+ 1. freilich; tatsächlich
+ 2. fürwahr; wahrhaftig; wahrlich; wirklich
+sowat
+ annähernd; etwa; ungefähr
+so ... soos
+ ebenso ... wie; sowohl ... als
+so net
+ eben; gerade; just; soeben
+so 'n
+ derartige; derartiger; derartiges; solche; solcher; solches
+spaar
+ erübrigen; sparen; ersparen
+spaarbank
+ Sparkasse <f>
+spaargeld
+ 1. Ersparnis <f>
+ 2. Ersparnis <f>
+spandeer
+ 1. weihen; widmen; zueignen
+ 2. auslegen; verausgaben
+speel
+ spielen
+speler
+ Spieler
+sperma
+ Samen <m>; Sperma <n>
+spesiaal
+ spezial; speziell
+spesifiek
+ spezifisch
+spiraal
+ Spirale <f>
+spoed
+ 1. eilen; rennen
+ 2. Geschwindigkeit <f>; Tempo <n>
+spoel
+ 1. Haspel; Spule <f>
+ 2. gurgeln; spülen
+spog
+ ausposaunen; brüsten; prahlen; renommieren
+spook
+ Geist <m>; Gespenst <n>; Phantom <n>; Spuk <m>
+sport
+ Sport <m>
+spring
+ springen
+sprinkaan
+ Grashüpfer; Heuschrecke <f>
+sprong
+ Sprung <m>
+spuug
+ 1. speien; spucken
+ 2. speien; ausspeien; auswerfen; spucken
+spyskaart
+ Menü; Speisekarte <f>
+staal
+ Stahl <m>
+staan
+ 1. aushalten; austragen
+ 2. aushalten; ausstehen; ertragen
+ 3. stehen
+ 4. aushalten; dulden; erdulden; ertragen; leiden; erleiden
+staat
+ 1. Reich <n>; Staat <m>
+ 2. Stand <m>; Zustand <m>
+ 3. Staat <m>
+stad
+ Ort <m>; Stadt <f>
+stadigaan
+ allmählich; nach und nach; sukzessive
+staf
+ Stab <m>
+staking
+ Streik <m>; Strike
+stalhings
+ Hengst <m>
+stam
+ 1. Stamm <m>
+ 2. Stamm <m>; Baumstamm <m>; Strunk
+stamboom
+ 1. Generation; Geschlecht <n>
+ 2. Generation; Geschlecht <n>
+standaard
+ Norm <f>; Richtschnur <f>
+standbeeld
+ Bildsäule; Standbild <n>; Statue <f>
+standpunt
+ Standpunkt <m>
+stap
+ gehen; laufen; marschieren; treten
+stapel
+ Haufen; Menge <f>; Stapel <m>
+stasie
+ Bahnhof <m>
+stedeling
+ Bürger; Städter
+steeds
+ allemal; allzeit; fortwährend; immer; jederzeit; stets
+steel
+ entwenden; stehlen
+steenkool
+ Kohle <f>
+stelling
+ These <f>
+stelsel
+ System <n>
+stem
+ Stimme <f>
+ster
+ Stern <m>
+sterf
+ sterben
+sterk
+ kräftig; stark
+stert
+ Bürzel; Fahne <f>; Lunte <f>; Rute <f>; Schleppe; Schwanz <m>; Schweif; Sterz; Wedel <m>
+stewig
+ 1. fest; befestigt; haltbar; wiederstandsfähig
+ 2. gesetzt; solide
+stilhou
+ halten; anhalten; Halt machen; stocken; stoppen
+stoel
+ Stuhl <m>
+stoep
+ Veranda <f>
+stok
+ Stab <m>; Stecken; Stock <m>
+stop
+ 1. anhalten; bremsen; sperren
+ 2. plombieren
+storie
+ Erzählung; Geschichte <f>
+stort
+ Brause; Dusche <f>; Sturzbad
+straat
+ Straße
+straf
+ Bestrafung <f>; Strafe <f>
+strak
+ gespannt
+strand
+ Strand <m>
+strandwolf
+ Hyäne
+streek
+ Bereich <m>; Gebiet <n>; Gegend <f>; Region <f>
+strek
+ sich erstrecken
+stroom
+ fließen; rinnen; strömen
+struik
+ Gebüsch; Staude <f>; Strauch <m>
+struktuur
+ Bildung <f>; Struktur <f>
+studeer
+ studieren
+student
+ Student <m>
+studie
+ Studium <n>
+stuk
+ 1. Bruch <m>; Bruchstück; Fragment <n>; Stück
+ 2. Anteil <m>; Teil <n>
+ 3. Fleck <m>; Stück
+stukkend
+ defekt
+stuur
+ schicken; senden; einsenden
+styg
+ 1. aufgehen; sich erheben; steigen
+ 2. steigen; ersteigen
+styl
+ Stil <m>
+subsidie
+ Subvention <f>
+suggestie
+ Suggestion
+suide
+ Süden
+suidelik
+ südlich
+suidwaarts
+ nach Süden; südwärts
+suiker
+ Zucker <m>
+suinig
+ haushälterisch; ökonomisch; sparsam; wirtschaftlich
+suip
+ saufen; zechen
+suiwer
+ rein
+sukses
+ Erfolg <m>; Gelingen
+sultan
+ Sultan <m>
+suster
+ 1. Krankenschwester <f>
+ 2. Schwester <f>
+susterskind
+ 1. Nichte <f>
+ 2. Neffe <m>
+suurlemoen
+ Zitrone <f>
+swaai
+ schlingen; schwingen
+swaan
+ Schwan <m>
+swaer
+ Schwager
+swak
+ flau; gelinde; schwach
+swanger
+ 1. schwanger
+ 2. trächtig; schwanger
+swart
+ 1. schwarz
+ 2. Schwarz
+swarte
+ Neger <m>
+sweer
+ beeidigen; schwören; beschwören
+swem
+ schwimmen
+swerf
+ 1. wandern
+ 2. bummeln; herumschweifen; irren; streifen; umherstreifen; vagieren
+swerm
+ Gewimmel
+swerwer
+ Beduine
+swyn
+ Schwein <n>
+sy
+ 1. sein
+ 2. die; ihr; ihrer; sie
+syfer
+ Zahl <f>; Zahlzeichen <n>; Ziffer <f>
+syne
+ der seine; das seine; die seine
+sê
+ erwähnen; sagen
+taak
+ Arbeit <f>; Aufgabe <f>; Pensum <n>
+taal
+ Sprache <f>
+taamlik
+ 1. ein bischen; ein wenig; etwas; ziemlich
+ 2. inmitten
+ 3. ziemlich
+ 4. genug; genügend; hinlänglich; ziemlich
+tafel
+ Tisch <m>
+tafeldoek
+ Tischtuch <n>
+tafelskuimer
+ Parasit <m>; Schmarotzer
+tagtig
+ achtzig
+tak
+ Ast <m>; Zweig <m>
+takbok
+ Hirsch <m>
+taksisboom
+ Eibe <f>; Taxus
+tamatie
+ Tomate <f>
+tandarts
+ Zahnarzt <m>
+tandpyn
+ Zahnschmerz; Zahnschmerzen; Zahnweh <m>
+tans
+ jetzt; gegenwärtig; nun
+tarief
+ Tarif <m>
+taxi
+ Taxe; Taxi <n>
+te
+ zu; zu sehr; zu viel
+teater
+ Theater
+tee
+ Tee <m>
+teel
+ tierzüchten
+teen
+ 1. um
+ 2. an; gegen; gegenüber; wider
+teenoorgesteld
+ 1. invers; umgekehrt
+ 2. widerwärtig
+ 3. verkehrt
+teenstelling
+ 1. Antithese <f>; Gegensatz <m>; Gegenstellung
+ 2. Gegensatz <m>; Kontrast <m>
+teer
+ delikat; fein; gelinde; zart
+tegelyk
+ 1. einstweilen; indes; inzwischen; unterdessen
+ 2. zugleich
+tegnies
+ technisch
+tegnologie
+ Technologie <f>
+teken
+ 1. Signal <n>
+ 2. Abzeichen <n>; Anzeichen <n>; Kennzeichen; Merkzeichen; Wink <m>; Zeichen
+ 3. subskribieren
+teks
+ Text <m>
+tel
+ zählen; aufzählen
+telefoon
+ Telephon <n>
+telegrafeer
+ telegraphieren
+telegram
+ Telegramm <n>
+televisiestel
+ Fernsehapparat <m>; Fernsehgerät
+telraam
+ Abakus; Kugelmaschine; Rechenmaschine <f>
+tempel
+ Tempel
+temperatuur
+ Temperatur <f>; Witterung <f>
+tenk
+ 1. Behälter; Zisterne <f>
+ 2. Behälter
+tent
+ Baracke <f>; Zelt <n>
+ten behoewe van
+ zu ... Gunsten
+ten opsigte van
+ 1. betreffs; bezüglich
+ 2. betreffs; bezüglich
+ten spyte van
+ 1. trotz; ungeachtet
+ 2. trotz; ungeachtet; zum Trotz
+term
+ Ausdruck <m>; Terminus; Wort <n>
+tert
+ Torte <f>
+terug
+ zurück
+terugbesorg
+ vergelten; wiedergeben; zurückgeben
+terwyl
+ während
+tevrede
+ zufrieden
+te voet
+ zu Fuß
+tien
+ zehn
+tier
+ 1. Leopard <m>
+ 2. Tiger
+tipe
+ Typus
+tipies
+ typisch
+tjek
+ Bankanweisung; Scheck <m>
+toe
+ 1. an; in; nach; zu
+ 2. geschlossen; zu
+ 3. nu; nun; nun wohl
+ 4. damals; dann; alsdann; danach; hierauf
+toegang
+ Eingang <m>
+toeganklik
+ zugänglich
+toekoms
+ 1. Futur; Futurum; Zukunft <f>
+ 2. Zukunft <f>
+toemaak
+ schließen; verschließen; zumachen
+toepas
+ anwenden; verwenden
+toernooi
+ Turnier
+toeskouer
+ Zuschauer
+toespraak
+ Ansprache <f>
+toespreek
+ ansprechen
+toestand
+ 1. Fassung <f>; Lage <f>; Situation <f>; Zustand <m>
+ 2. Stand <m>; Zustand <m>
+toestel
+ Apparat <m>; Vorrichtung <f>
+toeter
+ Hupe <f>
+toevlugsoord
+ 1. Asyl <n>; Zufluchtsstätte
+ 2. Asyl <n>; Freistätte; Hospiz <n>; Zuflucht <f>
+toevoeg
+ addieren; beifügen; zufügen
+tog
+ allerdings; freilich; immerhin; ja; ja doch; wohl; zwar
+toilet
+ Abort; Abtritt <m>
+toneel
+ Bühne; Scene; Szene <f>
+tongvis
+ Seezunge
+toon
+ 1. angeben; weisen; anweisen; hinweisen; zeigen
+ 2. Zehe <f>
+ 3. Ton <m>
+toring
+ Turm <m>; Zwinger <m>
+tot
+ bis
+totdat
+ bis
+tot by
+ bis
+tou
+ Kette <f>; Reihe <f>; Reihenfolge <f>; Tour <f>
+towenaar
+ 1. Magiker; Zauberer <f>
+ 2. Zauberer <f>
+tower‐
+ Zauber‐; zauberisch
+traan
+ Träne
+tradisie
+ Tradition <f>; Überlieferung
+tragedie
+ Tragödie; Trauerspiel
+trap
+ Stiege; Treppe <f>
+trawant
+ Trabant <m>
+tref
+ treffen
+trein
+ 1. Zug <m>
+ 2. Bahnzug; Eisenbahnzug; Zug <m>
+trek
+ ziehen; verziehen
+trommel
+ Trommel <f>
+troos
+ 1. trösten; Trost spenden
+ 2. Trost <m>
+trop
+ Ar
+tropies
+ tropisch
+trots
+ hochfahrend; hochmütig; stolz
+trottoir
+ Bürgersteig; Gehweg <m>; Trottoir
+trou
+ 1. sich verehelichen; sich verheiraten
+ 2. sich verehelichen; sich verheiraten
+tuin
+ Anlage <f>; Garten <m>
+tuis
+ heim; daheim; zu Hause
+tulp
+ Tulpe
+tussen
+ unter; mitten unter; zwischen
+twaalf
+ zwölf
+twee
+ zwei
+twintig
+ zwanzig
+twyfel
+ zweifeln; bezweifeln
+tyd
+ Zeit <f>
+tydelik
+ 1. Interim‐; provisorisch
+ 2. einstweilig
+tydens
+ während
+tydperk
+ Epoche <f>; Zeitabschnitt <m>
+tydskrift
+ 1. Zeitschrift <f>
+ 2. Revue <f>; Zeitschrift <f>
+u
+ 1. dein; deinig; euer; eurige; Ihr; ihrige
+ 2. dich; euch; Sie
+ 3. dich; euch; Sie
+ 4. ihr; Sie
+ 5. Sie
+ui
+ Zwiebel <f>
+uit
+ aus; aus ... heraus
+uitbeeld
+ abbilden
+uitdeel
+ austeilen; verteilen; zuteilen
+uitdruk
+ ausdrücken
+uitdrukking
+ Ausdruck <m>; Äußerung
+uiteindelik
+ endlich
+uitgaan
+ ausgehen; ausrücken
+uitgawe
+ Auflage <f>; Ausgabe <f>; Herausgabe; Verlag <m>
+uitgee
+ herausgeben
+uitgestrek
+ ausgedehnt; geräumig; weit
+uitgewer
+ Verleger <m>
+uithaal
+ 1. ausschließen; aussondern
+ 2. entlocken; entziehen; extrahieren; zapfen; zücken
+ 3. sammeln; einsammeln
+uithou
+ 1. aushalten; austragen
+ 2. aushalten; ausstehen; ertragen
+uitkyktoring
+ Aussichtsplatz; Luftschloß
+uitleen
+ borgen
+uitnooi
+ einladen
+uitpak
+ auspacken
+uitroei
+ austilgen; ausrotten; tilgen; vertilgen
+uitsig
+ 1. Aussicht <f>
+ 2. Aussicht <f>; Panorama
+uitslag
+ Erfolg <m>; Ergebnis <n>; Resultat <n>
+uitspraak
+ 1. Aussprache <f>
+ 2. Aussprache <f>
+ 3. Aussprache <f>
+ 4. Aussprache <f>
+uitstalling
+ Ausstellung <f>
+uitstappie
+ Ausflug <m>; Exkursion
+uitsteek
+ vorstehen
+uitsuig
+ aussaugen
+uitvind
+ entdecken; erfinden
+uitvoer
+ ausführen; exportieren
+uniek
+ einzig
+uniform
+ Uniform <f>
+universiteit
+ Hochschule <f>; Universität
+uur
+ Stunde <f>; Uhr <f>
+u s'n
+ der deine; der euere; der Ihre
+vader
+ Vater <m>
+vak
+ Abteilung <f>; Fach <n>
+vakansieoord
+ Ferienort
+val
+ fallen
+valk
+ Falke <f>
+vals
+ falsch
+vampier
+ Vampir <m>; Vampyr
+van
+ 1. Familienname <m>
+ 2. anbelangt; betreffend; über; von
+vanaand
+ heute abend
+vanadium
+ Vanad; Vanadium
+vandag
+ heute
+vang
+ erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+vanmiddag
+ heute Nachmittag
+van ... af
+ aus; aus ... heraus
+van nature
+ natürlich
+variasie
+ Variation <f>
+vark
+ Schwein <n>
+varkie
+ Ferkel
+vars
+ frisch; neu; unberührt
+vars water
+ 1. Süßwasser
+ 2. Süßwasser
+vas
+ 1. fest
+ 2. beständig; fest; konstant; ständig; stetig; unablässig
+vashou
+ halten; aufhalten
+vasmaak
+ befestigen; festsetzen; fixieren
+vasstel
+ befestigen; festsetzen; fixieren
+vasteland
+ Erdteil <m>; Festland <n>; Kontinent <m>
+vat
+ 1. erbeuten; ergreifen; ertappen; erwischen; fangen; fassen
+ 2. fassen; nehmen
+vee
+ Herde; Senne; Trift; Vieh <n>
+veertien
+ vierzehn
+veertig
+ vierzig
+veg
+ kämpfen
+veilig
+ gefahrlos; geheuer; harmlos
+veiligheid
+ 1. Sicherheit <f>
+ 2. Sicherheit <f>
+vel
+ Haut <f>
+veld
+ 1. Acker <m>
+ 2. Feld <n>
+ 3. Acker <m>; Feld <n>; Flur <m>; Land <n>
+ 4. Acker <m>; Feld <n>; Flur <m>; Land <n>
+veldsprinkaan
+ Grashüpfer; Heuschrecke <f>
+venster
+ Fenster
+ver
+ 1. ab; dahin; fort; heraus; weg; hinweg
+ 2. entfernt
+ 3. entlegen; fern; entfernt; weit
+ 4. weit
+veral
+ 1. besonders; zunächst; zuvörderst
+ 2. besonders; eigens; insbesondere; vornehmlich; vorzüglich; zumal
+verander
+ ändern; tauschen; umändern; umtauschen; wechseln; umwechseln
+verantwoordelik
+ verantwortlich
+verbaas
+ in Verwunderung setzen; verwundern
+verbaas hom
+ sich wundern; staunen; erstaunen
+verband
+ 1. Bandage; Verband <m>
+ 2. Verhältnis; Zusammenhang <m>
+verbeeld hom
+ erdichten; sich einbilden; sich vorstellen
+verbind
+ 1. kombinieren
+ 2. verbinden; verknüpfen
+verbleik
+ erblassen; verblassen
+verblyf
+ Aufenthalt <m>
+verborge
+ heimlich
+verbrand
+ 1. verbrennen
+ 2. äschern
+verby
+ über ... hinaus; vorbei; vorüber
+verbygaan
+ passieren; vergehen; vorübergehen; vorüberkommen
+verbysterd
+ bestürtzt
+verdedig
+ behaupten; beschützen; verteidigen
+verdien
+ 1. erringen; gewinnen
+ 2. verdienen
+verdieping
+ Etage <f>; Geschoß; Stock <m>; Stockwerk <m>
+verduidelik
+ darlegen; einleuchten; erklären; erläutern
+verduideliking
+ Aufklärung; Aufschluß; Erläuterung
+verdwyn
+ entschwinden; verschwinden
+vereis
+ erheischen; fordern; erfordern; verlangen; zumuten
+vereniging
+ 1. Assoziation; Verbindung <f>; Vereinigung <f>
+ 2. Association; Gesellschaft <f>; Sozietät
+ 3. Union; Verband <m>; Verbindung <f>; Verein <m>
+vergadering
+ Versammlung <f>; Zusammenkunft
+vergeef
+ entschuldigen; verzeihen
+vergeet
+ vergessen
+vergelding
+ 1. Belohnung <f>; Lohn <m>
+ 2. Vergütung
+vergelyk
+ vergleichen
+vergelyking
+ Gleichnis <n>; Vergleich <m>
+vergifnis
+ Begnadigung <f>; Vergebung <f>; Verzeihung <f>
+vergoeding
+ Entgelt <n>; Ersatz <m>; Vergütung
+verhaal
+ 1. Geschichte <f>; Historie <f>
+ 2. erzählen
+ 3. Erzählung; Geschichte <f>
+verhole
+ heimlich
+verhouding
+ Gleichmaß; Proportion <f>; Verhältnis
+verhuis
+ übersiedeln
+verjaarsdag
+ Geburtstag <m>
+verkeer
+ sich aufhalten; sich befinden
+verkeerd
+ 1. falsch; irrig
+ 2. falsch
+verkeersreëls
+ Verkehrsvorschriften
+verkies
+ auslesen; wählen; auswählen; erwählen
+verklaar
+ deklarieren
+verkoop
+ veräußern; verkaufen
+verkoopsman
+ Ladengehilfe; Verkäufer
+verlaat
+ entäußern; fortlassen; überlassen; unterlassen
+verlang
+ 1. wünschen
+ 2. sich ersehnen; sich sehnen
+verlede
+ 1. Vergangenheit <f>
+ 2. vorig
+verlies
+ Verlust <m>
+verlof
+ Urlaub <m>
+verloofde
+ Braut <f>
+verloor
+ verlieren
+verlos
+ befreien; entledigen; erledigen; freilassen; frei machen
+verlossing
+ 1. Entsatz
+ 2. Heil <n>
+vermeld
+ nennen
+vermoë
+ 1. Befähigung; Kapazität; Vermögen
+ 2. Fähigkeit; Gewalt <f>; Können; Kraft <f>; Macht <f>; Vermögen
+ 3. vermuten; voraussetzen
+vermy
+ ausweichen; entgegen; entweichen; meiden; vermeiden
+verneder
+ demütigen; erniedrigen
+veronderstel
+ vermuten; voraussetzen
+veroorsaak
+ antun; bewirken; veranlassen; verursachen; zufügen
+verorber
+ 1. aufessen; aufzehren
+ 2. abnutzen; aufzehren; konsumieren; verbrauchen; zehren; verzehren
+verpleeg
+ pflegen; warten
+verpleegster
+ Krankenschwester <f>
+verplig
+ zwingen
+verpligting
+ Gebühr
+verraad
+ Treubruch; Verrat <m>
+verrassing
+ Überraschung
+verruklik
+ entzückend
+vers
+ Strophe <f>
+versamel
+ sammeln; einsammeln
+verseker
+ 1. versichern
+ 2. behaupten; bestätigen; vergewissern
+versekering
+ Assekuranz; Versicherung <f>
+verskeidenheid
+ Abwechslung <f>; Varietät
+verskeie
+ verschiedene
+verskil
+ 1. abweichen; differieren; sich unterscheiden
+ 2. Unterschied <m>
+verskillend
+ verschieden; verschiedenartig
+verskole
+ heimlich
+verskriklik
+ furchtbar
+verskyn
+ erscheinen
+verslaan
+ bewältigen; meistern; bemeistern; siegen; besiegen; überwinden
+verslag
+ Bericht <m>; Meldung <f>; Rapport; Referat <n>; Vortrag <m>
+versoek
+ Ansuchen; Bitte <f>; Ersuchen; Gesuch <n>
+versoeking
+ Versuchung <f>
+verspreid
+ uneins
+verstaan
+ begreifen; erfassen; verstehen
+vertaal
+ übersetzen; übertragen
+vertaling
+ Übersetzung; Übertragung
+verteenwoordiger
+ Vertreter <m>; Stellvertreter <m>
+vertel
+ erzählen
+vertolk
+ auslegen; deuten; dolmetschen; interpretieren; verdolmetschen
+vertoning
+ Darbietung; Darreichung; Darstellung <f>; Vorlegung; Vorstellung <f>
+vertoon
+ angeben; weisen; anweisen; hinweisen; zeigen
+vertrek
+ 1. abreisen; fortgehen
+ 2. Abgang <m>; Abreise <f>; Abzug <m>
+ 3. Gemach; Stube; Zimmer <n>
+vertroue
+ 1. Zuversicht <n>
+ 2. Vertrauen <n>; Zuversicht <n>
+vertrouwe stel in
+ 1. rechnen; sich verlassen auf; vertrauen
+ 2. betrauen mit; vertrauen mit; Vertrauen setzen in; zutrauen
+vervaardig
+ 1. anfertigen; fabrizieren; herstellen; verfertigen
+ 2. anfertigen; herstellen; leiten; machen; tun; zurücklegen
+vervang
+ ablösen; ersetzen
+vervelig
+ überdrüssig; verdrießlich
+vervoer
+ Transport <m>
+verwag
+ gewärtigen; harren; warten; erwarten
+verwant
+ 1. verwandt; anverwandt
+ 2. Verwandter
+verwantskap
+ Verwandtschaft <f>
+verwantskapsbetrekking
+ Verwandtschaft <f>
+verwar
+ 1. einwickeln; hineinziehen; verwickeln
+ 2. in Unordnung bringen; in Verwirrung bringen; verwirren
+verward
+ bestürtzt
+verwerf
+ erbeuten; erlangen; erringen; habhaft werden; sich erwerben
+verwysing
+ Referenz <f>
+vet
+ 1. feist; fett; fettig; geil
+ 2. Fett <n>
+vetterig
+ feist; fett; fettig; geil
+vier
+ vier
+vinger
+ Finger
+vinnig
+ 1. geschwind; hurtig; rasch; schnell
+ 2. flugs; geschwind; schnell
+viool
+ Fiedel <f>; Geige <f>; Violine <f>
+viooltjie
+ Veilchen
+vir
+ 1. an; in; nach; zu
+ 2. während
+ 3. an; gegen; gegenüber; wider
+ 4. für; um; um zu
+vis
+ Fisch <m>
+visie
+ Äußerung; Gesinnung <f>; Gutdünken; Meinung <f>
+vlag
+ Banner; Fahne <f>; Flagge <f>
+vlam
+ Flamme <f>
+vlei
+ 1. schmeicheln
+ 2. Tal <n>
+vleis
+ Fleisch <n>
+vleuel
+ Fittich <f>; Flügel
+vlieg
+ 1. fliegen; huschen
+ 2. Fliege <f>
+vliegtuig
+ 1. Äroplan; Flugmaschine <f>; Flugzeug <n>
+ 2. Flugzeug <n>
+vlierboom
+ Holunder <m>
+vloei
+ fließen; rinnen; strömen
+voedsel
+ Ätzung; Ernährung; Futter <n>; Nahrung <f>; Nahrungsmittel <n>
+voegwoord
+ Bindewort; Konjunktion
+voel
+ empfinden; fühlen
+voertuig
+ Fuhrwerk; Gefährt; Wagen
+vol
+ 1. voll
+ 2. völlig
+volg
+ folgen
+volgende
+ 1. folgend; nächst; umgehend
+ 2. nächst
+ 3. kommender; nächster
+volgens
+ gemäß; nach
+volledig
+ ganz; total
+volstruis
+ Strauß
+volume
+ Volumen <n>
+volwasse
+ ausgewachsen; erwachsen
+vol maak
+ ausfüllen; erfüllen
+vonkel
+ funkeln; glitzern
+voor
+ jüngst; vor
+voorbeeld
+ Beispiel <n>; Exempel
+voorbehoud
+ Reservierung <f>; Vorbehalt <m>
+voorberei
+ bereiten; vorbereiten
+voordeel
+ Interesse <n>; Nutzen <m>; Vorteil <m>
+voorheen
+ früher; zuvor
+voorkom
+ sich aufhalten; sich befinden
+voorkop
+ Stirn <m>
+voorletter
+ Initial
+voormalige
+ 1. vorig
+ 2. Ex‐
+voornaam
+ Vorname <m>
+voorraad
+ Versorgung <f>; Vorrat <m>
+voorreg
+ Privileg <n>; Privilegium; Vergünstigung; Vorzug <m>; Vorzugsrecht
+voorsit
+ auftragen
+voorspelling
+ 1. Wahrsagung
+ 2. Prognose <f>
+voorstad
+ Vorstadt <f>
+voort
+ hervor; vorwärts
+voorval
+ Ereignis <n>
+voorwoord
+ Vorrede <f>; Vorwort <n>
+voor dat
+ bevor; ehe
+vorentoe
+ hervor; vorwärts
+vorm
+ 1. Formular <n>
+ 2. bilden; formen; gestalten
+ 3. Form <f>; Gestalt <f>
+ 4. Formular <n>
+voël
+ Vogel <m>
+vra
+ 1. fragen; anfragen
+ 2. bitten; ersuchen
+vraag
+ Frage <f>
+vragmotor
+ 1. Lastauto <n>; Lastkraftwagen; LKW
+ 2. Lastauto <n>; Lastkraftwagen; LKW
+vrede
+ Friede <m>
+vreedsaam
+ Friedens‐; friedlich; gemütlich
+vreemd
+ ausländisch; fremd
+vrees
+ Angst <f>; Furcht <f>
+vreeslik
+ furchtbar
+vreugde
+ Freude <f>
+vriend
+ Freund <m>
+vriendelik
+ freundlich
+vriendelikheid
+ Freundlichkeit <f>; Wohlwollen <n>
+vriendin
+ Freundin <m>
+vries
+ frieren
+vroeg
+ früh; zeitig
+vroegtydig
+ früh; zeitig
+vroeër
+ früher; zuvor
+vroeëre
+ 1. vorig
+ 2. Ex‐
+vrolik
+ fröhlich; heiter; lustig; vergnügt
+vrou
+ 1. Frau <f>; Gemahlin
+ 2. Frau <f>; Weib
+vrug
+ Frucht <f>
+vrugbaar
+ fruchtbar
+vrugteloos
+ 1. nutzlos
+ 2. vergebens; vergeblich
+vryf
+ frottieren; reiben; abreiben
+vryheer
+ Baron <m>; Freiherr <m>
+vryheid
+ Freiheit <f>
+vrymaak
+ befreien; entledigen; erledigen; freilassen; frei machen
+vuil
+ unlauter
+vuis
+ Faust <f>
+vul
+ Fohlen; Füllen
+vulkaan
+ Vulkan <m>
+vurk
+ Gabel <f>
+vuur
+ Feuer <n>
+vuurhoutjie
+ Streichholz <n>; Zündholz
+vyf
+ fünf
+vyftien
+ fünfzehn
+vyftig
+ fünfzig
+waai
+ blasen; wehen
+waar
+ 1. wo
+ 2. wo; woselbst
+ 3. authentisch; echt; recht; urkundlich; wahr; wahrhaft
+waaraan
+ 1. wozu
+ 2. worüber
+waarborg
+ Garantie <f>; Gewähr
+waarde
+ Bedeutung <f>; Geltung <f>; Wert <m>
+waardeer
+ achten; mögen; schätzen; wertschätzen; würdigen
+waardevol
+ gültig; wertvoll
+waarheen
+ 1. wohin
+ 2. wohin
+waarheid
+ 1. Wahrheit <f>
+ 2. Wahrheit <f>
+ 3. Wahrheit <f>
+waarin
+ 1. worin
+ 2. worin
+waarmee
+ 1. womit
+ 2. wodurch; womit
+waarnatoe
+ 1. wohin
+ 2. wohin
+waarom
+ weshalb; weswegen
+waaroor
+ worüber
+waarsku
+ warnen
+waarskuwing
+ Warnung <f>
+waarskynlik
+ wahrscheinlich; wohl
+waarvan
+ woraus; wovon
+waarvandaan
+ woher
+waarvoor
+ wofür; wozu
+waar ... heen
+ 1. wohin
+ 2. wohin
+waatlemoen
+ Wassermelone <f>
+wag
+ gewärtigen; harren; warten; erwarten
+wagkamer
+ Warteraum <m>; Wartesaal
+wag vir
+ gewärtigen; harren; warten; erwarten
+walvis
+ Walfisch
+wandel
+ promenieren; spazieren
+wandelpad
+ Fußweg; Pfad <m>; Steg <m>; Steig
+wang
+ Backe <f>; Wange <f>
+want
+ da; denn; weil
+warm
+ warm
+was
+ Wachs <n>
+wat
+ 1. was
+ 2. was
+ 3. was
+ 4. was
+ 5. wer
+ 6. wen
+ 7. das; der; die; welche; welcher; welches; wer
+water
+ Wasser <n>
+watter
+ 1. wer
+ 2. wer
+ 3. wen
+ 4. wen
+ 5. das; der; die; welche; welcher; welches; wer
+ 6. das; der; die; welche; welcher; welches; wer
+wedstryd
+ Konkurrenz‐Prüfung; Preisausschreiben; Wettbewerb <m>
+weduwee
+ Witwe <f>
+week
+ erweichen; verweichlichen
+weens
+ 1. anläßlich; wegen
+ 2. anläßlich; halber; um ... willen; wegen
+weer
+ 1. abermalig; abermals; von neuem; wieder
+ 2. abermals; von neuem; wieder; wiederholt; zurück
+ 3. Wetter <n>; Witterung <f>
+weeskind
+ Waise <m>; Waisenknabe
+weet
+ wissen
+weggesteek
+ heimlich
+weghardloop
+ ausreißen; entfliehen; entlaufen; fortlaufen; sich verlaufen
+wegsteek
+ 1. einschließen
+ 2. bergen; suspendieren; zurücklegen
+wegstuur
+ abschicken; entsenden; fortschicken; wegschicken
+weier
+ ablehnen; abschlagen; ausschlagen; versagen; weigern; verweigern
+weiering
+ Verweigerung <f>; Weigerung <f>
+wekker
+ Wecker <m>
+welke
+ 1. wer
+ 2. wer
+ 3. wen
+ 4. wen
+ 5. das; der; die; welche; welcher; welches; wer
+ 6. das; der; die; welche; welcher; welches; wer
+welvaart
+ Wohlfahrt <f>; Wohlstand <m>
+wen
+ erringen; gewinnen
+wenkbrou
+ Augenbraue <f>
+werk
+ 1. arbeiten
+ 2. Arbeit <f>
+ 3. Werk
+werker
+ Arbeiter
+werklik
+ 1. authentisch; echt; recht; urkundlich; wahr; wahrhaft
+ 2. fürwahr; wahrhaftig; wahrlich; wirklich
+werklikheid
+ 1. Realität; Wirklichkeit <f>
+ 2. Real
+werkloosheid
+ Arbeitlosigkeit
+werksdag
+ Werktag <m>; Wochentag <m>
+werktuigkundige
+ Mechaniker
+werkwoord
+ Verb <n>; Verbum; Zeitwort <n>
+wesel
+ Wiesel
+westelik
+ westlich
+wet
+ Gesetz <n>
+wetenskap
+ Wissenschaft <f>
+wewenaar
+ Witwer
+whisky
+ Whisky
+wie
+ 1. wer
+ 2. wer
+ 3. wen
+ 4. wen
+ 5. das; der; die; welche; welcher; welches; wer
+ 6. das; der; die; welche; welcher; welches; wer
+wiel
+ Rad <n>
+wie se
+ deren; dessen; wessen
+wil
+ 1. wollen
+ 2. Wille <m>
+wilde vark
+ Eber; Wildschwein <n>
+wilgerboom
+ Weide <f>
+wind
+ Wind <m>
+winkel
+ Butike; Geschäft; Kramladen; Laden <n>
+wins
+ Ertrag <m>; Gewinn <m>; Interesse <n>; Nutzen <m>; Überschuß; Verdienst <n>; Vorteil <m>
+wiskunde
+ Mathematik <f>
+wiskundig
+ mathematisch
+wissel
+ 1. austauschen; auswechseln; umtauschen; vertauschen; verwechseln
+ 2. ändern; tauschen; umändern; umtauschen; wechseln; umwechseln
+wit
+ weiß
+witmens
+ Europäer
+woede
+ 1. Grimm <m>; Wut <f>
+ 2. Wut <f>
+woekerplant
+ Parasit <m>; Schmarotzer
+woestynbewoner
+ Beduine
+wol
+ Wolle <f>
+wolf
+ Wolf <m>
+wolvin
+ Wölfin
+wond
+ Verwundung; Verletzung <f>; Wunde <f>
+wonder
+ 1. Mirakel; Wunder; Wundertat <f>
+ 2. Wunder
+wonderbaarlik
+ 1. mirakulös
+ 2. wunderbar
+woning
+ Wohnhaus <n>; Wohnung <f>
+woon
+ hausen; wohnen
+woonstel
+ Appartement <n>; Etagenwohnung <f>; Gemach
+woord
+ Vokabel <f>; Wort <n>
+woordeboek
+ Wörterbuch
+word
+ 1. geschehen; vorkommen; werden; zu stande kommen
+ 2. werden
+wors
+ Wurst <f>
+wortel
+ 1. Karotte <f>; Möhre; Mohrrübe
+ 2. Wurzel <f>
+wreedaardig
+ grausam
+wreedheid
+ Grausamkeit <f>
+wurm
+ Wurm <m>
+wyf
+ Weib
+wyn
+ Wein <m>
+wys
+ 1. Art <f>; Manier; Weise <m;f>
+ 2. Melodie <f>; Weise <m;f>
+ 3. angeben; weisen; anweisen; hinweisen; zeigen
+ 4. gescheit; klug; weise
+wyse
+ Art <f>; Manier; Weise <m;f>
+wyser
+ Zeiger
+wysheid
+ 1. Weisheit <f>
+ 2. Weisheit <f>; Klugheit <f>
+wysie
+ Melodie <f>; Weise <m;f>
+wêreld
+ Welt <f>
+xilofoon
+ Xylophon <n>
+ys
+ 1. Eis <n>; Gefrorenes; Speiseeis <n>
+ 2. Eis <n>
+yster
+ Eisen <n>
+ystervark
+ Igel
+zirkonium
+ Zirkonium
+bak, boks, pot
+ Behälter; Besteck <n>; Krug <m>
+'n
+ ein; eine
+'n paar
+ ein paar; einige; einiger; einiges; etliche; manche
+pghyzqriïsjakbècétulmdêeë vfwnôxo

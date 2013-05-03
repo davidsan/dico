@@ -1,0 +1,996 @@
+00databasealphabet	H3l	c
+00databasedictfmt11011	B	c
+00databaseinfo	d	eN
+00databaseshort	eq	w
+00databaseurl	fa	g
+00databaseutf8	A	B
+abort	f6	m
+abstract	gg	T
+accelerator	gz	Z
+accept	hM	i
+access	hu	o
+account	iW	O
+activate	iy	j
+active	ik	O
+active matrix display	jV	BB
+actor	kW	N
+adaptive routing	kj	k
+add	lH	g
+additional	ln	Y
+address	l/	R
+address book	mQ	W
+aditive inverse	mm	i
+adjust	nI	h
+administration	np	d
+aggregate	oG	T
+aggregate bandwidth	oZ	y
+alarm	pL	P
+alias	pa	N
+align	pn	Q
+allow	p3	f
+alpha	qW	M
+alpha channel	qi	a
+amplitude modulation	q8	v
+analog	rr	P
+analysis	r6	T
+anchor	sN	Q
+and	sd	J
+animation	sm	V
+anonymous	s7	S
+answer mode	tN	d
+antialiasing	tq	b
+appearance	uF	T
+append	uY	j
+applet	u7	e
+application	vZ	Y
+application launcher	vx	t
+apply	we	g
+arc	w+	J
+archive	xH	h
+archive file	xo	W
+argument	x+	T
+array	yR	d
+arrow key	yu	c
+article	zK	R
+ascending	zb	W
+aspect ratio	zx	Z
+asserted signal	0K	h
+asynchronous	0r	X
+attach	1C	Q
+attachment	1S	T
+attribute	1l	T
+audio	14	N
+authentication	2F	e
+author	2j	O
+autofill	2x	c
+availability	3N	e
+average	3r	P
+axis	36	L
+baby feeding algorithm	4F	7
+background	5A	T
+backup	5T	d
+backward	5w	S
+backward compatibility	6C	BB
+balance	7D	w
+band gap	C/b	d
+bandwidth	7z	e
+base	8R	M
+basic	8d	j
+batch	9A	L
+batch system	9L	t
+benchmark	94	h
+best fit algorithm	+Z	5
+beta	/S	L
+big endian	/d	o
+binary	BAF	O
+bind	BAT	f
+binding	BAy	k
+binomial distribution	BBW	v
+bit	BCF	J
+bitmap	BCO	n
+blank	BC1	Y
+blink	BDN	R
+blocked	BET	Q
+blocklevel parallelism	BDe	1
+blur	BEj	r
+body	BFO	L
+bold	BFZ	v
+bookmark	BGI	Y
+boolean	BGg	s
+bottleneck	BHM	1
+bottom	BIB	O
+bound	BIP	g
+box	BIv	o
+branch	BJX	l
+branch history shift register	BJ8	BU
+bricks	BLQ	T
+browse	BLj	v
+browser	BMS	T
+buffer	BMl	X
+bug	BM8	y
+build	BNu	b
+built in	BOJ	Q
+bundle	BOZ	4
+bus	BPR	g
+busy	BPx	N
+button	BP+	O
+byte	BQM	M
+c	BQY	s
+cache	BRE	3
+calculator	BR7	X
+calendar	BSS	i
+call	BS0	o
+callback	BTc	g
+cancel	BT8	S
+canvas	BUO	4
+capability	BVG	r
+caption	BVx	s
+card	BWd	CC
+caret	BYf	S
+case insensitive	BYx	v
+case sensitive	BZg	r
+categorie	BaL	V
+cd	Bag	R
+cell	Bax	O
+cellular	Ba/	S
+center	BbR	e
+channel	Bbv	P
+character set	Bb+	g
+chat	Bce	k
+check	BdC	h
+child	Bdj	N
+chooser	Bdw	S
+class	BeC	O
+classification	BeQ	c
+clear	Bes	h
+click	BfN	5
+clipboard	BgG	W
+close	Bgc	h
+cluster	Bg9	j
+code	Bhg	Z
+coefficient	Bh5	Y
+collaboration	BiR	a
+collapse	Bir	w
+collate	Bjb	P
+collision	Bjq	U
+colormap	Bj+	b
+command	BkZ	f
+command line	Bk4	g
+command line options	BlY	0
+common properties	BmM	o
+compare	Bm0	T
+compliant	BnH	W
+computer	Bnd	l
+concatenate	BoC	b
+condition	Bod	V
+conduit	Boy	T
+confidential	BpF	c
+configuration	Bph	d
+confirm	Bp+	U
+confirmation	BqS	Z
+connect	Bqr	T
+connection	Bq+	W
+constraint	BrU	t
+content	BsB	T
+continue	BsU	k
+control	Bs4	R
+controller	BtJ	W
+conversion	Btf	W
+cookie	Bt1	P
+copy	BuE	P
+copyright	BuT	a
+correlation	But	Y
+corrupt	BvF	f
+cost	Bvk	L
+cought	Bvv	k
+count	BwT	S
+covariance	Bwl	Y
+cpu	Bw9	O
+crash	BxL	P
+create	Bxa	P
+credits	Bxp	w
+critical error	ByZ	g
+crop	By5	e
+cumulative	BzX	W
+current	Bzt	Q
+cursor	Bz9	P
+curve	B0M	O
+custom	B0z	V
+customize	B0a	Z
+cut	B1I	Q
+cyan	B1Y	N
+daemon	B1l	O
+data	B1z	f
+database	B2S	Y
+deadlock	B2q	x
+debug	B3b	g
+decimal	B37	R
+decrease	B4M	k
+default	B4w	S
+delete	B5C	h
+deny	B5j	f
+dependence	B6C	Z
+deploy	B6b	r
+deprecated	B7G	W
+derived	B7c	R
+descending sort	B7t	q
+destination	B8X	Z
+destroy	B8w	m
+detection	B9W	r
+develop	B+B	BY
+device	B/Z	T
+diagonal	B/s	V
+diagram	CAB	T
+dial	CAU	e
+digit	CAy	O
+dimension	CBA	W
+direction	CBW	V
+directory	CBr	U
+disable	CB/	o
+discard	CCn	g
+disclaimer	CDH	Bb
+disconnect	CEi	Y
+disconnecting	CE6	a
+discrete	CFU	S
+disk	CFm	L
+dismiss	CFx	BR
+display	CHC	h
+dissipation	CHj	4
+distribute	CIb	Y
+dithering	CIz	j
+division by zero	CJW	n
+dock	CJ9	n
+document	CKk	T
+domain	CK3	Q
+done	CLH	L
+dot	CLS	L
+download	CLd	p
+downstream	CMG	n
+draft	CNW	P
+drag and drop	CMt	p
+drawer	CNl	P
+drawing area	CN0	e
+drive	COS	t
+driver	CO/	O
+drop	CPN	Y
+druid	CPl	N
+dumb terminal	CPy	i
+duplicate	CQU	V
+dynamic	CQp	R
+echo	CRv	L
+edge	CR6	O
+edit	CSI	R
+effects	CSZ	Q
+eject	CSp	Q
+electronic mail	CS5	+
+email	CQ6	1
+email	CT3	0
+embedded	CUr	o
+embossed	CVT	T
+emulate	CVm	g
+enable	CWG	v
+encapsulated postscript	CW1	w
+encoding	CXl	g
+engineering	CYF	X
+enhance	CYc	x
+entity	CZN	h
+environment variable	CZu	s
+equation	Caa	T
+error	Cat	O
+escape	Ca7	2
+ethernet	Cbx	x
+event	Cci	R
+exception	Ccz	V
+exclusive or	CdI	b
+executable file	Cdj	k
+execute	CeH	z
+exit	Ce6	O
+expand	CfI	W
+expanded memory	Cfe	k
+expected location	CgC	n
+explicit state	Cgp	g
+exponential notation	ChJ	u
+export	Ch3	g
+expression	CiX	V
+expunge	Cis	T
+extension	Ci/	U
+extract	CjT	T
+fail	Cjm	b
+fallback	CkB	h
+faq	Cki	b
+favorite	Ck9	S
+fax	ClP	J
+feature	ClY	U
+feedback	Cls	l
+field	CmR	N
+file	Cme	O
+file transfer protocol	C83	5
+filename	Cms	a
+filesystem	CnG	f
+fill	Cnl	g
+filter	CoF	P
+find	CoU	f
+firewall	Coz	T
+flag	CpG	d
+float	Cpj	2
+floppy	CqZ	S
+flow analysis	Cqr	j
+flowchart	CrO	BC
+focus	Csl	k
+folder	CtJ	e
+font	Ctn	t
+footer	CuU	P
+forecast	Cuj	V
+foreground	Cu4	W
+fork	CvO	j
+form	Cvx	p
+format	Cwa	P
+formula	Cwp	S
+forward	Cw7	S
+fourier analysis	CxN	j
+fraction	Cxw	T
+frame	CyD	a
+framerate	CsQ	V
+free software	Cyd	FY
+free software foundation	C31	6
+freeware	C5U	Cm
+frequency	C76	X
+fsf	C4v	l
+ftp	C8R	m
+full pathname	C9w	e
+function	C+O	T
+gamma	C+h	g
+gap	C/B	a
+garbage collector	C/4	BB
+gateway	DA5	g
+geometry	DBZ	U
+get	DBt	s
+getting started	DCZ	2
+glitch	DDP	R
+glob	DDv	Bc
+global	DDg	P
+go	DFL	K
+grab	DFV	O
+gradient	DFj	R
+graph	DF0	O
+graphical user interface	DGC	BB
+grayscale	DHv	Z
+grid	DII	b
+group	DIj	M
+gui	DHD	s
+guide	DIv	b
+gutter	DJK	e
+halt	DJo	N
+handle	DJ1	S
+handler	DKH	U
+handshake	DKb	g
+hard	DLL	L
+hard disk	DK7	Q
+hardware	DLW	BO
+header	DMk	O
+heap	DQC	j
+hello world	DMy	DD
+help	DP1	N
+hex	DQl	f
+hidden file	DRE	c
+hide	DRg	V
+hierachy	DR1	T
+highlight	DSI	Y
+hint	DSg	P
+histogram	DTK	X
+history	DTh	g
+home	DUB	N
+home directory	DUO	3
+home page	DVF	e
+homogeneous environment	DVj	m
+host	DWJ	N
+hostname	DWW	Z
+hot key	DWv	a
+hot link	DXJ	f
+hot spot	DXo	a
+housekeeping	DYC	c
+html	DYe	q
+http	DaH	s
+hue	Db2	c
+hyperlink	DSv	b
+hypertext markup language	DZI	/
+hypertext transfer protocol	Daz	BD
+icon	DeB	h
+id	Dei	S
+identifier	De0	a
+idle	DfO	BZ
+illegal	Dgn	Q
+image	Dg3	P
+implementation	DhG	BU
+import	Dia	g
+inactive window	Di6	l
+inch	Djf	L
+increase	Djq	u
+increment	DkY	7
+incremental update	DlT	Bx
+indent	DnE	l
+index	Dnp	b
+indicator	DoE	V
+information	DoZ	Z
+initialization	Doy	a
+input	DpM	f
+inputoutput	Dcs	j
+insertion	Dpr	n
+insertion point	DqS	j
+install	Dq1	T
+installation kit	D3q	m
+interaction	DrI	b
+intercept	Drj	s
+interface	DsP	X
+internal bug	Dsm	h
+internal error	DtH	g
+international	Dtn	e
+internet	DuF	T
+interrupt	DuY	Y
+intersect	Duw	s
+interval	Dvc	T
+intuitive	Dvv	U
+invalid	DwD	R
+invert	DwU	S
+invert selection	Dwm	o
+invisible	DxO	V
+io	DcS	a
+io subsystem	DdP	y
+ip address	Dxj	X
+italic	Dx6	d
+item	DyX	O
+job	Dyl	d
+justify	DzC	4
+kernel	Dz6	P
+key	D0J	Z
+keyboard	D0i	V
+keyword	D03	X
+kill	D1O	P
+kilobyte	D1d	B2
+kit	D3T	X
+label	D4Q	R
+lambda	D4h	P
+landscape	D4w	1
+language	D5l	f
+laptop	D6E	q
+latency	D6u	T
+launch icon	D7B	k
+launcher	D7l	T
+layer	D74	N
+layout	D8F	j
+legacy	D8o	S
+legacy application	D9a	r
+legacy system	D86	g
+legal	D+F	Bd
+length	D/i	Q
+letter	D/y	Bu
+library	EBg	V
+license agreement	EB1	Bz
+limit	EDo	P
+line	ED3	M
+line arguments	EED	y
+linear transfer	EE1	h
+link	EFW	m
+load	EF8	5
+local	EG1	N
+location	EHC	T
+lock	EHV	d
+log	EHy	M
+logical	EH+	k
+logo	EIi	d
+look	EI/	c
+look and feel	EKG	W
+lookup	EJb	R
+loop	EJs	a
+magenta	ENh	S
+mail	EKc	O
+mail client	EKq	r
+mail server	ELV	s
+mailbox	EMB	Z
+main body	EMa	y
+mainframe	ENM	V
+man page	ENz	c
+manager	EOP	m
+manual	EO1	P
+manual page	EPE	f
+margin	EPj	Q
+mark	EPz	Z
+markup	EQM	Q
+markup language	EQc	j
+matching	EQ/	u
+maximum transmission unit	Ede	5
+mdi	ERt	n
+media	ETT	N
+media type	ETg	Z
+median	ET5	O
+meeting	EUH	V
+memory	EUc	Q
+menu	EUs	M
+menubar	EU4	X
+merge	EVP	6
+message	EWJ	P
+minimize	EWY	n
+minix	EW/	q
+minor faults	EXp	e
+mirror	EYH	R
+misc	EYY	O
+miscellaneous	EYm	X
+mode	EY9	K
+model	EZH	N
+modem	EZU	N
+modifier	EZh	W
+modify	EZ3	T
+module	EaK	O
+monitor	EaY	w
+monochrome	EbI	V
+mount	Ebd	e
+mouse	Eb7	Q
+move	EcL	i
+ms	Ect	O
+mtu	Ec7	j
+multimedia	EeX	X
+multiple document interface	ESU	/
+multitier	G/k	W
+namespace	Eeu	b
+nested	EfJ	S
+network	Efb	Q
+nibble	Efr	t
+node	EgY	K
+none	Egi	M
+normal distribution	Egu	r
+notebook	EhZ	6
+notepad	EiT	T
+notice	Eim	i
+notify	EjI	t
+number	Ej1	P
+number of	EkE	V
+numbered list	EkZ	8
+numeric	ElV	R
+object code	Elm	Y
+oblique	El+	P
+observation	EmN	Z
+obsolete	Emm	U
+offline	Em6	U
+offset	EnO	h
+online	Env	R
+only	FUm	L
+opacity	EoA	T
+open	EoT	O
+open source	Eoh	BK
+operating system	Epr	k
+operation	EqP	V
+option	Eq4	R
+optional	Eqk	U
+or	ErJ	I
+order	ErR	o
+orientation	Er5	X
+origin	EsQ	Q
+outline	Esg	l
+output	EtF	s
+override	Etx	3
+overstrike	Euo	2
+overwrite	Eve	s
+owner	EwK	S
+pack	Ewc	T
+package	Ewv	Q
+packet	Ew/	o
+padding	Exn	U
+page	Ex7	O
+pager	EyJ	R
+palette	Eya	R
+panel	Eyr	N
+parameter	Ey4	V
+parcel	EzN	v
+parse	Ez8	R
+partition	E0N	v
+password	E08	S
+paste	E1O	n
+patern	E11	2
+path	E2r	Z
+peak	E3E	M
+peer	E3Q	f
+pending	E3v	j
+pending signal	E4S	h
+period	E4z	q
+periodic	E5d	T
+permission	E5w	X
+physical memory	E6H	h
+pipe	E6o	BC
+pixel	E7q	N
+place	E73	L
+plain text	E8C	Y
+play	E8a	4
+please	E9S	Q
+plug	E9i	Y
+plugged	E+J	g
+plugin	E96	P
+point	E+p	w
+poisson distribution	E/Z	r
+policy	FAE	S
+polygon	FAW	R
+pool	FAn	BR
+port	FB4	L
+portrait	FCD	1
+post office	FC4	c
+postal box	FDU	f
+postscript	FDz	X
+power management	FEK	0
+preemptive	FE+	W
+preferences	FFU	Z
+prefix	FFt	P
+preview	FF8	t
+primary colors	FGp	g
+print	FHJ	z
+print area	FH8	f
+printer	FIb	V
+priority	FIw	V
+privacy	FJF	U
+private key	FJZ	n
+private message	FKA	g
+problem	FKg	T
+process	FKz	Q
+process id	FLD	k
+processor	FLn	U
+prodigy	FL7	+
+program	FM5	R
+progress	FNK	S
+progress bar	FNc	9
+project	FOZ	R
+propagation	FOq	X
+properties	FPB	a
+proportional font	FPb	r
+protected	FQG	U
+protection	FQa	X
+protocol	FQx	T
+provision	FRE	Bs
+proxy	FSw	x
+public	FTh	P
+public key	FTw	b
+put	FUL	b
+qa	Hp5	h
+query	FUx	7
+queue	FVs	O
+quit	FV6	O
+quoting	FWI	Q
+radio button	FWY	a
+random	FWy	m
+range	FXY	BD
+rank	FYb	L
+rating	FYm	y
+ratio	FZY	S
+raw	FZq	K
+raw data	FZ0	V
+raw memory	FaJ	b
+read out	Fak	e
+ready	FbC	M
+real memory	FbO	k
+real path	Fby	Y
+real time	FcK	V
+reboot	Fcf	S
+receive	FdM	R
+receptivity	Fcx	b
+record	Fdd	r
+recoverable	FeI	Z
+rectangle	Feh	W
+recurrence	Fe3	Y
+recursion	FfP	Z
+redisplay	Ffo	W
+redo	Ff+	M
+refresh	FgK	t
+region	Fg3	Q
+regular	FhH	T
+regular expression	Fha	p
+regulate	FiD	z
+reject	Fi2	g
+relationship	FjW	X
+release	Fjt	i
+remote	FkP	W
+remove	Fkl	n
+rename	FlM	T
+render	Flf	BF
+repeat	Fmk	R
+replace	Fm1	U
+report	FnJ	P
+require	FwD	l
+reserved blocks	FnY	j
+reset	Fn7	1
+resident	Fow	i
+resident memory	FpS	k
+residual	Fp2	s
+resize	Fqi	X
+resolution	Fq5	X
+resource element	FrQ	b
+restart	Frr	k
+restore	FsP	BE
+resume	FtT	r
+retrieve	Ft+	V
+retry	FuT	o
+return	Fu7	n
+revert	Fvi	h
+rollback	Fwo	h
+root	FxJ	S
+root directory	Fxb	l
+root window	FyA	k
+rotate	Fyk	i
+row	FzG	Y
+ruler	Fze	O
+run	Fzs	q
+runtime	F0W	z
+runtime error	F1J	j
+sample	F1s	S
+sampling	F1+	X
+saturation	F2V	X
+save	F2s	O
+scalable	F26	T
+scalar	F3N	P
+scale	F3c	e
+scan	F36	s
+schedule manager	F4m	l
+scientific notation	F5L	r
+scope	F52	BC
+screen	F64	O
+script	F7G	R
+scroll	F7X	4
+scrollbar	F8P	b
+search	F8q	h
+search domain	F9L	i
+search string	F9t	f
+seascape	F+M	y
+secondary color	F++	k
+secure channel	F/i	c
+secure keyboard	F/+	k
+security	GAi	V
+segment	GA3	R
+select	GBI	f
+selection	GBn	T
+send	GB6	Q
+send to	GCK	Y
+sense	GCi	0
+sensitive	GDW	U
+separator	GDq	V
+server	GD/	P
+session	GEO	R
+set	GEf	n
+setting	GFG	n
+setup	GFt	CU
+severity	GIB	n
+shade	GQs	d
+share	GIo	BD
+shared	GRJ	j
+shared memory	GJr	i
+sheet	GKN	d
+shell	GKq	f
+shift key	GLJ	Z
+show	GLi	t
+shrink	GMP	T
+shut down	GMi	g
+signal	GNC	P
+signature	GNu	W
+signature block	GNR	d
+site	GOE	w
+skew	GO0	r
+skip	GPf	a
+slant	GP5	m
+slave	GQf	N
+sleeping	GRs	l
+slider	GSR	e
+slot	GSv	l
+slow terminal	GTU	f
+smart	GVD	i
+smart terminal	GVl	k
+smooth	GWJ	Z
+snap	GWi	q
+snooze	GXM	k
+socket	GTz	BQ
+solid line	GYJ	a
+solid model	GXw	Z
+sort	GYj	s
+sound card	GZP	c
+source	GZr	P
+source code	GZ6	Y
+space character	GaS	k
+spam	Ga2	3
+spawn	Gbt	o
+special character	GcV	k
+spell	Gc5	g
+spell checker	GdZ	j
+splitter	Gd8	U
+spool	GeQ	Q
+spreadsheet	Geg	n
+stabilize	Gfy	X
+stack	GgJ	O
+standard	GgX	T
+standard deviation	Ggq	m
+start	GhQ	N
+stat	GjF	R
+state	Ghd	N
+statistics	Ghq	Y
+status	GiC	O
+status line	GiQ	c
+statusbar	Gis	Z
+stereotype	GjW	W
+sticky	Gjs	j
+sticky notes	GkP	e
+storage	Gkt	p
+strikethrough	GlW	W
+string	Gls	N
+stroke	Gl5	u
+stub	Gmz	M
+style	Gmn	M
+subdirectory	Gm/	a
+subject	GnZ	R
+submenu	Gnq	S
+submit	Gn8	j
+subnet	Gof	S
+subscript	Gox	n
+substring	GpY	T
+subtitle	Gpr	V
+suffix	GqA	O
+summary	GqO	R
+supercomputer	Gqf	0
+superscript	GrT	3
+support	GsK	R
+suspend	Gsb	U
+swallow	Gwx	k
+swap	Gsv	l
+switch	GtU	X
+symbol	Gtr	P
+symbolic link	Gt6	l
+symmetric control	Guf	k
+sync	GvD	n
+synchronize	Gvq	u
+synopsis	GfH	r
+syntax error	GxV	h
+system	Gx2	P
+system administrator	GyF	u
+system call	GwY	Z
+system configuration	Gyz	v
+system settings	Gzi	k
+table	G0G	N
+table of contents	G0T	b
+tag	G0u	P
+talk	G09	f
+tall	G1c	N
+tar archive	G1p	Z
+target	G2C	j
+task	G2l	P
+temp file	G20	c
+template	G3x	S
+temporary buffer	G4D	i
+temporary file	G3Q	h
+term variable	G4l	p
+terminal	G57	T
+terminal variable	G5O	t
+terminate	G6O	V
+test	G6j	a
+test module	G69	b
+text	G7Y	L
+text area	G7j	Z
+text only	G78	V
+textual name	G8R	b
+theme	G8s	N
+third party	HCA	o
+thread	G85	k
+threshold	G9d	Q
+thumbnail	G9t	W
+tier	G+D	Bh
+tile	G/6	N
+timer	HAH	S
+timeslice	HAZ	b
+timezone	HA0	T
+timing	HBH	V
+tip	HBc	X
+title	HBz	N
+todo	HCo	Q
+toggle	HC4	R
+token	HDg	k
+tokenring	HEE	q
+tolerance	HDJ	X
+tool	HEu	P
+tool menu	HFX	b
+toolbar	HFy	Y
+toolbox	HGK	c
+toolkit	HE9	a
+tooltip	HGm	O
+top	HG0	L
+topic	HG/	P
+track	HHO	1
+transfer	HID	T
+transfer statement	HIW	s
+transitive	HJC	s
+translate	HJu	n
+transmission channel	HKV	q
+transparent	HK/	Z
+transpose	HLY	q
+trap	HMC	g
+trash	HMi	N
+tree	HMv	N
+treeview	HM8	k
+trigger	HNg	W
+trim	HN2	BW
+troubleshoot	HPM	n
+troubleshooting	HPz	a
+tune	HQN	BD
+turing machine	HRQ	g
+type	HRw	K
+type bindings	HR6	g
+type mismatch	HSa	i
+unable to	HS8	9
+undelete	HT5	X
+underline	HUQ	n
+undo	HU3	Q
+unexpected	HVH	Y
+unexpected end	HVf	m
+unexpected error	HWF	n
+unicode	HWs	R
+uninstall	HW9	s
+unit	HXp	O
+unix	HX3	L
+unknown	HYC	U
+unknown host	HYW	i
+unload	HY4	U
+unmount	HZM	k
+unplugged	HZw	m
+unshade	HaW	o
+untitled	Ha+	X
+unwrap	HzQ	q
+update	HbV	n
+upgrade	Hb8	h
+upload	Hcd	U
+upside down	Hcx	h
+upstream	HdS	R
+urgent	Hdj	P
+usage	Hdy	p
+user	Heb	R
+user defined	Hes	r
+user directory	HfX	7
+user interface	HgS	s
+username	Hg+	g
+valid chars	Hhe	e
+value	Hh8	P
+variable	HiL	T
+variance	Hie	U
+vector graphics	Hiy	m
+vendor	HjY	T
+verbose	Hjr	U
+verify	Hj/	l
+version	Hkk	S
+vertical	Hk2	T
+vertical alignment	HlJ	o
+vfs	Hlx	g
+video	HnB	k
+view	Hnl	g
+viewer	HoF	g
+viewport	Hol	a
+virtual	Ho/	R
+virtual file system	HmR	w
+visualization	HpQ	b
+volume	Hpr	O
+wallpaper	Hqa	R
+warning	Hqr	w
+watch	Hrb	BL
+watch dog	Hsm	b
+watch file	HtB	f
+web	Htg	M
+web page	Hts	W
+weight	HuC	R
+what you see is what you get	H0y	+
+white paper	HwZ	Z
+width	HuT	Q
+wildcard	Huj	X
+window	Hu6	T
+window manager	HvN	q
+wizard	Hv3	i
+word	Hwy	O
+work	HxA	N
+workflow	HxN	Y
+working directory	Hxl	n
+workspace	HyM	c
+wrap	Hyo	o
+write	Hz6	P
+wysiwyg	H0J	p
+x align	H1w	h
+your	H2R	L
+your computer	H2c	h
+zero	H29	L
+zigzagline	H3I	d

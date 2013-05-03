@@ -1,0 +1,2466 @@
+
+00-database-dictfmt-1.10.11
+English-Romanian FreeDict Dictionary
+
+by: Pauliuc George <pauliuc@gmx.net>
+Maintainer: [up for grabs]
+
+Edition: 0.6.1
+Size: about 950 headwords
+
+Published by: FreeDict,
+at: http://freedict.org/
+
+Availability:
+
+  Copyright (C) 2002 Pauliuc George <pauliuc@gmx.net>Available under the
+  terms of the GNU General Public Licence ver. 2.0 and any later
+  version.This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version.This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details.You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://romdict.sourceforge.net/ This Database was imported from
+  the RomDict project.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2010-12-04 $Id: teiheader2txt.xsl 839 2010-04-25 00:05:07Z bansp $:
+   Converted TEI file into text format
+
+ * 2010-11-04:
+   2010-11-04Piotr Bański: Conversion of TEI P4 source into P5 via
+   tools/xsl/freedict_P4toP5.xsl; manual clean-up.
+
+ * :
+   2007-02-13Michael BunkEnabled phonetics import
+
+ * :
+   2005-02-11Michael BunkConverted file to TEI P4 and imported to CVS
+
+ * :
+   2002-10-27Horst EyermannDatabase was converted to TEI format
+
+English-Romanian FreeDict Dictionary ver. 0.6.1
+http://romdict.sourceforge.net/
+abort
+ 1. a abandona
+ 2. abandonează
+abstract
+ abstract
+accelerator
+ accelerator
+accept
+ 1. a accepta
+ 2. acceptă
+access
+ 1. a avea acces la
+ 2. a aborda
+account
+ cont
+active
+ activ
+activate
+ 1. a activa
+ 2. activare
+active matrix display
+ dispozitiv de afișare cu matrice activă
+actor
+ actor
+adaptive routing
+ rutare flexibilă
+add
+ 1. a adăuga
+ 2. adăugare
+additional
+ suplimentar
+address
+ adresă
+address book
+ agendă
+aditive inverse
+ inversa aditivă
+adjust
+ 1. a ajusta
+ 2. ajustare
+administration
+ administrare
+aggregate
+ agregat
+aggregate bandwidth
+ lățime de bandă cumulată
+alarm
+ alarmă
+alias
+ alias
+align
+ aliniere
+allow
+ 1. a permite
+ 2. permis
+alpha
+ alfa
+alpha channel
+ canal alfa
+amplitude modulation
+ modulare în amplitudine
+analog
+ analog
+analysis
+ analiză
+anchor
+ ancoră
+and
+ și
+animation
+ animație
+anonymous
+ anonim
+answer mode
+ mod răspundere
+antialiasing
+ antitreaptă
+appearance
+ aspect
+append
+ 1. a adăuga
+ 2. adăugare
+applet
+ 1. aplet
+ 2. apleturi
+application
+ aplicație
+application launcher
+ lansator de aplicație
+apply
+ 1. a aplica
+ 2. aplicare
+arc
+ arc
+archive
+ 1. a arhiva
+ 2. arhivă
+archive file
+ arhivă
+argument
+ argument
+array
+ 1. tablou
+ 2. matrice
+arrow key
+ tastă săgeată
+article
+ articol
+ascending
+ crescător
+aspect ratio
+ proporție
+asserted signal
+ semnal asigurat
+asynchronous
+ asincron
+attach
+ a anexa
+attachment
+ anexă
+attribute
+ atribut
+audio
+ audio
+authentication
+ autentificare
+author
+ autor
+autofill
+ umplere automată
+availability
+ disponibilitate
+average
+ mediu
+axis
+ axă
+baby feeding algorithm
+ algoritmul de alimentare la cerere
+background
+ fundal
+backup
+ copie de siguranță
+backward
+ înapoi
+backward compatibility
+ compatibilitate cu versiunile anterioare
+balance
+ 1. balanță
+ 2. echilibru
+ 3. blianț
+bandwidth
+ lățime de bandă
+base
+ bază
+basic
+ 1. fundamental
+ 2. de bază
+batch
+ lot
+batch system
+ sistem de prelucrare pe loturi
+benchmark
+ test de performanță
+best fit algorithm
+ algoritmul "cea mai bună potrivire"
+beta
+ beta
+big endian
+ cel-mai-semnificativ-primul
+binary
+ binar
+bind
+ 1. a lega
+ 2. legătură
+binding
+ 1. legătură
+ 2. asociere
+binomial distribution
+ distribuția binomială
+bit
+ bit
+bitmap
+ 1. hartă de biți
+ 2. imagine
+blank
+ 1. blanc
+ 2. gol
+blink
+ clipește
+block-level parallelism
+ paralelism la nivel de bloc
+blocked
+ blocat
+blur
+ 1. difuz
+ 2. neclar
+ 3. încețoșat
+body
+ corp
+bold
+ 1. aldin
+ 2. îngroșat
+ 3. îndrăzneț
+bookmark
+ semn de carte
+boolean
+ 1. boolean
+ 2. logic (tip de date)
+bottleneck
+ 1. gâtuire
+ 2. loc strimt
+ 3. timp mort
+bottom
+ bază
+bound
+ 1. a lega
+ 2. legătură
+box
+ 1. căsuță
+ 2. casetă
+ 3. cutie
+branch
+ 1. ramificație
+ 2. filială
+branch history shift register
+ registru de deplasare pentru istoria ramificațiilor
+bricks
+ cărămizi
+browse
+ 1. a naviga
+ 2. navigare
+ 3. a răsfoi
+browser
+ navigator
+buffer
+ memorie tampon
+bug
+ 1. scamă
+ 2. eroare
+ 3. pană
+ 4. problemă
+build
+ versiune compilată
+built in
+ nativ
+bundle
+ 1. a include
+ 2. includere
+ 3. inclus
+ 4. legat
+bus
+ 1. magistrală
+ 2. autobuz
+busy
+ ocupat
+button
+ buton
+byte
+ octet
+c
+ 1. limbajul de programare c
+ 2. litera c
+cache
+ 1. ascunzătoare
+ 2. provizii
+ 3. memorie cache
+calculator
+ calculator
+calendar
+ 1. calendar
+ 2. agendă
+call
+ 1. a chema
+ 2. a apela
+ 3. a suna
+callback
+ chemare (în raspuns)
+cancel
+ renunță
+canvas
+ 1. țesătură
+ 2. pînză
+ 3. plan
+ 4. proiect
+capability
+ 1. capacitate
+ 2. posibilitate
+caption
+ 1. legendă
+ 2. titlu (de articol)
+card
+ 1. placă (hardware)
+ 2. cartelă (telefonică
+ 3. de metrou
+ 4. de acces)
+ 5. carte (de debit
+ 6. de credit
+ 7. de vizită
+caret
+ semnul "^"
+case insensitive
+ cu majuscule nesemnificative
+case sensitive
+ cu majuscule semnificative
+categorie
+ categorie
+cd
+ compact disc
+cell
+ celulă
+cellular
+ celular
+center
+ 1. centru
+ 2. centrat
+channel
+ canal
+character set
+ set de caractere
+chat
+ 1. discuție
+ 2. conversație
+check
+ 1. verifică
+ 2. bifează
+child
+ copil
+chooser
+ selector
+class
+ clasă
+classification
+ clasificare
+clear
+ 1. șterge
+ 2. curățare
+click
+ 1. a apăsa
+ 2. apăsare
+ 3. clic
+ 4. a face clic
+clipboard
+ planșetă
+close
+ 1. închis
+ 2. a închide
+cluster
+ 1. ciorchine
+ 2. mănuchi
+code
+ 1. cod
+ 2. program
+coefficient
+ coeficient
+collaboration
+ colaborare
+collapse
+ 1. prăbușire
+ 2. cădere
+ 3. a plia
+collate
+ a uni
+collision
+ ciocnire
+colormap
+ hartă de culori
+command
+ 1. comandă
+ 2. ordin
+command line
+ linie de comandă
+command line options
+ parametrii liniei de comandă
+common properties
+ proprietăți comune
+compare
+ a compara
+compliant
+ conform cu
+computer
+ 1. computer
+ 2. calculator
+concatenate
+ a înlănțui
+condition
+ condiție
+conduit
+ conductă
+confidential
+ confidențial
+configuration
+ configurație
+confirm
+ a confirma
+confirmation
+ confirmare
+connect
+ conectare
+connection
+ conexiune
+constraint
+ 1. restricție
+ 2. constrîngere
+content
+ conținut
+continue
+ 1. continuă
+ 2. continuu
+control
+ control
+controller
+ controlor
+conversion
+ conversie
+cookie
+ fursec
+copy
+ copiază
+copyright
+ drept de autor
+correlation
+ corelație
+corrupt
+ 1. alterat
+ 2. corupt
+cost
+ cost
+cought
+ 1. detectat
+ 2. interceptat
+count
+ socoteală
+covariance
+ covariație
+cpu
+ procesor
+crash
+ cădere
+create
+ a crea
+credits
+ 1. credit
+ 2. recunoașterea meritelor
+critical error
+ eroare critică
+crop
+ 1. recoltă
+ 2. tăiere
+cumulative
+ cumulativ
+current
+ curent
+cursor
+ cursor
+curve
+ curbă
+customize
+ personalizare
+custom
+ personalizat
+cut
+ decupează
+cyan
+ azuriu
+daemon
+ demon
+data
+ 1. dată
+ 2. informație
+database
+ bază de date
+deadlock
+ 1. punct mort
+ 2. stagnare
+ 3. blocare
+debug
+ 1. a depana
+ 2. depanare
+decimal
+ zecimal
+decrease
+ 1. a scădea
+ 2. scădere
+default
+ implicit
+delete
+ 1. a șterge
+ 2. șterge
+deny
+ 1. a refuza
+ 2. refuzare
+dependence
+ dependință
+deploy
+ 1. a desfășura
+ 2. desfășurare
+deprecated
+ învechit
+derived
+ derivat
+descending sort
+ ordonare descrescătoare
+destination
+ destinație
+destroy
+ 1. a distruge
+ 2. distrugere
+detection
+ 1. identificare
+ 2. descoperire
+develop
+ 1. a dezvolta
+ 2. dezvoltare
+ 3. [software] developer = dezvoltator [software]
+device
+ dispozitiv
+diagonal
+ diagonală
+diagram
+ diagramă
+dial
+ 1. a apela
+ 2. apelator
+digit
+ cifră
+dimension
+ dimensiune
+direction
+ direcție
+directory
+ director
+disable
+ 1. a dezactiva
+ 2. dezactivare
+discard
+ 1. a anula
+ 2. anulare
+disclaimer
+ 1. declarație de neasumare a responsabiltății
+ 2. certificat de negaranție
+disconnect
+ deconectare
+disconnecting
+ deconectez
+discrete
+ discret
+disk
+ disc
+dismiss
+ 1. a da afara
+ 2. a elibera
+ 3. a da drumul
+ 4. a dizolva
+ 5. a înceta
+display
+ 1. a afișa
+ 2. afișaj
+dissipation
+ 1. risipire
+ 2. cheltuială
+ 3. disipație
+distribute
+ a distribui
+dithering
+ 1. tremur
+ 2. vibrație
+division by zero
+ împărțire la zero
+dock
+ 1. doc
+ 2. a atașa
+ 3. atașare
+document
+ document
+domain
+ domeniu
+done
+ gata
+dot
+ punct
+download
+ 1. a descărca
+ 2. descărcare
+downstream
+ 1. aval
+ 2. în josul apei
+drag and drop
+ trage și lasă să cadă
+draft
+ ciornă
+drawer
+ sertar
+drawing area
+ zona de desenat
+drive
+ 1. unitate
+ 2. dispozitiv
+ 3. de disc
+driver
+ pilot
+drop
+ a lasă să cadă
+druid
+ druid
+dumb terminal
+ terminal prost/mut
+duplicate
+ a duplica
+dynamic
+ dinamic
+e-mail
+ 1. poștă electronică
+ 2. mesaj electronic
+echo
+ ecou
+edge
+ margine
+edit
+ a modifica
+effects
+ efecte
+eject
+ a scoate
+electronic mail
+ 1. poștă electronică
+ 2. mesaj electronic
+email
+ 1. poștă electronică
+ 2. mesaj electronic
+embedded
+ 1. încapsulat
+ 2. incorporat
+embossed
+ reliefat
+emulate
+ 1. a emula
+ 2. emulare
+enable
+ 1. a activa
+ 2. activare
+ 3. a permite
+encapsulated postscript
+ postscript încapsulat
+encoding
+ 1. codare
+ 2. cifrare
+engineering
+ inginerie
+enhance
+ 1. a imbunătăți
+ 2. îmbunătățire
+entity
+ 1. entitate
+ 2. esență
+environment variable
+ variabilă a mediului
+equation
+ ecuație
+error
+ eroare
+escape
+ 1. a scăpa
+ 2. a evada
+ 3. evadare
+ 4. fugă
+ethernet
+ 1. ethernet
+ 2. protocol pentru rețea
+event
+ eveniment
+exception
+ excepție
+exclusive or
+ sau exclusiv
+executable file
+ fișier executabil
+execute
+ 1. a executa
+ 2. a rula (pentru programe)
+exit
+ ieșire
+expand
+ a desfășura
+expanded memory
+ memorie expandată
+expected location
+ locația presupusă
+explicit state
+ statut explicit
+exponential notation
+ notație exponențială
+export
+ 1. a exporta
+ 2. export
+expression
+ expresie
+expunge
+ a elimina
+extension
+ extensie
+extract
+ a extrage
+fail
+ 1. a eșua
+ 2. eșec
+fallback
+ reîntoarcere/rezervă
+faq
+ întrebări frecvente
+favorite
+ favorit
+fax
+ fax
+feature
+ facilitate
+feedback
+ 1. reacție
+ 2. comentarii
+field
+ cîmp
+file
+ fișier
+filename
+ nume de fișier
+filesystem
+ sistem de fișiere
+fill
+ 1. a umple
+ 2. umplutură
+filter
+ filtru
+find
+ 1. a găsi
+ 2. găsește
+firewall
+ firewall
+flag
+ 1. steag
+ 2. indicator
+float
+ 1. a pluti
+ 2. tip de date in virgulă mobilă
+floppy
+ dischetă
+flow analysis
+ analiza circuitelor
+flowchart
+ 1. flowchart (hartă a fluxurilor)
+ 2. flux tehnologic
+framerate
+ frecventa
+focus
+ 1. a focaliza
+ 2. focalizare
+folder
+ 1. dosar
+ 2. director
+font
+ literă (cum arată corpul de literă)
+footer
+ subsol
+forecast
+ previziune
+foreground
+ prim plan
+fork
+ 1. a bifurca
+ 2. furculiță
+form
+ 1. a forma
+ 2. formă
+ 3. formular
+format
+ format
+formula
+ formulă
+forward
+ înainte
+fourier analysis
+ analiză fourier
+fraction
+ fracție
+frame
+ 1. cadru
+ 2. ramă
+free software
+ 1. soft liber
+ 2. din punct de vedere al licențelor software - un program care poate fi distribuit gratuit și care trebuie să aibă sursele disponibile. Se specifică libertatea de a modifica programul atîta timp cît se păstrează intacte informațiile despre autorii inițiali și se marchează clar modificările făcute
+Free Software Foundation
+ Fundația pentru Software Liber
+FSF
+ Fundația pentru Software Liber
+freeware
+ 1. gratuit
+ 2. din punct de vedere al licențelor software - un program care poate fi distribuit gratuit dar nu poate fi modificat fără acordul autorului
+frequency
+ frecvență
+ftp
+ protocol de transfer de fișiere
+File Transfer Protocol
+ protocol de transder de fișiere
+full pathname
+ cale completă
+function
+ funcție
+gamma
+ gama (litera grecească)
+gap
+ 1. lipsă
+ 2. gaură
+band gap
+ bandă de separare
+garbage collector
+ 1. colector de memorie reziduală
+ 2. gunoier
+gateway
+ 1. poartă
+ 2. intrare
+geometry
+ geometrie
+get
+ 1. a primi
+ 2. a obține
+ 3. primește
+getting started
+ 1. primii pași
+ 2. primele noțiuni
+glitch
+ scăpare
+global
+ global
+glob
+ 1. a expanda
+ 2. expandare
+ 3. se referă la expandarea meta-caracterelor (wildcards)
+go
+ mergi
+grab
+ a apuca
+gradient
+ pantă
+graph
+ grafic
+graphical user interface
+ interfață grafică pentru utilizator
+GUI
+ interfață grafică pentru utilizator
+grayscale
+ scală de gri
+grid
+ 1. grilă
+ 2. grilaj
+group
+ grup
+guide
+ 1. a ghida
+ 2. ghid
+gutter
+ 1. rigolă
+ 2. jgheab
+halt
+ oprire
+handle
+ a manevra
+handler
+ descriptor
+handshake
+ strîngere de mînă
+hard disk
+ disc
+hard
+ greu
+hardware
+ 1. fierărie
+ 2. hardware (componentele fizice ale unui calculator)
+header
+ antet
+hello world
+ 1. salut lume
+ 2. sintagmă folosită pentru a descrie un cel mai rudimentar posibil program ce poate fi creat într-un limbaj (de regulă acest program doar afișază 'hello word')
+help
+ ajutor
+heap
+ 1. a încărca
+ 2. grămadă
+hex
+ hexazecimal (în baza 16)
+hidden file
+ fișier ascuns
+hide
+ a (se) ascunde
+hierachy
+ ierarhie
+highlight
+ a evidenția
+hint
+ sugestie
+hyperlink
+ hiperlegătură
+histogram
+ histogramă
+history
+ 1. istoric
+ 2. istorie
+home
+ acasă
+home directory
+ directorul personal al unui utilizator
+home page
+ pagină de pornire
+homogeneous environment
+ mediu omogen
+host
+ gazdă
+hostname
+ nume de gazdă
+hot key
+ tastă fierbinte
+hot link
+ legătură fierbinte
+hot spot
+ punct fierbinte
+housekeeping
+ întreținere
+html
+ limbajul de marcare a hipertextului
+Hypertext Markup Language
+ limbajul de marcare a hipertextului
+http
+ protocolul de tranfer a hipertextului
+Hypertext Transfer Protocol
+ protocolul de tranfer a hipertextului
+hue
+ 1. nuanță
+ 2. vopsea
+i/o
+ intrări și ieșiri
+input/output
+ intrări și ieșiri
+i/o subsystem
+ subsistemulde intrări și ieșiri
+icon
+ 1. icoană
+ 2. pictogramă
+id
+ identificator
+identifier
+ identificator
+idle
+ 1. în așteptare
+ 2. liber
+ 3. nefolosit
+ 4. neutilizat
+ 5. disponibil
+ 6. inutil
+illegal
+ ilegal
+image
+ imagine
+implementation
+ 1. îndeplinire
+ 2. punere în aplicare
+ 3. executare
+ 4. realizare
+import
+ 1. a importa
+ 2. import
+inactive window
+ fereastra inactivă
+inch
+ țol
+increase
+ 1. creștere
+ 2. spor
+ 3. a crește
+increment
+ 1. creștere
+ 2. sporire
+ 3. mărire
+ 4. profit
+incremental update
+ o metodă de punere la zi prin reținerea doar a modificărilor ulterioare unei anumite date
+indent
+ 1. a zimțui
+ 2. a paragrafa
+index
+ 1. index
+ 2. indice
+indicator
+ indicator
+information
+ informație
+initialization
+ inițiere
+input
+ 1. aducere
+ 2. adimisie
+insertion
+ 1. introducere
+ 2. inserare
+insertion point
+ punct de inserare
+install
+ instalare
+interaction
+ interacțiune
+intercept
+ 1. a intercepta
+ 2. interceptare
+interface
+ interfață
+internal bug
+ problemă internă
+internal error
+ eroare internă
+international
+ internațional
+internet
+ internet
+interrupt
+ întrerupere
+intersect
+ 1. a intersecta
+ 2. intersecție
+interval
+ interval
+intuitive
+ intuitiv
+invalid
+ invalid
+invert
+ a inversa
+invert selection
+ inversează selecția
+invisible
+ invizibil
+ip address
+ adresă IP
+italic
+ 1. italic
+ 2. cursiv
+item
+ element
+job
+ 1. sarcină
+ 2. slujbă
+justify
+ 1. a alinia la margini
+ 2. aliniere la margini
+kernel
+ nucleu
+key
+ 1. tastă
+ 2. cheie
+keyboard
+ tastatură
+keyword
+ cuvînt cheie
+kill
+ a omorî
+kilobyte
+ 1. kilobyte
+ 2. tradițional 1024 de byte (2^10)
+ 3. producătorii de hardware folosesc 1000 de byte (10^3)
+kit
+ 1. trusă
+ 2. set
+installation kit
+ pachet de instalare
+label
+ etichetă
+lambda
+ lambda
+landscape
+ 1. decor
+ 2. (pentru tipărire) orizontal
+language
+ 1. limbă
+ 2. limbaj
+laptop
+ 1. laptop
+ 2. calculator portabil
+latency
+ latență
+launch icon
+ pictogramă de lansare
+launcher
+ lansator
+layer
+ strat
+layout
+ 1. machetă
+ 2. aranjament
+legacy
+ moștenit
+legacy system
+ sistem moștenit
+legacy application
+ aplicație moștenită
+legal
+ 1. legal
+ 2. dimensiune de hirtie de scris - omoloagă cu A4 în sistemul anglo-saxon
+length
+ lungime
+letter
+ 1. literă
+ 2. scrisoare
+ 3. dimensiune de hirtie de scris - omoloagă cu A5 în sistemul anglo-saxon
+library
+ bibliotecă
+license agreement
+ întelegere contractuală legată de tipul de licență sub care este distribuită o aplicație
+limit
+ limită
+line
+ linie
+line arguments
+ argumentele din linia de comandă
+linear transfer
+ transfer liniar
+link
+ 1. a lega
+ 2. legătură
+ 3. za
+load
+ 1. a încărca
+ 2. încărcătură
+ 3. încărcare
+local
+ local
+location
+ locație
+lock
+ 1. a bloca
+ 2. blocare
+log
+ jurnal
+logical
+ logic (adevărat sau fals)
+logo
+ 1. emblemă
+ 2. siglă
+look
+ 1. a se uita
+ 2. uite
+lookup
+ căutare
+loop
+ 1. ciclu
+ 2. buclă
+look and feel
+ aspect
+mail
+ poștă
+mail client
+ client de postă electronică
+mail server
+ server de poștă electronică
+mailbox
+ cutie poștală
+main body
+ corpul mesajului - mesajul propriu-zis
+mainframe
+ mainframe
+magenta
+ fucsină
+man page
+ pagină de manual
+manager
+ 1. manager
+ 2. administrator
+manual
+ manual
+manual page
+ pagină de manual
+margin
+ margine
+mark
+ 1. marcaj
+ 2. semn
+markup
+ marcare
+markup language
+ limbaj de marcare
+matching
+ 1. care se potrivește
+ 2. potrivit
+mdi
+ interfață cu multiple documente
+Multiple Document Interface
+ interfață cu multiple documente
+media
+ mediu
+media type
+ tip de mediu
+median
+ medie
+meeting
+ întîlnire
+memory
+ memorie
+menu
+ meniu
+menubar
+ bara de meniu
+merge
+ 1. a combina
+ 2. combinare
+ 3. a reuni
+ 4. reunire
+message
+ mesaj
+minimize
+ 1. a minimiza
+ 2. a micșora
+minix
+ sistem de operare din familia Unix
+minor faults
+ greșeli minore
+mirror
+ oglindă
+misc
+ diverse
+miscellaneous
+ diverse
+mode
+ mod
+model
+ model
+modem
+ modem
+modifier
+ modificator
+modify
+ a modifica
+module
+ modul
+monitor
+ 1. monitor
+ 2. program de monitorizare
+monochrome
+ monocrom
+mount
+ 1. a monta
+ 2. montare
+mouse
+ șoarece
+move
+ 1. a (se) mișca
+ 2. a muta
+ms
+ MicroSoft
+mtu
+ unitatea maximă de tranmisie
+Maximum Transmission Unit
+ unitatea maximă de tranmisie
+multimedia
+ multimedia
+namespace
+ spațiu de nume
+nested
+ îmbricat
+network
+ rețea
+nibble
+ 1. a ciuguli
+ 2. semioctet (4 biți)
+node
+ nod
+none
+ nimic
+normal distribution
+ distribuția normală
+notebook
+ 1. agendă
+ 2. notebook
+ 3. calculator portabil
+notepad
+ carnețel
+notice
+ 1. notiță
+ 2. a remarca
+notify
+ 1. a înștiința
+ 2. înștiințare
+number
+ număr
+number of
+ număr de
+numbered list
+ listă (fiecare element primește un număr)
+numeric
+ numeric
+object code
+ cod obiect
+oblique
+ oblic
+observation
+ observații
+obsolete
+ învechit
+offline
+ deconectat
+offset
+ 1. decalaj
+ 2. deplasare
+online
+ conectat
+opacity
+ opacitate
+open
+ deschis
+open source
+ sursă deschisă - aplicații ale căror surse sînt publice
+operating system
+ sistem de operare
+operation
+ operație
+optional
+ opțional
+option
+ opțiune
+or
+ sau
+order
+ 1. comandă
+ 2. ordin
+ 3. ordine
+orientation
+ orientare
+origin
+ origine
+outline
+ 1. a sublinia
+ 2. subliniat
+output
+ 1. a produce
+ 2. produs
+ 3. ieșire
+override
+ 1. a strivi
+ 2. a înlocui
+ 3. înlocuiește
+overstrike
+ 1. a tăia
+ 2. tăiere
+ 3. despre fonturi
+overwrite
+ 1. a suprascrie
+ 2. suprascriere
+owner
+ proprietar
+pack
+ a împacheta
+package
+ pachet
+packet
+ pachet (mai mic decît package)
+padding
+ umplutură
+page
+ pagină
+pager
+ paginator
+palette
+ paletă
+panel
+ panou
+parameter
+ parametru
+parcel
+ 1. a împărți
+ 2. parte
+ 3. fragment
+parse
+ a analiza
+partition
+ 1. împărțire
+ 2. compartimentare
+password
+ parolă
+paste
+ 1. a lipi
+ 2. aluat
+ 3. argilă
+patern
+ 1. a modela
+ 2. a copia
+ 3. șablon
+ 4. model
+path
+ 1. cale
+ 2. traseu
+peak
+ vîrf
+peer
+ 1. seamăn
+ 2. tovarăș
+pending
+ 1. sespendat
+ 2. atîrnat
+pending signal
+ semnal suspendat
+period
+ 1. perioadă
+ 2. termen
+ 3. ciclu
+periodic
+ periodic
+permission
+ permisiune
+physical memory
+ memorie fizică
+pipe
+ 1. pipă
+ 2. tub
+ 3. țeavă
+ 4. coș
+ 5. burlan
+ 6. fluier
+pixel
+ pixel
+place
+ loc
+plain text
+ text simplu
+play
+ 1. a reda
+ 2. a cînta
+ 3. a (se) juca
+ 4. redare
+please
+ vă rog
+plug
+ 1. dop
+ 2. priză
+plug-in
+ modul
+plugged
+ 1. conectat
+ 2. cuplat
+point
+ 1. a indica
+ 2. indicator (UI)
+ 3. punct
+poisson distribution
+ distribuție poisson
+policy
+ politică
+polygon
+ poligon
+pool
+ 1. baltă
+ 2. bazin
+ 3. o variantă de biliard
+ 4. fond comun
+ 5. rezervă
+port
+ port
+portrait
+ 1. portret
+ 2. (pentru tipărire) vertical
+post office
+ oficiu poștal
+postal box
+ casuță poștală
+postscript
+ postscript
+power management
+ administrarea curentului electric
+preemptive
+ preemptiv
+preferences
+ preferințe
+prefix
+ prefix
+preview
+ 1. previzualizare
+ 2. avanpremieră
+primary colors
+ culori de bază
+print
+ 1. a tipări
+ 2. tipărire
+ 3. tipăritură
+print area
+ zonă tipăribilă
+printer
+ imprimantă
+priority
+ prioritate
+privacy
+ intimitate
+private key
+ cheie privată/personală
+private message
+ mesaj personal
+problem
+ problemă
+process
+ proces
+process id
+ identificator de proces
+processor
+ procesor
+prodigy
+ 1. semn rău
+ 2. monstru
+ 3. figurativ - minunăție
+program
+ program
+progress
+ progres
+progress bar
+ 1. bară de progres
+ 2. indicator de evoluție
+project
+ proiect
+propagation
+ propagare
+properties
+ proprietăți
+proportional font
+ caractere proportionale
+protected
+ protejat
+protection
+ protecție
+protocol
+ protocol
+provision
+ 1. măsură
+ 2. dipozitie
+ 3. rezervă
+ 4. articol (contractual)
+ 5. a aproviziona
+ 6. a înarma
+proxy
+ 1. împuternicire
+ 2. mandat
+ 3. mandatar
+public
+ public
+public key
+ cheie publică
+put
+ 1. pune
+ 2. plasează
+only
+ doar
+query
+ 1. întrebare
+ 2. chestiune
+ 3. a pune o întrebare
+queue
+ coadă
+quit
+ ieșire
+quoting
+ citare
+radio button
+ buton radio
+random
+ 1. aleator
+ 2. întîmplător
+range
+ 1. a înșira
+ 2. a clasifica
+ 3. șir
+ 4. rînd
+ 5. ordine
+rank
+ grad
+rating
+ 1. apreciere
+ 2. evaluare
+ 3. clasificare
+ratio
+ proporție
+raw
+ brut
+raw data
+ date brute
+raw memory
+ memorie brută
+read out
+ a citi cu voce tare
+ready
+ gata
+real memory
+ memorie reală/fizică
+real path
+ calea reală
+real time
+ timp real
+reboot
+ repornire
+receptivity
+ receptivitate
+receive
+ a primi
+record
+ 1. a înregistra
+ 2. înregistrare
+recoverable
+ recuperabil
+rectangle
+ dreptunghi
+recurrence
+ recurență
+recursion
+ recursivitate
+redisplay
+ a reafișa
+redo
+ refă
+refresh
+ 1. actualizare
+ 2. reîmprospătare
+region
+ regiune
+regular
+ obișnuit
+regular expression
+ expresie obișnuită
+regulate
+ 1. a regulariza
+ 2. a adapta
+ 3. a regla
+reject
+ 1. a respinge
+ 2. rebut
+relationship
+ relație
+release
+ 1. eliberare
+ 2. lansare
+remote
+ la distanță
+remove
+ 1. a șterge
+ 2. a îndepărta
+rename
+ a redenumi
+render
+ 1. a da
+ 2. a preda
+ 3. a livra
+ 4. a înapoia
+ 5. a exprima
+repeat
+ a repeta
+replace
+ a înlocui
+report
+ raport
+reserved blocks
+ blocuri rezervate
+reset
+ 1. a repune
+ 2. a stabili
+ 3. a pune (ceasul)
+resident
+ 1. rezident
+ 2. inerent
+resident memory
+ memorie rezidentă
+residual
+ 1. rezidual
+ 2. rămas nelămurit
+resize
+ a redimensiona
+resolution
+ rezoluție
+resource element
+ resursă
+restart
+ 1. a reporni
+ 2. repornire
+restore
+ 1. a restabili
+ 2. a restaura
+ 3. a repara
+ 4. a restabili
+resume
+ 1. a relua
+ 2. reluare
+ 3. rezumat
+retrieve
+ a recupera
+retry
+ 1. a reîncerca
+ 2. reîncearcă
+return
+ 1. a întoarce
+ 2. întoarcere
+revert
+ 1. a reveni
+ 2. revenire
+require
+ 1. a necesita
+ 2. necesită
+rollback
+ 1. a anula
+ 2. anulare
+root
+ rădăcină
+root directory
+ director rădăcină
+root window
+ fereastră rădăcină
+rotate
+ 1. a roti
+ 2. a învîrti
+row
+ 1. rînd
+ 2. linie
+ruler
+ riglă
+run
+ 1. a alerga
+ 2. a executa un program
+runtime
+ 1. la execuție
+ 2. în timpul execuției
+runtime error
+ eroare la execuție
+sample
+ eșantion
+sampling
+ eșantionare
+saturation
+ saturație
+save
+ a salva
+scalable
+ scalabil
+scalar
+ scalar
+scale
+ 1. balanța
+ 2. scală
+scan
+ 1. a examina
+ 2. a cerceta amănuntit
+schedule manager
+ administrator orar
+scientific notation
+ notare științifică
+scope
+ 1. proporții
+ 2. anvergură
+ 3. spațiu
+ 4. scop
+ 5. țel
+screen
+ ecran
+script
+ scenariu
+scroll
+ 1. rulou
+ 2. spirală
+ 3. filet
+ 4. a (se) rula
+scrollbar
+ bară de rulare
+search
+ 1. a căuta
+ 2. căutare
+search domain
+ domeniu căutării
+search string
+ șir de căutat
+seascape
+ (pentru imprimare) orizontal răsturnat
+secondary color
+ culoare secundară
+secure channel
+ canal sigur
+secure keyboard
+ tastatură sigură
+security
+ securitate
+segment
+ segment
+select
+ 1. a alege
+ 2. alegere
+selection
+ alegere
+send
+ a trimite
+send to
+ trimite către
+sense
+ 1. simț
+ 2. rațiune
+ 3. părere
+ 4. opinie
+sensitive
+ sensibil
+separator
+ separator
+server
+ server
+session
+ sesiune
+set
+ 1. a pune
+ 2. a plasa
+ 3. a apune
+setting
+ 1. aranjare
+ 2. acompaniament
+set-up
+ 1. program de instalare a unei aplicații pe calculator
+ 2. program de fixare a condițiilor în care va rula o aplicație pe un calculator
+severity
+ 1. serveritate
+ 2. gravitate
+share
+ 1. a împărți
+ 2. a distribui
+ 3. a partaja
+ 4. partajare
+shared memory
+ memorie partajată
+sheet
+ 1. foaie
+ 2. cearșaf
+shell
+ 1. scoică
+ 2. carapace
+shift key
+ tasta 'shift'
+show
+ 1. a arăta
+ 2. a expune
+ 3. spectacol
+shrink
+ a micșora
+shut down
+ 1. a opri
+ 2. oprire
+signal
+ semnal
+signature block
+ semnătură
+signature
+ semnatură
+site
+ 1. poziție
+ 2. situație
+ 3. amplasament
+skew
+ 1. oblicitate
+ 2. poziție piezișă
+skip
+ 1. a sări
+ 2. salt
+slant
+ 1. a se înclina
+ 2. înclinat
+slave
+ sclav
+shade
+ 1. a umbri
+ 2. umbră
+shared
+ 1. comun
+ 2. folosit în ~
+sleeping
+ 1. care doarme
+ 2. adormit
+slider
+ 1. cursor
+ 2. patină
+slot
+ 1. crăpătură
+ 2. tăietură
+slow terminal
+ terminal încet
+socket
+ 1. mufă
+ 2. deschizătură
+ 3. soclu
+ 4. fasung
+ 5. orbită
+ 6. gaură
+smart
+ 1. deștept
+ 2. inteligent
+smart terminal
+ terminal inteligent
+smooth
+ 1. fin
+ 2. neted
+snap
+ 1. mușcătură
+ 2. apucare rapidă
+snooze
+ 1. a ațipi
+ 2. moțăială
+solid model
+ model solid
+solid line
+ linie solidă
+sort
+ 1. fel
+ 2. soi
+ 3. a tria
+ 4. a sorta
+sound card
+ placă de sunet
+source
+ sursă
+source code
+ cod sursă
+space character
+ caracterul spațiu
+spam
+ mesaj nedorit (de regula cu caracter publicitar)
+spawn
+ 1. a născoci
+ 2. a se înmulți
+special character
+ caracter special
+spell
+ 1. ortografie
+ 2. vrajă
+spell checker
+ corector ortografic
+splitter
+ separator
+spool
+ a bobina
+spreadsheet
+ pagină de calcul tabelar
+synopsis
+ 1. rezultat
+ 2. expunere sumară
+stabilize
+ a stabiliza
+stack
+ stivă
+standard
+ standard
+standard deviation
+ devierea standard
+start
+ start
+state
+ stare
+statistics
+ statistică
+status
+ stare
+status line
+ linie de stare
+statusbar
+ bara de stare
+stat
+ verificare
+stereotype
+ stereotip
+sticky
+ 1. persistent
+ 2. lipicios
+sticky notes
+ note lipicioase
+storage
+ 1. depozit
+ 2. zonă de stocare
+strikethrough
+ tăiat
+string
+ șir
+stroke
+ 1. lovitură
+ 2. trasătură de linie
+style
+ stil
+stub
+ butuc
+subdirectory
+ subdirector
+subject
+ subiect
+submenu
+ submeniu
+submit
+ 1. a trimite
+ 2. trimitere
+subnet
+ subrețea
+subscript
+ 1. scris mărunt
+ 2. indice
+substring
+ subșir
+subtitle
+ subtitrare
+suffix
+ sufix
+summary
+ rezumat
+supercomputer
+ 1. supercomputer
+ 2. supercalculator
+superscript
+ 1. scris sus (cum este puterea)
+ 2. antet
+support
+ sprijin
+suspend
+ a suspenda
+swap
+ 1. troc
+ 2. schimb în natură
+switch
+ întrerupător
+symbol
+ simbol
+symbolic link
+ legătură simbolică
+symmetric control
+ control simetric
+sync
+ 1. a sincroniza
+ 2. sincronizare
+synchronize
+ 1. a sincroniza
+ 2. sincronizare
+system call
+ apel sistem
+swallow
+ 1. gît
+ 2. înghițitură
+syntax error
+ eroare de sintaxă
+system
+ sistem
+system administrator
+ administrator de sistem
+system configuration
+ configurația sistemului
+system settings
+ fixarea sistemului
+table
+ tabel
+table of contents
+ cuprins
+tag
+ etichetă
+talk
+ 1. a vorbi
+ 2. discuție
+tall
+ înalt
+tar archive
+ arhivă tar
+target
+ 1. destinație
+ 2. țintă
+task
+ sarcină
+temp file
+ fișier temporar
+temporary file
+ fișier temporar
+template
+ șablon
+temporary buffer
+ tampon temporar
+term variable
+ variabilă a terminalului
+terminal variable
+ variabilă a terminalului
+terminal
+ terminal
+terminate
+ a termina
+test
+ 1. a testa
+ 2. test
+test module
+ modul de test
+text
+ text
+text area
+ zonă de text
+text only
+ doar text
+textual name
+ nume textual
+theme
+ temă
+thread
+ 1. fir
+ 2. fir de execuție
+threshold
+ prag
+thumbnail
+ miniatură
+tier
+ 1. armătură
+ 2. întaritură
+ 3. rînd
+ 4. șir
+ 5. etaj
+ 6. strat
+ 7. a așeza în șir
+multitier
+ multistrat
+tile
+ mozaic
+timer
+ cronometru
+timeslice
+ cuantă de timp
+timezone
+ fus orar
+timing
+ cronometrare
+tip
+ 1. pont
+ 2. vîrf
+title
+ titlu
+third party
+ 1. terță parte
+ 2. terț
+todo
+ de făcut
+toggle
+ comutare
+tolerance
+ toleranță
+token
+ 1. semn
+ 2. simbol
+ 3. jeton
+token-ring
+ inel cu jeton (tip de rețea)
+tool
+ unealtă
+toolkit
+ trusă de unelte
+tool menu
+ meniu de unelte
+toolbar
+ bara de unelte
+toolbox
+ trusă (de unelte)
+tooltip
+ pont
+top
+ vîrf
+topic
+ topică
+track
+ 1. a urmări
+ 2. urmărire
+ 3. pistă (de CD)
+transfer
+ transfer
+transfer statement
+ declarație de transfer
+transitive
+ 1. tranzitiv
+ 2. tranzitivitate
+translate
+ 1. a traduce
+ 2. a converti
+transmission channel
+ canal de transmisie
+transparent
+ transparent
+transpose
+ 1. transpunere
+ 2. a transpune
+trap
+ 1. a captura
+ 2. capcană
+trash
+ gunoi
+tree
+ arbore
+treeview
+ vizualizare arborescentă
+trigger
+ declanșator
+trim
+ 1. în bună stare
+ 2. aranjat
+ 3. a pune în ordine
+ 4. a aranja
+ 5. a potrivi
+troubleshoot
+ 1. a depana
+ 2. depanare
+troubleshooting
+ depanare
+tune
+ 1. a ajusta
+ 2. ajustare
+ 3. a regla
+ 4. reglare
+ 5. melodie
+turing machine
+ mașină turing
+type
+ tip
+type bindings
+ legături de tip
+type mismatch
+ nepotrivire de tip
+unable to
+ 1. nu pot să
+ 2. nu se poate
+ 3. nu este posibil
+undelete
+ restaurează
+underline
+ 1. a sublinia
+ 2. subliniat
+undo
+ anulează
+unexpected
+ neașteptat
+unexpected end
+ sfîrșit neașteptat
+unexpected error
+ eroare neașteptată
+unicode
+ unicode
+uninstall
+ 1. a dezinstala
+ 2. dezinstalare
+unit
+ unitate
+unix
+ UNIX
+unknown
+ necunoscut
+unknown host
+ gazdă necunoscută
+unload
+ a descărca
+unmount
+ 1. a demonta
+ 2. demontare
+unplugged
+ 1. deconectat
+ 2. decuplat
+unshade
+ 1. luminează
+ 2. dezumbrește
+untitled
+ fără titlu
+update
+ 1. a actualiza
+ 2. actualizare
+upgrade
+ 1. promovare
+ 2. urcuș
+upload
+ încărcare
+upside down
+ vertical răsturnat
+upstream
+ amonte
+urgent
+ urgent
+usage
+ 1. utilizare
+ 2. mod de utilizare
+user
+ utilizator
+user defined
+ definit de către utilizator
+user directory
+ 1. directorul utilizatorului
+ 2. vezi home
+user interface
+ interfață cu utilizatorul
+username
+ numele utilizatorului
+valid chars
+ caractere valide
+value
+ valoare
+variable
+ variabil
+variance
+ variație
+vector graphics
+ grafică vectorială
+vendor
+ vînzător
+verbose
+ vorbăreț
+verify
+ 1. a verifica
+ 2. verificare
+version
+ versiune
+vertical
+ vertical
+vertical alignment
+ aliniere verticală
+vfs
+ sistem de fișiere virtual
+Virtual File System
+ sistem de fișiere virtual
+video
+ video (imagini în mișcare)
+view
+ 1. vizualizare
+ 2. vedere
+viewer
+ 1. vizor
+ 2. observator
+viewport
+ punct de vedere
+virtual
+ virtual
+visualization
+ vizualizare
+volume
+ volum
+q&a
+ întrebări și răspunsuri
+wallpaper
+ tapet
+warning
+ 1. avertizare
+ 2. warning! = atenție!
+watch
+ 1. a monitoriza
+ 2. monitorizare
+ 3. a supraveghea
+ 4. supraveghere
+watch dog
+ câine de pază
+watch file
+ fișier observator
+web
+ plasă
+web page
+ pagină web
+weight
+ greutate
+width
+ lățime
+wildcard
+ metacaracter
+window
+ fereastră
+window manager
+ administrator de ferestre
+wizard
+ 1. asistent
+ 2. vrăjitor
+white paper
+ carte albă
+word
+ cuvînt
+work
+ muncă
+workflow
+ flux de lucru
+working directory
+ directorul de lucru
+workspace
+ spațiu de lucru
+wrap
+ 1. a înfășura
+ 2. a împacheta
+unwrap
+ 1. a desfășura
+ 2. a dezpacheta
+write
+ a scrie
+wysiwyg
+ 1. occv
+ 2. obții ceea ce vezi
+What You See Is What You Get
+ 1. occv
+ 2. obții ceea ce vezi
+x align
+ aliniere pe orizontală
+your
+ dvs.
+your computer
+ calculatorul dvs.
+zero
+ zero
+zigzagline
+ linie în zigzag
+pghyzqrisjakbctulmde vfwnxo

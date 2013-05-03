@@ -1,0 +1,11788 @@
+
+00-database-dictfmt-1.10.11
+Afrikaans-English FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.1
+Size: about 5100 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: afr-eng.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make available many
+  translating dictionaries for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-24 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-18 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-07-19 Michael Bunk:
+   Fixed Debian Bug#318024 (Africaan -> Afrikaans).
+ * 2005-02-13 Michael Bunk:
+   Converted file to TEI P4 and imported to CVS
+ * 2001-06-07 Horst Eyermann:
+   Database was converted to TEI format
+Afrikaans-English FreeDict Dictionary ver. 0.2.1
+http://freedict.org/
+A‐bom
+ atom bomb
+Aandland
+ Occident
+Aandster
+ Evening Star; Venus
+Abessinies
+ Abyssinian
+Abessinië
+ Abyssinia
+Abessiniër
+ Abyssinian
+Achilles
+ Achilles
+Achilleshiel
+ Achilles' heel
+Achillespees
+ Achilles' tendon
+Adam
+ Adam
+Aden
+ Aden
+Adonis
+ Adonis
+Adriatiese
+ Adriatic; Adriatic Sea
+Afgaan
+ Afghan
+Afgaans
+ Afghan
+Afganistan
+ Afghanistan
+Afrika
+ Africa
+Afrikaan
+ African
+Afrikaans
+ 1. African
+ 2. Afrikaans
+Afrikaner
+ 1. Afrikaans
+ 2. Afrikaner; Boer
+Afrikanertroos
+ coffee
+Afro‐Asiaties
+ 1. Afro‐Asian
+ 2. Afro‐Asian
+Agter‐Indië
+ Indo‐China
+Aken
+ Aix‐la‐Chapelle
+Albaans
+ Albanian
+Albanees
+ 1. Albanian
+ 2. Albanian
+Albanies
+ 1. Albanian
+ 2. Albanian; Albanian language
+Albaniese
+ Albanian; Albanian language
+Albanië
+ Albania
+Albion
+ Albion
+Alexandrië
+ Alexandria
+Algerië
+ Algeria
+Algeryn
+ Algerian
+Algeryns
+ Algerian
+Algiers
+ Algiers
+Allah
+ Allah
+Allerheilige
+ All Hallows; All Saints' Day
+Allersiele
+ All Souls' Day
+Alpe
+ Alps
+Alpien
+ alpine
+Alpinies
+ alpine
+Alpyns
+ alpine
+Amasone
+ Amazon
+Amerika
+ 1. America
+ 2. United States of America; USA
+Amerikaans
+ 1. American
+ 2. American
+Amerikaner
+ 1. American
+ 2. American; US citizen
+Amor
+ Cupid
+Anatolië
+ Anatolia; Asia Minor
+Andalusië
+ Andalusia
+Angel‐Sakser
+ Anglo‐Saxon
+Angel‐Saksies
+ Anglo‐Saxon
+Anglikaan
+ Anglican
+Anglikaans
+ Anglican
+Angola
+ Angola
+Annunsiasie
+ Annunciation; Lady Day
+Antarktika
+ Antarctic; the Antarctic
+Antille
+ Antilles
+Antonius
+ Antony
+Apokalips
+ Apocalypse
+April
+ April
+Arabier
+ Arab
+Arabies
+ Arabian; Arabic
+Arabië
+ Arabia
+Ardenne
+ Ardennes
+Areopagus
+ Areopagus
+Argentinië
+ Argentina
+Argentyn
+ Argentine
+Argentyns
+ Argentine; Argentinean
+Argus
+ Argus
+Aries
+ Aryan
+Aristoteles
+ Aristotle
+Ariër
+ Aryan
+Ark
+ Ark of the Covenant
+Armenies
+ Armenian
+Armenië
+ Armenia
+Armeniër
+ Armenian
+Asdag
+ Ash Wednesday
+Asepoestertjie
+ Cinderella
+Asiaat
+ Asian
+Asiaties
+ Asian; Asiatic
+Asië
+ Asia
+Assiries
+ Assyrian
+Assirië
+ Assyria
+Assiriër
+ Assyrian
+Astekies
+ Aztec
+Atheens
+ Athenian
+Athene
+ 1. Athena; Athene
+ 2. Athens
+Athener
+ Athenian
+Atlanties
+ Atlantic
+Atlantiese
+ Atlantic; Atlantic Ocean
+Atlas
+ Atlas
+Atties
+ Attic
+Augias
+ Augeas
+Augiasstal
+ Augean stable
+Augustus
+ 1. Augustus
+ 2. August
+Aurora
+ Aurora
+Australies
+ Australian
+Australië
+ Australia
+Australiër
+ Australian
+Awendland
+ Occident
+Babel
+ Babel; Babylon
+Babilon
+ Babel; Babylon
+Babilonies
+ Babylonian
+Babilonië
+ Babylonia
+Bacchus
+ Bacchus
+Baleare
+ Balearic Islands
+Baleariese
+ Balearic Islands
+Balkan
+ Balkans
+Balties
+ Baltic
+Baltiese
+ Baltic Sea
+Bantoe‐
+ Bantu
+Bantoe
+ Bantu
+Baptis
+ baptist
+Barbarye
+ Barbery
+Bask
+ Basque
+Baskies
+ Basque
+Bataaf
+ Batavian
+Bataviaan
+ Batavian
+Batavier
+ Batavian
+Baäl
+ Baal
+Beier
+ Bavarian
+Beiere
+ 1. Bavaria
+ 2. Bavaria
+Beiers
+ Bavarian
+Belg
+ Belgian
+Belgies
+ Belgian
+België
+ Belgium
+Belgrado
+ Belgrade
+Benediktyner
+ Benedictine; Benedictine monk
+Benediktynermonnik
+ Benedictine; Benedictine monk
+Benelux
+ Benelux
+Bengaals
+ Bengal
+Bengaalse
+ bengal‐light; bengal‐lights
+Bengale
+ Bengal
+Beosië
+ Beotia
+Berlyn
+ Berlin
+Berlyner
+ Berliner
+Berlyns
+ Berlin
+Bern
+ Berne
+Betlehem
+ Bethlehem
+Birma
+ Burma
+Birmaan
+ Burmese
+Birmees
+ Burmese
+Bisantium
+ Byzantium
+Bisantyns
+ Byzantine
+Bloemfontein
+ Bloemfontein
+Bloubaard
+ Bluebeard
+Boeddha
+ Buddha
+Boeddhisme
+ Buddhism
+Boeddhist
+ Buddhist
+Boekarest
+ Bucharest
+Boer
+ 1. Afrikaans
+ 2. Afrikaner; Boer
+Boesman
+ Bushman
+Boheems
+ Bohemian
+Boheme
+ Bohemia
+Boliwies
+ Bolivian
+Boliwië
+ Bolivia
+Bolsjewiek
+ 1. Bolshevik
+ 2. Bolshevik
+Bolsjewis
+ 1. Bolshevik
+ 2. Bolshevik
+Bombaai
+ Bombay
+Brabander
+ Brabantine
+Brabant
+ Brabant
+Brabants
+ Brabantine
+Brasiliaan
+ Brazilian
+Brasiliaans
+ Brazilian
+Brasilië
+ Brazil
+Bretagne
+ Bretagne; Brittany
+Brit
+ Briton
+Brits
+ British
+Brunswyk
+ Brunswick
+Brussel
+ Brussels
+Brussels
+ Brussels
+Brusselse
+ Brussels‐sprouts
+Bulgaar
+ Bulgar; Bulgarian
+Bulgaars
+ Bulgarian
+Bulgarye
+ Bulgaria
+Bybel
+ Bible
+Caesar
+ Caesar
+Calvyn
+ Calvin
+Carthager
+ Carthaginian
+Carthago
+ Carthage
+Celebes
+ Celebes
+Ceylon
+ Ceylon
+Chileen
+ Chilean
+Chileens
+ Chilean
+Chili
+ Chile
+China
+ China
+Chinees
+ 1. Chinese
+ 2. Chinaman; Chinese
+Christelik
+ Christian
+Christen
+ Christian
+Christendom
+ Christianity
+Christus
+ Christ
+Cipries
+ Cypriot; Cypriote
+Ciprioot
+ Cypriot
+Ciprus
+ Cyprus
+Columbus
+ Columbus
+Confucius
+ Confucius
+Curaçao
+ Curaçao
+Dardanelles
+ Dardanelles; Hellespont
+Deen
+ Dane
+Deens
+ Danish
+Denemarke
+ Denmark
+Desember
+ December
+Deuteronomium
+ Deuteronomy
+Dinsdag
+ Tuesday
+Dominikaans
+ Dominican
+Donau
+ Danube
+Donderdag
+ Thursday
+Dories
+ Dorian; Doric
+Drakensberge
+ Drakensberg Mountains
+Driekoninge
+ Epiphany; Twelfth‐night
+Driekoningefees
+ Epiphany; Twelfth‐night
+Duits
+ 1. German
+ 2. German; German language
+Duitser
+ German
+Duitse
+ German measles
+Duitse
+ German; German language
+Duitsland
+ Germany
+Eden
+ Eden
+Edenburg
+ Edinburgh
+Egeïese
+ Aegean; Aegean Sea
+Egipte
+ Egypt
+Egiptenaar
+ Egyptian
+Egipties
+ Egyptian
+Eksodus
+ Exodus
+Elsasies
+ Alsatian
+Elsasser
+ Alsatian
+Engeland
+ 1. England
+ 2. England
+Engels
+ 1. English
+ 2. English; English language
+Engelsman
+ Englishman; Sassenach
+Eskimo
+ Eskimo
+Esperanto
+ Esperanto
+Est
+ Estonian
+Estland
+ Estonia
+Ests
+ Estonian
+Ethiopië
+ Abyssinia; Ethiopia
+Ethiopiër
+ Ethiopian
+Etruries
+ Etrurian; Etruscan
+Etrurië
+ Etruria
+Etruriër
+ Etrurian; Etruscan
+Etruskies
+ 1. Etrurian; Etruscan
+ 2. Etrurian; Etruscan
+Eufraat
+ Euphrates
+Europa
+ 1. Europa
+ 2. Europe
+ 3. Europa
+Europeaan
+ European
+Europees
+ European
+Europese
+ European bizon; wisent
+Europeër
+ European
+Eva
+ Eva
+Februarie
+ February
+Filippyns
+ Philippine
+Filistyn
+ Philistine
+Fin
+ Finn
+Finland
+ Finland
+Finlander
+ Finn
+Fins
+ Finnish
+Frankeland
+ Franconia
+Frankies
+ Frankish
+Frankryk
+ France
+Frans
+ 1. French
+ 2. French; French language
+Franse
+ French; French language
+Fries
+ 1. Frisian
+ 2. Frisian
+Friesland
+ Friesland
+Galicies
+ Galician
+Gallië
+ Gaul
+Genesis
+ Genesis
+Geneve
+ Geneva
+Gent
+ Ghent
+Genua
+ Genoa
+Germaan
+ German; Teuton
+Germaans
+ Germanic; Teutonic
+God
+ God
+Goeie
+ Good Friday
+Goties
+ Gothic
+Goudkus
+ Gold Coast
+Graal
+ Grail
+Griek
+ 1. Greek
+ 2. Greek
+Griekeland
+ Greece
+Grieks
+ 1. Greek
+ 2. Hellenian; Hellenic
+Groenland
+ 1. Greenland
+ 2. Greenland
+Groot‐Brittanje
+ Britain; Great Britain
+Guinee
+ Guinea
+Gulde
+ Golden Fleece
+Havanna
+ Havana
+Hawaiï
+ Hawaii
+Hawaïes
+ Hawaiian
+Haïti
+ Haiti
+Hebreeus
+ Hebrew; Jewish
+Hebreër
+ Hebrew; Jew
+Hebride
+ Hebrides; Western Islands
+Helleens
+ Hellenian; Hellenic
+Hellespont
+ Dardanelles; Hellespont
+Helvesië
+ Helvetia
+Hemelvaartdag
+ Ascension Day
+Hindoe‐
+ Hindu
+Hindoe
+ Hindu
+Hindoes
+ Hindu
+Holland
+ Holland
+Hollander
+ Dutchman; Hollander
+Hollands
+ Dutch
+Hongaar
+ Hungarian
+Hongaars
+ Hungarian
+Hongarye
+ Hungary
+Hooglander
+ Highlander
+Hooglied
+ Canticles; Song of Solomon; Song of Songs
+Iberies
+ Iberian
+Ier
+ Irishman
+Ierland
+ Ireland
+Iers
+ Irish
+Indiaan
+ Indian; American Indian
+Indiaans
+ Indian; Red Indian
+Indies
+ Indian
+Indiese
+ tiger
+Indië
+ India
+Indiër
+ Indian
+Indo‐China
+ Indo‐China
+Indo‐Europeaan
+ Indo‐European
+Indo‐Europees
+ 1. Indo‐European
+ 2. Indo‐European; Indo‐Germanic
+Indo‐Europeër
+ Indo‐European
+Indo‐Germaans
+ Indo‐European; Indo‐Germanic
+Indo‐Sjina
+ Indo‐China
+Indonesies
+ Indonesian
+Indonesië
+ Indonesia
+Indonesiër
+ Indonesian
+Ionies
+ Ionian
+Iraaks
+ Iraqi; Iraquian
+Irak
+ Iraq
+Irakiër
+ Iraqi; Iraquian
+Iran
+ Iran; Persia
+Iranies
+ Iranian
+Iraniër
+ Iranian; Persian
+Islam
+ Islam
+Islamities
+ Islamic
+Israel
+ 1. Israel
+ 2. Israel
+Israeli
+ 1. Israelian
+ 2. Israeli
+Israelies
+ 1. Israelian
+ 2. Israeli
+Israeliet
+ 1. Hebrew; Jew
+ 2. Israelite
+Israelities
+ Israelite; Israelitish
+Istanboel
+ Istanbul
+Italiaan
+ Italian
+Italiaans
+ Italian
+Italianer
+ Italian
+Italië
+ Italy
+Jamaika
+ Jamaica
+Januarie
+ January
+Japan
+ Japan
+Japannees
+ Japanese
+Japanner
+ Japanese
+Japans
+ Japanese
+Java
+ Java
+Javaan
+ Javanese
+Javaans
+ Javan; Javanese
+Jehova
+ Jehovah
+Jerusalem
+ Jerusalem
+Johannesburg
+ Johannesburg
+Jood
+ 1. Hebrew; Jew
+ 2. Jew
+Joods
+ Jewish
+Jordaan
+ Jordan
+Josef
+ Joseph
+Julie
+ July
+Junie
+ June
+Kaapprovinsie
+ Cape Province
+Kaaps
+ Cape
+Kaapstad
+ Cape Town
+Kaap
+ Cape of Good Hope
+Kain
+ Cain
+Kalifornië
+ California
+Kalvarieberg
+ Calvary; Golgotha
+Kameroen
+ Cameroon
+Kanada
+ Canada
+Kanadees
+ 1. Canadian
+ 2. Canadian
+Kanaries
+ Canary
+Kanariese
+ Canary Islands
+Kapitool
+ Capitol
+Karmeliet
+ Carmelite
+Karpate
+ Carpathians; Carpathian mountains
+Kaspiese
+ Caspian Sea
+Kastiliaans
+ Castillian
+Kaukasus
+ Caucasus
+Kaïro
+ Cairo
+Kelt
+ Celt
+Kelties
+ 1. Gaelic
+ 2. Celtic
+Kenia
+ Kenya
+Kersfees
+ 1. Christmas; Christmas feast
+ 2. Christmas; Yule
+Kersmis
+ Christmas; Christmas feast
+Kersvader
+ Father Christmas
+Keulen
+ Cologne
+Klein‐Asië
+ Asia Minor
+Kongo
+ 1. Congo; Zaire
+ 2. Congo
+Konstantinopel
+ Istanbul
+Kopenhagen
+ Copenhagen
+Korinthies
+ Corinthian
+Kremlin
+ Kremlin
+Kreta
+ Crete
+Krim
+ Crimea
+Krisjna
+ Krishna
+Kroaat
+ Croat
+Kroasië
+ Croatia
+Kroaties
+ Croatian
+Kruisberg
+ Calvary; Golgotha
+Kuba
+ Cuba
+Kubaan
+ Cuban
+Lap
+ Laplander; Lapp
+Lapland
+ Lapland
+Laplander
+ Laplander; Lapp
+Laplands
+ Lapp; Lappish
+Latyn
+ Latin
+Latyns
+ Latin
+Leiden
+ Leyden
+Let
+ Latvian; Lett
+Letland
+ Latvia
+Lets
+ Latvian; Lettish
+Libanon
+ Lebanon
+Liberië
+ Liberia
+Libies
+ Libyan
+Libië
+ Libya
+Libiër
+ Libyan
+Lissabon
+ Lisbon
+Litaue
+ Lithuania
+Litauer
+ Lithuanian
+Litaus
+ Lithuanian
+Londen
+ London
+Lotaringe
+ Lorraine; Lothringen
+Lucifer
+ 1. Lucifer
+ 2. Lucifer; Satan
+Luik
+ Liège
+Lusern
+ Lucerne
+Lyfland
+ Livonia
+Lyflands
+ Livonian
+Maandag
+ Monday
+Maart
+ March
+Macedonië
+ Macedonia
+Machiavelli
+ Machiavelli
+Madagaskar
+ Madagascar
+Madonna
+ Madonna
+Madrid
+ Madrid
+Malakka
+ Malacca
+Maleis
+ Malay
+Malta
+ Malta
+Maltees
+ Maltese
+Malteser
+ Maltese
+Mantsjoerye
+ Manchuria
+Maria‐ligmis
+ Candlemas
+Marokkaan
+ Moroccan
+Marokkaans
+ Moroccan
+Marokko
+ Morocco
+Mei
+ May
+Mekka
+ Mecca
+Melanesies
+ Melanesian
+Melanesië
+ Melanesia
+Melanesiër
+ Melanesian
+Mexikaans
+ Mexican
+Mexiko
+ Mexico
+Moedermaagd
+ Madonna
+Mohammedaans
+ Islamic
+Mohammedanisme
+ Islam
+Mongolië
+ Mongolia
+Montenegro
+ Montenegro
+Montenegryn
+ Montenegrin
+Montenegryns
+ Montenegrin
+Mosambiek
+ Mozambique
+Moskowiet
+ Muscovite
+Namen
+ Namur
+Namibië
+ Namibia
+Ndebele
+ Ndebele
+Nederduits
+ Low German
+Nederlander
+ Dutchman
+Nederlands
+ Dutch
+Nguni
+ Nguni
+Nigeria
+ Nigeria
+Noor
+ Norwegian
+Noord‐Amerika
+ North America
+Noordpool
+ Arctic; the Arctic
+Noors
+ Norwegian
+Noorweegs
+ Norwegian
+Noorweë
+ Norway
+Noorweër
+ Norwegian
+November
+ November
+Nuwejaarsdag
+ New Year's Day
+Oekraine
+ 1. Ukraine; the Ukraine
+ 2. Ukraine; the Ukraine
+Oekrainer
+ Ukrainian
+Oekrains
+ Ukrainian
+Oktober
+ October
+Oos‐Duitsland
+ East Germany; GDR
+Oossee
+ Baltic Sea
+Oostenryk
+ Austria
+Oostenryker
+ Austrian
+Oostenryks
+ Austrian
+Openbaring
+ Apocalypse
+Oranje‐Vrystaat
+ Orange Free State
+Oranje
+ Orange
+Paasfees
+ Easter
+Parys
+ Paris
+Pase
+ Easter
+Peking
+ Peiping; Peking
+Persies
+ Persian
+Persiese
+ Persian Gulf
+Persië
+ Iran; Persia
+Pietermaritzburg
+ Pietermaritzburg
+Pireneë
+ Pyrenees
+Platduits
+ Low German
+Pole
+ Poland
+Pool
+ Pole
+Pools
+ Polish
+Portugees
+ 1. Portuguese
+ 2. Portuguese; Portuguese language
+Pretoria
+ Pretoria
+Roemeen
+ Romanian
+Roemenië
+ 1. Romania
+ 2. Romania
+Roemeniër
+ Romanian
+Rome
+ Rome
+Rooihuid
+ Indian; American Indian
+Rus
+ Russian
+Rusland
+ 1. Russia
+ 2. Russia
+Russies
+ Russian
+Sardinies
+ Sardinian
+Satan
+ Lucifer; Satan
+September
+ September
+Serwies
+ Serb
+Serwië
+ 1. Serbia
+ 2. Serbia
+Serwiër
+ Serb
+Siamees
+ Siamese
+Sint
+ Saint Helena
+Sjina
+ China
+Sjinees
+ Chinese
+Skot
+ Scot; Scotsman
+Skotland
+ Scotland
+Skots
+ Scottish
+Slams
+ 1. Islamic
+ 2. Malay
+Slovenië
+ Slovenia
+Slowaak
+ Slovak
+Slowaaks
+ Slovak
+Slowakies
+ Slovak
+Slowakye
+ Slovakia
+Sloween
+ Slovene; Slovenian
+Sloweens
+ Slovenian
+Soedan
+ Sudan
+Sondag
+ Sunday
+Spaans
+ 1. Spanish
+ 2. Spanish; Spanish language
+Spaanse
+ Spanish; Spanish language
+Spanje
+ Spain
+Steenbok
+ Capricorn
+Suid‐Afrika
+ South Africa
+Suid‐Afrikaans
+ South African
+Suid‐Afrikaner
+ South African
+Suid‐Amerika
+ South America
+Suidelike
+ Antarctic Ocean
+Suidpool‐
+ Antarctic
+Swart
+ Black Sea; Euxine Sea
+Swede
+ Sweden
+Sweed
+ Swede
+Sweeds
+ Swedish
+Switser
+ 1. Swiss
+ 2. Swiss
+Switserland
+ 1. Helvetia
+ 2. Switzerland
+T‐hemp
+ T‐shirt
+TV
+ television; TV
+Transkei
+ Transkei
+Transvaal
+ Transvaal; the Transvaal
+Transvaals
+ Transvaalian
+Tsjeg
+ 1. Czech
+ 2. Czechoslovak; Czechoslovakian
+Tsjeggies
+ 1. Czech
+ 2. Czechoslovak; Czechoslovakian
+Tsjeggo‐Slowakye
+ Czechoslovakia
+Turk
+ Turk
+Turks
+ Turkish
+Turkye
+ Turkey
+‐loos
+ ‐less; un‐
+VSA
+ United States of America; USA
+Vaal
+ Vaal
+Vatikaan
+ Vatican; the Vatican
+Venezolaan
+ Venezuelan
+Venezolaans
+ Venezuelan
+Venezuela
+ Venezuela
+Venus
+ 1. Venus
+ 2. Evening Star; Venus
+Versoendag
+ Day of Atonement; Feast of Expiation
+Vietnamees
+ Vietnamese
+Vlaams
+ Flemmish
+Vlaandere
+ Flanders
+Vlaming
+ Flemming
+Vlissingen
+ Flushing
+Vrouedag
+ Candlemas
+Vrydag
+ Friday
+Vrystaat
+ Orange Free State
+Waleland
+ Wallonia
+Walhalla
+ Valhalla
+Wallies
+ Welsh
+Wallis
+ Wales
+Walliser
+ Welshman
+Weens
+ Vienna; Viennese
+Westers
+ western
+Woensdag
+ Wednesday
+Wolga
+ Volga
+Xhosa‐
+ Xhosa
+Xhosa
+ Xhosa
+Xhosavrou
+ Xhosa woman
+Ysland
+ Iceland
+Yslander
+ Icelander
+Yslands
+ Icelandic
+Yssee
+ Arctic Ocean
+Zambia
+ Zambia
+Zeus
+ Zeus
+Zimbabwe
+ Zimbabwe
+Zoeloe
+ 1. Zulu; Zulu language
+ 2. Zulu
+...
+ ... to; from ... to; of ... to
+...
+ ... ago
+...
+ feel ...
+a
+ 1. ah; oh; ow
+ 2. oh
+aag
+ 1. ah; oh; ow
+ 2. woe
+aai
+ 1. ah; oh; ow
+ 2. flatter
+ 3. oh
+aak
+ 1. barge
+ 2. barge; Rhine barge
+aaklig
+ 1. bleak; dismal; dreary; horrible; ghastly; grisly; nasty
+ 2. dismal; dreary; horrible; nasty
+aakligheid
+ 1. abomination
+ 2. abhorrence; abomination; horror
+ 3. bad job
+aal
+ eel
+aalagtig
+ eel‐like
+aalbessie
+ 1. currant
+ 2. currant; red currant
+aalbessiebos
+ currant; currant bush
+aalbessiesap
+ currant juice
+aalbessievla
+ 1. currant custard
+ 2. currant custard
+aalfuik
+ eel‐pot; eel‐trap
+aalmoes
+ alms; charity
+aalmoesenier
+ chaplain; army chaplain; padre
+aalmoeseniershuis
+ 1. almshouse; workhouse
+ 2. almshouse; almonry; workhouse
+aalmoesenierskap
+ almonership
+aalmoeskassie
+ alms‐box
+aalpastei
+ eel‐pie
+aalsvel
+ eelskin
+aaltjie
+ nematode
+aalverkoper
+ eelmonger
+aalvissery
+ eel‐fishing
+aalvormig
+ anguilliform; eel‐shaped
+aalwee
+ aloe
+aalweeagtig
+ aloetic
+aalwurm
+ nematode
+aalwyn
+ aloe
+aalwynagtig
+ aloetic
+aalwynbitter
+ aloin
+aalwynhout
+ eaglewood
+aalwynsap
+ aloe juice
+aalwyntapper
+ 1. aloe juice collector
+ 2. pauper; poor man
+ 3. pauper; poor devil; poor man
+aam
+ aum
+aambeeld
+ anvil; incus
+aambeeldbeentjie
+ anvil; incus
+aambeeldbeitel
+ hardy
+aambeeldvoël
+ small woodpecker
+aambei
+ haemorrhoid; hemorrhoid; pile
+aambeie
+ haemorhoids
+aambeipoeier
+ pile powder
+aamborstig
+ asthmatic; wheezy
+aamborstigheid
+ 1. asthma; shortness of breath; wheeziness
+ 2. dyspnea; dyspnoea
+aan
+ 1. at; to; toward; towards
+ 2. at; beside; by; near; nearby; near to; next to
+ 3. on; upon
+ 4. at; beside; with
+aanbehoort
+ belong to
+aanbel
+ give a ring; ring; ring the bell
+aanbesteding
+ 1. tender
+ 2. tender
+aanbestee
+ invite tenders for; put out to tender
+aanbetref
+ 1. concern
+ 2. concern; relate
+aanbetrou
+ confide; have confidence in; trust; entrust
+aanbeveel
+ commend; recommend
+aanbeveelbaar
+ recommendable
+aanbevelenswaardig
+ recommendable
+aanbeveling
+ recommendation
+aanbid
+ adore; worship
+aanbidbaar
+ adorable
+aanbiddelik
+ adorable
+aanbidding
+ adoration; worship
+aanbied
+ bid; offer; make an offer of
+aanbieding
+ 1. offer
+ 2. presentation
+ 3. presentation
+ 4. offer; tender
+aanblaas
+ fan; blow
+aanblik
+ appearance; aspect; look; sight; view
+aanbly
+ remain; stay; stay over
+aanbod
+ offer
+aanboor
+ bore; broach; sink; strike; tap
+aanbou
+ 1. add
+ 2. building
+aanbrand
+ stick to the pan
+aanbrandsteker
+ lighter
+aanbreek
+ 1. break into; broach; cut into
+ 2. begin; commence; start
+aanbring
+ 1. bring; fetch
+ 2. accuse; denounce
+aand
+ evening
+aandag
+ acuity; advertence; advertency; attention
+aandagtig
+ 1. attentive
+ 2. attentively
+aandagtiglik
+ attentively
+aandag
+ pay attention to; take account of; take into account
+aandag
+ draw attention
+aandag
+ advance; put forward
+aandblad
+ evening paper
+aandeel
+ 1. share
+ 2. part; Parthian; share
+ 3. share
+aandeelhebber
+ shareholder
+aandeelhouer
+ shareholder
+aandeel
+ registered share
+aandelekapitaal
+ share‐capital
+aandenking
+ keepsake; memento; souvenir
+aandete
+ evening meal; supper
+aandgebed
+ night prayers
+aandgrou
+ dusk
+aandien
+ advertise; announce; give notice
+aandiening
+ ad; advertisement
+aandjapon
+ evening frock; evening gown
+aandklok
+ curfew
+aandkoerant
+ evening paper
+aandkostuum
+ evening dress
+aandoen
+ 1. affect
+ 2. call at
+ 3. activate; cause; give rise to
+aandoening
+ 1. affection
+ 2. emotion
+aandoenlik
+ 1. affecting; moving; touching
+ 2. affecting; moving; touching
+aandra
+ bring; fetch
+aandraag
+ bring; fetch
+aandraai
+ fasten; tighten; turn; turn on
+aandrang
+ 1. insistence; pressure; urgency
+ 2. congestion
+ 3. congestion; rush
+aandrif
+ access; impetus; impulse
+aandring
+ insist
+aandruk
+ press; press firmly
+aandryf
+ 1. be washed ashore
+ 2. chase; drive; drive on; impel; shoo
+ 3. actuate; drive
+aandryfas
+ drive shaft; driving axle
+aandrywe
+ 1. be washed ashore
+ 2. chase; drive; drive on; impel; shoo
+ 3. actuate; drive
+aandrywing
+ drive
+aandskemering
+ dusk
+aandskool
+ evening classes; evening‐school; night‐school
+aandui
+ 1. indicate; suggest
+ 2. indicate; point out; show
+ 3. indicate; point out; show
+aanduiding
+ indication
+aandurf
+ 1. dare to fight; stand up to
+ 2. dare; venture
+aaneen‐
+ co‐; fellow
+aaneen
+ 1. together
+ 2. at a strech; for ... together; on end
+ 3. consecutively
+aaneenbind
+ connect; join
+aaneenskakeling
+ order
+aaneenvoeg
+ join; unite
+aanerd
+ earth; earth up; hill; hill up
+aanfluiting
+ mockery
+aangee
+ 1. accuse; denounce
+ 2. give
+ 3. pass; spend
+aangenaam
+ agreeable; enjoyable; lovely; nice; pleasant
+aangenome
+ 1. adopted
+ 2. accepted
+aangesien
+ 1. because; for the reason that
+ 2. because; for the reason that
+ 3. as; because; for; since
+aangeskote
+ 1. tipsy
+ 2. winged; wounded
+aangetroud
+ 1. by marriage; ‐in‐law
+ 2. by marriage; related by marriage
+aangetroude
+ brother‐in‐law
+aangewing
+ accusation
+aangifte
+ declaration; proclamation; statement
+aangrensend
+ adjacent; adjoining
+aangry
+ 1. move; stir
+ 2. affect; agitate; move
+aanhaal
+ cite; quote
+aanhaling
+ 1. citation; quotation
+ 2. citation; quotation
+aanhalingstekens
+ quotation marks; quotes
+aanhang
+ adherents; disciples; following; party; supporters
+aanhanklik
+ 1. affectionate; devoted; selfless
+ 2. devoted; selfless
+aanhanklikheid
+ adherence; affection; attachment
+aanhef
+ intone; raise
+aanhou
+ breed; keep; raise; rear
+aanhoudelik
+ 1. abiding; lasting
+ 2. lasting
+aanhoudend
+ 1. abiding; lasting
+ 2. constant; continual; permanent; sustained
+ 3. lasting
+ 4. constant; lasting; sustained
+aanhouding
+ apprehension; arrest; detention
+aanhê
+ wear
+aankla
+ accuse
+aanklaag
+ accuse
+aanklae
+ accuse
+aanklaer
+ accuser
+aanklag
+ accusal; accusation
+aankoms
+ arrival
+aankondig
+ advertise; announce; give notice
+aankondiger
+ advertiser
+aankondiging
+ ad; advertisement
+aankoop
+ 1. acquisition; purchase
+ 2. acquisition; purchase
+aankweek
+ cultivate; grow
+aankyker
+ spectator
+aanland
+ end up
+aanleghawe
+ port of call
+aanlegplek
+ landing‐stage; pier
+aanleiding
+ inducement; motive; occasion
+aanlok
+ attract; draw
+aanloklik
+ attractive
+aanloklikheid
+ attraction; attractiveness; charm
+aanloksel
+ attraction
+aanlonk
+ make eyes at; ogle; stare at
+aanloop
+ run
+aanloophawe
+ port of call
+aanlê
+ land
+aanlêhawe
+ port of call
+aanlêplaas
+ landing‐stage; pier
+aanlêplek
+ landing‐stage; pier
+aanmaak
+ 1. making; manifacture
+ 2. fabricate; manufacture
+aanmaan
+ admonish; scold
+aanmaning
+ admonition; exhortation
+aanmaningsbrief
+ dunning‐letter
+aanmerklik
+ considerable; sizable
+aanminlik
+ charming; lovely
+aanmoedig
+ encourage
+aanmoediging
+ encouragement
+aanneem
+ accept; receive; take; take in
+aanneembaar
+ acceptable
+aanneemlik
+ 1. acceptable
+ 2. plausible
+aannemer
+ builder; contractor; building contractor; master builder
+aanpak
+ attempt; test; try
+aanpas
+ try on
+aanpasbaar
+ 1. adaptable
+ 2. adaptable
+aanplak
+ placard; post; post up
+aanplakbiljet
+ notice; placard; poster
+aanplakbord
+ bill‐board; notice‐board
+aanprys
+ commend; recommend
+aanprysing
+ recommendation
+aanraai
+ advise; counsel
+aanraak
+ touch
+aanrading
+ advice; counsel
+aanraking
+ touch
+aanrand
+ assault; violate
+aanrander
+ assailant; assaulter
+aanranding
+ assault
+aanreg
+ dresser
+aanroep
+ appeal to; invoke
+aans
+ maybe; mayhap; perchance; perhaps; possibly
+aansien
+ 1. appearance; aspect; look; sight; view
+ 2. esteem; regard; respect
+aansienlik
+ considerably
+aansies
+ maybe; mayhap; perchance; perhaps; possibly
+aansig
+ appearance; aspect; look; sight; view
+aansit
+ 1. put on
+ 2. draw up to the table; sit down to table
+aanskakel
+ 1. put on; start; switch on; turn on
+ 2. turn on
+ 3. switch; turn on
+aanskerp
+ sharpen
+aanslag
+ 1. assault
+ 2. assessment
+aansluit
+ 1. join
+ 2. associate; come together; join; pool
+aansluiting
+ 1. connection
+ 2. joining; junction
+aansoek
+ ambition; aspiration
+aansoek
+ 1. aspire; aspire to; hope for
+ 2. run for election
+aanspreeklik
+ 1. accountable; responsible
+ 2. accountable; responsible
+aanstaande
+ 1. close; near; nearby; next
+ 2. next
+aansteker
+ lighter
+aanstel
+ appoint
+aanstelling
+ appointment; appointment to office
+aansterf
+ inherit
+aanstoot
+ 1. jog; nudge
+ 2. offence; scandal
+ 3. commotion; scandal
+aansyn
+ 1. existence
+ 2. presence
+aansê
+ advertise; announce; give notice
+aantal
+ amount; number
+aantas
+ corrode
+aanteken
+ 1. record; register
+ 2. register
+aantekening
+ annotation; note
+aantonende
+ indicative; indicative mood
+aantoon
+ 1. demonstrate; prove
+ 2. indicate; suggest
+aantrek
+ put on
+aantrekkingskrag
+ attraction
+aantreklik
+ attractive
+aantreklikheid
+ attraction; attractiveness; charm
+aanvaar
+ accept; receive; take; take in
+aanvaarbaar
+ acceptable
+aanvaarder
+ acceptor
+aanvaarding
+ acceptance; admission
+aanval
+ 1. assault; attack
+ 2. access; aggression; attack
+aanvaller
+ aggressor; assailant; attacker
+aanvallig
+ charming; lovely
+aanvalligheid
+ charm
+aanvang
+ 1. begin; commence; start
+ 2. begin; commence; start
+ 3. beginning; commencement; start
+ 4. beginning; commencement; start
+aanvanger
+ beginner
+aanvangsalaris
+ commencing salary
+aanvangsletter
+ initial
+aanvangsnelheid
+ initial velocity
+aanvanklik
+ at first; at the outset; in the beginning
+aanvanklike
+ initial
+aanvul
+ complete
+aanwesig
+ present
+aan
+ on the other hand
+aan
+ kindle; light
+aan
+ 1. me; to me
+ 2. me; to me
+ 3. me; to me
+ 4. me; to me
+aan
+ whom
+aap
+ ape; monkey
+aapagtig
+ ape‐like; apish; monkey‐like
+aar
+ 1. ear
+ 2. vein
+aarbei
+ strawberry
+aarbeiboom
+ arbutus; strawberry tree
+aarbeiboomvrug
+ arbutus fruit
+aard
+ 1. character; nature; personality
+ 2. character; nature
+aardbewing
+ earthquake
+aardbol
+ globe; worldglobe
+aarde
+ 1. ground; soil
+ 2. earth; land; soil
+aardgas
+ natural gas
+aardgees
+ brownie; gnome; goblin
+aardgordel
+ zone
+aardhommel
+ bumblebee
+aardig
+ pretty
+aardkloot
+ globe; worldglobe
+aardkunde
+ geology
+aardkundig
+ geological
+aardkundige
+ geologist
+aardmannetjie
+ brownie; gnome; goblin
+aardrykskunde
+ geography
+aardrykskundig
+ geographic; geographical
+aardrykskundige
+ geographer
+aards
+ earthen; earthly; terrestrial
+aardskok
+ earthquake shock
+aardskudding
+ earthquake
+aardtrilling
+ earthquake
+aardverskuiwing
+ landslide
+aardwolf
+ aardwolf
+aars
+ anus; arse
+aartappel
+ potato
+aartappelmeel
+ potato flour
+aartsbisdom
+ archbishopric
+aartsbiskop
+ archbishop
+aartsdom
+ as stupid as an ass
+aartsengel
+ archangel
+aartsherog
+ archduke
+aartshertogdom
+ archduchy
+aartsvader
+ patriarch
+aartsvyand
+ arch‐enemy
+aarverkalking
+ arteriosclerosis
+aas
+ 1. attraction
+ 2. ace
+ 3. carrion
+aasvoël
+ vulture
+ab
+ abbot
+abakus
+ 1. abacus
+ 2. abacus; ball‐frame; counting‐frame
+abattoir
+ 1. butcher's shop
+ 2. abattoir; slaughterhouse
+abc
+ alphabet
+abdikasie
+ abdication
+abdis
+ abbess
+abdominaal
+ abdominal
+abdy
+ abbey
+abeel
+ aspen
+ablatief
+ ablative
+abnormaal
+ abnormal
+abonnee
+ subscriber
+abonnement
+ subscription
+abonnent
+ subscriber
+aborteur
+ abortionist
+absensie
+ 1. absence; non‐attendance
+ 2. absence
+absent
+ 1. absent
+ 2. absent
+abses
+ abscess
+absint
+ absinth
+absolutisme
+ absolutism
+absorpsie
+ absorption
+abstraheer
+ abstract
+abstrak
+ abstract
+absurd
+ absurd
+absurditeit
+ 1. absurdity; nonsense; rubbish
+ 2. absurdity
+abuis
+ aberration; error; mistake
+abusieflik
+ by mistake
+achternadraai
+ result
+acre
+ acre
+adagio
+ adagio
+adamsappel
+ Adam's apple
+adder
+ adder; viper
+adekwaat
+ adequate
+adel
+ nobility
+adelaar
+ eagle
+adelik
+ of noble birth
+adem
+ breath
+ademhaling
+ respiration
+ademloos
+ breathless
+adieu
+ adieu; farewell; bye; goodbye
+adjektief
+ adjective
+adjektiwies
+ adjectival
+administrasie
+ 1. administration; management
+ 2. administration; management
+administrateur
+ 1. manager
+ 2. administrator; manager
+administratief
+ 1. administrative
+ 2. administrative
+administreer
+ administer; manage
+admiraal
+ admiral
+adopsie
+ adoption
+adoptief
+ adoptive
+adoreer
+ adore; worship
+adrenalien
+ adrenaline
+adrenaline
+ adrenaline
+adres
+ address
+adresboek
+ address list
+adresseer
+ address
+adresseermasjien
+ addressing machine
+adresverandering
+ change of address
+adverbiaal
+ adverbial
+adverbium
+ adverb
+adverteer
+ advertise; announce; give notice
+advertensie
+ ad; advertisement
+advies
+ 1. notification; notice
+ 2. advice; counsel
+adviseer
+ advise; counsel
+afasie
+ aphasia
+afbreek
+ break; break off
+afdeling
+ 1. branch; compartment; department; pigeonhole; section; speciality
+ 2. section
+ 3. detachment
+afdelingswinkel
+ 1. warehouse
+ 2. bazaar
+afding
+ bargain; haggle
+afdwaal
+ go astray; stray off
+affiks
+ affix
+affiniteit
+ affinity
+affêre
+ affair; business; business deal; case; matter
+affêring
+ affair; business; business deal; case; matter
+afgaan
+ descend; get off; go down
+afgee
+ spread
+afgelope
+ last
+afgod
+ idol
+afgrond
+ abyss; chasm; gulf; precipice
+afgryse
+ 1. abhorrence; abomination; horror
+ 2. abhorrence; horror
+afgryslik
+ agonizing; hideous; horrible; ghastly
+afguns
+ envy
+afgunstig
+ envious
+afhaal
+ take off; put off
+afhanklik
+ dependent
+afhanklikheid
+ dependence
+afkappingsteken
+ apostrophe
+afklim
+ 1. get out; get out of a car
+ 2. get out
+afkomstig
+ coming
+afkondig
+ 1. issue; proclaim
+ 2. promulgate
+ 3. publish; reveal
+aflewer
+ deliver; furnish; supply
+aflewering
+ delivery
+afmeting
+ dimension; measurement
+afneem
+ decrease; decline; wane
+afoes
+ harvest
+aforisme
+ aphorism
+afraai
+ advise against; dissuade from
+afrikanertjie
+ African marigold
+afroep
+ 1. call over
+ 2. call over
+afrond
+ round; round off
+afroom
+ cream; skim
+afros
+ 1. thrash
+ 2. curry
+afruim
+ do away with; get rid of; remove
+afruk
+ pick; pluck; tear off
+afry
+ drive away; drive off
+afsegging
+ abolition; abrogation
+afsend
+ 1. dispatch; send off; ship
+ 2. dismiss; turn away
+afsender
+ 1. sender
+ 2. sender
+afset
+ 1. demand; sale
+ 2. fleece
+ 3. fleece
+afsetgebied
+ market; sales activity
+afsetter
+ extortioner; swindler
+afsettery
+ swindle; swindling
+afsien
+ abandon; give up; resign; renounce
+afsien
+ relinquish; renounce; waive
+afsigtelik
+ dismal; dreary; horrible; nasty
+afsit
+ 1. deposit
+ 2. amputate
+ 3. take off; put off
+ 4. depose
+ 5. deprive; dismiss
+ 6. halt; stop
+ 7. shut off; stop; switch off; turn off
+afsitting
+ 1. amputation
+ 2. amputation
+afskaduwing
+ adumbration; shadow
+afskaf
+ 1. abolish; abrogate
+ 2. do away with; get rid of; remove
+afskaffer
+ teetotaller; total abstainer
+afskaffing
+ 1. abolition; abrogation
+ 2. abolition; abrogation
+ 3. abolition
+afskakel
+ 1. cut; cut a connection
+ 2. shut off; stop; switch off; turn off
+afskeep
+ put off; send about his business
+afskeer
+ shave; shave off
+afskei
+ 1. divide; separate
+ 2. secrete
+afskeid
+ farewell; goodbye; good‐bye
+afskeiding
+ 1. separation; partition
+ 2. secretion
+afskeids‐
+ goodbye‐
+afskeid
+ say goodbye; say goodbye to; take leave; take leave from
+afskerm
+ screen
+afskeur
+ pick; pluck; tear off
+afskeuring
+ schism
+afskiet
+ 1. discharge; fire; fire off; let off
+ 2. shoot off
+afskil
+ shell; peel
+afskilder
+ paint
+afskilfer
+ flake off; peel off; scale off
+afskrif
+ copy
+afskrik
+ 1. abhorrence; abomination; horror
+ 2. deter; discourage; scare
+afskrikwekkend
+ deterrent; forbidding
+afskryf
+ 1. amortize; deaden
+ 2. write off
+afskud
+ shake off
+afskuim
+ skim
+afskuiwe
+ abdicate
+afskuwelik
+ 1. abhorrent; abominable; alien; awful; hideous; horrible; gruesome
+ 2. abysmal; dreadful; gruesome; horrible; terrible
+afslaan
+ 1. turn
+ 2. turn
+ 3. reject
+ 4. discount; rebate
+ 5. reduce the price
+afslaer
+ auctioneer
+afslag
+ abatement; discount; rebate
+afsluit
+ 1. bar; obstruct
+ 2. accomodate; end; finish; terminate
+ 3. strike a balance
+ 4. fence off
+ 5. lock
+afsluiting
+ 1. dam
+ 2. barrier; fence
+afslyt
+ wear away; wear off; wear out
+afsnou
+ snap at; snarl at; snub
+afsny
+ 1. cut off
+ 2. cut off
+afsoek
+ search
+afsoen
+ kiss and be friends again
+afsonder
+ 1. divide; separate
+ 2. insulate; isolate; seclude
+afsondering
+ isolation; separation
+afsonderlik
+ 1. apart; particular; separate; special
+ 2. isolated; secluded
+afsper
+ bar; obstruct
+afsplits
+ 1. split off
+ 2. separate
+afspoel
+ gargle; rinse
+afspraak
+ 1. accommodation; accord; agreement
+ 2. appointment; date; rendezvous
+afspreek
+ agree
+afspring
+ 1. jump off; leap down
+ 2. break down; come to nothing
+afstaan
+ cede; give in; give up; give way; relinquish; yield
+afstam
+ accrue; come; derive; originate; result
+afstammeling
+ offspring; successor
+afstand
+ 1. abdication
+ 2. abandonment
+ 3. distance; offset
+afstandsbediening
+ remote control
+afstandsbeheer
+ remote control
+afstand
+ cede; give in; give up; give way; relinquish; yield
+afstap
+ descend; get off; go down
+afsteek
+ 1. cut off
+ 2. contrast
+afstel
+ fail; neglect; omit
+afstem
+ 1. reject
+ 2. tune
+afstempel
+ mark; stamp
+afsterf
+ die away; fail
+afsterwe
+ die away; fail
+afstewen
+ bear down; make
+afstof
+ dust
+afstomp
+ 1. dull
+ 2. become dull
+ 3. blunt
+afstootlik
+ repellent; repelling; repulsive
+afstroop
+ 1. harry; ravage
+ 2. flay; skin; strip
+afstudeer
+ finish one's studies
+afstuit
+ rebound
+afstyg
+ dismount
+afsweer
+ 1. abjure; abnegate
+ 2. abjure; forswear; swear off; renounce
+afswering
+ 1. abjuration
+ 2. abjuration; renunciation
+afsydig
+ apart; particular; separate; special
+afsê
+ 1. cancel; countermand
+ 2. abjure; abolish; abrogate; annul; cancel; remit
+aftak
+ branch
+aftakking
+ branching
+aftandig
+ decayed; decrepit; dilapidated; lapsed; rickety
+aftands
+ decayed; decrepit; dilapidated; lapsed; rickety
+aftap
+ 1. derive
+ 2. drain
+ 3. bottle
+aftapkraan
+ drain‐cock
+afteken
+ design; draw
+aftel
+ count down
+aftelefoneer
+ cancel by telephone; countermand by telephone
+aftog
+ 1. retreat
+ 2. retreat
+aftreding
+ resignation
+aftree
+ 1. resign
+ 2. quit; resign
+ 3. retire
+aftrek
+ 1. demand; sale
+ 2. demand; sale
+ 3. pick; pluck; tear off
+ 4. absent onself; depart; go away; leave
+ 5. discount; rebate
+ 6. retreat
+ 7. subtract
+aftrekbaar
+ 1. deductible
+ 2. deductible
+aftrekgetal
+ subtrahend
+aftrekker
+ subtrahend
+aftrekking
+ subtraction
+aftreksel
+ extract; infusion
+aftreksom
+ subtraction sum
+aftroef
+ trump
+afvaardig
+ depute
+afvaart
+ departure
+afval
+ 1. apostatize
+ 2. clippings; cuttings; parings; refuse; rubbish; waste; windfall
+ 3. drop out
+ 4. drop; fall
+ 5. apostatize; desert; secede
+ 6. apostasy; defection
+ 7. fall away; lose; lose flesh; lose in weight
+ 8. remainder; rest
+ 9. debris; rubbish; rubble
+afvallig
+ 1. apostate
+ 2. unfaithful
+afvallige
+ 1. apostate
+ 2. deserter; renegade
+ 3. deserter; renegate
+afvalproduk
+ waste product
+afvalwater
+ effluent
+afvee
+ delete; wipe; wipe off
+afveeg
+ delete; wipe; wipe off
+afvloei
+ flow down; flow off
+afvoer
+ 1. carrying off; discharge
+ 2. divert
+ 3. carrying off; discharge
+afvoerbuis
+ drain‐pipe; outlet‐pipe; waste‐pipe
+afvoerder
+ abductor
+afvuur
+ discharge; fire; fire off
+afwaarts
+ 1. down
+ 2. down; underneath
+afwag
+ bide; abide; stay for; wait; await; wait for
+afwagting
+ expectation
+afwater
+ 1. drain
+ 2. drain
+afwatering
+ draining
+afweer
+ 1. defend
+ 2. defence; defense
+afwen
+ 1. break of a habit; teach
+ 2. break oneself of a habit; get out of a habit; unlearn
+afwend
+ turn away
+afwentel
+ 1. roll off
+ 2. roll off
+afwerk
+ 1. finish; work out
+ 2. finish
+afwerking
+ finishing off
+afwerp
+ 1. cast off; fling off; throw off
+ 2. cast; shed
+ 3. get rid of
+ 4. afford; bear; produce
+afwesig
+ absent
+afwesige
+ absentee
+afwesigheid
+ 1. absence; non‐attendance
+ 2. absence
+afwesig
+ 1. be absent; be missing
+ 2. be lacking; be missing
+afwikkel
+ 1. conclude; dispatch; expedite; finnish; settle
+ 2. liquidate
+ 3. unroll; unwind; wind off
+ 4. unroll
+afwikkeling
+ 1. unrolling; unwinding
+ 2. unwinding
+afwimpel
+ reject
+afwis
+ delete; wipe; wipe off
+afwyk
+ 1. deviate
+ 2. deviate
+ 3. turn
+ 4. deflect; diverge; wander
+afwyking
+ 1. abnormity; anomaly
+ 2. deflection; deviation
+ 3. aberrance; aberration
+ 4. abnormality
+afwys
+ 1. reject
+ 2. abort; quash; wreck
+ 3. refuse; reject
+afwysing
+ 1. rejection
+ 2. refusal
+ag
+ 1. acuity; advertence; advertency; attention
+ 2. ah; oh; ow
+ 3. esteem; think well of
+ 4. account; accredit; believe; deem
+ 5. eight
+ 6. account; deem; opine; think
+ 7. woe
+agaat
+ agate
+agarm
+ octopus
+agbaar
+ 1. respectable
+ 2. respectable
+ageer
+ act; take action
+agenda
+ 1. agenda; appointment book
+ 2. agenda
+agent
+ 1. agent
+ 2. policeman
+ 3. policeman
+agentskap
+ 1. agency
+ 2. agency
+ 3. agency
+agentuur
+ agency
+agglomeraat
+ agglomerate
+aggregaat
+ aggregate
+aggressie
+ aggression; aggro
+aggressief
+ 1. aggressive
+ 2. aggressive
+ 3. aggressive
+aghoek
+ octagon
+agio
+ premium
+agitasie
+ agitation; commotion
+agitator
+ agitator
+agiteer
+ abet; agitate; incite; stir up
+agiteerder
+ agitator
+agnosties
+ agnostic
+agnostikus
+ agnostic
+agorafobie
+ agoraphobia
+agrariër
+ agrarian; farmer
+agronomie
+ agriculture; agronomics
+agronomies
+ agricultural
+agronoom
+ agriculturist
+agste
+ 1. eighth
+ 2. eighth; eighth part
+agtal
+ number of eight
+agtallig
+ octal
+agtarm
+ octopus
+agteloos
+ careless; negligent
+agteloosheid
+ carelessness; negligence
+agtelosig
+ careless; negligent
+agtelosigheid
+ carelessness; negligence
+agtenswaard
+ 1. respectable
+ 2. respectable
+agtenswaardig
+ respectable
+agter
+ 1. behind; after
+ 2. behind
+agteraan
+ 1. at the back; behind; in the rear
+ 2. behind
+agteras
+ back axle; hind axle; rear axle
+agterbalkon
+ rear platform
+agterbank
+ back seat; rear seat
+agterbly
+ be kept in; be detained; remain; stay on
+agterblyer
+ laggard; straggler
+agterboeg
+ 1. poop; poopdeck; stern
+ 2. poop; poopdeck; stern
+agterbuurt
+ back street; slum
+agterdeel
+ back; rear
+agterdeur
+ back‐door
+agterdog
+ 1. suspicion
+ 2. suspicion
+agterdogtig
+ 1. suspicious
+ 2. suspicious
+ 3. suspicious
+agtereen
+ 1. at a strech; for ... together; on end
+ 2. consecutively
+agtereenvolgens
+ consecutively
+agterent
+ 1. back part; hind part
+ 2. back; rear
+ 3. backside; rump
+ 4. behind; bottom; buttocks
+agtergedeelte
+ back; rear
+agtergrond
+ 1. background
+ 2. bottom; foundation; ground
+ 3. background
+agterhoede
+ 1. rear; rearguard
+ 2. defence; rear; rearguard
+agterhoof
+ back of the head; occiput
+agterhou
+ hold back; keep back; withhold
+agterin
+ behind
+agterkant
+ back; rear
+agterklap
+ backbiting; scandal; slander
+agterkleindogter
+ greatgranddaughter
+agterkleinkind
+ greatgrandchild
+agterkleinseun
+ greatgrandson
+agterlaag
+ ambush
+agterlaat
+ leave behind
+agterlamp
+ rear‐lamp; rear‐light; tail‐light
+agterland
+ 1. hinterland
+ 2. hinterland
+agterlig
+ rear‐lamp; rear‐light; tail‐light
+agterlik
+ backward; mentally deficient; retarded
+agterlikheid
+ backwardness
+agterloop
+ be late
+agterlosig
+ careless; negligent
+agtermiddag
+ afternoon
+agternaam
+ surname
+agternadoen
+ imitate
+agternadraai
+ consequence; consistency
+agternagaan
+ run after
+agterneef
+ 1. second cousin
+ 2. grand‐nephew
+agternig
+ 1. second cousin
+ 2. grand‐niece
+agterniggie
+ 1. second cousin
+ 2. grand‐niece
+agteroor
+ 1. backward; on one's back
+ 2. backwards
+agteroorval
+ fall backwards
+agterraam
+ rear window
+agterskip
+ 1. poop; poopdeck; stern
+ 2. poop; poopdeck; stern
+agterstallig
+ back; outstanding; overdue
+agterstand
+ arrears
+agterste
+ 1. last
+ 2. hind; hindmost
+ 3. backside; rump
+agtersten
+ 1. poop; poopdeck; stern
+ 2. poop; poopdeck; stern
+agterstevoor
+ 1. back to front
+ 2. vice‐versa
+agterstewe
+ 1. poop; poopdeck; stern
+ 2. poop; poopdeck; stern
+agteruit
+ 1. backward; backwards
+ 2. backwards
+agteruitboer
+ decline; recede
+agteruitgaan
+ 1. decline; recede
+ 2. go back; go backwards
+agteruitgang
+ 1. rear‐exit
+ 2. abatement
+ 3. decline; going down
+agteruitkykspieël
+ driving mirror
+agtervoegsel
+ affix
+agtervolg
+ chase; persecute; prosecute; pursue
+agterwaarts
+ backward; backwards
+agterweë
+ fail to appear
+agterweë
+ 1. fail; neglect; omit
+ 2. leave out; omit; overlook
+agterwiel
+ back wheel; hind wheel; rear wheel
+agterwyk
+ back street; slum
+agter
+ be late
+agthoek
+ octagon
+agtien
+ eighteen
+agtiende
+ eighteenth
+agting
+ 1. esteem; regard
+ 2. respect
+agtste
+ eighth; eighth part
+agttal
+ number of eight
+agttallig
+ octal
+agtvoudig
+ eightfold; octuple
+agurk
+ gherkin
+agurkie
+ gherkin
+agvoudig
+ eightfold; octuple
+ag
+ advert; pay attention; pay attention to; watch out for
+ahorn
+ maple; sycamore
+ai
+ 1. ouch; ow
+ 2. ai; sloth
+ 3. ai; three‐toed sloth
+aikôna
+ not at all
+air
+ appearance; aspect; look; sight; view
+akademie
+ academy
+akademielid
+ academician
+akant
+ acanthus
+akasia
+ acacia
+akelei
+ columbine
+akka
+ dung; excrement
+akkedis
+ lizard
+akkeldis
+ lizard
+akker
+ 1. field
+ 2. acorn
+ 3. oak
+akkerboom
+ oak
+akkerbou
+ agriculture; farming; tillage
+akkerdis
+ lizard
+akkermonie
+ agrimony
+akkerwinde
+ 1. lesser bindweed
+ 2. bindweed
+akklamasie
+ acclaim; acclamation; approval
+akklimatisasie
+ acclimatization
+akklimatiseer
+ 1. acclimatize
+ 2. acclimate; acclimatize
+akklimatisering
+ acclimatization
+akkommodasie
+ accommodation
+akkomodasie
+ accoutrement; accoutrements; equipment
+akkompanjeer
+ accompany
+akkompanjement
+ 1. accompaniment
+ 2. accompaniment; escort
+akkompanjis
+ accompanist; companian
+akkoord
+ 1. accord; accordance; agreement; concurrence
+ 2. chord
+ 3. accommodation; adjustment; arrangement
+ 4. accommodation; accord; agreement
+akkordeon
+ accordion
+akkrediteer
+ accredit
+akkumulasie
+ accumulation
+akkumulator
+ accumulator; battery; storage battery
+akkumuleer
+ accumulate; heap; pile up; stack
+akkuraat
+ 1. accurate; on time; prompt; punctual
+ 2. exact
+ 3. accurate; precise
+akkuraatheid
+ 1. accuracy; exactitude; precision
+ 2. accuracy; exactitude; precision
+akkusatief
+ accusative
+akne
+ acne
+akoestiek
+ acoustics
+akoesties
+ acoustic
+akoliet
+ acolyte
+akoniet
+ aconite; monkshood
+akrobaat
+ acrobat
+akrobaties
+ acrobatic
+akroniem
+ acronym
+akselerasie
+ acceleration
+akselerator
+ accelerator; accelerator pedal
+aksent
+ 1. accent; stress
+ 2. accent
+ 3. accent mark; supersign
+aksenteken
+ accent mark; supersign
+aksentueer
+ accent; accentuate; stress
+akseptabel
+ 1. acceptable
+ 2. acceptable
+akseptant
+ acceptor
+aksepteer
+ accept; receive; take; take in
+aksidenteel
+ accidental
+aksie
+ 1. action; activity
+ 2. achievement; act; action
+aksioma
+ axiom
+aksionaris
+ shareholder
+aksioom
+ axiom
+aksyns
+ excise; excise‐duty
+akteur
+ actor
+aktief
+ active; in action
+aktinie
+ sea‐anemone
+aktinium
+ actinium
+aktiveer
+ activate; put on; start; swotch on; turn on
+aktivis
+ activist; agitator
+aktiwiteit
+ activity; vigour
+aktrise
+ actress
+aktualiteit
+ topicality
+aktuaris
+ actuary
+aktueel
+ current; present; present‐day; topical; up‐to‐date
+akwadukt
+ aqueduct
+akwamaryn
+ aquamarine
+akwarel
+ water‐colour
+akwarium
+ aquarium
+al
+ already; by now; yet
+alarm
+ alarm
+alarmeer
+ alarm; raise the alarm; sound the alarm
+albas
+ alabaster
+albatros
+ albatross
+albe
+ alb
+albei
+ both
+albino
+ albino
+album
+ album
+alchemie
+ alchemy
+alchemis
+ alchemist
+aldaar
+ at that place; there
+aldehide
+ aldehyde
+aldehied
+ aldehyde
+aldeur
+ 1. constantly; continually; continuously
+ 2. all the time; ceaselessly
+aleenverteenwoordiger
+ sole agent
+alfa
+ alpha
+alfabet
+ alphabet
+alfabeties
+ alphabetical
+alg
+ alga; seaweed
+alge
+ alga; seaweed
+algebra
+ algebra
+algebraïes
+ algebraic
+algemeen
+ general; usual
+algemeenheid
+ generality; universality
+alhaas
+ 1. soon
+ 2. almost; nearly
+alhoewel
+ though; although
+alibi
+ alibi
+alimentasie
+ alimony
+alinea
+ paragraph
+aljare
+ yearly
+alkohol
+ alcohol
+alkoholgehalte
+ alcoholic content
+alkoholies
+ alcoholic
+alkoholis
+ alcoholic
+alkoholisme
+ alcoholism
+alkoholvry
+ non‐alcoholic
+alle
+ all
+alledaags
+ 1. commonplace; dismal; trite
+ 2. daily
+allee
+ avenue
+alleen
+ 1. exclusively; just; only
+ 2. alone; only; sole; solitary
+alleenhandel
+ monopoly
+alleenheerser
+ absolute ruler; autocrat
+alleenheerskapy
+ absolute power; absolute rule; autocracy
+alleenspraak
+ monologue; soliloquy
+alleenverkoop
+ monopoly
+allegaartjie
+ 1. hotchpotch; medly
+ 2. admixture; mixture
+allegorie
+ allegory
+allegories
+ allegoric
+allengs
+ gradually; little by little
+allengskens
+ gradually; little by little
+allenig
+ alone; only; sole; solitary
+aller
+ everyone's
+alleraardigst
+ 1. most charming
+ 2. most charming
+allerbekoorliks
+ most charming
+allergie
+ allergy
+allergies
+ allergic
+allerhande
+ 1. all; every kind of
+ 2. all sorts; all sorts of; miscellaneous; of all sorts
+allerlei
+ 1. all; every kind of
+ 2. all sorts; all sorts of; miscellaneous; of all sorts
+allerweë
+ all about; everywhere
+alles
+ 1. all; altogether; everything
+ 2. all; all of it
+allesbehalwe
+ not at all
+allesbeheersend
+ of paramount importance; predominating
+allesins
+ 1. in every way
+ 2. in all respects; in every respect; in every way
+alliansie
+ alliance
+alliasie
+ alloy
+allig
+ maybe; mayhap; perchance; perhaps; possibly
+alligator
+ alligator
+alliterasie
+ alliteration
+allo
+ hello
+allooi
+ alloy
+allure
+ airs
+alluviaal
+ alluvial
+alluvie
+ alluvion; alluvium
+alluvio
+ alluvion; alluvium
+alluvium
+ alluvion; alluvium
+almag
+ omnipotence
+almal
+ everyone's
+almanak
+ almanac
+almeteens
+ at once; immediately; just; right away; right now
+alom
+ all about; everywhere
+alomteenwoordig
+ omnipresent; ubiquitous
+alomvattend
+ general; universal; worldwide
+alpakka
+ alpaca
+alpbok
+ ibex
+alperoos
+ Alpenrose; rhododendron
+alpeviooltjie
+ cyclamen
+alpinis
+ Alpinist; climber; mountain climber; mountaineer
+alras
+ soon
+alreeds
+ already; by now; yet
+alsem
+ absinth
+also
+ so; such; thus
+alt
+ 1. contralto; contralto voice
+ 2. alto; contralto
+altaar
+ altar
+altaardienaar
+ acolyte
+altaarstuk
+ altarpiece
+altans
+ at least
+alteenwoordig
+ omnipresent; ubiquitous
+altemit
+ maybe; mayhap; perchance; perhaps; possibly
+altemits
+ maybe; mayhap; perchance; perhaps; possibly
+altemitters
+ maybe; mayhap; perchance; perhaps; possibly
+alternatief
+ alternative; option
+altoos
+ always; ever
+altruïs
+ altruist
+altruïsme
+ altruism
+altruïsties
+ altruistic
+altsanger
+ alto; contralto
+altstem
+ 1. contralto; contralto voice
+ 2. alto; contralto
+altviool
+ tenor violin; viola
+altwee
+ both
+altyd
+ always; ever
+altyddurend
+ 1. everlasting
+ 2. everlasting
+aluin
+ alum
+aluminium
+ aluminium; aluminum
+alvermoë
+ omnipotence
+alvleesklier
+ pancreas
+alvorens
+ before; previous to
+alwaar
+ where
+alwas
+ even if
+alweer
+ 1. afresh; again; all over again; anew
+ 2. afresh; again; once more
+alwetend
+ all‐knowing; omniscient
+al's
+ 1. all; altogether; everything
+ 2. all; all of it
+al
+ all
+amandel
+ almond
+amanuensis
+ laboratory assistent
+amarant
+ amaranthus
+amasone
+ Amazon
+amateur
+ 1. amateur; fancier
+ 2. amateur
+amateuragtig
+ 1. amateurish; small‐time
+ 2. amateurish; small‐time
+ambag
+ handicraft; occupation; trade
+ambagsman
+ artisan
+ambassade
+ 1. embassy
+ 2. embassy
+ambassadeur
+ ambassador
+ambassadrise
+ ambassador; female ambassador
+amber
+ amber
+ambieer
+ aspire; aspire to; hope for
+ambigeer
+ doubt
+ambisie
+ ambition
+ambisieus
+ ambitious
+ambroos
+ ambrosia
+ambrosyn
+ ambrosia
+amebe
+ amoeba
+amen
+ amen
+amendeer
+ amend
+amendement
+ amendment
+amendering
+ amendment
+amerikaniseer
+ Americanize
+ametis
+ amethyst
+ameublement
+ furniture
+amfibie
+ amphibian
+amfiteater
+ amphitheatre
+amfora
+ amphora
+amikaal
+ friendly
+ammeter
+ ammeter
+ammoniak
+ ammonia
+ammonium
+ ammonia
+ammunisie
+ munition; ammunition
+amnestie
+ act of grace; amnesty
+amok
+ amuck
+amorf
+ amorphous
+amortisasie
+ redemption
+amortiseer
+ amortize; deaden
+amp
+ function; job; office; post
+amper
+ 1. barely; hardly; only just; scarcely
+ 2. almost; nearly
+ampertjies
+ barely; hardly; only just; scarcely
+ampgenoot
+ 1. college
+ 2. colleague
+amplitude
+ amplitude
+ampsbroer
+ 1. colleague
+ 2. colleague
+ampseed
+ oath of office
+ampsgeheim
+ official secret
+ampsgewaad
+ robes of office
+ampsmisdryf
+ abuse of power; misfeasance
+ampswoning
+ official residence
+amptelik
+ 1. official
+ 2. official
+ampteloos
+ private
+amptenaredom
+ bureaucracy; officialdom
+amptenary
+ bureaucracy; officialdom
+ampul
+ bulb
+amputasie
+ 1. amputation
+ 2. amputation
+amputeer
+ amputate
+ampère
+ ampère
+ampèremeter
+ 1. ammeter
+ 2. ammeter
+amulet
+ amulet; charm; talisman
+amusant
+ amusing; entertaining; funny
+amuseer
+ amuse
+amusement
+ 1. entertainment
+ 2. amusement; fun
+anaal
+ anal
+anachronisme
+ anachronism
+anagram
+ anagram
+anakonda
+ anaconda
+analfabeet
+ 1. illiterate
+ 2. illiterate
+analis
+ analyst; analytical chemist
+analise
+ analysis
+analiseer
+ analyse
+analogie
+ analogy
+analogies
+ analogous
+analoog
+ analogous
+ananas
+ pineapple
+anapes
+ anapaest
+anargie
+ anarchy
+anargies
+ anarchic; anarchical; anarchist
+anargis
+ anarchist
+anargisme
+ anarchism
+anatomie
+ anatomy
+anatomies
+ anatomical
+anatoom
+ anatomist
+ander
+ other; another; else
+anderland
+ foreign country
+anderlander
+ foreigner
+anders
+ 1. differently; else
+ 2. differently
+andyvie
+ endive
+anekdote
+ anecdote
+anekdoties
+ anecdotal
+anemie
+ anaemia
+anemies
+ anaemic
+anemoon
+ anemone
+angel
+ 1. hook
+ 2. sting
+angelier
+ carnation; pink
+angina
+ angina; quinsy
+angskreet
+ cry of distress
+angst
+ 1. agony; anguish; fear
+ 2. fright
+angstig
+ 1. horrible
+ 2. afraid; fearful
+angsvallig
+ accurate; scrupulous
+angswekkend
+ horrible
+aniline
+ aniline
+animo
+ 1. soul
+ 2. activity; gusto; spirit; stir; zest
+anker
+ anchor
+ankerplek
+ anchorage; moorage; mooring
+anna
+ ana; anna
+anneksasie
+ annexation
+annekseer
+ annex
+annonseer
+ advertise; announce; give notice
+annoteer
+ 1. comment
+ 2. annotate
+annulleer
+ abjure; abolish; abrogate; annul; cancel; remit
+annullering
+ abolition; abrogation
+annuïteit
+ instalment; repayment
+anode
+ anode
+anomalie
+ abnormity; anomaly
+anoniem
+ 1. anonymous
+ 2. anonymous; nameless; without a name
+anonimiteit
+ 1. anonymity
+ 2. anonymity
+anonymus
+ anonymous writer
+anorganies
+ inorganic
+ansjovis
+ anchovy
+antenne
+ aerial; antenna
+antichris
+ Antichrist
+antidoot
+ 1. antidote
+ 2. antidote
+antiek
+ ancient; antique
+antiloop
+ antelope
+antimonium
+ antimony
+antimoon
+ antimony
+antipatie
+ aversion; dislike
+antipatiek
+ nasty
+antipode
+ antipode
+antisemiet
+ anti‐Semite
+antisemities
+ anti‐Semitic
+antisemitisme
+ anti‐Semitism
+antisepties
+ antiseptic
+antisipasie
+ anticipation
+antisipeer
+ anticipate; think ahead
+antisosiaal
+ antisocial; unsocial
+antrasiet
+ anthracite
+antropologie
+ anthropology
+antropoloog
+ anthropologist
+antwoord
+ 1. answer; reply; respond
+ 2. answer; reply
+anus
+ anus; arse
+anys
+ anise
+aorta
+ aorta
+apache
+ apache; hood; ruffian
+apart
+ apart; particular; separate; special
+apartheid
+ apartheid
+apatie
+ apathy
+apaties
+ apathetic
+apebroodboom
+ baobab
+apekool
+ nonsense
+apogeum
+ acme
+apokalips
+ apocalypse
+apokalipties
+ apocalyptic
+apokrief
+ apocryphal
+apopleksie
+ fit; apoplectic fit; seizure; stroke; stroke of apoplexy
+apostaat
+ apostate
+apostel
+ apostle
+apostelskap
+ apostleship; apostolate
+apostolaat
+ apostleship; apostolate
+apostolies
+ apostolic
+apostroof
+ apostrophe
+apoteose
+ apotheosis
+apparaat
+ apparatus; device; set
+appartement
+ apartment; flat
+appel
+ apple
+appelboom
+ apple‐tree
+appeldrank
+ cider
+appelkoos
+ apricot
+appelkoosboom
+ 1. apricot‐tree
+ 2. apricot‐tree
+appelleer
+ appeal
+appelmoes
+ apple‐sauce
+appeltert
+ apple‐tart
+appelwyn
+ cider
+appendisitis
+ appendicitis
+applikant
+ candidate
+apploudiseer
+ acclaim; applaud; clap
+applous
+ acclaim; acclamation; approval
+appèl
+ 1. appeal
+ 2. appeal
+ 3. parade; roll‐call
+ 4. parade; roll‐call
+apropos
+ by the way
+apteek
+ chemist's shop; drugstore
+apteker
+ chemist
+aptyt
+ appetite
+arabesk
+ arabesque
+arak
+ rack; arrack
+arapapegaai
+ macaw
+araroet
+ arrowroot
+arbei
+ work
+arbeid
+ job; work
+arbeider
+ hand; laborer; labourer; operative; worker; working man; workman
+arbeidsaam
+ active; hardworking
+arbeidsaamheid
+ activity
+arbeidsloos
+ unemployed
+arbeidsloosheid
+ unemployment
+arbeidsmark
+ labor market; labour market
+arbeidster
+ female laborer; femal labourer; femal worker
+are
+ are; square decametre
+area
+ area
+arena
+ arena
+arend
+ eagle
+arendsjong
+ eaglet
+arendsneus
+ aquiline nose
+argaïes
+ archaic
+argaïsme
+ archaism
+argeologie
+ archaeology
+argeologies
+ archaeological
+argeoloog
+ archaeologist
+argiefbewaarder
+ archivist; keeper of the records
+argipel
+ 1. archipelago
+ 2. archipelago
+argitek
+ architect
+argitektuur
+ architectonic; architectural
+argitraaf
+ architrave
+argivaris
+ archivist; keeper of the records
+argon
+ argon
+argument
+ 1. argument; plea
+ 2. quarrel
+ 3. quarrel
+argumenteer
+ maintain
+argwaan
+ suspicion
+argwanend
+ suspicious
+aria
+ air; aria
+aristokraat
+ aristocrat
+aristokrasie
+ 1. aristocracy
+ 2. aristocracy
+aristokraties
+ aristocratic
+ark
+ ark
+arm
+ 1. arm
+ 2. miserable; poor
+ 3. poor
+armband
+ bracelet
+arme
+ pauper; poor man
+armhorlosie
+ watch; wrist‐watch
+armoede
+ poverty
+arnika
+ arnica
+aroma
+ aroma; flavour
+aronskelk
+ arum
+arrestant
+ arrested person; prisoner
+arrestasie
+ apprehension; arrest; detention
+arresteer
+ arrest
+arrogant
+ arrogant
+arsenaal
+ 1. armoury; arsenal
+ 2. armoury; arsenal
+arterie
+ artery
+arteriosklerose
+ arteriosclerosis
+artesies
+ artesian
+artikel
+ 1. article; commodity
+ 2. article
+artillerie
+ artillery
+artilleris
+ artilleryman; gunner
+artis
+ artist
+artisjok
+ artichoke
+artistiek
+ artistic
+artritis
+ arthritis
+arts
+ doctor; physician
+artseny
+ drug; medicine; pharmaceutical
+as
+ 1. ash; cinder
+ 2. than
+ 3. if; provided that
+asalea
+ azalea
+asbes
+ asbestos
+asem
+ breathe
+asepties
+ aseptic
+asetileen
+ acetylene
+aseton
+ acetone
+asfalt
+ asphalt
+asfalteer
+ asphalt
+asiel
+ asylum
+asimmetries
+ asymmetric; asymmetrical; dissymmetric
+asimut
+ azimuth
+asjoublief
+ please
+asketies
+ ascetic
+asma
+ asthma; shortness of breath; wheeziness
+asmalyer
+ asthmatic; asthmatic patient
+asmaties
+ asthmatic; wheezy
+asof
+ as if; as though; in a way
+aspek
+ appearance; aspect; look; sight; view
+aspersie
+ asparagus
+aspidistra
+ aspidistra
+asseblief
+ please
+assimileer
+ assimilate
+assisteer
+ abet; aid; assist; help
+assistensie
+ aid; help
+assistent
+ 1. aid; assistant; helper
+ 2. aid; assistent; helper
+assistente
+ 1. assistant; lady help
+ 2. assistant; lady help
+assuransie
+ insurance
+assureer
+ insure
+aster
+ aster
+asterisk
+ asterisk
+asteroïde
+ asteroid
+asteroïed
+ asteroid
+astrologie
+ astrology
+astroloog
+ astrologer
+astronomie
+ astronomy
+astronomies
+ astronomic; astronomical
+astronoom
+ astronomer
+asyn
+ vinegar
+atavisme
+ atavism; throw‐back
+ateljee
+ atelier; studio; work‐room; workshop
+ateïs
+ atheist
+ateïsme
+ atheism
+atleet
+ athlete
+atletiek
+ athletics
+atleties
+ athletic
+atmosfeer
+ atmosphere
+atmosferies
+ atmospheric
+atol
+ atoll
+atomies
+ atomic
+atoom
+ atom
+atoombom
+ atom bomb
+atoomenergie
+ atomic energy
+atoomgewig
+ atomic weight
+atrofie
+ atrophy
+attensie
+ acuity; advertence; advertency; attention
+attent
+ attentive
+au
+ ouch; ow
+aubade
+ aubade
+auditorium
+ auditory
+aula
+ auditorium
+aviateur
+ airman; aviator
+avonturier
+ adventurer
+avontuur
+ adventure
+avontuurlik
+ 1. adventurous
+ 2. adventurous
+awend
+ evening
+aä‐lawa
+ aa lava; block lava
+aërodinamies
+ aerodynamic
+aërodinamika
+ aerodynamics
+aërostaat
+ balloon; air‐balloon
+a
+ alas; regrettably; unfortunately
+a
+ certainly
+a
+ not at all
+a
+ 1. at par
+ 2. at par
+baadjie
+ jacket
+baai
+ bay
+baaierd
+ chaos; tangle
+baaihokkie
+ bathing box
+baaiklere
+ bathing suit; bathing‐suit
+baaikostuum
+ bathing suit; bathing‐suit
+baak
+ 1. beacon
+ 2. beacon
+baal
+ bale
+baan
+ 1. path; road; way
+ 2. course; race‐course; track; running track
+ 3. width
+ 4. playground
+ 5. orbit
+ 6. trajectory
+ 7. track
+ 8. road; route; way
+baanbreker
+ pioneer
+baantjie
+ post
+baanveër
+ sweeper
+baanwagter
+ signalman
+baar
+ 1. wave
+ 2. litter; strecher
+baard
+ beard
+baarmoeder
+ uterus; womb
+baars
+ bass
+baas
+ 1. boss; chief; leader
+ 2. boss; master
+baat
+ 1. gain; profit
+ 2. avail
+ 3. advantage; benefit
+baatsug
+ selfinterest; selfishness
+baatsugtig
+ self‐interested; selfish
+baatsugtigheid
+ selfinterest; selfishness
+baba
+ baby
+bababed
+ bedstead
+babel
+ barbel
+baber
+ barbel
+babetjie
+ baby
+bad
+ 1. bath
+ 2. bath
+badhokkie
+ bathing box
+badhuis
+ bathroom
+badkamer
+ 1. bathroom
+ 2. bathroom
+badklere
+ bathing suit; bathing‐suit
+badkostuum
+ bathing suit; bathing‐suit
+badkuip
+ bath
+badpak
+ bathing suit; bathing‐suit
+badplaas
+ spa
+badshuis
+ bathroom
+badspons
+ bathing‐sponge
+bagasie
+ baggage; luggage
+bagatel
+ trifle
+baie
+ 1. a lot of; much
+ 2. many
+ 3. a lot
+ 4. a lot of; much; plenty of
+ 5. quite; very; very much
+bajonet
+ bayonet
+bak
+ 1. bake
+ 2. fry
+ 3. tub; vat
+ 4. basin; bowl; pelvis
+bakatel
+ trifle
+bakbaard
+ whiskers; side‐whiskers
+bakboord
+ port side
+bakeliet
+ bakelite
+baken
+ 1. beacon
+ 2. beacon
+baker
+ nurse; dry‐nurse; monthly nurse
+bakkebaard
+ whiskers; side‐whiskers
+bakker
+ baker
+baklei
+ 1. be at loggerheads; tussle
+ 2. be at loggerheads; tussle
+baksteen
+ brick
+bakterie
+ bacterium
+bal
+ 1. ball; dance
+ 2. ball
+balans
+ 1. equilibrium
+ 2. weight
+baldakyn
+ baldachin; canopy
+balderja
+ valerian
+balderjan
+ valerian
+balju
+ taskmaster
+balk
+ beam; girder
+balkon
+ balcony
+ballade
+ ballad; ballade
+ballast
+ ballast
+ballerina
+ ballerina; ballet dancer; ballet girl
+ballet
+ ballet
+balletdanser
+ ballet dancer
+balletdanseres
+ ballerina; ballet dancer; ballet girl
+balling
+ exile
+ballingskap
+ exile
+ballistiek
+ ballistics
+ballon
+ balloon
+balroos
+ Guelder rose
+balsem
+ 1. embalm
+ 2. balm; balsam
+balustrade
+ balustrade; banisters; parapet; railing
+bamboes
+ bamboo
+banaal
+ commonplace; dismal; trite
+banaliteit
+ 1. banality; platitude
+ 2. banality; triteness; triviality; platitude
+banana
+ banana
+band
+ 1. binding; strip; tape
+ 2. tyre
+ 3. tire; tyre
+bandiet
+ bandit
+bang
+ afraid
+banjo
+ banjo
+bank
+ 1. bank
+ 2. bench
+banket
+ banquet
+bankier
+ 1. banker; bank manager
+ 2. bank clerk; bank official
+bankrekening
+ bank account; banking account
+bankrot
+ 1. bankrupt
+ 2. bankruptcy; failure
+bankrot
+ be bankrupt; go broke
+banneling
+ exile
+bannelingskap
+ exile
+baobab
+ baobab
+barak
+ barrack; barn; shack; shanty; shed
+barbaar
+ barbarian
+barbaars
+ barbaric
+barbaarsheid
+ barbarity; barbarousness
+barbarisme
+ barbarism
+barbier
+ barber
+bard
+ bard
+bariton
+ baritone
+barium
+ barium
+barmhartig
+ 1. charitable; merciful
+ 2. charitable; merciful
+barnsteen
+ amber
+barometer
+ barometer
+baron
+ baron
+barones
+ baroness
+baronie
+ barony
+barrikade
+ barricade
+barrikadeer
+ barricade
+barrière
+ barrier
+bars
+ 1. split
+ 2. burst; crack; flaw
+ 3. burst; crack
+bas‐relief
+ bas‐relief; low relief
+basaar
+ bazaar; fair; market
+basalt
+ basalt; whimstone
+basies
+ basic
+basiliek
+ basilica
+basilika
+ basilica
+basilikum
+ basil
+basketbal
+ basketball
+baskule
+ weighing machine
+bassin
+ basin; reservoir
+bastion
+ bastion
+bataljon
+ battalion
+battery
+ 1. accumulator; battery; storage battery
+ 2. battery
+ 3. battery
+bauxiet
+ bauxite
+bazaar
+ bazaar; fair; market
+beantwoord
+ answer
+beboude
+ built‐up area
+bed
+ bed
+bedaar
+ calm down
+bedags
+ 1. by day; during the day
+ 2. by day; during the day; in the daytime
+bedank
+ 1. thank
+ 2. quit; resign
+ 3. reject
+ 4. refuse; reject
+bedanking
+ 1. rejection
+ 2. refusal
+beddegoed
+ bed‐clothes; bedding
+beddeken
+ blanket
+beddekussing
+ pillow
+bedding
+ 1. bed
+ 2. bed; watercourse
+bede
+ appeal; entreaty; supplication
+bedeel
+ endow
+bedees
+ abashed; self‐conscious; shy
+bedeesheid
+ bashfulness; shyness; timidity
+bedehuis
+ 1. church; church‐building; kirk
+ 2. church; church‐building; house of worship; place of worship
+bedek
+ cover
+bedel
+ beg
+bedelaar
+ beggar
+bedelares
+ beggar‐woman
+bedelary
+ begging
+bedelbroeder
+ mendicant friar
+bedelmonnik
+ mendicant friar
+bedelorde
+ mendicant order
+bedelry
+ begging
+bedelvrou
+ beggar‐woman
+bedenking
+ 1. consideration; deliberation
+ 2. objection
+bedenktyd
+ time to consider
+bederf
+ 1. damage; injure; spoil
+ 2. corruption
+ 3. bribe
+ 4. spoil
+ 5. go bad
+ 6. corruption; decay; depravation; taint
+ 7. putrefy; rot
+ 8. decay
+ 9. spoil
+bederfbaar
+ perishable
+bederflik
+ perishable
+bederfweermiddel
+ antiseptic
+bederfwerend
+ antiseptic
+bederwe
+ 1. spoil
+ 2. go bad
+ 3. putrefy; rot
+ 4. spoil
+bedevaart
+ pilgrimage
+bedevaartganger
+ pilgrimage
+bedien
+ 1. serve
+ 2. administer the last sacraments
+ 3. serve
+bediende
+ 1. maid; servant
+ 2. boy; servant
+bediening
+ attendance; service; waiting
+bedil
+ carp at; haze; quibble
+bedilsiek
+ censorious
+bedilsug
+ censoriousness
+beding
+ 1. set conditions; stipulate
+ 2. condition; stipulation; terms
+bedinging
+ condition; stipulation; terms
+bedink
+ think; think about; reflect on
+bedissel
+ 1. arrange; fix up
+ 2. prepare
+bedkussing
+ pillow
+bedlaken
+ sheet
+bedlêend
+ bedridden; confined to one's bed; laid up
+bedoel
+ 1. aim; intend
+ 2. mean
+bedoeling
+ 1. intention; meaning; plan
+ 2. meaning
+bedol
+ crazy; insane; mad; nuts
+bedompig
+ airless; close; frowsy; stuffy
+bedorwe
+ 1. spoiled
+ 2. addled; bad; rotten
+ 3. spoiled
+bedot
+ fool; hoax; mystify; trick
+bedra
+ amount to
+bedrag
+ amount; sum
+bedreig
+ menace; threaten
+bedreiging
+ menace; threat
+bedremmeld
+ dazed; perplexed; upset
+bedrewe
+ 1. experienced; expert; skilful; skilled; skillful; practised
+ 2. adroit; clever; dexterous; skillful
+bedrewenheid
+ 1. expertness; skilfulness; skill; skillfulness
+ 2. expertness; skilfulness; skill; skillfulness
+bedrieg
+ 1. be unfaithful; be unfaithful to
+ 2. cheat; deceive
+bedrieglik
+ 1. deceptive; delusive; fallacious
+ 2. deceitful
+bedrieër
+ 1. cheat; deceiver; imposter
+ 2. fraud
+bedrieëry
+ swindle
+bedrië
+ 1. be unfaithful; be unfaithful to
+ 2. cheat; deceive
+bedroef
+ 1. afflict; grieve
+ 2. afflict; cause pain; cause pain to; distress; give pain to
+bedroefdheid
+ 1. sadness
+ 2. grief; sadness; sorrow
+ 3. sadness; sorrow
+bedroewe
+ 1. afflict; grieve
+ 2. afflict; cause pain; cause pain to; distress; give pain to
+bedroewend
+ dismal; miserable
+bedrog
+ swindle
+bedruip
+ baste
+bedruk
+ 1. dejected; depressed
+ 2. dismal; gaunt; miserable; sad
+ 3. print
+bedruktheid
+ 1. dejection; depression; oppression
+ 2. sadness; sorrow
+bedryf
+ 1. enterprise
+ 2. achieve; act; do; make; perform
+ 3. handicraft; occupation; trade
+ 4. accomplish; achieve; keep; observe; perform
+ 5. profession
+bedryfskapitaal
+ working capital
+bedryfsklaar
+ 1. in working order
+ 2. in working order
+bedryfsleier
+ manager
+bedrywe
+ 1. achieve; act; do; make; perform
+ 2. accomplish; achieve; keep; observe; perform
+bedrywig
+ active
+bedrywigheid
+ 1. activity
+ 2. activity; gusto; spirit; stir; zest
+bedsprei
+ bedspread; counterpane; coverlet
+bedug
+ 1. agitated; anxious
+ 2. afraid
+bedugtheid
+ fear
+beduidenis
+ 1. indication
+ 2. meaning
+bedwing
+ 1. bridle; check; restrain
+ 2. control; govern; restrain; rule
+beef
+ quiver; shiver; tremble
+beek
+ stream
+beeld
+ 1. image; picture
+ 2. figure; diagram; image; picture; representation
+ 3. metaphor
+ 4. statue
+beeldenaar
+ effigy; head
+beeldend
+ plastic
+beelderig
+ 1. delightful; lovely
+ 2. charming; lovely
+beeldestorm
+ 1. iconoclasm
+ 2. iconoclasm
+beeldestormer
+ iconoclast
+beeldhou
+ carve; sculpture
+beeldhouer
+ sculptor
+beeldhouwerk
+ sculpture
+beeldig
+ 1. delightful; lovely
+ 2. charming; lovely
+beeldradio
+ television; TV
+beeldryk
+ full of images
+beeldskoon
+ lovely
+beeldspraak
+ metaphor
+beeldstorm
+ 1. iconoclasm
+ 2. iconoclasm
+beeldstormer
+ iconoclast
+beeltenis
+ 1. image; picture
+ 2. portrait
+been
+ 1. leg
+ 2. leg; paw
+ 3. bone
+beenbreuk
+ fracture of the leg
+beenwindsel
+ puttee
+beer
+ 1. abutment
+ 2. bear
+ 3. boar
+beerklou
+ 1. acanthus
+ 2. cow parsnip; hogweed
+beerwyfie
+ she‐bear
+bees
+ 1. animal; beast
+ 2. bovine; bovine animal
+beesagtig
+ beastly; bestial
+beesvleis
+ beef
+beet
+ 1. beet
+ 2. bite
+beetgryp
+ 1. clutch; grapple
+ 2. capture; catch; grapple
+beethê
+ 1. have got hold of
+ 2. fool; hoax; mystify; trick
+beetkry
+ capture; catch; grapple
+beetneem
+ 1. clutch; grapple
+ 2. capture; catch; grapple
+ 3. fool; hoax; mystify; trick
+ 4. take in
+beetnemery
+ mystification
+beetpak
+ 1. clutch; grapple
+ 2. capture; catch; grapple
+beetsuiker
+ beet sugar; beetroot sugar
+beetvak
+ clutch; grapple
+beetvat
+ capture; catch; grapple
+bef
+ bands
+befaamd
+ 1. famous
+ 2. famous
+befaamdheid
+ fame; hearsay; renown; repute; rumor; rumour
+begaaf
+ 1. gifted; talented
+ 2. gifted; talented
+begaafdheid
+ aptitude; disposition; talent
+begaan
+ 1. achieve; act; do; make; perform
+ 2. accomplish; achieve; keep; observe; perform
+ 3. tread; walk; walk upon
+begaanbaar
+ passable; practicable
+begeef
+ go
+begeer
+ 1. covet
+ 2. desire; wish
+begeerbaar
+ desirable
+begeerlik
+ desirable
+begeerte
+ 1. avidity; covetousness; eagerness; greediness
+ 2. desire; want; wish
+begeester
+ inspire
+begeestering
+ inspiration
+begelei
+ 1. accompany
+ 2. escort
+begeleider
+ accompanist; companian
+begeleiding
+ 1. accompaniment; escort
+ 2. escort
+begeleier
+ accompanist; companian
+begenadig
+ 1. amnesty; pardon
+ 2. forgive; pardon
+begenadiging
+ absolution; pardon
+begerig
+ acquisitive; eager; greedy
+begerigheid
+ 1. alacrity; avidity; covetousness; eagerness; greediness
+ 2. avidity; covetousness; eagerness; greediness
+begewe
+ go
+begiet
+ 1. irrigate; water
+ 2. water
+begiftig
+ 1. donate; give
+ 2. endow
+begin
+ 1. begin; commence; start
+ 2. begin; commence; start
+ 3. beginning; commencement; start
+ 4. beginning; commencement; start
+beginletter
+ initial
+beginneling
+ beginner
+beginner
+ beginner
+beginpunt
+ starting point
+beginsalaris
+ commencing salary
+beginsel
+ 1. element
+ 2. principle
+beginselvas
+ firm in one's principle; firm in one's principles
+beginselverklaring
+ declaration of policy; platform; statement of policy
+beginsnelheid
+ initial velocity
+begluur
+ 1. peep; peep at; spy; spy upon
+ 2. spy
+begluurder
+ spy
+begogel
+ 1. bewitch; delude
+ 2. delude
+begogelsing
+ 1. delusion; spell
+ 2. illusion
+begonia
+ begonia
+begoël
+ 1. bewitch; delude
+ 2. delude
+begoëlsing
+ 1. delusion; spell
+ 2. illusion
+begraaf
+ 1. bury
+ 2. bury; entomb; inter
+begraafplaas
+ cemetery; God's acre; graveyard
+begraafplek
+ cemetery; God's acre; graveyard
+begrafnis
+ 1. burial; funeral; interment
+ 2. burial; funeral; interment
+begrafnisondernemer
+ 1. mortician; undertaker
+ 2. mortician; undertaker
+begrafnisonderneming
+ undertaker's business
+begrafnisstoet
+ funeral procession
+begrawe
+ 1. bury
+ 2. bury; entomb; inter
+begrawing
+ 1. burial; funeral; interment
+ 2. burial; funeral; interment
+begrens
+ 1. abridge; confine; limit; restrict
+ 2. confined; limited; restricted
+begrensing
+ limitation; restriction
+begrip
+ 1. idea
+ 2. conception; idea; notion
+ 3. understanding
+ 4. concept; idea
+ 5. notion
+begripsvermoë
+ understanding
+begripsverwarring
+ confusion of ideas
+begroei
+ overgrow
+begroet
+ greet; salute
+begroeting
+ 1. greeting; salutation
+ 2. greeting; salutation
+begroot
+ appraise; estimate; rate
+begroting
+ 1. budget
+ 2. budget; estimate; estimates
+begrotingstekort
+ budgetary deficit
+begryp
+ understand; realize
+begrypbaar
+ understandable
+begryplik
+ understandable
+begryplikerwys
+ for obvious reasons; understandably
+begryplikerwyse
+ for obvious reasons; understandably
+begryplikheid
+ comprehensibility; intelligibility
+begunstig
+ favor; favour
+begunstiging
+ 1. favor; favour
+ 2. protection
+begyn
+ beguine
+begyntjie
+ beguine
+behaag
+ please
+behaaglik
+ 1. agreeable; enjoyable; lovely; nice; pleasant
+ 2. comfortable
+ 3. pleasing
+behaaglikheid
+ pleasantness
+behaagsiek
+ coquettish
+behaagsug
+ coquetry
+behaal
+ 1. achieve; acquire; attain; get; obtain
+ 2. accomplish; achieve; attain; get; reach
+ 3. earn; gain; win
+behaard
+ hairy; hirsute
+behae
+ pleasure
+behalwe
+ 1. apart from; but; except; other than
+ 2. apart from; besides; except; except for
+behandel
+ 1. care for; cure; treat
+ 2. discuss
+ 3. treat
+ 4. deal with; handle; treat
+behandeling
+ 1. treatment
+ 2. treatment
+ 3. treatment
+ 4. treatment
+behang
+ tapestry; wall covering
+behanger
+ paperer; paper‐hanger
+behangsel
+ tapestry; wall covering
+behangselpapier
+ tapestry; wall covering
+behartig
+ look after
+behartigenswaardig
+ considerable; sizable
+behartiging
+ care
+beheer
+ administration; management
+beheers
+ 1. control; govern; restrain; rule
+ 2. know how
+ 3. composed; restrained; self‐possessed
+beheerser
+ 1. ruler
+ 2. sovereign
+beheersing
+ control; reign; rule
+beheks
+ bewitch; delude
+behels
+ comprise; contain; include
+behendig
+ adroit; clever; dexterous; skillful
+behendigheid
+ expertness; skilfulness; skill; skillfulness
+behep
+ affected with; afflicted with; subject to
+behoed
+ 1. guard; preserve; protect; save
+ 2. protect
+ 3. shelter; protect
+behoedsaam
+ careful; cautious
+behoedsaamheid
+ caution
+behoef
+ need; require
+behoefte
+ need; want
+behoeftig
+ miserable; needy
+behoeftigheid
+ destitution; distress; indigence; need; penury
+behoor
+ 1. belong to
+ 2. befit; be fitting
+ 3. have to; must; ought to; should
+behoorlik
+ 1. decent; fitting; proper; suitable
+ 2. decently; properly
+behoorlikheidshalwe
+ decently; properly
+behoort
+ 1. belong to
+ 2. befit; be fitting
+ 3. have to; must; ought to; should
+behoort
+ belong to; be one of
+behoor
+ belong to; be one of
+behou
+ 1. conserve; keep; maintain; preserve
+ 2. keep; save; rescue
+ 3. hang onto; hold
+behoud
+ 1. conservation; maintenance; preservation; retention
+ 2. salvage; salvation; recovery
+behoudend
+ conservative
+behoudenis
+ salvage; salvation; recovery
+behoudens
+ bar; barring; except for; subject to; without prejudice
+behoudensgesind
+ conservative
+behoue
+ safe; secure
+behuis
+ housed
+behulpsaam
+ accommodating; helpful
+behulpsaamheid
+ helpfulness; readiness to help
+beiaard
+ 1. carillon; chimes
+ 2. carillon; chimes
+beide
+ both
+beier
+ peal; ring
+beige
+ beige
+beitel
+ 1. carve; chisel
+ 2. chisel
+bejaard
+ old
+bejammer
+ 1. be sorry about; regret
+ 2. begrudge; regret
+ 3. mourn
+bejammerenswaardig
+ regrettable
+bek
+ 1. beak; bill
+ 2. mouth
+bekaf
+ exhausted; tired out; worn out
+bekeer
+ convert
+bekeerling
+ 1. convert; proselyte
+ 2. convert; proselyte
+beken
+ acknowledge; admit; confess; profess
+bekend
+ well‐known
+bekendheid
+ 1. acquaintance; conversance; familiarity
+ 2. acquaintance; knowledge
+bekendmaak
+ 1. issue; proclaim
+ 2. acquaint; let know; inform
+bekendmaking
+ 1. proclamation
+ 2. advice; announcement; communication; message; notice; report
+bekendstel
+ 1. issue; proclaim
+ 2. acquaint; let know; inform
+bekentenis
+ acknowledgement; admission; confession
+beker
+ goblet
+bekering
+ 1. conversion
+ 2. conversion
+bekken
+ 1. cymbal
+ 2. basin; bowl; pelvis
+bekkenis
+ cymbalist
+beklaag
+ have compassion on; pity
+beklaagde
+ 1. accused; defendant
+ 2. accused; defendant
+beklaaglik
+ dismal; miserable; pitiful; poor
+beklad
+ 1. slander
+ 2. soil; spot; stain
+beklae
+ have compassion on; pity
+beklaenswaardig
+ dismal; miserable; pitiful; poor
+beklag
+ complaint
+beklagenswaardig
+ dismal; miserable; pitiful; poor
+beklag
+ complain
+beklee
+ 1. occupy; take
+ 2. cover; overlay
+ 3. clothe; dress
+bekleed
+ 1. cover; overlay
+ 2. clothe; dress
+beklemd
+ oppressed
+beklemde
+ strangulated hernia
+beklemdheid
+ dejection; depression; oppression
+beklemming
+ dejection; depression; oppression
+beklemtoon
+ accent; accentuate; stress
+beklim
+ ascend; climb; scale
+beklimbaar
+ mountable
+beklimming
+ ascent; climbing; mounting
+beklink
+ conclude; dispatch; expedite; finnish; settle
+beklouter
+ ascend; climb; scale
+beknibbel
+ bargain; haggle
+beknor
+ blame; rebuke; reproach; reprove; scold
+bekoel
+ cool; cool down
+bekom
+ get; have; receive
+bekommerd
+ anxious
+bekommering
+ care; concern
+bekommernis
+ care; concern
+bekommer
+ care about; take care of
+bekonkel
+ intrigue
+bekoor
+ 1. attract; draw
+ 2. entice; tempt
+ 3. charm
+bekoorlik
+ charming; lovely
+bekoorlikheid
+ charm
+bekoring
+ 1. temptation
+ 2. charm
+bekort
+ abbreviate; abridge; shorten
+bekorting
+ abbreviation
+bekostig
+ bear the cost of; defray the cost of; pay the expenses of
+bekragtig
+ 1. acknowledge; confirm; corroborate
+ 2. ratify
+ 3. sanction
+bekragtiging
+ 1. confirmation
+ 2. ratification
+ 3. sanction
+bekreun
+ 1. pay attention to; take account of; take into account
+ 2. care about; take care of
+bekritiseer
+ censure; criticize
+bekrompe
+ 1. narrow
+ 2. close; cramped
+bekroning
+ coronation
+bekroon
+ 1. crown
+ 2. award a prize
+bekruip
+ come over
+bekruis
+ check off; mark with a cross; put a cross against; tick off
+bekryg
+ make war against; make war on; wage war against; wage war on
+bekwaald
+ 1. barely; hardly; only just; scarcely
+ 2. ailing
+bekwaam
+ able; capable
+bekwaamheid
+ 1. ability
+ 2. ability
+bel
+ 1. give a ring; ring; ring the bell
+ 2. bell
+ 3. bell
+belaag
+ beset; threaten
+belaai
+ burden; load
+belae
+ beset; threaten
+belaglik
+ ridiculous
+beland
+ end up
+belang
+ 1. concern
+ 2. interest
+ 3. gain; profit
+ 4. advantage; benefit
+belangegemeenskap
+ community of interests
+belangeloos
+ disinterested
+belangende
+ about; concerning
+belangrik
+ important; serious
+belangrykheid
+ concern
+belangstelling
+ interest
+belangstel
+ be interested in; take an interest in
+belangwekkend
+ interesting
+belas
+ 1. tax
+ 2. burden; load
+belasbaar
+ subject to tax
+belaster
+ slander
+belasting
+ tax
+belastingaanslag
+ assessment
+belastingbetaler
+ ratepayer; taxpayer
+belastingdruk
+ tax burden
+belastingjaar
+ fiscal year
+belastingkantoor
+ tax‐collector's office
+belastingpligtige
+ ratepayer; taxpayer
+belastingstelsel
+ fiscal system; system of taxation; tax system
+belastingverhoging
+ tax hike; tax increase
+belastingverlaging
+ tax abatement; tax reduction; tax relief
+belastingvermindering
+ tax abatement; tax reduction; tax relief
+belastingvry
+ duty‐free; tax‐free
+beledig
+ 1. abuse; insult; offend
+ 2. abuse; insult; offend
+beledigend
+ 1. insulting; offensive; opprobrious
+ 2. abusive; nasty
+belediging
+ 1. abuse; insult
+ 2. abuse
+beleef
+ 1. go through; live to see
+ 2. experience; live through; survive
+ 3. courteous; polite; well‐mannered
+beleefdheid
+ 1. courtesy
+ 2. politeness
+beleefdheidshalwe
+ out of courtesy; out of politeness
+beleen
+ borrow money on; pawn
+beleg
+ 1. invest
+ 2. cover
+ 3. cause; cause to take place
+ 4. siege
+belegger
+ investor
+beleid
+ 1. policy
+ 2. policy; politics
+ 3. discretion; generalship; prudence
+ 4. musical time; tact
+beleidvol
+ careful; cautious
+belemmer
+ 1. bar; hinder; inhibit; prevent
+ 2. bother; disturb; hinder; trouble
+belemmering
+ 1. handicap; impediment; obstacle
+ 2. hindrance
+belend
+ abut; adjoin; be next to
+belendend
+ 1. adjacent
+ 2. adjacent; adjoining; neighbouring
+belening
+ pawning
+belese
+ well‐read
+belet
+ hindrance
+beletsel
+ 1. hindrance
+ 2. obstacle
+belewe
+ 1. go through; live to see
+ 2. experience; live through; survive
+belewenis
+ 1. experience
+ 2. experience
+belewing
+ 1. experience
+ 2. experience
+beleë
+ mature; ripe
+beleër
+ besiege
+beleëraar
+ besieger
+beleëring
+ siege
+belhamel
+ bell‐wether
+belief
+ please
+belig
+ illuminate; light
+beliggaam
+ 1. embody
+ 2. embody
+beliggaming
+ 1. embodiment
+ 2. embodiment
+beligting
+ 1. exposure
+ 2. lighting
+beligtingsduur
+ exposure time
+beligtingsmeter
+ exposure meter
+beligtingstyd
+ exposure time
+belladonna
+ belladonna
+belletrie
+ 1. belles‐lettres
+ 2. belles‐lettres
+beloer
+ 1. peep; peep upon; spy; spy upon
+ 2. spy
+belofte
+ affirmation; promise
+beloning
+ compensation; reward
+beloof
+ promise
+beloon
+ compensate; reward
+belowe
+ promise
+belroos
+ erysipelas
+beluister
+ listen
+beluisteraar
+ listener
+belus
+ acquisitive; eager; greedy
+belus
+ covet
+bely
+ confess
+belydenis
+ 1. confession
+ 2. confession
+belê
+ 1. invest
+ 2. cover
+ 3. cause; cause to take place
+belêer
+ investor
+bemagtig
+ clutch; grab; grasp; grip; seize
+beman
+ man
+bemanning
+ crew
+bemantel
+ mask
+bemeester
+ overpower; prevail over
+bemerk
+ notice
+bemes
+ fertilize
+bemesting
+ dressing; fertilization; manuring
+bemiddel
+ act as agent
+bemiddelaar
+ agent
+bemiddeld
+ in easy circumstances; well‐to‐do
+bemiddeling
+ mediation
+bemin
+ love
+beminde
+ 1. beloved; loved one; lover; sweetheart; well‐beloved
+ 2. beloved; loved one; lover; sweetheart; well‐beloved
+beminlik
+ lovable
+beminlikheid
+ sweetness
+beminnaar
+ lover
+beminnenswaardig
+ lovable
+beminnenswaardigheid
+ sweetness
+bemisting
+ dressing; fertilization; manuring
+bemodderd
+ muddy; mud‐stained
+bemoedig
+ encourage
+bemoediging
+ encouragement
+bemoeial
+ 1. bushbody; meddler
+ 2. bushbody; meddler
+bemoeienis
+ efforts
+bemoeigees
+ 1. meddlesomeness
+ 2. meddlesomeness
+bemoeilik
+ hamper; hinder; thwart
+bemoeisiek
+ 1. meddlesome
+ 2. meddlesome
+bemoeisug
+ 1. meddlesomeness
+ 2. meddlesomeness
+bemoeisugtig
+ 1. meddlesome
+ 2. meddlesome
+benaam
+ call
+benadeel
+ 1. harm; hurt; injure; prejudice
+ 2. harm
+benader
+ 1. approach
+ 2. approximate
+benadruk
+ accent; accentuate; emphasize
+benaming
+ appellation; name
+benard
+ 1. straitened
+ 2. in distress
+benardheid
+ abashment; embarrassment; perplexity
+bende
+ band; bevy; gang
+benede
+ 1. below; downstairs; underneath
+ 2. below; underneath
+benedebuur
+ 1. neighbour on the lower storey
+ 2. neighbour on the lower storey
+benedebuurman
+ 1. neighbour on the lower storey
+ 2. neighbour on the lower storey
+benedeloop
+ lower course
+benedeverdieping
+ ground‐floor
+benedy
+ bless
+beneem
+ abstract; take away
+benefice
+ benefit performance
+beneficevoorstelling
+ benefit performance
+benepe
+ 1. in distress
+ 2. afraid; timid
+benepenheid
+ pettiness; small‐mindedness
+benewel
+ befog; cloud; dim
+beneweld
+ tipsy
+benewens
+ together with
+benodig
+ 1. necessary
+ 2. necessary
+ 3. necessary
+benodigdhede
+ 1. materials; necessaries; requisites
+ 2. materials; necessaries; requisites
+benoem
+ 1. call
+ 2. appoint; nominate
+benoeming
+ 1. nomad
+ 2. appointment; nomination
+benoorde
+ above
+benou
+ agitate; alarm
+benoud
+ 1. stale
+ 2. agitated; anxious
+ 3. close; cramped
+ 4. airless; oppressive; stiffling; sultry
+benouend
+ 1. alarming; grave; serious
+ 2. burdensome; onerous
+ 3. airless; oppressive; stiffling; sultry
+benseen
+ benzene
+bensien
+ gasolene; gasoline; petrol
+bensienreservoir
+ gas tank; petrol tank
+bensine
+ gasolene; gasoline; petrol
+bensinereservoir
+ gas tank; petrol tank
+benul
+ 1. idea
+ 2. notion; sense; realization
+benut
+ 1. make use of; turn to good account; utilize
+ 2. employ; use; make use of
+benuttig
+ 1. make use of; turn to good account; utilize
+ 2. employ; use; make use of
+beny
+ envy
+beoefen
+ exert; practice
+beoefenaar
+ practitioner
+beoefening
+ practice
+beoog
+ aim; intend
+beoordeel
+ 1. censure; criticize
+ 2. judge
+beoordelaar
+ judge
+beoordeling
+ criticism
+beoorlog
+ make war against; make war on; wage war against; wage war on
+beoorloog
+ make war against; make war on; wage war against; wage war on
+beooste
+ east of; eastward of; to the east of
+bepaal
+ 1. define; determine
+ 2. attach; determine; fasten; fix; affix; make fast; secure
+ 3. set conditions; stipulate
+ 4. qualify
+ 5. qualify
+ 6. abridge; confine; limit; restrict
+ 7. command; order; tell
+bepalend
+ defining; determining
+bepaling
+ 1. definition
+ 2. fixing
+ 3. adjunct
+ 4. condition; stipulation; terms
+ 5. regulation
+bepantser
+ armour
+bepantsering
+ armour
+beperk
+ abridge; confine; limit; restrict
+beperkend
+ restrictive
+beperking
+ limitation; restriction
+beplan
+ plan
+beplant
+ plant
+beplanting
+ 1. plantation; planting
+ 2. plantation
+bepleister
+ plaster
+bepleit
+ advocate; plead
+beploe
+ plough
+beploege
+ plough
+beploë
+ plough
+bepoeier
+ powder
+bepraat
+ 1. persuade
+ 2. discuss
+beproef
+ 1. afflict; grieve
+ 2. attempt; test; try
+beproewe
+ 1. afflict; grieve
+ 2. attempt; test; try
+beproewing
+ affliction
+beraadslaag
+ deliberate
+beraadslaging
+ consultation; deliberation
+beraam
+ make a project of; plan
+beraming
+ plan; project; scheme
+berberis
+ barberry
+beredder
+ 1. arrange; fix up
+ 2. liquidate
+ 3. arrange; put in order; tidy
+berede
+ 1. mounted
+ 2. mounted
+beredeneer
+ argue; discuss; reason about; reason upon
+bereg
+ administer the last sacraments
+beregting
+ administration of the last sacraments
+berei
+ 1. prepare
+ 2. finish; prepare
+bereid
+ finished; ready; through
+bereiding
+ preparation
+bereidvaardig
+ 1. kind; obliging
+ 2. obliging; ready; willing
+bereidwillig
+ 1. kind; obliging
+ 2. kind; obliging
+bereik
+ 1. accomplish; achieve; attain; get; reach
+ 2. range; reach
+bereikbaar
+ accessible
+bereisd
+ travelled; widely‐travelled
+bereken
+ 1. calculate; count; figure; work out
+ 2. charge
+berekening
+ account; bill; calculation
+bereklou
+ cow parsnip; hogweed
+beremus
+ 1. bearskin; bearskin cap
+ 2. bearskin; bearskin cap
+berg
+ mountain
+bergagtig
+ mountainous
+bergamot
+ bergamot
+bergbeklimmer
+ 1. Alpinist; climber; mountain climber; mountaineer
+ 2. Alpinist; climber; mountain climber; mountaineer
+bergengte
+ defile; mountain pass
+berghelling
+ mountain slope
+berging
+ salvage; salvation; recovery
+bergingsmaatskappy
+ salvage company
+bergkam
+ mountain ridge
+bergklimmer
+ Alpinist; climber; mountain climber; mountaineer
+bergkristal
+ rock‐crystal
+bergloon
+ salvage; salvage money
+berglug
+ mountain air
+bergmuis
+ lemming
+bergpik
+ asphalt
+bergpunt
+ mountain peak; mountain top; pinnacle
+bergreeks
+ chain of mountains; mountain chain; mountain range; rand
+bergrug
+ mountain ridge
+bergspits
+ mountain peak; mountain top; pinnacle
+bergtop
+ mountain peak; mountain top; pinnacle
+berig
+ 1. account; information
+ 2. account; communication
+ 3. advice; announcement; communication; message; notice; report
+beril
+ beryl
+berilsteen
+ beryl
+berin
+ she‐bear
+berispe
+ 1. reproach; rebuke; reprove; scold
+ 2. blame; rebuke; reproach; reprove; scold
+berisping
+ 1. observation; remark; reproof
+ 2. reproach
+berk
+ birch
+berkeboom
+ birch
+berlynsblou
+ Prussian blue
+berm
+ shoulder; verge; verge of a road
+beroemd
+ 1. famous
+ 2. famous
+ 3. famous; glorious
+ 4. famous
+beroemdheid
+ 1. fame; renown
+ 2. celebrity
+ 3. fame; glory; renown
+ 4. fame; renown
+beroep
+ 1. appeal
+ 2. handicraft; occupation; trade
+ 3. profession
+beroeps‐
+ professional
+beroer
+ 1. abet; agitate; incite; stir up
+ 2. agitate; alarm
+ 3. touch lightly
+beroerd
+ 1. bad; miserable; nasty; poor
+ 2. abject; dismal; meager; miserable; wretched
+beroering
+ agitation; commotion
+beroerte
+ fit; apoplectic fit; seizure; stroke; stroke of apoplexy
+berokken
+ activate; cause; give rise to
+beroof
+ 1. rob
+ 2. deprive; deprive ... of
+ 3. deprive; deprive ... of
+berooid
+ miserable; needy
+berou
+ repentance
+beroue
+ 1. regret; repent; repent of
+ 2. feel sorry for; regret; repent; repent of
+berouhebbend
+ contrite; penitent; repentant
+berouvol
+ contrite; penitent; repentant
+berowe
+ rob
+berower
+ robber
+berowing
+ robbery
+berrie
+ stretcher
+berug
+ of ill repute
+beruik
+ smell at; sniff at
+berus
+ acquiesce; resign oneself
+berusting
+ acquiescence; rezignation
+bery
+ drive over; ride over
+berybaar
+ passable; practicable
+berym
+ rhyme
+beryp
+ frosted; hoar
+besadig
+ 1. staid
+ 2. moderate; reasonable
+ 3. abstemious; sober; staid; temperate
+beseer
+ hurt
+besef
+ 1. understand; realize
+ 2. notion; sense; realization
+ 3. be aware of; be conscious of; realize
+ 4. awareness; consciousness
+besem
+ broom
+beset
+ 1. pregnant; with young
+ 2. busy
+besete
+ crazy; insane; mad; nuts
+besetene
+ lunatic
+besetenheid
+ craziness; insanity; lunacy; madness
+besetting
+ 1. garrison
+ 2. occupation
+beseël
+ 1. acknowledge; confirm; corroborate
+ 2. seal
+beseëling
+ sanction
+besie
+ cricket
+besiel
+ inspire
+besield
+ enthusiastic
+besielend
+ inspiring
+besieling
+ 1. alacrity; enthusiasm
+ 2. inspiration
+besien
+ see
+besienswaardig
+ worth seeing
+besig
+ 1. busy
+ 2. busy
+besigheid
+ activity; occupation
+besighou
+ distract; divert; entertain
+besinning
+ awareness; consciousness
+besit
+ 1. possession; property
+ 2. own; possess
+ 3. possession
+besitting
+ 1. possession; property
+ 2. property
+beskaaf
+ 1. civilize
+ 2. cultivate; grow
+beskaafdheid
+ good breeding; refinement
+beskaam
+ put to shame
+beskaamd
+ ashamed
+beskaamtheid
+ shame
+beskadig
+ damage; injure; spoil
+beskadiging
+ damage
+beskadu
+ cast a shadow
+beskaduwee
+ cast a shadow
+beskamend
+ 1. humiliating
+ 2. humiliating
+beskawe
+ 1. civilize
+ 2. cultivate; grow
+beskawing
+ 1. civilization
+ 2. civilization
+beskeid
+ 1. document; paper
+ 2. answer; reply
+beskeidenheid
+ 1. modesty
+ 2. modesty
+beskeie
+ 1. discrete
+ 2. moderate; reasonable
+ 3. modest
+beskerm
+ 1. protect
+ 2. shelter; protect
+beskermeling
+ protégé
+beskermengel
+ guardian angel
+beskermer
+ patron
+beskermheer
+ 1. patron
+ 2. patron
+beskermheilige
+ patron
+beskerming
+ protection
+beskermling
+ protégé
+beskiet
+ 1. bombard
+ 2. fire at; fire upon
+beskieting
+ firing
+beskik
+ arrange; fix up
+beskikbaar
+ available
+beskikking
+ 1. accommodation; adjustment; arrangement
+ 2. decision
+ 3. disposition
+beskilder
+ paint over
+beskimmel
+ get mouldy
+beskimmeld
+ mouldy
+beskimp
+ jeer; jeer at; taunt
+beskinder
+ slander
+beskindering
+ backbiting; scandal; slander
+beskonke
+ drunk; intoxicated
+beskonkenheid
+ drunkenness; inebriety
+beskrywing
+ account; description
+beslis
+ absolutely; definitely; without fail
+besluit
+ decide
+besoedel
+ soil
+besoek
+ visit
+besoeker
+ caller; visitor
+besoekersboek
+ visitor's register
+besonderheid
+ detail
+bespaar
+ save; spare
+bespreek
+ 1. reserve
+ 2. book
+bespreking
+ 1. booking
+ 2. booking
+bestaan
+ exist
+beste
+ best
+besteding
+ expenses
+bestel
+ book; order; reserve
+bestelling
+ order
+bestudeer
+ study
+bestuur
+ 1. direct; guide; manage; steer
+ 2. conduct; guide; lead
+ 3. steer
+bestuurder
+ 1. manager
+ 2. manager
+ 3. director; manager
+beswaar
+ protest
+betaal
+ pay
+betaam
+ befit; be fitting
+beteken
+ imply; mean; signify
+betekenis
+ meaning
+betekenisvol
+ 1. significant
+ 2. significant
+beter
+ better
+betrekking
+ post
+betrokke
+ concerned; in question
+betyds
+ at the right time; in time
+beuk
+ beech
+bevat
+ comprise; contain; include
+bevestig
+ 1. affirm; assent; say yes
+ 2. acknowledge; confirm; corroborate
+bevolking
+ population
+bevorder
+ advance; promote
+bevordering
+ promotion
+bevrore
+ 1. frozen
+ 2. frozen
+bevrug
+ pregnant; with young
+bewaar
+ conserve; keep; maintain; preserve
+beweeg
+ 1. actuate; move
+ 2. move
+beweging
+ 1. movement
+ 2. movement
+bewering
+ contention; assertion
+bewonder
+ admire
+bewys
+ proof; sign; token
+beëindig
+ accomodate; end; finish; terminate
+beëindiging
+ 1. end; ending
+ 2. accomplishment
+beërf
+ inherit
+beërwe
+ inherit
+beïndruk
+ impress
+beïnvloed
+ act; affect; influence
+biblioteek
+ library
+bibliotekaris
+ librarian
+bid
+ pray
+bieg
+ 1. confess
+ 2. confession
+bier
+ ale; beer
+bikini
+ bikini
+biljart
+ billiards
+billik
+ fair; just; righteous
+bind
+ bind; connect; join; tie; tie up
+binne
+ 1. a; in; inside; into; on; per; within
+ 2. inside; within
+binnekort
+ soon
+binnelands
+ aboriginal; domestic
+bioskoop
+ cinema; movie theatre
+biskop
+ bishop
+bismut
+ bismuth
+bison
+ bison; buffalo
+bitter
+ acerbic; bitter
+blaarslaai
+ lettuce
+blaas
+ blow
+bladsy
+ page
+blank
+ white
+blanke
+ European; white man
+bleik
+ point out to be
+blik
+ can; tin; tin can
+blind
+ blind
+blink
+ bright; brilliant
+bloed
+ blood
+bloedrooi
+ blood red; blood‐red
+bloedverwant
+ relative
+bloese
+ blouse
+blok
+ block; pad
+blokletter
+ type
+blom
+ bloom; flower
+blou
+ 1. blue
+ 2. blue
+blus
+ extinguish; put out
+bly
+ 1. remain; stay; stay over
+ 2. happy; glad
+bo
+ 1. above; over
+ 2. above; on top; overhead; upstairs
+bobbejaan
+ baboon
+boek
+ book
+boekhou
+ accounting; book‐keeping
+boer
+ agrarian; farmer
+boereplaas
+ estate; farm; property; ranch
+boete
+ fine
+boetekaartjie
+ minutes; protocol
+bogenoemd
+ 1. above; above‐mentioned
+ 2. above; above‐mentioned
+boks
+ box
+bokser
+ boxer
+bondel
+ bunch; bundle; cluster; sheaf
+bonus
+ 1. bonus
+ 2. bonus
+boodskap
+ errand; message
+boom
+ tree
+boonop
+ on top of
+boor
+ bore
+boord
+ orchard
+bord
+ plate
+bordeel
+ brothel
+bors
+ bosom; breast; chest
+borsel
+ brush
+bos
+ forest; woods
+bosbok
+ bushbuck
+bots
+ collide
+botsing
+ collision
+bottel
+ bottle
+botter
+ butter
+bouer
+ builder
+braai
+ 1. barbecue
+ 2. roast; toast
+brand
+ 1. burn
+ 2. conflagration; fire
+brandewyn
+ brandy
+brandstof
+ fuel
+breek
+ break
+breekbaar
+ breakable; brittle; fragile
+brein
+ brain
+brief
+ letter
+briefkaart
+ postcard
+bril
+ glasses; spectacles
+bring
+ bring; fetch
+brinjal
+ 1. brinjal; eggplant
+ 2. aubergine; brinjal; eggfruit
+broei
+ incubate; sit
+broer
+ brother
+broerskind
+ 1. niece
+ 2. nephew
+bron
+ fountain; source; spring
+brons
+ bronze
+brood
+ bread; loaf
+brosjure
+ leaflet; pamphlet; paperback
+brug
+ bridge
+bruin
+ 1. brown
+ 2. brown
+buffel
+ buffalo
+buffer
+ buffer; bumper
+buig
+ 1. bend
+ 2. bend
+buis
+ barrel; channel; pipe; tube
+buite
+ outside; outside of
+buiteland
+ foreign country
+bul
+ bull
+bundel
+ collection
+burger
+ 1. middleclass citizen
+ 2. citizen
+ 3. hamburger
+buro
+ bureau; office
+bus
+ bus; autobus; omnibus
+bushalte
+ 1. bus stop
+ 2. bus stop; busstop
+buurman
+ neighbour
+by
+ 1. at; beside; by; near; nearby; near to; next to
+ 2. at; beside; with
+bybel
+ bible
+bylae
+ addition; adjunct
+bymekaar
+ together
+bymekaarbring
+ 1. collect; gather; pick up
+ 2. join; unite
+byna
+ almost; nearly
+bynaam
+ byname; nickname; sobriquet
+byt
+ bite
+byvoeg
+ add
+bywoon
+ attend; be present; witness
+bywoord
+ adverb
+bywoordelik
+ adverbial
+by
+ about; approximately
+bêre
+ 1. put away; stow
+ 2. put away; store
+ 3. conserve; keep; maintain; preserve
+bêreplek
+ 1. depository
+ 2. box‐room; storage room
+ 3. depository
+casino
+ casino
+chaos
+ chaos; tangle
+chemie
+ 1. chemistry
+ 2. chemistry
+chirurg
+ surgeon
+chloor
+ chlorine
+daad
+ 1. achievement; act; action
+ 2. accomplishment; achievement; act; action
+daag
+ assign
+daagliks
+ 1. daily
+ 2. daily
+daal
+ 1. descend; go down
+ 2. go down
+ 3. land
+daar
+ 1. there
+ 2. at that place; there
+daardie
+ those
+daarmee
+ thereby
+daarna
+ afterwards; next; subsequently
+daarom
+ 1. on that account; therefore
+ 2. on that account; therefore
+daarso
+ there
+daarvandaan
+ from there; thence
+daar
+ over there; yon; yonder
+dadelik
+ 1. at once; instantly; immediately; without delay
+ 2. at once; immediately; just; right away; right now
+dag
+ 1. hello
+ 2. day
+dagvaarding
+ 1. summons
+ 2. summons
+damestudent
+ student; female student
+dan
+ then
+dank
+ thank
+dankbaar
+ 1. thankful
+ 2. thankful
+dankie
+ thank you; thanks
+danksy
+ thanks to
+dans
+ 1. dance
+ 2. dance
+dapperheid
+ courage
+darem
+ 1. genuinely; indeed; really; truly
+ 2. absolutely; genuinly; indeed; really; truly
+das
+ tie; necktie
+dat
+ that
+dateer
+ date
+datum
+ date
+deeglik
+ enormously; extremely
+deel
+ part; Parthian; share
+deelneem
+ participate; share; take part
+deels
+ partially; partly
+definisie
+ definition
+definitief
+ absolutely; definitely; without fail
+deftig
+ beautiful; fine; handsome; lovely
+dek
+ cover
+dekade
+ decade
+deken
+ blanket
+dekor
+ décor; decoration
+delikaat
+ dainty; delicate; fine; refined
+demokrasie
+ democracy
+demokraties
+ democratic
+den
+ 1. fir
+ 2. pine; pine‐tree
+denneboom
+ 1. fir
+ 2. spruce; spruce‐fir
+departement
+ department
+deponeer
+ deposit
+deporteer
+ deport
+derde
+ third
+dertien
+ thirteen
+dertig
+ thirty
+destyds
+ then
+detail
+ detail
+deur
+ 1. by; by means of; on; through; with
+ 2. door
+ 3. through
+deurbring
+ pass; spend
+deurdat
+ because; for the reason that
+deurmaak
+ 1. go through; live to see
+ 2. experience; live through; survive
+deurmekaar
+ dazed; perplexed; upset
+deurpad
+ 1. motor road; motorway
+ 2. motorway; super highway; turnpike
+deursnee
+ profile
+diamant
+ diamond
+die
+ 1. the
+ 2. the
+dieet
+ diet
+dief
+ thief
+diens
+ service
+diep
+ deep; profound
+diepte
+ 1. depth
+ 2. depth
+ 3. depth
+dier
+ 1. animal
+ 2. animal; beast
+dieretuin
+ zoo
+dieselfde
+ the same
+die
+ Cape Province
+die
+ Crimea
+die
+ Transkei
+die
+ retreat
+digter
+ poet
+dikwels
+ frequently; often; regularly
+dimensie
+ dimension; measurement
+dinee
+ dinner; midday meal
+ding
+ affair; business; business deal; case; matter
+dink
+ 1. account; deem; opine; think
+ 2. think
+diploma
+ diploma
+direk
+ direct; straight
+direkteur
+ director; manager
+dissipline
+ discipline
+dit
+ 1. that; that over there; those
+ 2. these; this; this here
+ 3. these; this; this here
+ 4. it
+dit
+ that; that over there; those
+dit
+ 1. these; this; this here
+ 2. these; this; this here
+dié
+ 1. those
+ 2. this
+ 3. this
+doel
+ aim; goal; purpose; target
+doen
+ achieve; act; do; make; perform
+dogter
+ 1. daughter
+ 2. girl; lass; wench
+dokter
+ doctor; physician
+dokument
+ document; paper
+dom
+ addled; foolish; stupid
+dominee
+ pastor
+donasie
+ gift; present
+donker
+ 1. bleak; dark; dismal; dreary
+ 2. dark; dim
+donkie
+ ass; donkey
+dood
+ 1. dead
+ 2. death
+doodmaak
+ extinguish; put out
+doodskiet
+ 1. shoot dead
+ 2. shoot dead
+doof
+ deaf
+doop
+ baptism; christening
+doopnaam
+ Christian name
+doos
+ box
+dor
+ dry
+dorp
+ village
+dors
+ thirsty
+dors
+ be thirsty
+dosyn
+ dozen
+dra
+ 1. carry; wear
+ 2. wear
+draagbaar
+ 1. stretcher
+ 2. stretcher
+ 3. litter; strecher
+draai
+ 1. turn
+ 2. turn
+ 3. turn
+dragtig
+ pregnant; with young
+drama
+ drama
+dreigement
+ menace; threat
+drie
+ three
+dringend
+ pressing; urgent
+drink
+ 1. drink; drink to excess
+ 2. drink
+drinkpan
+ bar; pub
+dromedaris
+ dromedary
+dronk
+ drunk; intoxicated
+droog
+ dry
+droogte
+ dryness
+druif
+ grape
+druk
+ press; oppress; squeeze
+drup
+ drip
+dryf
+ 1. drift; be adrift
+ 2. float
+ 3. float; swim
+ 4. chase; drive; drive on; impel; shoo
+ 5. actuate; drive
+duidelik
+ clearly
+duim
+ 1. thumb
+ 2. thumb
+duisend
+ thousand; one thousand
+duister
+ dark; dim
+duiwel
+ devil
+dun
+ 1. airy
+ 2. gaunt; lean; slender; thin
+durf
+ courage
+dus
+ accordingly; consequently; so; subsequently; thus
+duur
+ 1. dear; expensive; valuable
+ 2. costly; dear; expensive; pricey
+dwarsdeur
+ across; throughout
+dwerg
+ 1. dwarf; midget
+ 2. pigmy
+dwing
+ compel; force
+edel
+ noble
+edelweiss
+ edelweiss
+eed
+ oath
+eekhoring
+ squirrel
+eekhorinkie
+ squirrel
+een‐en‐twintig
+ twenty‐one
+een
+ one
+eend
+ duck
+eendag
+ at some time; ever; sometime
+eenheid
+ 1. unity
+ 2. unit
+eensaam
+ lonely; solitary
+eensaamheid
+ isolation; separation
+een
+ twenty‐one
+eergister
+ the day before yesterday
+eerlik
+ above‐board; honest
+eers
+ 1. at some time; ever; sometime
+ 2. first; firstly; first of all
+eerskomende
+ 1. nearest; next
+ 2. close; near; nearby; next
+eerste
+ first
+eetkamer
+ dining‐room
+eetservies
+ crockery set
+eeu
+ centennial; century
+effek
+ 1. effect; impression
+ 2. effect
+ 3. impression
+effektief
+ actual; real
+eggenoot
+ husband
+eggo
+ echo
+egter
+ but; however; nevertheless; yet
+ei
+ egg
+eie
+ own; personal
+eienaar
+ owner
+eienaardig
+ 1. odd; peculiar; strange
+ 2. typical
+eiendomsagentskap
+ broker
+eierplant
+ brinjal; eggplant
+eiervrug
+ aubergine; brinjal; eggfruit
+eik
+ oak
+eiland
+ island
+einde
+ end; ending
+eindeksamen
+ leaving examination
+eindig
+ 1. accomodate; end; finish; terminate
+ 2. end; come to an end; end up; expire
+eintlik
+ to tell the truth
+ekonomies
+ economical
+eksamen
+ investigation; examination; test
+eksperiment
+ experiment
+ekstase
+ ecstasy
+ekstra
+ additional; extra
+ekstreem
+ 1. excessive; inordinate
+ 2. extreme
+eland
+ 1. eland
+ 2. elk; moose
+elders
+ elsewhere
+elegant
+ elegant
+elegie
+ elegy
+elektries
+ electric
+elektrisiteit
+ electricity
+elektron
+ electron
+elementêr
+ elemental; elementary
+elf
+ 1. eleven
+ 2. elf
+els
+ alder
+elsboom
+ alder
+emigreer
+ emigrate
+emosie
+ 1. affection
+ 2. emotion
+en
+ and
+energie
+ energy
+enige
+ 1. a few; any; some
+ 2. any; whichever; whoever
+enige
+ any time; momentarily
+enigiemand
+ a; any; anybody; some; somebody; one; someone; some one
+enigiets
+ anything; something
+enigste
+ alone; only; sole; solitary
+enkele
+ a few; any; some
+enorm
+ 1. enormous
+ 2. enormous; huge; immense
+ens.
+ etc.
+ensovoorts
+ and so on; et cetera
+erediens
+ service; worship service
+erf
+ inherit
+erg
+ important; serious
+erken
+ acknowledge; confirm; corroborate
+ernstig
+ important; serious
+ertjie
+ pea
+ervare
+ accomplished; adept; experienced; expert
+ervaring
+ experience
+esel
+ ass; donkey
+esperantis
+ Esperantist
+ete
+ meal
+evolusie
+ 1. development; evolution
+ 2. development; evolution
+ewe
+ 1. alike; all the same; equally
+ 2. a while; momentarily
+ 3. a few minutes; a moment
+ 4. equally; likewise
+ewig
+ 1. eternal
+ 2. for ever; forever
+fabriek
+ 1. factory
+ 2. factory
+familie
+ family
+familielid
+ relative
+fase
+ phase; stage
+fasiliteer
+ 1. facilitate
+ 2. facilitate
+fassineer
+ fascinate
+fee
+ fairy
+feit
+ fact
+feodaal
+ feudal
+ferm
+ 1. firm; robust; sturdy
+ 2. firm; solid
+fiets
+ bike; cycle; bicycle
+fietsry
+ cycle
+fiks
+ healthy; well
+film
+ film; motion picture; movie
+firma
+ company; firm
+flard
+ rag; scrap
+fliek
+ go to the cinema; go to the movies
+fliekhuis
+ cinema; movie theatre
+flikker
+ flare; flare up
+floreer
+ be succesful; prosper
+flou
+ faint; swoon
+fluit
+ flute
+fonds
+ fund
+fooitjie
+ tip
+forel
+ trout
+formeel
+ formal
+fossiel
+ fossil
+foto
+ 1. photograph
+ 2. photograph
+fout
+ aberration; error; mistake
+framboos
+ raspberry
+funksie
+ function
+gaaf
+ 1. good; nice; okay
+ 2. fine; very well
+ 3. fine; very well
+gaan
+ go
+gaan
+ halt; come to a halt; stop
+gade
+ wife
+galery
+ gallery
+gans
+ goose
+garage
+ garage
+garnaal
+ prawn
+gas
+ 1. gas
+ 2. guest
+gasvry
+ hospitable
+gasvryheid
+ 1. hospitality
+ 2. hospitality
+gat
+ hole
+geadresseerde
+ addressee
+geag
+ dear
+gebed
+ prayer
+gebeur
+ come about; happen; occur
+gebeurtenis
+ 1. event
+ 2. event
+ 3. event; occasion; occurence; opportunity
+ 4. event
+ 5. chance; event; occurence; opportunity
+ 6. event
+gebied
+ 1. area
+ 2. region
+geboorte
+ birth
+gebou
+ building
+gebruik
+ 1. custom; habit; way
+ 2. employ; use; make use of
+gebruiker
+ user
+gedaante
+ form; shape
+gedagte
+ thought
+gedeelte
+ part; Parthian; share
+gedeeltelik
+ partially; partly
+gedek
+ pregnant; with young
+gedig
+ poem
+gedra
+ behave; conduct oneself
+geduld
+ patience
+geduldig
+ patient
+gedurende
+ for; during; whereas; while; whilst
+gee
+ give
+geel
+ 1. yellow
+ 2. yellow
+geen
+ no
+gees
+ 1. soul
+ 2. ghost; phantom
+ 3. fairy
+ 4. intellect; mind
+ 5. mind
+ 6. spirit
+geesdrif
+ alacrity; enthusiasm
+geesdriftig
+ enthusiastic
+geheim
+ 1. secret
+ 2. secret
+gehoorsaam
+ obey
+geld
+ money
+geldstuk
+ coin
+geleentheid
+ chance; event; occurence; opportunity
+geliefde
+ 1. lover
+ 2. beloved; loved one; lover; sweetheart; well‐beloved
+ 3. beloved; loved one; lover; sweetheart; well‐beloved
+geluk
+ 1. luck
+ 2. happiness
+gelukkig
+ fortunate; happy
+gelukkig
+ be lucky; have good luck
+gelykheid
+ draw; equality
+gemiddeld
+ 1. average; mean; middle
+ 2. average; mean
+genealogie
+ family tree; genealogy; pedigree
+genealogies
+ genealogical
+genealoog
+ genealogist
+geneig
+ inclined
+generaal
+ general
+generasie
+ 1. generation
+ 2. generation
+geniet
+ 1. be glad; enjoy; rejoice
+ 2. delight in; enjoy
+genoeg
+ enough; sufficient
+genot
+ fun; pleasure
+genre
+ genre
+geografies
+ geographic; geographical
+geparenteer
+ affined; akin; related
+geraamte
+ 1. skeleton
+ 2. skeleton
+gereed
+ finished; ready; through
+geregtigheid
+ justice; righteousness
+gereëld
+ regularly
+gerieflik
+ comfortable
+geruime
+ a long time; for a long time; long
+gerus
+ politeness particle
+gesag
+ 1. authority
+ 2. authority
+ 3. glamor; glamour; prestige
+gesels
+ speak; talk
+gesig
+ 1. expression
+ 2. face
+gesin
+ family
+gesins‐
+ domestic
+geskei
+ 1. divorced
+ 2. divorced
+geskenk
+ gift; present
+geskie
+ come about; happen; occur
+geskiedenis
+ story; history
+geskikt
+ 1. appropriate; becoming; seemly; suitable
+ 2. convenient; handy; opportune
+ 3. of use; suitable
+ 4. of use; suitable
+geskoolde
+ able
+geslag
+ 1. generation
+ 2. generation
+ 3. sex
+geslaglys
+ 1. generation
+ 2. generation
+geslagregister
+ 1. generation
+ 2. generation
+gesond
+ healthy; well
+gesondheid
+ health
+gespanne
+ strained
+gesprek
+ 1. conversation
+ 2. conversation
+getroud
+ 1. married
+ 2. married
+ 3. married
+geur
+ odor; odour; scent; smell
+geveg
+ 1. action; battle; scuffle; struggle
+ 2. scuffle
+gevolglik
+ accordingly; consequently; so; subsequently; thus
+gevolgtrekking
+ conclusion; inference
+geweldig
+ enormous; huge; immense
+gewete
+ conscience
+gewig
+ weight
+gewild
+ popular
+gewoon
+ common; ordinary; usual
+gewoond
+ accustom; be in the habit of
+gewoonlik
+ ordinarily; usually
+gewoonte
+ custom; habit; way
+geïnteresseerd
+ gripped; interested
+gholf
+ golf
+gids
+ handbook; guide; guidebook
+gier
+ vulture
+giet
+ pour; scatter; shed
+giftig
+ poisonous
+gil
+ yell
+gimnastiek
+ gymnastics
+ginder
+ over there; yon; yonder
+ginds
+ over there; yon; yonder
+gister
+ yesterday
+glad
+ not at all
+glas
+ 1. glass
+ 2. glass
+gleuf
+ 1. slot
+ 2. slot
+ 3. slot
+glimlag
+ smile
+glo
+ account; accredit; believe; deem
+gly
+ glide; slip
+god
+ god
+godsdiens
+ religion
+godsdienstig
+ 1. pious
+ 2. religious
+goed
+ 1. good; nice; okay
+ 2. okay; well
+goedkoop
+ 1. cheap; inexpensive
+ 2. cheap; inexpensive
+goeiemiddag
+ good afternoon
+goeiemôre
+ good morning
+goeienaand
+ good evening
+goeienag
+ good night
+gooi
+ throw
+gordyn
+ curtain
+gou
+ fast; quickly; swiftly
+goud
+ gold
+goudgeel
+ golden yellow
+goudmyn
+ gold‐mine
+goudvis
+ goldfish
+goue
+ gold; golden
+gou
+ go fast; hurry; rush
+graad
+ 1. degree; grade
+ 2. degree; heading; title
+graag
+ willingly
+gram
+ gram; gramme
+grammatika
+ grammar
+gras
+ grass
+grasgroen
+ grass green
+gratis
+ free
+grens
+ boundary; frontier; limit
+gretig
+ acquisitive; eager; greedy
+griep
+ flu; grip; influenza
+grimeer
+ make up
+grimering
+ make up; make‐up
+groen
+ 1. green
+ 2. green
+groente
+ vegetable
+groep
+ group
+groet
+ 1. greet; salute
+ 2. greeting
+grond
+ ground; soil
+grondwet
+ constitution
+groot
+ big; great; large
+grootmoeder
+ grandmother
+grootouers
+ grandparents
+grootte
+ bulk; dimension; extend; size
+grootvader
+ grandfather
+grot
+ 1. cave; grotto
+ 2. cave; cavern; den
+groutjie
+ ass; donkey
+gryp
+ clutch; grab; grasp; grip; seize
+grys
+ 1. grey
+ 2. grey
+gunsteling‐
+ advantageous; favourable
+haai
+ shark
+haalbaar
+ 1. achievable
+ 2. achievable
+haan
+ cock; rooster
+haar
+ 1. her; to her
+ 2. her; his; its; their
+ 3. her; she
+ 4. her
+ 5. her
+haarkapper
+ barber; hairdresser
+haas
+ 1. haste
+ 2. hare
+ 3. go fast; hurry; rush
+ 4. hurry; rush
+ 5. hurry
+haastig
+ 1. hurried
+ 2. fast; quick; rapid; speedy; swift
+haat
+ hate
+hael
+ hail
+hakie
+ clamp; brace; bracket; parenthesis; staple
+halfbroer
+ half‐brother
+halfsuster
+ half‐sister
+hallo
+ hello
+hals
+ neck
+hamburger
+ hamburger
+hand
+ hand
+handel
+ business; commerce; trade
+handelaar
+ 1. merchant
+ 2. businessman; merchant
+handlanger
+ abetter; accessory; accomplice
+handtekening
+ signature
+hang
+ 1. droop; hang
+ 2. hang
+hanteer
+ handle; manipulate
+hap
+ 1. morsel; mouthful
+ 2. morsel
+hard
+ loud
+hardloop
+ run
+hare
+ 1. hair; hairs
+ 2. hers
+hart
+ heart
+hawe
+ harbor; harbour; port
+heelal
+ universe
+heeltemal
+ at all; entirely; quite; wholly
+heerlik
+ 1. agreeable; enjoyable; lovely; nice; pleasant
+ 2. delicious
+heide
+ heath
+heilig
+ sanctify
+heks
+ witch
+hel
+ 1. hell
+ 2. hell
+held
+ hero
+helder
+ 1. bright; clear; light
+ 2. clear; distinct; plain
+ 3. bright; light
+heldhaftig
+ heroic
+heldin
+ heroine
+hele
+ entire; overall; whole
+helm
+ helmet
+help
+ 1. abet; aid; assist; help
+ 2. accomodate; aid; assist; help
+hemel
+ heaven; sky
+hemp
+ shirt
+hen
+ chicken; fowl
+hengel
+ fishing rod
+hengelaar
+ angler
+herdenking
+ recollection
+herder
+ 1. shepherd
+ 2. shepherd
+herfs
+ autumn
+herhaal
+ 1. repeat
+ 2. repeat
+herinnering
+ 1. memory; recollection
+ 2. recollection
+herkoms
+ 1. lineage
+ 2. origin
+heroïen
+ heroin
+heroïne
+ heroin
+hert
+ deer
+heuning
+ honey
+heup
+ hip
+hierbo
+ above
+hierdie
+ 1. these
+ 2. this
+ 3. this
+ 4. these
+hierheen
+ here; hither; this way
+hiervandaan
+ from here; hence
+higiënies
+ hygienic
+hings
+ stallion
+hitte
+ heat
+hiëna
+ hyaena
+hoed
+ hat
+hoekom
+ what for; wherefore; why
+hoender
+ 1. chicken; hen
+ 2. chicken; fowl
+hoer
+ hooker; whore
+hoerhuis
+ brothel
+hoes
+ cough
+hoeveel
+ 1. how many
+ 2. how much
+ 3. how many
+ 4. how much
+hoeveelste
+ how many; what number
+hoe
+ how are you?; how do you do?
+hoe
+ what time
+hoe
+ how far
+hof
+ court
+hok
+ cage
+hokkie
+ hockey
+hom
+ 1. him; to him
+ 2. him
+hom
+ interfere with
+hom
+ think; think about; reflect on
+hond
+ dog
+honderd
+ hundred; one hundred
+honger
+ hungry
+honger
+ be hungry
+hoofkwartier
+ headquarters
+hoofpyn
+ headache
+hoofsaaklik
+ 1. above all; especially; chiefly; mainly; principally
+ 2. chiefly
+hoofstad
+ 1. metropolis
+ 2. capital; capital city; metropolis
+hoofweg
+ major road
+hoop
+ hope
+hoor
+ 1. hear
+ 2. find out; hear; learn of
+horlosie
+ watch
+horror
+ horror
+hospitaal
+ hospital
+hotel
+ hotel
+hou
+ hang onto; hold
+houding
+ 1. behavior; behaviour; conduct; deportment
+ 2. position
+ 3. attitude
+houer
+ holder; socket
+hout
+ timber; wood
+hou
+ appreciate; like
+huidig
+ 1. actual; current; present; present‐day
+ 2. current; present
+ 3. current; present
+huis
+ house
+huis
+ home
+huldig
+ honor; honour
+hulle
+ 1. their
+ 2. them
+ 3. them
+ 4. they
+ 5. they
+ 6. her; his; its; their
+hulle
+ theirs
+hulp
+ aid; help
+hurk
+ cower; crouch; squat
+huur
+ hire
+huurmotor
+ taxi
+huwelik
+ 1. marriage; matrimony
+ 2. marriage
+ 3. marriage
+hy
+ he; him
+hyser
+ elevator; lift
+hê
+ have; have got
+ideaal
+ ideal
+idee
+ idea
+idioom
+ idiom
+iemand
+ a; any; anybody; some; somebody; one; someone; some one
+iep
+ elm
+iets
+ anything; something
+ignoreer
+ ignore; leave out of account
+immigreer
+ immigrate
+immoreel
+ abandoned; nasty
+impak
+ 1. effect
+ 2. impression
+in
+ a; in; inside; into; on; per; within
+inasem
+ inhale
+inbreker
+ burglar
+indeks
+ index
+indien
+ if; provided that
+individueel
+ individual
+indruk
+ 1. effect; impression
+ 2. impression
+industrie
+ industry
+ineenkrimp
+ cower; shrink
+informasie
+ 1. information
+ 2. account; information
+ingenieur
+ engineer
+inheems
+ 1. aboriginal; domestic
+ 2. aboriginal; native
+inhoud
+ 1. contents
+ 2. contents
+inleiding
+ introduction; preface
+inlewer
+ 1. deliver; furnish; supply
+ 2. convey; hand; hand over; pass
+inligting
+ account; information
+inligtingskantoor
+ inquiry‐office
+inmaak
+ preserve
+innig
+ 1. close; intimate
+ 2. above‐board; sincere
+inrigting
+ institute
+inruil
+ interchange; swap
+insameling
+ collection
+insident
+ event; occasion; occurence; opportunity
+insig
+ notion; sense; realization
+insit
+ 1. enter; insert; put in
+ 2. insert; put in; put away; stow
+inskep
+ dish up
+insluitend
+ including; inclusively
+inspekteur
+ inspector
+inspektisto
+ inspector
+inspuit
+ inject
+inspuiting
+ injection
+instel
+ begin; commence; start
+instituut
+ institute
+instruksie
+ directions; instruction
+inteendeel
+ 1. on the contrary; otherwise
+ 2. on the contrary
+intelligent
+ intelligent; sagacious
+intens
+ acute; intense; intensive
+interessant
+ interesting
+internasionaal
+ international
+intusse
+ 1. all the time; in the meantime; meanwhile
+ 2. all the while; meanwhile
+invoer
+ import
+invul
+ fill; fill in; fill up
+in
+ be considered; count
+in
+ fast; quickly; swiftly
+in
+ 1. govern; head up; restrain
+ 2. control; govern; restrain; rule
+in
+ generally
+in
+ pregnant
+in
+ behind one's back; underhand
+in
+ in any event
+in
+ acquaint; inform; report
+in
+ toward; towards; with reference to
+isolasie
+ insulation; isolation
+item
+ element; fragment; item; particle
+ivoor
+ ivory
+ja
+ yes
+jaag
+ 1. race; run
+ 2. chase; hunt
+jaar
+ year
+jaarliks
+ annual; yearly
+jag
+ yacht
+jager
+ hunter
+jakkals
+ jackal
+jaloers
+ jealous
+jammer
+ alas; regrettably; unfortunately
+jammer
+ be sorry about; regret
+jas
+ 1. coat; overcoat
+ 2. coat; overcoat
+jeens
+ 1. at; by; on; upon
+ 2. across from; against; in exchange for; opposed to; opposite; upon
+joernalis
+ 1. journalist
+ 2. journalist
+jongmens
+ youngster; youth
+jonk
+ young
+josie
+ devil
+jou
+ 1. thee; to thee; to you; to thee
+ 2. your
+ 3. thee; you
+ 4. your
+ 5. thee; you
+joune
+ 1. yours
+ 2. yours
+juis
+ 1. accurate; precise
+ 2. correct; exact; proper; right
+julle
+ 1. your
+ 2. thee; you
+ 3. ye; you
+ 4. thou; you
+julle
+ yours
+juweel
+ 1. gem; jewel
+ 2. jewel
+juwelier
+ 1. jeweller
+ 2. jeweller
+jy‐en‐jou
+ thee and thou
+jy
+ thou; you
+kaart
+ 1. map
+ 2. map
+kaartjie
+ bill; ticket; note
+kaartjieskantoor
+ booking‐office
+kabeljou
+ cod; codfish
+kabinet
+ cabinet
+kafeteria
+ cafetaria
+kalkoen
+ turkey
+kalm
+ 1. calm; quiet
+ 2. calm; tranquil
+kalmeer
+ appease; calm; quiet; soothe; still
+kam
+ comb
+kameel
+ camel
+kameelperd
+ giraffe
+kamer
+ chamber; room
+kamera
+ camera
+kamp
+ 1. camping ground; camping site
+ 2. camp of tents; tented camp
+kampeer
+ camp; be encamped; lie encamped; camp out
+kampeerterrein
+ camping ground; camping site
+kan
+ be able to
+kanaal
+ canal; channel
+kandidaat
+ candidate
+kangeroe
+ kangaroo
+kanker
+ 1. cancer; canker
+ 2. cancer
+kans
+ chance; luck
+kanselleer
+ abjure; abolish; abrogate; annul; cancel; remit
+kant
+ side
+kantoor
+ 1. office
+ 2. bureau; office
+kantoorklerk
+ clerk
+kapster
+ hairdresser; female hairdresser
+kaptein
+ 1. captain
+ 2. captain
+kar
+ 1. car
+ 2. cart; chariot
+karakter
+ character; nature; personality
+karig
+ in short supply; scanty; scarce
+karma
+ karma
+kas
+ cabinet; closet; cupboard; sideboard
+kasset
+ 1. cassette
+ 2. cassette
+kasteel
+ castle
+kat
+ cat
+katalogus
+ catalogue; directory
+katoliek
+ Catholic
+katolisisme
+ Catholisism
+keel
+ throat
+keer
+ 1. occasion; time
+ 2. halt; stop
+kelder
+ basement; cellar
+kelkie
+ cocktail
+kelner
+ waiter
+ken
+ be acquainted with; know
+kenmerkend
+ characteristic
+kennis
+ 1. acquaintance
+ 2. acquaintance; knowledge
+ 3. knowledge
+kennisgewing
+ 1. account; information
+ 2. account; communication
+ 3. advice; announcement; communication; message; notice; report
+kerk
+ church; church‐building; kirk
+kerrie
+ curry
+kers
+ candle
+kersboom
+ Christmas tree
+keuse
+ choice; election
+kies
+ choose; elect; pick out
+kiesel
+ silicon
+kilogram
+ kilo
+kilometer
+ kilometre
+kind
+ 1. child; offspring; young
+ 2. bairn; child; infant
+ 3. child
+kla
+ complain
+klaar
+ 1. already; by now; yet
+ 2. finished; ready; through
+klank
+ sound
+klap
+ hit; knock; strike
+klaploper
+ cadger; parasite; sponger
+klas
+ class
+klassiek
+ classic; classical
+klavier
+ piano
+klee
+ clothe; dress
+kleefband
+ adhesive tape
+klein
+ diminutive; little; small
+kleindogter
+ granddaughter
+kleingeld
+ 1. change
+ 2. change
+kleinkind
+ grandchild
+kleinseun
+ grandson
+klere
+ clothes; clothing
+klets
+ gossip
+kleur
+ 1. colour; dye
+ 2. dye; tint
+kleuterskool
+ nursery school
+kliek
+ 1. clan
+ 2. clique; coterie; junto; set
+klik
+ clap; click; rattle
+klim
+ climb
+klimaat
+ climate
+kliniek
+ clinic
+klink
+ sound
+kliënt
+ client; customer
+klokkie
+ bellflower; Canterbury bell
+klomp
+ 1. bevy; collection; group; heap; herd; set
+ 2. heap; pile; stack
+kloof
+ ravine
+klub
+ club; society
+knie
+ knee
+knip
+ bolt
+knoop
+ knot; node
+kobalt
+ cobalt
+kobra
+ cobra
+kode
+ code
+koei
+ cow
+koel
+ cool
+koepee
+ compartment; coupé
+koerant
+ 1. gazette; magazine; newspaper; periodical
+ 2. daily paper; journal; newspaper
+koeël
+ bullet
+koffer
+ trunk
+koffie
+ coffee
+kollega
+ colleague
+kollege
+ college
+kolom
+ 1. column; pillar
+ 2. column
+kolonie
+ colony; settlement
+kom
+ come
+kombinasie
+ combination
+kombuis
+ kitchen
+komedie
+ comedy
+komhalertjie
+ Adam's apple
+kommandant
+ commander
+kommentaar
+ annotation; note
+kommissie
+ commission
+kompak
+ compact
+kompartement
+ compartment; coupé
+kompetisie
+ competition; contest
+koms
+ arrival
+kondukteur
+ guard
+koneksie
+ connection
+koning
+ king
+koninkryk
+ kingdom
+konsep
+ 1. draft; rough draft
+ 2. plan; project; scheme
+konsert
+ concert
+konsternasie
+ alarm; consternation
+konsul
+ consul
+kontak
+ contact
+kontant
+ 1. cash; in cash
+ 2. in cash
+kontrak
+ contract
+kontrole
+ administration; management
+kontroleer
+ audit; check; check up on; supervise; verify
+konyn
+ rabbit
+kook
+ 1. boil
+ 2. boil
+ 3. cook
+koors
+ ague; fever
+koorsig
+ feverish
+kop
+ 1. head; pate
+ 2. head
+kopdoek
+ kerchief
+kopiereg
+ copyright
+koppelaar
+ clutch
+koppie
+ 1. cup
+ 2. kopje
+koppies‐en‐pierings
+ bellflower; Canterbury bell
+kort
+ 1. short
+ 2. brief; short
+kos
+ 1. cost
+ 2. food
+ 3. food; nourishment
+kostelik
+ 1. lovely
+ 2. fine; great
+ 3. delicious
+kou
+ chew
+koud
+ bleak; chilly; cold
+koud
+ get cold
+kous
+ stocking
+kraal
+ bead
+krag
+ force; strength; vigour
+krap
+ scratch
+kredietkaart
+ credit card
+kreef
+ 1. crayfish
+ 2. lobster
+kreëer
+ create
+krisis
+ crisis; depression; emergency
+kristal
+ crystal
+kritiseer
+ censure; criticize
+krokodil
+ crocodile
+kronkel
+ meander; twist; wind around
+kropslaai
+ lettuce
+kruier
+ porter
+kruip
+ crawl; creep
+kruis
+ cross
+kruisskyf
+ steak; beefsteak
+kruk
+ crutch
+kry
+ get; have; receive
+kubus
+ cube
+kudde
+ 1. bevy; collection; group; heap; herd; set
+ 2. flock; herd
+kuier
+ attend; call on; see; visit
+kuikendief
+ harrier; kite
+kultuur
+ culture
+kuns
+ art
+kunsgalery
+ art gallery
+kunstenaar
+ artist
+kunstig
+ 1. artificial; artistic
+ 2. adroit; clever; dexterous; skillful
+kurk
+ cork
+kursus
+ class; course
+kus
+ 1. kiss
+ 2. coast; seaside; shore
+kussing
+ cushion
+kwaai
+ bad; miserable; nasty; poor
+kwalifikasie
+ ability; qualification
+kwalifiseer
+ qualify
+kwartier
+ quarter of an hour
+kweek
+ cultivate; grow
+kwessie
+ 1. question
+ 2. dispute; quarrel
+kwytskelding
+ acquittal
+kyker
+ spectator
+laag
+ layer
+laai
+ 1. drawer
+ 2. burden; load
+laat
+ 1. allow; leave; let; release
+ 2. late; tardy
+ 3. late
+laatste
+ last
+laerskool
+ primary school
+lag
+ laugh
+laken
+ sheet
+lam
+ lamb
+lamp
+ lamp
+landbou
+ agriculture; farming; tillage
+landbouer
+ agrarian; farmer
+landbouskool
+ agricultural school
+landskap
+ landscape; scenery
+lang
+ long
+langs
+ 1. at; beside; by; near; nearby; near to; next to
+ 2. beside; alongside; next to
+langsaan
+ nearby
+lank
+ a long time; for a long time; long
+later
+ 1. later; later on
+ 2. afterwards; next; subsequently
+lawaai
+ 1. ado; din; noise
+ 2. agitation; riot; tumult
+leef
+ be alive; live
+leek
+ layman
+leen
+ borrow
+leer
+ 1. teach
+ 2. leather
+ 3. learn
+ 4. teach
+leerware
+ leather goods
+lees
+ read
+leeu
+ lion
+legende
+ legend
+lei
+ 1. conduct; direct; guide; head; lead
+ 2. conduct; guide; lead
+leiding
+ 1. steering
+ 2. platform; stage
+leier
+ leader
+lek
+ hole
+lekker
+ 1. agreeable; enjoyable; lovely; nice; pleasant
+ 2. agreeably; comfortably; pleasantly
+lekkers
+ delicacy; tidbit; sweet
+lektor
+ lector; lecturer
+lelie
+ lily
+lelik
+ nasty; ugly
+lemming
+ lemming
+lemoen
+ orange
+lengte
+ 1. length
+ 2. length
+lening
+ loan
+lente
+ spring; springtime
+lepel
+ spoon
+les
+ lesson
+lessenaar
+ desk; lectern; school desk
+lettergreep
+ syllable
+letterkunde
+ literature
+leunstoel
+ armchair
+lewe
+ life
+lewendig
+ adroit; agile; alert; brisk; keen
+lewer
+ 1. liver
+ 2. deliver; furnish; supply
+leër
+ 1. army
+ 2. army
+lid
+ 1. acolyte; member; supporter
+ 2. limb; member
+lidmaatskap
+ membership
+liefde
+ affection; love
+liefhê
+ love
+lieflik
+ gentle; soft; sweet; tender
+lief
+ appreciate; like
+liewer
+ 1. preferably
+ 2. preferably; rather
+lig
+ 1. light
+ 2. light
+liggaam
+ body
+ligroos
+ 1. pink
+ 2. pink
+lindeboom
+ lime‐tree; linden‐tree
+linguïs
+ linguist
+linguïsties
+ linguistic
+linkerkant
+ left; left side
+links
+ 1. on the left
+ 2. left; to the left
+lisensie
+ licence; license
+liter
+ liter; litre
+literatuur
+ literature
+logies
+ logical
+lok
+ attract; decoy; lure
+long
+ lung
+loop
+ 1. flow
+ 2. function; operate; run; work
+lork
+ larch
+lorkboom
+ larch
+lot
+ 1. destiny; fate
+ 2. fate; ill fate
+ 3. fortune
+ 4. destiny; fate; fortune; luck
+lourier
+ laurel
+lug
+ air
+lughawe
+ 1. aerodrome; airdrome; airfield
+ 2. airport
+lugpos
+ airmail
+lugposbrief
+ air letter; aerogramme
+lui
+ 1. lazy
+ 2. slothful
+ 3. sound
+luiperd
+ leopard
+luister
+ listen
+luister
+ listen
+lupien
+ lupine
+lupine
+ lupine
+lus
+ disposal; inclination; tendency
+luukse
+ 1. deluxe; de luxe; luxurious
+ 2. luxury
+lyf
+ body
+lyk
+ 1. appear; look
+ 2. cadaver; corpse
+ 3. appear; appear to be; seem
+lyn
+ line
+lys
+ list
+lê
+ lie; recline
+ma
+ mother
+maag
+ stomach
+maak
+ achieve; act; do; make; perform
+maal
+ occasion; time
+maaltyd
+ meal
+maan
+ moon
+maand
+ month
+maar
+ 1. but
+ 2. but; however; nevertheless; yet
+maer
+ 1. gaunt; lean; meager; skimpy; skinny; thin
+ 2. gaunt; lean; slender; thin
+ 3. gaunt; thin
+mag
+ 1. force; strength; vigour
+ 2. be allowed to; may
+ 3. power
+ 4. be able to
+ 5. ability
+ 6. may; have the right to
+makker
+ buddy; companion; comrade; pal
+maklik
+ 1. easy; facile
+ 2. comfortable
+maksimum
+ maximum
+mal
+ crazy; insane; mad; nuts
+malmokkie
+ guinea‐pig
+mal
+ be fond of; love
+man
+ husband
+mandjie
+ basket
+mangaan
+ manganese
+mango
+ mango
+manlik
+ 1. male
+ 2. male; masculine
+ 3. male
+mariëteklokke
+ bellflower; Canterbury bell
+mark
+ 1. bazaar; fair; market
+ 2. market; marketplace
+marmotjie
+ guinea‐pig
+marter
+ marten
+masboom
+ pine; pine‐tree
+masjien
+ engine; machine
+masker
+ mask
+massa
+ 1. accumulation; crowd; heap; mass; multitude; pile
+ 2. lump; mass
+mat
+ carpet
+materieel
+ material
+matig
+ moderate; reasonable
+medies
+ medical
+medisyne
+ drug; medicine; pharmaceutical
+medium
+ average; mean; middle
+meebring
+ bring along; take along
+meedeel
+ 1. communicate; report
+ 2. acquaint; let know; inform
+meen
+ 1. account; accredit; believe; deem
+ 2. guess; presume; suppose; surmise
+meer
+ 1. lake; loch
+ 2. more
+ 3. else; further; more; on
+meeste
+ most
+meganisme
+ action
+meisie
+ girl; lass; wench
+mekaar
+ each other; one another
+meld
+ 1. advertise; announce; give notice
+ 2. give an account; report
+ 3. acquaint; let know; inform
+melk
+ milk
+meng
+ blend; mingle; mix; shuffle
+mengsel
+ admixture; mixture
+menigte
+ accumulation; crowd; heap; mass; multitude; pile
+mening
+ opinion
+mens
+ man; human being
+mensekind
+ man; human being
+menslik
+ human
+merendeels
+ 1. for the greater part; for the most part
+ 2. mostly
+ 3. for the greater part; for the most part
+merk
+ 1. find; notice; perceive
+ 2. notice
+mes
+ knife
+met
+ 1. with
+ 2. by; by means of; on; through; with
+meter
+ metre
+meubel
+ piece of furniture
+middag
+ good afternoon
+middagete
+ dinner; midday meal
+mielies
+ corn; Indian corn; maize; mealies
+miljoen
+ million
+millimeter
+ millimetre
+min
+ 1. little
+ 2. little
+minder
+ fewer; less
+mineraal
+ mineral
+minimum
+ minimum
+minister
+ minister
+minste
+ fewest; least
+minuut
+ minute
+mis
+ fog; mist
+miskien
+ maybe; mayhap; perchance; perhaps; possibly
+misterieus
+ abstruse; mysterious
+mite
+ myth
+mode
+ fashion; mode
+modern
+ modern
+moed
+ courage
+moeder
+ mother
+moeg
+ tired
+moeilik
+ difficult; hard; inconvenient
+moeilikheid
+ difficulty; trouble
+moeite
+ effort
+moet
+ have to; must; ought to; should
+mol
+ mole
+mond
+ mouth
+monnik
+ monk
+monster
+ 1. monster
+ 2. sample; specimen
+monument
+ monument
+mooi
+ beautiful; fine; handsome; lovely
+moontlik
+ possible
+moontlikheid
+ 1. possibility
+ 2. possibility
+moordenaar
+ 1. murderer
+ 2. murderer
+moreel
+ moral
+morfologie
+ 1. morphology
+ 2. accidence
+mossie
+ sparrow
+mot
+ moth
+motel
+ motel
+motor
+ car
+motorfiets
+ motorcycle
+motorfietsryer
+ motor‐cyclist
+motorhawe
+ garage
+motoris
+ 1. motorist
+ 2. motorist
+motreën
+ drizzle; drizzling rain
+muis
+ mouse
+munt
+ coin
+muntstuk
+ coin
+mus
+ cap
+museum
+ museum
+musiek
+ music
+musiekinstrument
+ musical instrument
+muur
+ wall
+muurbal
+ squash
+my
+ 1. me; to me
+ 2. me; to me
+ 3. me; to me
+ 4. me; to me
+ 5. my
+ 6. me
+ 7. me
+ 8. me
+ 9. me
+myl
+ mile
+myn
+ mine
+mynbou
+ mining
+myne
+ mine
+myself
+ myself
+môre
+ tomorrow
+môreaand
+ tomorrow evening
+môreoggend
+ tomorrow morning
+na
+ 1. at; to; toward; towards
+ 2. after; behind
+ 3. after
+ 4. close; near; nearby
+naaldwerk
+ sew
+naam
+ 1. call
+ 2. appellation; name
+naamlik
+ namely; viz.
+naand
+ good evening
+naaste
+ nearest; next
+naasteliefde
+ 1. charity; love of one's neighbour
+ 2. charity; love of one's neighbour
+ 3. charity; love of one's neighbour
+naburig
+ adjacent; nearby; neighbouring
+naby
+ 1. at; beside; by; near; nearby; near to; next to
+ 2. close; near; nearby
+nadat
+ after
+nadelig
+ 1. detrimentally; disadvantageously; prejudicially
+ 2. detrimentally; disadvantageously; prejudicially
+nader
+ 1. approach
+ 2. nearer
+naderkom
+ advance; approach; come close; come closer; come on
+nael
+ nail
+naelpolitoer
+ nail‐varnish
+nag
+ night
+nagereg
+ 1. dessert
+ 2. dessert
+nagklub
+ night club; night spot
+nagvlinder
+ moth
+nakomelingskap
+ 1. offspring
+ 2. offspring
+nalatenskap
+ estate
+namekaar
+ consecutively
+nar
+ 1. buffoon; jester
+ 2. clown
+narkotiseur
+ anaesthesist
+nasien
+ revise
+nasionaal
+ national
+nasionaliteit
+ nationality
+nat
+ wet
+natuur
+ 1. nature
+ 2. character; nature
+natuurlik
+ 1. of course
+ 2. natural
+ 3. naturally
+naverwantskap
+ affiliation; blood‐relationship; affinity; relationship
+navorsing
+ 1. investigation; examination; test
+ 2. exploration; investigation; research
+navraag
+ question
+naweek
+ week‐end
+na
+ at; to; toward; towards
+na
+ decently; properly
+na
+ as one pleases
+nee
+ no
+neef
+ 1. cousin
+ 2. nephew
+neem
+ 1. accept; receive; take; take in
+ 2. get; lay hold of; pick up; take
+nege
+ nine
+negentien
+ nineteen
+negentig
+ ninety
+nek
+ neck
+net
+ 1. exclusively; just; only
+ 2. just; exactly; okay; right
+ 3. just; just now
+netnou
+ soon
+neuk
+ 1. fuck; screw
+ 2. have sex
+neus
+ nose
+nie
+ not
+niemand
+ neither; nobody; none; no‐one
+nier
+ kidney
+nietemin
+ but; however; nevertheless; yet
+nig
+ niece
+niggie
+ 1. cousin
+ 2. niece
+niks
+ 1. nothing
+ 2. not an ace
+niks
+ nothing
+nodig
+ 1. necessary
+ 2. necessary
+nodig
+ need; require
+noem
+ mention
+nog
+ still; yet
+nogal
+ 1. a little; rather; some; somewhat; to some extent
+ 2. rather
+ 3. enough; quite; rather; sufficiently
+nog
+ not yet
+nog
+ additional; another
+nommer
+ number; numeral
+noodhulp
+ 1. first aid
+ 2. first aid
+nooi
+ invite
+noordelik
+ northern
+noordpool‐
+ Arctic
+noordwaarts
+ north; northward; northwards
+noot
+ 1. bank‐note
+ 2. grade; note
+normaal
+ 1. normal
+ 2. normal
+notisie
+ annotation; note
+nou‐nou
+ soon
+nou
+ at present; now
+nou
+ just; just now
+nuus
+ news; novelty; something new
+nuuskierig
+ 1. agog; inquisitive
+ 2. agog; curious; inquisitive
+ 3. agog; inquisitive
+nuut
+ new; novel
+nuweling
+ novice
+nywerheid
+ industry
+nè
+ isn't it; isn't that so; or not
+nêrens
+ nowhere
+o
+ oh
+oefen
+ exercise; practise
+oefening
+ exercise; practice
+oeros
+ aurochs
+of
+ or
+offisieel
+ official
+olie
+ oil
+olifant
+ elephant
+olm
+ elm
+om
+ 1. at; by; on; upon
+ 2. at; beside; with
+omdat
+ 1. because; for the reason that
+ 2. because; for the reason that
+ 3. as; because; for; since
+omgewing
+ environment; environs; surroundings
+omsit
+ put on
+omstandigheid
+ circumstance
+omtrent
+ about; approximately
+om
+ for; to; in order to; per
+onaangenaam
+ bleak; dismal; dreary; horrible; ghastly; grisly; nasty
+onafhanklik
+ 1. autonomic; autonomous
+ 2. independant
+ 3. independant
+ondankbaar
+ thankless; ungrateful; unthankful
+onder
+ 1. below; beneath; under; underneath
+ 2. below; underneath
+onderaan
+ below; downstairs; underneath
+onderdruk
+ 1. suppress
+ 2. choke; quell; suffocate; suppress
+onderhoud
+ 1. conversation
+ 2. interview
+onderneming
+ enterprise
+onderrig
+ instruction
+ondersoek
+ 1. examine
+ 2. investigation; examination; test
+ 3. examine; explore; investigate; research
+ 4. exploration; investigation; research
+ondersteun
+ abet; support; sustain
+ondertoe
+ 1. down
+ 2. down; underneath
+ondervinding
+ experience
+onderwerp
+ theme; topic; subject
+onderwys
+ education
+onderwyser
+ instructor; teacher
+onderwyseres
+ teacher; female teacher
+ongedierte
+ vermin
+ongeduldig
+ 1. impatient
+ 2. impatient
+ongeluk
+ accident
+ongelukkig
+ 1. unfortunately
+ 2. unhappy
+ 3. unfortunately
+ongenaakbaar
+ inaccessible
+ongetroud
+ single; unmarried
+onjuis
+ 1. erroneous; mistaken; wrong
+ 2. incorrect; wrong
+onlangs
+ recently
+onnatuurlik
+ artificial
+onnodig
+ needless
+ons
+ 1. us; to us
+ 2. us; we
+ 3. our
+ 4. us
+onskuldig
+ guiltless; innocent
+ons
+ ours
+ontbied
+ get; send for
+ontbreek
+ 1. be absent; be missing
+ 2. be lacking; be missing
+ontbyt
+ breakfast
+ontdek
+ discover; uncover
+ontdekking
+ discovery
+ontevrede
+ discontented; displeased; dissatisfied
+onthaal
+ treat
+onthou
+ recall; recollect; remember
+ontklee
+ undress
+ontkom
+ escape; flee
+ontlok
+ draw out; drive out; express; utter; give utterance to; pull out
+ontmoet
+ come across; encounter; meet; see
+ontploffing
+ explosion
+ontslaan
+ discharge; dismiss; fire; sack
+ontsnap
+ escape; flee
+ontspanning
+ distraction; diversion
+ontvang
+ get; have; receive
+ontvangsdame
+ receptionist
+ontvoer
+ abduct
+ontwikkel
+ develop; reveal
+ontwikkeling
+ 1. development; evolution
+ 2. development; evolution
+onvatbaar
+ immune
+oog
+ eye
+oogmerk
+ aim; goal; purpose; target
+ook
+ also; likewise; too
+oom
+ uncle
+oomblik
+ instant; moment
+oomskind
+ cousin
+oop
+ open
+oopmaak
+ open; open up
+oor
+ 1. ear
+ 2. above; more than; over
+ 3. after; behind
+ 4. about; concerning; on; upon
+ 5. above; over
+oordeel
+ 1. judge
+ 2. judgment
+oordra
+ 1. pass; spend
+ 2. convey; hand; hand over; pass
+ooreenkoms
+ accord; accordance; agreement; concurrence
+ooreenstemming
+ accord; accordance; agreement; concurrence
+oorgenoeg
+ abundant
+oorkant
+ 1. opposite
+ 2. opposite
+oorlog
+ war
+oorlog
+ make war; wage war
+oorsend
+ send; transmit
+oorsig
+ abridgement; abstract; resumé; summery
+oorskadu
+ cast a shadow
+oorskry
+ cross; go beyond; transfer
+oorsprong
+ origin
+oorspronklik
+ 1. aboriginal; original
+ 2. original
+ 3. originally
+oorsteek
+ 1. cross
+ 2. cross; go beyond; transfer
+ 3. go beyond
+oorstroom
+ flood
+oortollig
+ overflowing; superfluous
+oortreding
+ sin; transgression
+oortree
+ sin; transgress
+oorweeg
+ 1. account; consider; esteem; regard; take into account
+ 2. think; think about; reflect on
+oorwinning
+ victory
+ooste
+ east; East
+oostelik
+ eastern; Oriental
+ooswaarts
+ east; eastward; eastwards
+op
+ 1. a; in; inside; into; on; per; within
+ 2. on; upon
+opdrag
+ 1. commission; errand
+ 2. mission
+openlik
+ openly
+opera
+ opera
+operasie
+ operation; surgical operation
+opereer
+ operate
+opgaan
+ 1. ascend; climb; go up
+ 2. tread; walk; walk upon
+ophang
+ hang
+ophef
+ ado; din; noise
+ophou
+ 1. end; come to an end; end up; expire
+ 2. cease; stop
+opinie
+ opinion
+opklaar
+ clear
+oplaai
+ meet; pick up
+oplei
+ 1. breed; bring up; educate; raise
+ 2. teach
+opleiding
+ education
+oplewer
+ afford; bear; produce
+oplossing
+ 1. solution
+ 2. solution
+opmerk
+ notice
+opmerking
+ 1. observation
+ 2. remark
+ 3. notice; observation
+oppas
+ 1. advert; pay attention; pay attention to; watch out for
+ 2. be careful; take care
+ 3. care for
+oppervlakte
+ area
+oppik
+ get; lay hold of; pick up; take
+oproep
+ appeal to; invoke
+opsegging
+ abolition; abrogation
+opsig
+ relation
+opsit
+ put on
+opskep
+ dish up
+opstaan
+ 1. get up; rise; stand; stand up
+ 2. ascend; get up; go up; lift; rise; arise
+ 3. get up; rise; stand; stand up
+opstandig
+ insubordinate; rebellious
+optel
+ get; lay hold of; pick up; take
+optree
+ act; take action
+optrek
+ lever; lift; raise
+opvatting
+ 1. idea
+ 2. concept; idea
+ 3. opinion
+opvoering
+ presentation
+opwen
+ strech; wind up
+opwinding
+ 1. agitation; excitement
+ 2. agitation; excitement
+op
+ at the right time; in time
+oral
+ all about; everywhere
+oranje
+ orange‐coloured
+organisasie
+ organization
+organiseer
+ organize
+orgidee
+ orchid
+orkes
+ orchestra
+oseaan
+ ocean
+oud
+ 1. old
+ 2. old
+ouderdom
+ age
+ouderwets
+ old‐fashioned; out of date
+oudmodies
+ old‐fashioned; out of date
+ouer
+ 1. parent
+ 2. old man
+ouerloos
+ orphan
+ouers
+ parents
+ouma
+ granny
+oupa
+ granddad
+outyds
+ old‐fashioned; out of date
+o
+ woe
+pa
+ father
+pad
+ road; route; way
+padda
+ 1. toad
+ 2. frog
+pak
+ 1. pack; package; wrap up
+ 2. pack
+pakket
+ pack
+pakkie
+ packet; parcel
+pakplek
+ box‐room; storage room
+pak
+ costume; outfit; suit
+paling
+ eel
+palladium
+ palladium
+pampoen
+ gourd; pumpkin; squash
+pan
+ 1. casserole; saucepan
+ 2. cooking pot
+ 3. lake; loch
+ 4. frying‐pan; frying pan
+pap
+ empty; void
+papaja
+ papaya; papaw
+papegaai
+ parrot
+paradys
+ paradise
+parasiet
+ 1. parasite
+ 2. parasite
+parfuum
+ perfume
+parkeer
+ park
+parkeerplek
+ car park; lay‐by; parking bay; parking garage; parking place
+pars
+ squeeze out
+party
+ 1. celebration; festival; party
+ 2. many
+ 3. a lot of; much; plenty of
+pas
+ 1. fit
+ 2. conform; fit; fit in
+ 3. be appropriate; suit; be suitable
+ 4. exclusively; just; only
+ 5. fit
+ 6. clothe; dress
+passasier
+ passenger
+pater
+ father
+patroon
+ pattern; stencil; template; templet
+pawiljoen
+ pavilion
+peer
+ pear
+pensioen
+ pension; retirement
+pensioentrekker
+ 1. retired person
+ 2. pensioner; retiree
+pensionaris
+ 1. retired person
+ 2. pensioner; retiree
+peper
+ pepper
+per
+ 1. a; in; inside; into; on; per; within
+ 2. by; by means of; on; through; with
+ 3. a; per
+perd
+ horse
+perdry
+ ride a horse
+permanent
+ 1. abiding; lasting
+ 2. constantly; continually; continuously
+ 3. constant; continual; permanent; sustained
+ 4. constantly
+perron
+ platform; quay; wharf
+pers
+ 1. press
+ 2. violet
+persent
+ percent; percentage
+perske
+ peach
+persoon
+ person
+persoonlik
+ 1. individual
+ 2. personal
+per
+ by mistake
+pet
+ cap
+petrol
+ gasolene; gasoline; petrol
+piano
+ piano
+piekniek
+ picnic
+piekniek
+ picnic
+pienk
+ 1. pink
+ 2. pink
+piesang
+ banana
+pikswart
+ pitch black
+pil
+ pill
+pit
+ core; nucleus; kernel; pit
+pla
+ tease
+plaas
+ 1. estate; farm; property; ranch
+ 2. locate; place
+ 3. lay down; place; put; put down
+plaaslik
+ local
+plaat
+ dial; disc; record
+plaatsvind
+ come about; happen; occur
+plak
+ 1. glue; stick
+ 2. plate; sheet; slab
+ 3. slice
+plan
+ 1. intention; meaning; plan
+ 2. design; diagram; plan; plane
+ 3. plan; project; scheme
+plant
+ plant
+plantasie
+ plantation
+plastiek
+ plastic
+plattelands
+ rural
+pleeg
+ achieve; act; do; make; perform
+pleegkind
+ foster‐child
+pleegmoeder
+ foster‐mother
+pleegouers
+ foster‐parents
+pleegseun
+ foster‐son
+pleegvader
+ foster‐father
+plek
+ 1. place
+ 2. location; place; spot
+plesier
+ fun; pleasure
+plig
+ duty; obligation
+ploert
+ 1. cheat; crook; rogue
+ 2. rogue; scoundrel
+plus
+ plus
+poeding
+ pudding
+poeier
+ 1. powder; cosmetic powder
+ 2. powder
+poging
+ 1. attempt; effort
+ 2. attempt; test
+poliesman
+ 1. policeman
+ 2. policeman
+polisie
+ police
+polisiestasie
+ police‐station
+politiek
+ political
+polities
+ political
+politikus
+ politician
+polshorlosie
+ watch; wrist‐watch
+pomp
+ pump
+ponie
+ pony
+poot
+ leg; paw
+pop
+ doll; puppet
+populier
+ poplar
+populêr
+ popular
+porsie
+ share
+pos
+ 1. post
+ 2. post
+posgeld
+ postage
+posisie
+ position
+poskaart
+ 1. picture postcard
+ 2. picture postcard
+poskantoor
+ post office
+poswissel
+ money order
+pot
+ jug; pot
+potblou
+ bright blue
+pous
+ pope
+pouse
+ break; intermission; pause; recess
+poësie
+ poetry
+praat
+ speak; talk
+pragtig
+ 1. lovely
+ 2. bright; brilliant
+prakties
+ practical
+predikant
+ 1. pastor
+ 2. preacher
+prent
+ film; motion picture; movie
+presies
+ 1. exactly; sharp
+ 2. exactly; sharp
+presteer
+ accomplish; achieve; attain; get; reach
+pretensieus
+ arrogant
+preuts
+ prudish
+primitief
+ primitive
+prinsipaal
+ rector
+privaat‐
+ private
+privaat
+ private
+probeer
+ attempt; test; try
+probleem
+ problem; trouble
+produk
+ product
+produksie
+ production
+produseer
+ afford; bear; produce
+proe
+ taste
+professioneel
+ professional
+professor
+ professor
+profyt
+ 1. benefit; gain; profit
+ 2. gain; profit
+program
+ programme
+projek
+ plan; project; scheme
+prokureur
+ jurist; lawyer
+promosie
+ promotion
+proses
+ 1. action; lawsuit
+ 2. process
+protes
+ protest
+protesteer
+ protest
+provinsie
+ province
+provizore
+ temporarily
+prys
+ 1. commend; glorify; laud; praise
+ 2. commend; laud; praise
+ 3. price
+psigiater
+ psychiatrist
+puberteit
+ adolescence; puberty
+publiek
+ public
+puik
+ fine; great
+puisie
+ pimple
+punt
+ dot; period; point; spot
+puriteins
+ puritan
+put
+ well
+pyl
+ arrow
+pyn
+ 1. ache; pain
+ 2. pine; pine‐tree
+pynappel
+ pineapple
+pyp
+ pipe
+raad
+ advice; counsel
+raadpleeg
+ consult
+raadskamer
+ 1. boardroom
+ 2. boardroom
+raak
+ 1. become; come about; grow; happen
+ 2. become; get; grow
+raamwerk
+ cadre; frame; framework
+rabbi
+ rabbi
+radio
+ 1. beam; ray
+ 2. radio; wireless
+radium
+ radium
+rakkie
+ shelf
+ram
+ ram; tup
+rapport
+ 1. account; record; report
+ 2. scholary report
+ras
+ breed; race
+ratel
+ badger
+ratkas
+ 1. gear‐box; gear‐case
+ 2. gear‐box; gear‐case
+reageer
+ react; respond
+rebel
+ 1. mutineer; rebel
+ 2. rebel
+rede
+ 1. cause; reason
+ 2. account; reason
+ 3. reason; logical reasoning
+ree
+ roe
+reeds
+ already; by now; yet
+reg
+ 1. jurisprudence; law
+ 2. right
+ 3. true
+ 4. correct; exact; proper; right
+regeer
+ control; govern; restrain; rule
+regering
+ administration; government
+reghoekig
+ right‐angle; square
+regime
+ régime
+register
+ account book; record; register
+registreer
+ record; register
+regmaak
+ fix; repair
+regop
+ directly; straigh ahead
+regs
+ 1. on the right
+ 2. right; to the right
+regterkant
+ right‐hand side
+regtig
+ genuinely; indeed; really; truly
+reguit
+ straight ahead; straight along
+regverdig
+ fair; just; righteous
+reis
+ 1. travel
+ 2. journey; trip; voyage
+rekenaar
+ computer
+rekenbord
+ abacus
+rekening
+ 1. account; bill; invoice
+ 2. account; bill; calculation
+ 3. account
+rekenmeester
+ accountant
+rekenraam
+ abacus; ball‐frame; counting‐frame
+rektig
+ absolutely; genuinly; indeed; really; truly
+rem
+ 1. brake
+ 2. brake
+renoster
+ rhino; rhinoceros
+reptiel
+ reptile
+republiek
+ republic
+res
+ 1. remainder; rest
+ 2. remainder; rest
+resep
+ prescription; recipe
+respek
+ respect
+respekteer
+ respect
+retoerkaartjie
+ return‐ticket
+reuk
+ odor; odour; scent; smell
+reus
+ 1. giant
+ 2. giant
+rewolwer
+ revolver
+reël
+ 1. arrange; fix up
+ 2. regulation; rule
+reëlmatig
+ 1. even; regular
+ 2. regularly
+reën
+ 1. rain
+ 2. rain
+reënboog
+ rainbow
+rig
+ direct; guide; manage; steer
+rigting
+ direction
+ring
+ ring
+ritus
+ rite
+rivier
+ river
+rob
+ seal; sea‐dog
+robot
+ robot
+robyn
+ ruby
+rodium
+ rhodium
+roeier
+ rower
+roer
+ 1. curl; froth; stir; whip; whirl
+ 2. actuate; move
+roete
+ 1. route
+ 2. route
+rog
+ rye
+rok
+ skirt
+rol
+ part; role; rôle
+rolletjie
+ roll
+rolprent
+ film; motion picture; movie
+romp
+ skirt
+rond
+ round
+rood
+ 1. red
+ 2. red
+roofdier
+ beast of prey
+rooihond
+ German measles
+rooikat
+ lynx
+rook
+ 1. smoke
+ 2. smoke
+room
+ cream
+roos
+ rose
+rooster
+ 1. schedule; time‐table
+ 2. grate; grid; grill
+rot
+ rat
+rots
+ rock
+rou
+ crude; raw; rough
+rubriek
+ column; header
+rug
+ back
+rugryer
+ cadger; parasite; sponger
+ruik
+ smell
+rukkie
+ instant; moment
+rus
+ 1. repose; rest
+ 2. repose; rest
+rusie
+ 1. quarrel
+ 2. quarrel
+rusie
+ quarrel; wrangle
+ry
+ 1. ride
+ 2. go; ride; travel
+rybewys
+ driving‐licence
+ryk
+ affluent; rich; wealthy; well‐off
+ryp
+ mature; ripe
+rys
+ rice
+saad
+ seed
+saag
+ saw
+saak
+ affair; business; business deal; case; matter
+saal
+ saddle
+saam
+ together
+saambring
+ bring along; take along
+saamgaan
+ 1. go with
+ 2. assemble; congregate; gather; meet
+saamstem
+ agree with
+saamwerk
+ cooperate; co‐operate
+saam
+ 1. with
+ 2. together with
+saans
+ in the evening
+sag
+ soft
+sak
+ pocket
+sakeman
+ 1. businessman
+ 2. merchant
+ 3. businessman; merchant
+salamander
+ salamander
+salaris
+ salary; wage; wages
+salmander
+ salamander
+sambreel
+ umbrella
+samelewing
+ society
+sand
+ sand
+sandaal
+ sandal
+sanger
+ singer
+sanksie
+ sanction
+sap
+ juice; sap
+sardien
+ 1. sardine
+ 2. sardine
+sebra
+ zebra
+sedert
+ 1. since; ever since
+ 2. since
+ 3. since
+see
+ sea
+seeanemoon
+ sea‐anemone
+seehond
+ seal; sea‐dog
+seekoei
+ hippo; hippopotamus
+seer
+ painful
+seer
+ ache; be painful; hurt
+seil
+ sail
+seker
+ 1. certainly
+ 2. probably
+sekerheid
+ 1. certainty
+ 2. safety; security
+sekerlik
+ certainly
+seker
+ affirm; assure
+sekondêr
+ 1. accessory; adventitious; secondary
+ 2. secondary
+sekretaresse
+ secretary
+seks
+ sex
+sektor
+ sector
+sekuriteitsbeampte
+ security officer
+selde
+ seldom
+selebrasie
+ 1. celebration
+ 2. celebration
+ 3. celebration
+self
+ self; herself; himself; itself
+selfs
+ even
+sendeling
+ missionary
+sensitief
+ 1. impressible; sensitive
+ 2. sensitive
+sent
+ cent
+sentimeter
+ centimetre
+sentraal
+ central
+sentrale
+ exchange; power station
+sertifikaat
+ certificate; testimony
+sertifiseer
+ affirm; assure
+servette
+ napkin
+ses
+ six
+sesde
+ sixth
+sestien
+ sixteen
+sestig
+ sixty
+seun
+ 1. son
+ 2. boy; lad; laddie
+sewe
+ seven
+sewende
+ seventh
+sewentien
+ seventeen
+sewentig
+ seventy
+seën
+ bless
+siek
+ ill; sick
+sielkundige
+ psychologist
+sien
+ 1. come across; encounter; meet; see
+ 2. see
+sieraad
+ 1. adornment; decoration; ornament
+ 2. adornment; ornament
+sigaar
+ cigar
+sigaret
+ cigarette
+sigbaar
+ visible
+sigeuner
+ gypsy; Gypsy
+silicium
+ silicon
+silwer
+ silver
+simbool
+ symbol
+simfonie
+ symphony
+simpatie
+ sympathy
+sin
+ 1. sentence
+ 2. sentence
+sing
+ sing
+sinies
+ cynical
+sinneloos
+ absurd
+sit
+ 1. lay down; place; put; put down
+ 2. sit
+sitkamer
+ living‐room; sitting‐room
+sitplek
+ seat
+situasie
+ 1. circumstances; condition; situation
+ 2. condition; state
+sjampoe
+ 1. shampoo
+ 2. shampoo
+sjerrie
+ sherry
+sjimpansee
+ chimpanzee
+sjokolade
+ chocolate
+skaak
+ chess
+skaal
+ scale
+skaamte
+ shame
+skaam
+ 1. be ashamed
+ 2. be ashamed
+skaap
+ sheep
+skaapvleis
+ mutton
+skaars
+ 1. barely; hardly; only just; scarcely
+ 2. rare
+skade
+ damage
+skadu
+ 1. shadow
+ 2. shade
+skakel
+ 1. telephone
+ 2. link
+skakering
+ hue; nuance; shade; tint
+skandaal
+ commotion; scandal
+skare
+ 1. accumulation; crowd; heap; mass; multitude; pile
+ 2. bevy; collection; group; heap; herd; set
+ 3. band; bevy; gang
+skat
+ 1. darling
+ 2. treasure
+skeef
+ oblique; slanting
+skeer
+ shave
+skema
+ model; pattern; scheme
+skemer
+ dusk
+skep
+ create
+skerm
+ screen
+skerp
+ 1. sharp
+ 2. sharp
+skets
+ design; outline; sketch
+ski
+ ski
+skielik
+ all of a sudden; suddenly
+skiereiland
+ peninsula
+skil
+ bark; husk; peel; shell
+skilderagtig
+ picturesque
+skildery
+ painting; picture
+skilpad
+ tortoise
+skip
+ ship; vessel
+skitterend
+ bright; brilliant
+skoen
+ shoe
+skok
+ 1. agitate; shake; shock
+ 2. shock
+skone
+ beautiful woman; beauty
+skool
+ 1. bevy; collection; group; heap; herd; set
+ 2. school
+skoolvakansie
+ school holidays
+skoon
+ clean
+skoonbroer
+ brother‐in‐law
+skoondogter
+ daughter‐in‐law
+skoonma
+ mother‐in‐law
+skoonmaak
+ clean; cleanse; make clean; purge
+skoonmoeder
+ mother‐in‐law
+skoonouers
+ parents‐in‐law
+skoonseun
+ son‐in‐law
+skop
+ kick
+skottelgoed
+ forks; knives and spoons
+skouer
+ shoulder
+skraal
+ 1. gaunt; lean; meager; skimpy; skinny; thin
+ 2. slender; slim
+skreeu
+ cry out; scream; shout
+skrif
+ script; writing
+skriftelik
+ written
+skryf
+ write
+skrywer
+ author; writer
+skuim
+ foam; froth
+skuld
+ 1. owe
+ 2. debt
+skuldig
+ guilty
+skyf
+ 1. dial; disc; record
+ 2. slice
+skyn
+ appear; appear to be; seem
+skêr
+ scissors
+slaaf
+ slave
+slaag
+ succeed
+slaai
+ salad
+slaap
+ 1. be asleep; sleep
+ 2. sleep
+slaapkamer
+ bedroom
+slag
+ 1. blow
+ 2. butcher; slaughter
+slagoffer
+ victim
+slagter
+ butcher
+slang
+ serpent; snake
+slavin
+ bondwoman; slave; female slave
+slee
+ 1. sledge; sleigh
+ 2. sledge; sleigh
+sleep
+ drag; tow
+sleg
+ 1. bad; miserable; nasty; poor
+ 2. badly
+slegs
+ exclusively; just; only
+sleutel
+ key; wrench
+slim
+ clever; cunning; sly; smart
+sloot
+ hole; ditch; pit
+sluit
+ close; be closed
+sluk
+ swallow
+smaak
+ 1. taste
+ 2. taste
+smaaklik
+ nice; tasty
+smeek
+ beseech
+smôrens
+ in the morning
+snags
+ at night; by night; during the night
+snawel
+ beak; bill
+sneeu
+ 1. snow
+ 2. snow
+sneeuwit
+ snow white
+snelheid
+ speed
+snelheidsgrens
+ speed‐limit; speed limit
+sny
+ 1. clip; cut; shear
+ 2. slice
+so
+ 1. about; approximately
+ 2. so; such; thus
+soek
+ look for; seek
+soen
+ kiss
+soet
+ gentle; soft; sweet; tender
+sofa
+ sofa
+sog
+ sow
+sokker
+ football; soccer
+sokkie
+ sock
+solank
+ all the time; in the meantime; meanwhile
+soldaat
+ pawn; soldier
+somer
+ summer
+sommer
+ 1. preferably
+ 2. preferably; rather
+sommige
+ a few; any; some
+somtyds
+ several times; sometimes
+son
+ 1. sun; sunshine
+ 2. sun
+sonde
+ sin; transgression
+sonder
+ without
+sonnig
+ solair; sun; sun‐; of the sun
+soogdier
+ mammal
+soort
+ kind; sort
+sorg
+ care; see; take care; worry
+sorgvuldig
+ careful; tender
+sosiaal
+ 1. social
+ 2. social
+sous
+ gravy; sauce
+sout
+ salt
+sowaar
+ 1. absolutely; actually; in fact
+ 2. absolutely; genuinly; indeed; really; truly
+sowat
+ about; approximately
+so
+ as ... as; so ... as
+so
+ just; just now
+so
+ such; such a; that kind of
+spaar
+ save; spare
+spandeer
+ 1. dedicate; devote
+ 2. pay out; spend
+spanning
+ tension; voltage
+speel
+ play
+sperma
+ sperm
+spesiaal
+ particular; special
+spesifiek
+ 1. specific
+ 2. specific
+spierwit
+ snow white
+spiraal
+ spiral
+spoed
+ 1. race; run
+ 2. speed
+spoel
+ 1. bobbin; coil; spool
+ 2. gargle; rinse
+spog
+ boast; brag
+spook
+ ghost; phantom
+sport
+ sport
+sportgrond
+ sports ground
+spring
+ jump; leap; spring
+sprinkaan
+ 1. grasshopper; locust
+ 2. grasshopper
+sprong
+ jump; leap
+spuug
+ 1. spit
+ 2. spit
+spyskaart
+ menu
+staal
+ steel
+staan
+ 1. abide; bear; carry out; endure; put up with; suffer
+ 2. abide; endure
+ 3. stand
+ 4. abide; bear; endure; put up with; suffer
+staat
+ 1. realm; state
+ 2. condition; state
+ 3. state
+stad
+ city; town
+stadigaan
+ 1. gradually; little by little
+ 2. gradually; little by little
+staf
+ staff
+staking
+ strike
+stalhings
+ stallion
+stam
+ 1. stem; trunk; tree‐trunk
+ 2. tribe
+ 3. stem; trunk
+stamboom
+ 1. generation
+ 2. generation
+standaard
+ norm; standard
+standbeeld
+ statue
+standpunt
+ viewpoint
+stap
+ march; walk
+stapel
+ 1. accumulation; crowd; heap; mass; multitude; pile
+ 2. heap; pile; stack
+stapper
+ stroller
+stasie
+ station
+steeds
+ always; ever
+steel
+ steal
+steenkool
+ coal
+stelling
+ essay; thesis
+stelsel
+ system
+stem
+ 1. voice
+ 2. voice
+ster
+ 1. star
+ 2. celebrity; star
+sterf
+ 1. march off; retreat; withdraw
+ 2. pass away
+ 3. die; expire; pass away
+sterk
+ strong
+stert
+ tail
+stewig
+ 1. firm; robust; sturdy
+ 2. firm; solid
+stiefbroer
+ step‐brother
+stiefdogter
+ 1. step‐daughter
+ 2. step‐daughter
+stiefkind
+ 1. step‐child
+ 2. step‐child
+stiefmoeder
+ step‐mother
+stiefsuster
+ step‐sister
+stiefvader
+ 1. step‐father
+ 2. step‐father
+stilhou
+ halt; come to a halt; stop
+stilswygend
+ silently
+stoel
+ chair
+stoep
+ porch; veranda
+stok
+ baton; cane; stick
+stop
+ 1. halt; stop
+ 2. stop
+storie
+ account; narrative; story; tale
+stort
+ shower
+straat
+ street
+straf
+ punishment
+strak
+ strained
+strand
+ beach
+strandwolf
+ hyaena
+strategies
+ strategic
+streek
+ region
+strek
+ run
+stroom
+ flow
+struik
+ bush; shrub
+struktuur
+ structure
+studeer
+ study
+student
+ academic; student
+studie
+ study
+stuk
+ 1. fragment; lump; piece
+ 2. part; Parthian; share
+ 3. bit; lump; piece
+stukkend
+ 1. broken; out of order
+ 2. broken; damaged
+ 3. broken
+stuur
+ send; transmit
+styg
+ 1. ascend; get up; go up; lift; rise; arise
+ 2. accrue; advance; ascend; go up; increase
+ 3. ascend; climb; go up
+styl
+ style
+subsidie
+ subsidy
+suggestie
+ 1. the power of suggestion
+ 2. suggestion
+suide
+ south
+suidelik
+ south; southern
+suidwaarts
+ south; southward; southwards
+suiker
+ sugar
+suikerriet
+ sugar‐cane
+suip
+ drink; drink to excess
+suiwer
+ pure
+sukses
+ achievement; success
+sultan
+ sultan
+supermark
+ 1. supermarket
+ 2. supermarket
+surplus
+ surplus
+suster
+ 1. nurse
+ 2. sister
+susterskind
+ 1. niece
+ 2. nephew
+suurlemoen
+ lemon
+suurlemoensap
+ lemon juice
+swaai
+ brandish; fling; swing; wave; wave about
+swaan
+ swan
+swaar
+ burdensome; heavy; onerous
+swaer
+ brother‐in‐law
+swak
+ faint; light; weak
+swanger
+ 1. pregnant
+ 2. pregnant; with young
+swart
+ 1. black
+ 2. black
+swarte
+ Negro
+sweer
+ swear
+swem
+ float; swim
+swembad
+ pool; swimming‐bath; swimming‐pool
+swerf
+ 1. migrate; roam; wander; wander about
+ 2. roam; wander
+swerm
+ swarm
+swerwer
+ Bedouin
+swyn
+ hog; pig; swine
+sy
+ 1. his
+ 2. her; his; its; their
+ 3. her; she
+syfer
+ cipher; digit; figure; numeral
+syne
+ his
+sy
+ defecate
+sê
+ say; tell
+taak
+ job; assigned job; task
+taal
+ language; tongue
+taamlik
+ 1. a little; rather; some; somewhat; to some extent
+ 2. rather
+ 3. fairly; rather; relatively
+ 4. enough; quite; rather; sufficiently
+tabak
+ tobacco
+tafel
+ table
+tafeldoek
+ table‐cloth
+tafelskuimer
+ cadger; parasite; sponger
+tagtig
+ eighty
+tak
+ bough; branch
+takbok
+ deer
+taksisboom
+ yew‐tree
+tamatie
+ tomato
+tandarts
+ dentist
+tandpyn
+ toothache
+tans
+ at present; now
+tant
+ aunt
+taxi
+ taxi
+taxibestuurder
+ taxidriver; taxi‐driver
+taxidrywer
+ taxidriver; taxi‐driver
+te
+ too; too much
+teater
+ theatre
+tee
+ tea
+teel
+ breed; keep; raise; rear
+teen
+ 1. at; by; on; upon
+ 2. across from; against; in exchange for; opposed to; opposite; upon
+teengif
+ 1. antidote
+ 2. antidote
+teenoorgesteld
+ 1. reverse; reversed
+ 2. adverse; alien; contrary
+ 3. contrary; opposite
+teenstelling
+ 1. antithesis; contradistinction; contrast; opposition
+ 2. antithesis
+ 3. contrast
+teenwoordigheid
+ presence
+teer
+ dainty; delicate; fine; refined
+tegelyk
+ 1. all the time; in the meantime; meanwhile
+ 2. at the same time
+tegnies
+ technical
+tegnologie
+ technology
+teken
+ 1. mark; sign; signal; token
+ 2. character; mark; sign; signal; token
+ 3. sign
+teks
+ lyric; text
+tel
+ count
+telefoon
+ telephone
+telegrafeer
+ telegraph
+telegram
+ telegram
+televisie
+ television; TV
+televisiestel
+ TV set; television set
+telraam
+ abacus; ball‐frame; counting‐frame
+tempel
+ temple
+temperatuur
+ temperature
+tenk
+ 1. cistern; tank
+ 2. tank
+tennis
+ tennis
+tensy
+ unless
+tent
+ tent
+ten
+ chase; hunt after; hunt for; pursue
+ten
+ at least
+ten
+ 1. as to; as regards; concerning
+ 2. toward; towards; with reference to
+ten
+ 1. despite; in spite of; notwithstanding
+ 2. defiantly; despite; in spite of
+term
+ term
+tert
+ pie; tart
+terug
+ back
+terugbesorg
+ give back; return
+terugkom
+ come back; return
+terwyl
+ for; during; whereas; while; whilst
+tevrede
+ contented; pleased; satisfied
+te
+ afoot; on foot
+tien
+ ten
+tier
+ 1. leopard
+ 2. tiger
+tikster
+ typist
+tipe
+ type
+tipies
+ 1. characteristic
+ 2. typical
+tjek
+ check; cheque
+tjekboek
+ cheque‐book
+toe
+ 1. at; to; toward; towards
+ 2. closed; shut
+ 3. now; well; well then
+ 4. then
+toegang
+ entrance; portal
+toeganklik
+ accessible
+toekoms
+ 1. future
+ 2. future
+toemaak
+ close; shut
+toepas
+ apply; practice
+toeristeburo
+ tourist bureau
+toernooi
+ tournament
+toeskouer
+ 1. spectator
+ 2. spectator
+toespreek
+ accost; address
+toestand
+ 1. circumstances; condition; situation
+ 2. condition; state
+toestel
+ apparatus; device; set
+toeter
+ hooter
+toetree
+ join
+toets
+ 1. test
+ 2. test
+toevlugsoord
+ 1. asylum
+ 2. place of refuge; shelter
+toevoeg
+ add
+tog
+ certainly; indeed; rather; surely
+toilet
+ toilet
+toneel
+ scene
+toneelspel
+ acting
+tongvis
+ sole
+toon
+ 1. indicate; point out; show
+ 2. toe
+ 3. tone
+toonbank
+ counter
+top
+ agreed; okay
+toring
+ castle; tower
+tot
+ until; till
+totaal
+ overall; total
+totdat
+ until; till
+tot
+ until; till
+tot
+ bye; goodbye; so long
+tou
+ file; line; rank; row; turn
+towenaar
+ enchanter; magician; sorcerer; warlock; wizard
+tower‐
+ magic
+traan
+ tear
+tradisie
+ tradition
+tradisioneel
+ traditional
+tragedie
+ tragedy
+transparant
+ transparant
+trap
+ staircase; stairs
+trawant
+ satellite
+tref
+ catch; hit; run across; strike
+trein
+ 1. train
+ 2. train
+trek
+ drag; draw; haul; pull; tug
+trommel
+ drum
+troos
+ 1. comfort; console
+ 2. consolation
+trop
+ 1. bevy; collection; group; heap; herd; set
+ 2. flock; herd
+tropies
+ tropical
+trots
+ proud
+trottoir
+ pavement; sidewalk
+trou
+ 1. marry; be married; get married
+ 2. marry; be married; get married
+ 3. marry; be married; get married
+tuin
+ garden
+tuinmaak
+ gardening
+tuis
+ at home
+tulp
+ tulip
+tussen
+ among; between
+twaalf
+ twelve
+twak
+ tobacco
+twee
+ two
+tweede
+ second
+tweekeer
+ twice
+tweeling
+ 1. twin
+ 2. twin
+twintig
+ twenty
+twyfel
+ doubt
+tyd
+ time; while
+tydelik
+ 1. provisional; temporary
+ 2. for the time being; temporarily
+tydens
+ for; during; whereas; while; whilst
+tydperk
+ age; epoch; era
+tydskrift
+ 1. periodical
+ 2. magazine; periodical; revue
+u
+ 1. your
+ 2. thee; you
+ 3. thee; you
+ 4. thou; you
+ 5. ye; you
+ui
+ onion
+uit
+ from; out of
+uitbeeld
+ depict; represent
+uitdaging
+ challenge
+uitdeel
+ deal; distribute
+uitdruk
+ 1. express
+ 2. express
+uitdrukking
+ expression
+uiteindelik
+ at last; finally; ultimately
+uitgaan
+ exit; go out
+uitgawe
+ edition
+uitgee
+ issue; publish
+uitgeput
+ exhausted; used up
+uitgesluit
+ exclusive
+uitgestrek
+ extensive; spacious; vast; wide
+uitgewer
+ publisher
+uithaal
+ 1. draw out; drive out; express; utter; give utterance to; pull out
+ 2. collect; gather; pick up
+uithou
+ 1. abide; bear; carry out; endure; put up with; suffer
+ 2. abide; endure
+uitleen
+ advance; lend
+uitnodiging
+ invitation
+uitnooi
+ invite
+uitpak
+ unpack
+uitroei
+ exterminate; wipe out
+uitrusting
+ 1. accoutrement; accoutrements; equipment
+ 2. equipment
+uitsig
+ 1. view
+ 2. view
+uitslag
+ conclusion; effect; result
+uitsluit
+ 1. exclude
+ 2. exclude
+uitsonderlik
+ exceptional
+uitspraak
+ pronunciation
+uitstalling
+ exhibition; exposition
+uitstappie
+ excursion; outing; sightseeing trip
+uitstekend
+ 1. fine; very well
+ 2. fine; very well
+uitvind
+ 1. invent
+ 2. invent
+uitvoer
+ export
+uniek
+ unique
+uniform
+ uniform
+universiteit
+ university
+uraan
+ uranium
+uself
+ yourself
+uur
+ hour; o'clock; time
+u
+ yours
+vader
+ father
+vak
+ branch; compartment; department; pigeonhole; section; speciality
+vakant
+ vacant
+val
+ drop; fall
+valk
+ falcon
+vals
+ false
+vampier
+ vampire
+van
+ 1. surname
+ 2. about; concerning; on; upon
+vanaand
+ this evening
+vanaf
+ from; since
+vandag
+ today
+vang
+ capture; catch; grapple
+vanmiddag
+ this afternoon
+van
+ from; out of
+van
+ naturally
+variasie
+ variety
+vark
+ hog; pig; swine
+varkie
+ piglet
+vars
+ fresh; recent
+vars
+ 1. fresh water
+ 2. fresh water
+vas
+ 1. abiding; lasting
+ 2. constant; continual; permanent; sustained
+vashou
+ hang onto; hold
+vasmaak
+ attach; determine; fasten; fix; affix; make fast; secure
+vasstel
+ attach; determine; fasten; fix; affix; make fast; secure
+vasteland
+ continent; mainland
+vat
+ 1. capture; catch; grapple
+ 2. get; lay hold of; pick up; take
+ 3. start off
+vee
+ livestock
+veelvraat
+ wolverine
+veertien
+ fourteen
+veertig
+ forty
+veg
+ fight; struggle
+veilig
+ safe; secure
+veiligheid
+ 1. safety; security
+ 2. safety
+vel
+ skin
+veld
+ 1. field
+ 2. field
+ 3. field
+ 4. field
+ 5. veldt
+veldspaat
+ feldspar; felspar
+veldsprinkaan
+ grasshopper; locust
+veldtog
+ campaign
+venster
+ 1. window
+ 2. show window
+ver
+ 1. away
+ 2. distant; far; remote
+ 3. distant; far; remote
+ 4. afar; far; far away; remotely
+veral
+ 1. above all; especially
+ 2. above all; especially; chiefly; mainly; principally
+verander
+ 1. alter; change
+ 2. change; turn
+ 3. change
+verantwoordelik
+ 1. accountable; responsible
+ 2. accountable; responsible
+ 3. accountable; responsible
+ 4. accountable; responsible
+verbaas
+ amaze
+verbaas
+ marvel; marvel at; wonder
+verband
+ 1. bandage
+ 2. relation; understanding
+ 3. bandage
+verbeelding
+ imagination
+verbeeld
+ fancy; imagine
+verbind
+ 1. combine
+ 2. connect; join
+verbinding
+ connection
+verbleik
+ fade
+verblyf
+ stay
+verborge
+ hidden
+verbrand
+ 1. burn
+ 2. incinerate
+verbrands
+ darn
+verbruiker
+ consumer
+verby
+ 1. beyond; past
+ 2. beyond; by; past; straight past
+verbygaan
+ 1. pass; pass by
+ 2. pass; pass by
+ 3. overtake; pass by
+verbyganger
+ passer‐by
+verbykom
+ pass; pass by
+verbysteek
+ 1. overhaul; overtake; pass
+ 2. overhaul; overtake; pass
+verbysterd
+ dazed; perplexed; upset
+verdedig
+ defend
+verdien
+ 1. earn; gain; win
+ 2. be worthy of; deserve; merit
+verdieping
+ floor; storey; story
+verduidelik
+ 1. account for; explain
+ 2. account for; clarify; explain
+verduideliking
+ 1. account; explanation
+ 2. account; explanation
+verdwaal
+ lose one's way
+verdwyn
+ disappear
+vereis
+ demand; postulate; require
+vereiste
+ requisite
+vereniging
+ 1. association
+ 2. circle; club; society
+vergadering
+ 1. meeting
+ 2. assemblage; gathering; meeting
+vergeef
+ forgive; pardon
+vergeet
+ forget
+vergelding
+ compensation; reward
+vergelyk
+ compare
+vergelyking
+ comparison
+vergifnis
+ absolution; pardon
+verhaal
+ 1. story; history
+ 2. narrate; relate; tell
+ 3. account; narrative; story; tale
+verhole
+ hidden
+verhouding
+ proportion; rate
+verhuis
+ move
+verjaarsdag
+ birthday
+verkeer
+ 1. traffic
+ 2. be found; be located; find oneself
+verkeerd
+ 1. erroneous; mistaken; wrong
+ 2. false; untrue
+ 3. false; untrue
+verkeersknoop
+ traffic block; traffic congestion; traffic jam; traffic tie‐up
+verkeersreëls
+ traffic rules
+verkies
+ choose; elect; pick out
+verklaar
+ 1. declare; state
+ 2. explain
+verklaring
+ declaration; proclamation
+verkoop
+ dispose of; sell; vend
+verkoopsman
+ salesman
+verlaat
+ abandon; forsake; desert; leave; quit
+verlaging
+ decrease; lowering
+verlang
+ 1. desire; wish
+ 2. ache; long for; yearn
+verlang
+ ache for
+verlede
+ 1. past
+ 2. past
+ 3. last
+ 4. past
+ 5. past
+verlies
+ loss
+verlof
+ furlough; leave; pass
+verloofde
+ bride; fiancée
+verloor
+ lose
+verlos
+ release
+verlossing
+ salvage; salvation; recovery
+verlëe
+ in distress
+vermaak
+ 1. entertainment
+ 2. amusement; fun
+vermeld
+ mention
+verminder
+ 1. abate; abridge; decrease; lessen
+ 2. abate; decrease; diminish; drop; fall
+vermink
+ top; truncate
+vermoë
+ 1. ability
+ 2. ability
+ 3. guess; presume; suppose; surmise
+vermy
+ avoid; evade
+verneder
+ abase
+veronderstel
+ 1. hypothesize
+ 2. guess; presume; suppose; surmise
+veroorsaak
+ activate; cause; give rise to
+verorber
+ 1. eat up
+ 2. consume; use up
+verplaas
+ move; transfer
+verpleeg
+ attend; nurse; tend to
+verpleegster
+ nurse
+verplig
+ compel; force
+verpligting
+ duty; obligation
+verraad
+ betrayal; treachery
+verrassing
+ surprise
+verruklik
+ delightful; lovely
+vers
+ verse
+versamel
+ collect; gather; pick up
+versameling
+ collection
+verseker
+ 1. insure
+ 2. affirm; assure
+versekering
+ insurance
+versie
+ version
+versigtig
+ careful; cautious
+verskeie
+ 1. several
+ 2. several
+verskil
+ 1. differ; be different
+ 2. difference
+verskillend
+ 1. different
+ 2. different
+verskole
+ hidden
+verskoon
+ excuse me
+verskriklik
+ awfully
+verskyn
+ appear; emerge; perform
+verslaan
+ defeat; win over
+verslag
+ account; record; report
+verslank
+ slim
+versoek
+ request
+versoeking
+ temptation
+verstaan
+ understand; realize
+verstel
+ adjust; put right
+vertaal
+ translate
+vertaling
+ translation
+verteenwoordiger
+ agent; representative
+vertel
+ narrate; relate; tell
+vertolk
+ interpret
+vertolking
+ interpretation
+vertoning
+ presentation
+vertoon
+ indicate; point out; show
+vertraging
+ delay; retardation
+vertrek
+ 1. absent onself; depart; go away; leave
+ 2. departure
+ 3. chamber; room
+vertroue
+ 1. confidence; faith; trust
+ 2. confidence
+vertroue
+ 1. rely on; trust in
+ 2. rely on; trust in
+vertrouwe
+ 1. have faith; have faith in; trust
+ 2. confide; have confidence in; trust; entrust
+vervaardig
+ 1. fabricate; manufacture
+ 2. achieve; act; do; make; perform
+vervang
+ 1. take the place of
+ 2. replace; substitute
+vervelig
+ 1. boring; stodgy
+ 2. boring; stodgy; tiresome
+vervoer
+ transport
+verwag
+ abide; expect; wait; await; wait for
+verwant
+ 1. affined; akin; related
+ 2. relative
+verwantskap
+ affiliation; blood‐relationship; affinity; relationship
+verwantskapsbetrekking
+ affiliation; blood‐relationship; affinity; relationship
+verwar
+ 1. entangle; implicate
+ 2. confuse; puzzle
+verward
+ dazed; perplexed; upset
+verwerf
+ achieve; acquire; attain; get; obtain
+verwysing
+ reference
+veselperske
+ mango
+vet
+ 1. fat; fatty; greasy
+ 2. fat; grease
+vetterig
+ fat; fatty; greasy
+vier
+ four
+vierde
+ fourth
+viering
+ 1. celebration
+ 2. celebration
+ 3. celebration
+vinger
+ finger
+vinnig
+ 1. fast; quick; rapid; speedy; swift
+ 2. fast; quickly; swiftly
+viool
+ violin
+viooltjie
+ violet
+vir
+ 1. at; to; toward; towards
+ 2. for; during; whereas; while; whilst
+ 3. across from; against; in exchange for; opposed to; opposite; upon
+ 4. for; to; in order to; per
+virus
+ virus
+vis
+ fish
+visie
+ opinion
+visser
+ fisherman
+visvang
+ fish
+vitamien
+ vitamin
+vitamine
+ vitamin
+vla
+ cream
+vlag
+ banner; flag
+vlam
+ flame
+vlei
+ 1. flatter
+ 2. valley
+vleis
+ meat
+vleisbraai
+ barbecue
+vleuel
+ wing
+vlieg
+ 1. fly
+ 2. fly; housefly
+vliegtuig
+ 1. aeroplane; airplane; plane
+ 2. aircraft
+vliegveld
+ aerodrome; airdrome; airfield
+vlierboom
+ elder
+vloei
+ flow
+vloeistof
+ liquid
+vlug
+ flee; run away
+voedsel
+ food; nourishment
+voegwoord
+ conjunction
+voel
+ feel; sense
+voertuig
+ vehicle
+voetslaner
+ stroller
+vol
+ 1. complete; full
+ 2. completely; fully
+volg
+ follow
+volgende
+ 1. following; next
+ 2. following; next
+ 3. next
+volgens
+ according as; according to; as; by
+volledig
+ entire; overall; whole
+volstruis
+ ostrich
+volume
+ volume
+volwasse
+ adult; full‐grown
+vol
+ fill; fill in; fill up
+voor
+ before; in front of
+voorbeeld
+ example
+voorberei
+ prepare
+voordeel
+ 1. advantage; benefit
+ 2. advantage; benefit
+voorgereg
+ entrée
+voorgrond
+ 1. fore
+ 2. foreground
+ 3. close‐up
+voorheen
+ ahead; formerly; previously
+voorkom
+ 1. prevent
+ 2. be found; be located; find oneself
+voorkop
+ forehead
+voorletter
+ 1. initial
+ 2. initial
+voormalige
+ 1. former; last; previous; prior
+ 2. ex‐; former
+ 3. former
+voornaam
+ 1. first name
+ 2. Christian name
+voorraad
+ supply
+voorreg
+ privilege
+voorsit
+ 1. serve
+ 2. serve
+voorsitter
+ chairman; president
+voorskrif
+ regulation
+voorspelling
+ 1. prophecy
+ 2. forecast; prognosis
+voorstad
+ suburb
+voort
+ ahead; foreward; on
+voorval
+ event; occasion; occurence; opportunity
+voorwoord
+ foreword
+voor
+ before; previous to
+vorentoe
+ ahead; foreward; on
+vorm
+ 1. form; shape
+ 2. form; shape
+ 3. blank; form
+voël
+ bird
+vra
+ 1. ask
+ 2. ask; ask for; beg; bid; request
+vraag
+ question
+vragmotor
+ 1. lorry; truck
+ 2. lorry; truck
+vrede
+ peace
+vreedsaam
+ 1. peaceful
+ 2. peaceful; peaceloving
+vreemd
+ alien; foreign; strange
+vrees
+ fear
+vreeslik
+ awfully
+vreugde
+ gladness; joy
+vriend
+ friend
+vriendelik
+ affable; friendly; good‐natured; kind
+vriendelikheid
+ kindness
+vriendin
+ friend
+vries
+ freeze
+vrieshok
+ freezer
+vroeg
+ early
+vroegtydig
+ early
+vroeër
+ ahead; formerly; previously
+vroeëre
+ 1. former; last; previous; prior
+ 2. ex‐; former
+ 3. former
+vrolik
+ cheerful; gay; merry
+vrou
+ 1. wife
+ 2. woman
+vroulik
+ 1. female; feminine
+ 2. female
+vrug
+ fruit
+vrugbaar
+ fertile
+vrugteloos
+ 1. abortive; useless
+ 2. abortive; futile; useless; vain
+vryf
+ rub
+vryheer
+ baron
+vryheid
+ freedom
+vrymaak
+ release
+vrywilliger
+ volunteer
+vuil
+ dirty; filthy; nasty; soiled; unclean
+vuis
+ fist
+vulkaan
+ volcano
+vurk
+ fork
+vuur
+ fire
+vuurhoutjie
+ match
+vyand
+ adversary; enemy
+vyandelik
+ adverse; hostile
+vyf
+ five
+vyfde
+ fifth
+vyftien
+ fifteen
+vyftig
+ fifty
+waag
+ 1. dare
+ 2. be bold; dare
+waai
+ 1. blow
+ 2. blow
+waar
+ 1. where
+ 2. where
+ 3. true
+waarborg
+ guarantee; warrant
+waarde
+ value; worth
+waardeer
+ 1. appreciate
+ 2. appreciate
+ 3. appreciate; like
+waardevol
+ 1. costly; valuable
+ 2. valuable
+waarheen
+ 1. where; where ... to; whither
+ 2. where; where ... to; whither
+waarheid
+ 1. truth
+ 2. reality; truth
+waarin
+ 1. wherein
+ 2. in which; wherein
+waarmee
+ whereby
+waarnatoe
+ 1. where; where ... to; whither
+ 2. where; where ... to; whither
+waarom
+ what for; wherefore; why
+waarsku
+ caution; warn
+waarskuwing
+ warning
+waarskynlik
+ probably
+waarvandaan
+ from where; whence
+waar
+ 1. where; where ... to; whither
+ 2. where; where ... to; whither
+waatlemoen
+ 1. water‐melon
+ 2. water‐melon
+wag
+ abide; expect; wait; await; wait for
+wagkamer
+ waiting‐room; waiting room
+wag
+ abide; expect; wait; await; wait for
+walvis
+ whale
+wandel
+ go for a walk; stroll
+wandelaar
+ stroller
+wandelpad
+ 1. path
+ 2. path
+wang
+ cheek
+want
+ as; because; for; since
+ware
+ goods; wares
+warm
+ warm
+was
+ wax
+wat
+ 1. what
+ 2. that; what
+ 3. what
+ 4. that; what
+ 5. that; who
+ 6. that; who
+ 7. that; who
+ 8. that; who
+water
+ water
+watter
+ 1. which
+ 2. which
+ 3. which
+ 4. which
+ 5. which
+ 6. which
+ 7. which
+ 8. which
+wedstryd
+ 1. competition; contest
+ 2. game; match
+weduwee
+ widow
+week
+ 1. soften up
+ 2. soak
+weekliks
+ weekly
+weeldeartikel
+ luxury
+weens
+ 1. because of; on account of
+ 2. because of; for; for sake of; on account of; owing to; through
+weer
+ 1. afresh; again; all over again; anew
+ 2. afresh; again; once more
+ 3. weather
+weeskind
+ orphan
+weet
+ know; know how
+weggesteek
+ hidden
+weghardloop
+ abscond
+wegsteek
+ 1. put away; stow
+ 2. put away; store
+wegstuur
+ dismiss; turn away
+weier
+ refuse; reject
+weiering
+ refusal
+wekker
+ alarm; alarmclock
+welke
+ 1. which
+ 2. which
+ 3. which
+ 4. which
+ 5. which
+ 6. which
+ 7. which
+ 8. which
+welkom
+ welcome
+welvaart
+ 1. well‐being
+ 2. prosperity; success
+wen
+ earn; gain; win
+wenk
+ hint; tip
+wenkbrou
+ brow; eyebrow
+werk
+ 1. function; operate; run; work
+ 2. work
+ 3. job; work
+ 4. work
+werker
+ hand; laborer; labourer; operative; worker; working man; workman
+werkersklas
+ working class; working classes
+werkgewer
+ 1. employer
+ 2. employer
+werklik
+ 1. true
+ 2. absolutely; genuinly; indeed; really; truly
+werklikheid
+ actuality
+werkloos
+ unemployed
+werkloosheid
+ unemployment
+werknemer
+ employee
+werktuigkundige
+ mechanic
+werkwoord
+ verb
+wesel
+ weasel
+westelik
+ western
+wet
+ law
+wetenskap
+ science
+wewenaar
+ widower
+whisky
+ whisky; whiskey
+wie
+ 1. who
+ 2. who
+ 3. who
+ 4. who
+ 5. who
+ 6. who
+ 7. who
+ 8. who
+wiel
+ wheel
+wie
+ of which; which one's; whose
+wil
+ 1. be willing to; want; wish
+ 2. will; willingness; wish
+wildebees
+ gnu; wildebeest
+wilde
+ wild boar
+wilgerboom
+ willow
+wind
+ wind
+winkel
+ boutique; shop; store
+winkelvenster
+ show window
+wins
+ gain; profit
+winter
+ winter
+wiskunde
+ mathematics
+wiskundig
+ mathematical
+wissel
+ 1. interchange; swap
+ 2. change; turn
+wit
+ white
+witmens
+ European; white man
+woekerplant
+ parasite
+woestynbewoner
+ Bedouin
+wol
+ wool
+wolf
+ wolf
+wolvin
+ she‐wolf
+wond
+ injury; wound
+wonder
+ 1. ask oneself; wonder
+ 2. miracle
+wonderbaarlik
+ 1. miraculous
+ 2. amazing; astonishing
+ 3. wonderful
+woning
+ abode; accommodation; dwelling; residence
+woon
+ dwell; live
+woonstel
+ apartment; flat
+woord
+ word
+woordeboek
+ dictionary; vocabulary
+word
+ 1. become; come about; grow; happen
+ 2. become; get; grow
+wors
+ sausage
+wortel
+ 1. carrot
+ 2. root
+wreedaardig
+ cruel
+wurm
+ worm
+wyn
+ wine
+wys
+ 1. manner; mode; way
+ 2. melody; tune
+ 3. indicate; point out; show
+ 4. sagacious; sage; wise
+ 5. vote
+wyse
+ manner; mode; way
+wysheid
+ 1. wisdom
+ 2. wisdom
+wysie
+ melody; tune
+wêreld
+ world
+xeres
+ sherry
+xilofoon
+ xylophone
+yoghurt
+ yoghourt; yoghurt
+ys
+ 1. ice; icecream
+ 2. ice
+yster
+ iron
+ytterbium
+ ytterbium
+zirkonium
+ zirconium
+bak,
+ jug; box; container; vessel
+'n
+ a; an
+'n
+ a little; rather
+'n
+ a few; any; some
+'n
+ recently
+'n
+ an hour's walk
+pgähyzriïsjaçkbècétulmdêeëvfwnôxo

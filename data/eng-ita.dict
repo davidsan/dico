@@ -1,0 +1,10309 @@
+
+00-database-dictfmt-1.10.11
+English-Italian FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.1.1
+Size: about 4500 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: eng-ita.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  originally generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-19 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-02-11 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-12-10 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-12-10 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+English-Italian FreeDict Dictionary ver. 0.1.1
+http://freedict.org/
+ABC
+ alfabeto
+Abyssinia
+ 1. Abissinia
+ 2. Etiopia
+Abyssinian
+ 1. abissino
+ 2. abissino
+Acheron
+ 1. Acheronte
+ 2. Acheronte
+Achilles
+ Achille
+Achilles'
+ tallone d'Achille
+Achilles'
+ tendine d'Achille
+Adam
+ Adamo
+Adam's
+ pomo d'Adamo
+Adonis
+ Adone
+Adriatic
+ Mar Adriatico
+Adriatic
+ Mar Adriatico
+Aeolus
+ Eolo
+Afghan
+ 1. afgano
+ 2. afgano
+Afghanistan
+ Afghanistan
+Africa
+ Africa
+African
+ 1. africano
+ 2. africano
+Aix‐la‐Chapelle
+ Aquisgrana
+Ajax
+ Aiace
+Alaska
+ Alasca
+Albania
+ Albania
+Albanian
+ 1. albanese
+ 2. albanese
+Alexander
+ Alessandro
+Alexandria
+ Alessandria d'Egitto
+Algeria
+ Algeria
+Algerian
+ 1. algerino
+ 2. algerino
+Algiers
+ Algeri
+All
+ Ognissanti
+All
+ Ognissanti
+All
+ il giorno dei Morti
+Alps
+ Alpi
+Alsace‐Lorraine
+ Alsazia‐Lorena
+Alsatian
+ 1. alsaziano
+ 2. alsaziano
+ 3. alsaziano
+Amazon
+ 1. Rio delle Amazzoni
+ 2. amazzone
+America
+ America
+American
+ 1. americano
+ 2. americano
+ 3. americano
+ 4. americano
+American
+ indiano; indiano americano
+Anatolia
+ Anatolia
+Andalusia
+ Andalusia
+Andalusian
+ 1. andaluso
+ 2. andaluso
+Andes
+ Ande
+Andorra
+ Andorra
+Andorrian
+ 1. andorrano
+ 2. andorrano
+Angola
+ Angola
+Angolan
+ angolano
+Angolese
+ angolano
+Annunciation
+ Annunciazone
+Antarctic
+ 1. Antartico
+ 2. Antartico; Antartide; Polo Sud
+ 3. antartico
+Antarctic
+ Oceano Antartico
+Antilles
+ Antille
+Antillian
+ 1. delle Antille
+ 2. uomo delle Antille
+Antwerp
+ Anversa
+Apennines
+ Appennini
+Apocalypse
+ Apocalisse
+April
+ aprile
+Arab
+ arabo
+Arabia
+ Arabia
+Arabian
+ arabo
+Arabian
+ Mare Arabico
+Arabic
+ arabo
+Arcadia
+ Arcadia
+Archimedes
+ Archimede
+Arctic
+ Artico
+Ardennes
+ Ardenne
+Argentina
+ Argentina
+Argentine
+ argentino
+Aristotle
+ Aristotele
+Armenia
+ Armenia
+Armenian
+ 1. armeno
+ 2. armeno
+Ascension
+ Ascensione
+Asia
+ Asia
+Asian
+ 1. asiatico
+ 2. asiatico
+Asiatic
+ asiatico
+Asia
+ 1. Anatolia
+ 2. Asia Minore
+Assisi
+ Assisi
+Assumption
+ Assunzione
+Assyria
+ Assiria
+Assyrian
+ 1. assiro
+ 2. assiro
+Athena
+ Atene
+Athene
+ Atene
+Athenian
+ 1. ateniese
+ 2. ateniese
+Athens
+ Atene
+Atlantic
+ 1. Atlantico
+ 2. atlantico
+Atlantic
+ Atlantico
+Atlantis
+ Atlantide
+August
+ agosto
+Australia
+ Australia
+Australian
+ 1. australiano
+ 2. australiano
+Austria
+ Austria
+Austrian
+ 1. austriaco
+ 2. austriaco
+Azerbaijan
+ Azerbaigian
+Bacchus
+ Bacco
+Balkans
+ Balcani
+Baltic
+ Baltico
+Belgian
+ belga
+Belgium
+ Belgio
+Berlin
+ Berlino
+Bible
+ Bibbia
+Brazil
+ Brasile
+Brazilian
+ brasiliano
+Bretagne
+ Bretagna
+Britain
+ Gran Bretagna
+Brittany
+ Bretagna
+Burgundy
+ Borgogna
+Burma
+ Birmania
+Caesar
+ Cesare
+Cain
+ Caino
+Cairo
+ Cairo
+Canada
+ Canadà
+Canary
+ Canarie
+Cape
+ Città del Capo
+Capricorn
+ Capricorno
+Carthage
+ Cartagine
+Castile
+ Castiglia
+Cato
+ Catone
+Cerberus
+ Cerbero
+Chile
+ Cile
+China
+ Cina
+Chinaman
+ cinese
+Chinese
+ cinese
+Christ
+ Cristo
+Christian
+ cristiano
+Christian
+ nome di battetismo
+Christmas
+ Natale
+Corsica
+ Corsica
+Croatia
+ Croazia
+Cyprus
+ Cipro
+Czechoslovakia
+ Cecoslovacchia
+Dalmatia
+ Dalmazia
+Damascus
+ Damasco
+Dane
+ danese
+Danube
+ Danubio
+December
+ dicembre
+Denmark
+ Danimarca
+Dublin
+ Dublino
+Dutchman
+ 1. olandese
+ 2. Olandese
+East
+ est
+Easter
+ Pasqua
+Egypt
+ Egitto
+England
+ 1. Inghilterra
+ 2. Inghilterra
+English
+ inglese
+Englishman
+ inglese
+Epiphany
+ Befana; Epifania
+Ethiopia
+ Etiopia
+Europa
+ 1. Europa
+ 2. Europa
+Europe
+ Europa
+European
+ europeo
+European
+ Unione Europea
+Eva
+ Eva
+Evening
+ Venere
+February
+ febbraio
+Finland
+ Finlandia
+Finn
+ finlandese
+France
+ Francia
+French
+ francese
+Frenchman
+ francese
+Friday
+ venerdì
+Gascony
+ Guascogna
+Geneva
+ Ginevra
+Genoa
+ Genova
+German
+ 1. tedesco
+ 2. tedesco
+Germany
+ Germania
+God
+ Dio; Iddio
+God's
+ camposanto; cimitero
+Great
+ Gran Bretagna
+Greece
+ Grecia
+Greek
+ 1. greco
+ 2. greco
+Greenland
+ 1. Groenlandia
+ 2. Groenlandia
+Guinea
+ Guinea
+Hades
+ Ade
+Hamburg
+ Amburgo
+Holland
+ 1. Olanda
+ 2. Olanda
+Hollander
+ olandese
+Hungarian
+ ungherese
+Hungary
+ Ungheria
+Iceland
+ Islanda
+India
+ India
+Indian
+ indiano; indiano americano
+Indian
+ granturco
+Indo‐China
+ Indocina
+Ireland
+ Irlanda
+Irishman
+ irlandese
+Islam
+ Islam
+Istria
+ Istria
+Italian
+ italiano
+Italy
+ Italia
+January
+ gennaio
+Japan
+ Giappone
+Japanese
+ giapponese
+Jericho
+ Gerico
+Jerusalem
+ Gerusalemme
+Jordan
+ 1. Giordania
+ 2. Giordano
+Joseph
+ Giuseppe
+Joshua
+ Giosuè
+Jove
+ Giove
+July
+ luglio
+June
+ giugno
+Juno
+ Giunone
+Jupiter
+ 1. Giove
+ 2. Giove
+Koran
+ Corano
+Korea
+ Corea
+Kremlin
+ Cremlino
+Lady
+ Annunciazone
+Lapland
+ Lapponia
+Latvia
+ Lettonia
+Lebanon
+ Libano
+Leghorn
+ Livorno
+Lisbon
+ Lisbona
+Lithuania
+ Lituania
+Little
+ Cappuccetto Rosso
+London
+ Londra
+Lucifer
+ Satana
+Machiavelli
+ Machiavelli
+March
+ marzo
+May
+ maggio
+Mecca
+ Mecca
+Messiah
+ Messia
+Mexico
+ Messico
+Mexico
+ Città del Messico
+Milan
+ Milano
+Mister
+ signore
+Mohammed
+ Maometto
+Monday
+ lunedì
+Moscow
+ Mosca
+Mr.
+ signore
+Mrs.
+ signora
+Muhammad
+ Maometto
+Nebuchadnezzar
+ Nabucodonosor
+Neptune
+ Nettuno
+Newfoundland
+ Terranova
+New
+ Nuova York
+New
+ Nuova York
+New
+ Nuova York
+Nimrod
+ Nembrod
+North
+ nord
+North
+ America del Nord
+Norway
+ Norvegia
+Norwegian
+ norvegese
+November
+ novembre
+October
+ ottobre
+Orkneys
+ Orcadi
+Orkney
+ Orcadi
+Orpheus
+ Orfeo
+Pakistan
+ Pakistan
+Paris
+ Parigi
+Parthian
+ 1. parziale
+ 2. parte; porzione
+ 3. parte; porzione
+Po
+ Po
+Poland
+ Polonia
+Pole
+ polacco
+Portugal
+ Portogallo
+Portuguese
+ portoghese
+Rhine
+ Reno
+Rhineland
+ Renania
+Rhine
+ chiatta
+Roman
+ 1. romano
+ 2. romano
+Rome
+ Roma
+Russia
+ Russia
+Russian
+ russo
+Sabbath
+ sabato
+Sardina
+ Sardegna
+Sardinia
+ Sardegna
+Sassenach
+ inglese
+Satan
+ Satana
+Saturday
+ sabato
+Saudi
+ Arabia Saudita
+Scot
+ scozzese
+Scotland
+ Scozia
+Scotsman
+ scozzese
+September
+ settembre
+Shanghai
+ Sciangai
+Siam
+ Tailandia
+Sicily
+ Sicilia
+South
+ America del Sud
+Spain
+ Spagna
+Spaniard
+ spagnolo; spagnuolo
+Stockholm
+ Stoccolma
+Sunday
+ domenica
+Swede
+ svedese
+Sweden
+ Svezia
+Swiss
+ svizzero
+Switzerland
+ Svizzera
+Tangier
+ Tangeri
+Thailand
+ Tailandia
+Thames
+ Tamigi
+The
+ L'Aia
+Thursday
+ giovedì
+Tuesday
+ martedì
+Turin
+ Torino
+Turk
+ turco
+Turkey
+ Turchia
+Twelfth‐night
+ Befana; Epifania
+Tyrrhenian
+ Mar Tirreno
+‐in‐law
+ per via di matrimonio
+USA
+ America; Stati Uniti
+US
+ americano
+United
+ America; Stati Uniti
+Uruguay
+ Uruguai
+VAT
+ IVA
+Vatican
+ Città del Vaticano
+Venetia
+ Venezia
+Venice
+ Venecia
+Venus
+ 1. Venere
+ 2. Venere
+Vienna
+ Vienna
+Vietnam
+ Vietnam
+Wales
+ Galles
+Wednesday
+ mercoledì
+West
+ ovest
+Xanthippe
+ megera
+Yugoslavia
+ Iugoslavia
+Yule
+ Natale
+ZIP
+ CAP; codice di avviamento postale
+Zurich
+ Zurigo
+...
+ ... fa
+a
+ a; dentro
+abacus
+ 1. abaco
+ 2. pallottoliere
+ 3. abaco; pallottoliere
+abandon
+ abbandonare
+abandonment
+ cessione
+abashed
+ timido
+abate
+ 1. diminuire
+ 2. diminuire
+abbess
+ badessa
+abbey
+ badia
+abbot
+ abate
+abbreviation
+ abbreviazione
+abdication
+ abdicazione
+abdomen
+ ventre
+aberration
+ errore; sbaglio
+abet
+ 1. aiutare; assistere
+ 2. incitare; spronare
+ 3. poggiare; appoggiare; sostenere
+abhor
+ detestare
+abhorrence
+ 1. orrore; ribrezzo
+ 2. orrore; ribrezzo
+abhorrent
+ orrendo; orribile
+abide
+ aspettare
+abiding
+ continuo; durevole; permanente
+ability
+ abilità; capacità
+abject
+ miserabile; misero; povero
+abjure
+ annullare
+ablaze
+ ardente
+able
+ abile; adatto; capace; idoneo
+abnormal
+ anormale
+abode
+ 1. residenza
+ 2. alloggio; appartamento
+ 3. residenza
+abolish
+ 1. abolire; abrogare
+ 2. annullare
+abolition
+ 1. abolizione; abrogazione
+ 2. abolizione; abrogazione
+abominable
+ orrendo; orribile
+abominate
+ detestare
+abomination
+ orrore; ribrezzo
+abort
+ abortire
+abortion
+ aborto
+about‐face
+ cambiamento
+about
+ 1. concernere
+ 2. circa; verso
+ 3. intorno a
+above‐board
+ 1. onesto
+ 2. sincero
+above
+ 1. sopra
+ 2. di sopra
+above
+ 1. soprattutto
+ 2. principalmente; soprattutto
+abridge
+ limitare; restringere
+abridgement
+ sommario
+abroad
+ 1. all'estero
+ 2. fuori
+ 3. all'estero
+abrogate
+ 1. abolire; abrogare
+ 2. annullare
+abrogation
+ 1. abolizione; abrogazione
+ 2. abolizione; abrogazione
+abrupt
+ 1. ripido
+ 2. subitaneo
+abscess
+ ascesso
+abscond
+ fuggire
+absence
+ 1. assenza
+ 2. mancanza
+absent
+ 1. assente
+ 2. assente
+absent
+ andarsene; partire
+absolute
+ completo
+absolutely
+ davvero; infatti
+absolute
+ autocrate
+absorb
+ disporre
+abstract
+ 1. astratto
+ 2. concludere; dedurre
+ 3. ritirare
+ 4. concludere; dedurre
+ 5. sommario
+abstraction
+ furto
+abstruse
+ misterioso
+absurd
+ assurdo
+abundance
+ 1. abbondanza
+ 2. abbondanza; affluenza
+ 3. ricchezza
+abuse
+ 1. insultare; offendere
+ 2. insultare; offendere
+abysmal
+ terribile
+abyss
+ abisso; burrone
+academic
+ studente
+academy
+ accademia
+academy
+ conservatorio
+accede
+ concordare; esserer d'accordo
+accelerate
+ accelerare
+accelerator
+ acceleratore
+accelerator
+ acceleratore
+accent
+ 1. accentare
+ 2. accento
+ 3. accento
+accentuate
+ accentare
+accept
+ accettare; accogliere
+acceptable
+ accettabile
+acceptance
+ accoglienza; accoglimento
+access
+ assalto; attacco
+accession
+ guadagno
+accidence
+ caso
+accident
+ accidente; disgrazia; incidente
+acclaim
+ 1. acclamare
+ 2. applaudire; battere le mani
+ 3. applausi
+ 4. approvazione
+acclamation
+ applausi
+accommodating
+ servizievole
+accommodation
+ 1. aggiustamento
+ 2. accomodamento
+ 3. accomodamento; accordo; patto
+ 4. compromesso
+ 5. alloggio; appartamento
+accomodate
+ 1. finire; terminare
+ 2. aiutare
+accompany
+ accompagnare
+accomplish
+ 1. arrivare
+ 2. compiere; eseguire
+accord
+ 1. accordo
+ 2. accomodamento; accordo; patto
+ 3. permettere
+accordance
+ accordo
+accordion
+ fisarmonica
+account
+ 1. spiegazione
+ 2. fattura
+ 3. conto
+ 4. spiegazione
+ 5. considerare
+ 6. conto
+ 7. credere
+ 8. pareggiamento dei conti
+accountable
+ 1. responsabile
+ 2. responsabile
+accountant
+ perito contabile
+accounting
+ contabilità
+account
+ 1. spiegare
+ 2. spiegare
+accredit
+ credere
+accretion
+ crescimento
+accrue
+ 1. discendere
+ 2. crescere
+accumulation
+ 1. accumulazione
+ 2. accumulazione
+ 3. folla
+accumulator
+ 1. accumulatore
+ 2. accumulatore
+accurate
+ esatto; preciso
+accusal
+ accusa; imputazione; incriminazione
+accusation
+ 1. accusa; imputazione; incriminazione
+ 2. denuncia
+accuse
+ 1. accusare; caricare
+ 2. denunciare
+accused
+ 1. accusato; imputato
+ 2. accusato; imputato
+accuser
+ accusatore
+accustom
+ solere
+accustomed
+ consueto; usuale
+accustom
+ abituarsi; avvezzarsi
+ace
+ asso
+acerbic
+ 1. acuto; affilato; aguzzo; appuntito; aspro; piccante; tagliente
+ 2. amaro
+acetous
+ acido; agro
+ache
+ 1. far male
+ 2. dolore
+achieve
+ 1. arrivare
+ 2. commettere; fare
+ 3. compiere; eseguire
+achievement
+ 1. azione
+ 2. successo
+acid
+ acido; agro
+acknowledge
+ 1. confessare
+ 2. confermare
+acknowledgement
+ 1. confessione
+ 2. ricevuta
+acolyte
+ membro
+acorn
+ ghianda
+acquaint
+ 1. informare; insegnare
+ 2. insegnare
+acquaintance
+ conoscenza
+acquire
+ comperare; comprare
+acquisition
+ 1. guadagno
+ 2. acquisto; compra
+ 3. acquisto; compra
+acquisitive
+ avido; bramoso
+acquittal
+ pagamento
+across
+ attraverso
+across
+ contro
+act
+ 1. agire
+ 2. azione
+ 3. atto; azione; documento
+ 4. atto; azione; documento
+ 5. commettere; fare
+action
+ 1. azione
+ 2. battaglia
+ 3. processo
+activate
+ causare
+active
+ 1. attivo; operoso
+ 2. attivo; laborioso
+activity
+ occupazione
+actor
+ attore
+actress
+ attrice
+actual
+ reale
+actually
+ di fatto
+actuate
+ muovere
+act
+ rappresentare
+act
+ amnistia
+acuity
+ attenzione
+acute
+ acuto
+ad
+ annuncio; avviso; inserzione
+adapt
+ 1. adattare; aggiustare
+ 2. adattare; aggiustare
+add
+ aggiungere
+adder
+ vipera
+addled
+ ignorante; sciocco; stupido
+address
+ 1. indirizzare
+ 2. indirizzo
+address
+ indirizzario
+adherents
+ partito; seguito
+adieu
+ addio
+adjacent
+ vicino
+adjectival
+ aggettivo
+adjective
+ aggettivo
+adjust
+ adattare; aggiustare
+adjustable
+ chiave
+adjustment
+ accomodamento
+adjutant
+ aiutante
+administer
+ 1. amministrare; dirigere
+ 2. amministrare; dirigere
+ 3. amministrare; dirigere
+administer
+ amministrare gli ultimi sacramenti
+administration
+ 1. amministrazione
+ 2. amministrazione; direzione; gestione
+ 3. amministrazione; direzione; gestione
+ 4. governo
+admirable
+ ammirabile
+admiral
+ ammiraglio
+admiration
+ ammirazione
+admire
+ ammirare
+admission
+ 1. accoglienza; accoglimento
+ 2. confessione
+admit
+ 1. confessare
+ 2. permettere
+admixture
+ mistura
+admonition
+ ammonimento; esortazione
+ado
+ rumore
+adopt
+ 1. adottare
+ 2. adottare
+adopted
+ adottivo
+adore
+ adorare; venerare
+adorn
+ decorare
+adroit
+ abile; destro; lesto; sveglio
+adulterer
+ adultero
+adulterous
+ adultero
+adultery
+ adulterio
+advance
+ avvicinarsi
+advancement
+ progresso
+advantage
+ beneficio; guadagno; profitto; vantaggio
+advantageous
+ utile
+adventure
+ avventura
+adverb
+ avverbio
+adversary
+ nemico
+adverse
+ nocivo
+advert
+ aspettare; attendere
+advertence
+ attenzione
+advertency
+ attenzione
+advertise
+ annunciare; annunziare; pubblicare
+advertisement
+ annuncio; avviso; inserzione
+advice
+ 1. avviso; consiglio
+ 2. annunzio; comunicato
+advise
+ consigliare; raccomandare
+advise
+ sconsigliare
+advocate
+ avvocato
+aerate
+ aerare; arieggiare; ventilare
+aerial
+ antenna
+aeronautics
+ aviazione
+aeroplane
+ aereo; aeroplano
+affable
+ amichevole; benevole; carino; cortese; gradevole; grazioso
+affair
+ 1. affare; faccenda
+ 2. caso
+affectation
+ affettazione; posa
+affection
+ 1. amore
+ 2. affetto; affezione
+affiliation
+ parentado; parentela
+affined
+ congiunto; parento
+affinity
+ parentado; parentela
+affirm
+ 1. assicurare
+ 2. affermare
+affirmation
+ promessa
+affix
+ fissare
+affluence
+ ricchezza
+affluent
+ ricco
+afford
+ 1. permettere
+ 2. produrre
+afire
+ ardente
+aflame
+ ardente
+afraid
+ 1. angoscioso; pauroso
+ 2. inquieto
+ 3. angoscioso; pauroso
+afresh
+ 1. ancora; di nuovo
+ 2. ancora; di nuovo
+after
+ 1. dietro; dopo
+ 2. dietro; dopo
+afternoon
+ pomeriggio
+afterwards
+ dietro; dopo
+again
+ 1. ancora; di nuovo
+ 2. ancora; di nuovo
+against
+ contro
+age
+ età
+agency
+ agenzia
+agent
+ 1. agente
+ 2. arnese; strumento
+aggrandize
+ ingrandire
+aggravating
+ indecente; scandaloso
+aggression
+ assalto; attacco
+aggressive
+ aggressivo
+aggressor
+ aggressore; assalitore
+agile
+ agile; snello
+agitation
+ agitazione
+aglow
+ ardente
+agog
+ 1. curioso
+ 2. curioso
+agonize
+ torturare
+agonizing
+ orrendo; orribile
+agony
+ 1. agonia
+ 2. angoscia
+agrarian
+ agricoltore
+agree
+ 1. convenire; pattuire
+ 2. concordare; esserer d'accordo
+agreeable
+ gradevole; piacevole
+agreeably
+ piacevolmente
+agreement
+ 1. accordo
+ 2. accomodamento; accordo; patto
+ 3. accordo
+agriculture
+ agricoltura
+ague
+ febbre
+ahead
+ 1. davanti
+ 2. avanti
+aid
+ 1. assistente
+ 2. aiutare; assistere
+ 3. aiuto; assistenza
+ 4. aiutare
+ 5. aiuto
+aide‐de‐camp
+ aiutante
+ailment
+ malattia
+aim
+ proposito; scopo
+air
+ 1. aria
+ 2. aria
+airplane
+ aereo; aeroplano
+airport
+ 1. aeroporto
+ 2. aeroporto
+airy‐fairy
+ cattivo
+air
+ aerare; arieggiare; ventilare
+akin
+ congiunto; parento
+alacrity
+ entusiasmo
+alarm
+ 1. allarme
+ 2. sveglia
+alarmclock
+ sveglia
+album
+ album
+alcohol
+ alcool
+alcoholic
+ alcoolico
+alcove
+ alcova
+alder
+ ontano
+ale
+ birra
+alien
+ 1. orrendo; orribile
+ 2. straniera
+alike
+ simile
+all‐knowing
+ onnisciente
+all‐powerful
+ onnipotente
+all
+ tutto
+alley
+ vicolo
+allow
+ permettere
+allude
+ alludere
+all
+ dappertutto
+all
+ ad un tratto; improvvisamente
+all
+ ancora; di nuovo
+all
+ di ogni genere; ogni sorta di
+all
+ di ogni genere; ogni sorta di
+all
+ ogni; ognuno; tutto
+almighty
+ onnipotente
+almond
+ mandorla
+almost
+ quasi
+alms
+ elemosina
+alone
+ solo
+alongside
+ accanto
+alphabet
+ 1. alfabeto
+ 2. alfabet
+already
+ già
+also
+ anche
+altar
+ altare
+alter
+ cambiarsi
+alteration
+ 1. cambiamento
+ 2. cambiamento
+alternative
+ alternativa
+although
+ benche; sebbene
+altitude
+ altitudine
+altogether
+ tutto
+alum
+ allume
+always
+ sempre
+amateur
+ dilettante
+amaze
+ sbalordire
+ambassador
+ ambasciatore
+amber
+ ambra gialla
+ambiguous
+ 1. ambiguo; equivoco
+ 2. ambiguo; equivoco
+ambition
+ ambizione
+ambulance
+ ambulanza
+amnesty
+ amnistia
+amortize
+ ammortizzare
+amount
+ 1. numero
+ 2. importo; somma
+amount
+ ammontare a
+amputate
+ amputare
+amuse
+ divertire
+amusement
+ divertimento
+amusing
+ divertente
+anaemia
+ anemia
+analyse
+ analizzare
+analyst
+ analizzatore
+analytical
+ analizzatore
+anathema
+ 1. anatema
+ 2. scomunica
+anchor
+ ancora
+anchovy
+ acciuga; alice
+ancient
+ antico
+and
+ eccetera
+anemone
+ anemone
+anew
+ ancora; di nuovo
+angel
+ angelo
+angle
+ angolo
+angry
+ irato
+anguish
+ angoscia
+animal
+ 1. animale
+ 2. animale; bestia
+animate
+ animare
+ankle
+ caviglia
+annexation
+ annessione
+anniversary
+ compleanno
+annotation
+ annotazione; nota
+announce
+ annunciare; annunziare; pubblicare
+announcement
+ annunzio; comunicato
+annual
+ annuale
+annul
+ annullare
+another
+ altro
+answer
+ 1. replicare; rispondere
+ 2. rispondere a
+ 3. risposta
+ant
+ formica
+antenna
+ antenna
+anthology
+ antologia
+anthracite
+ antracite
+antibiotic
+ antibiotico
+anticipate
+ anticipare
+antifreeze
+ anticongelante
+antique
+ antico
+antiseptic
+ antisettico
+anvil
+ incudine
+anxiety
+ ansia; ansietà
+anywhere
+ in qualche luogo
+apart
+ separato
+apartment
+ appartamento
+apart
+ eccetto; salvo
+apathy
+ apatia
+ape
+ scimmia
+apiarist
+ apicoltore; apicultore
+apologize
+ scusarsi
+apology
+ scusa
+apoplectic
+ apoplessia
+apostle
+ apostolo
+apparatus
+ apparecchio
+apparently
+ evidentemente
+appeal
+ domanda; preghiera
+appear
+ 1. apparire
+ 2. parere
+ 3. parere
+appearance
+ 1. apparenza; aria; aspetto
+ 2. apparenza; aria
+appear
+ parere
+appease
+ calmare; placare
+appellation
+ nome
+appetite
+ appetito
+applaud
+ 1. acclamare
+ 2. applaudire; battere le mani
+apple‐tree
+ melo
+apple
+ mela
+applicant
+ petente; postulante; supplicante
+apply
+ applicare
+appoint
+ nominare
+appointment
+ 1. nomina
+ 2. appuntamento
+appointment
+ nomina
+appraise
+ apprezzare; stimare; valutare
+appreciate
+ 1. apprezzare
+ 2. apprezzare
+apprehension
+ arresto
+approach
+ accesso
+appropriate
+ conveniente
+approval
+ 1. applausi
+ 2. approvazione
+approve
+ approvare
+approximately
+ circa; verso
+apricot
+ albicocca
+aptitude
+ ingegno; talento
+arbiter
+ arbitro
+arbitrary
+ arbitrario
+arbitrator
+ arbitro
+arbor
+ albero
+arc
+ arco
+archbishop
+ arcivescovo
+archduke
+ arciduca
+architect
+ architetto
+archivist
+ archivista
+ardent
+ ardente
+are
+ gruppo
+arena
+ arena
+argument
+ argomento
+aria
+ aria
+arise
+ 1. salire
+ 2. nascere
+aristocratic
+ aristocratico
+arm
+ 1. armare
+ 2. bracchio
+armchair
+ 1. poltrona
+ 2. poltrona
+armoury
+ arsenale
+army
+ 1. esercito
+ 2. esercito
+army
+ cappellano militare
+aroma
+ aroma
+around
+ intorno a
+arrange
+ predisporre; sistemare
+arrangement
+ accomodamento
+arrest
+ 1. arrestare
+ 2. arresto
+arrested
+ arrestato; detenuto; prigioniero
+arrival
+ arrivo; venuta
+arrive
+ arrivare
+arsenal
+ arsenale
+art
+ arte
+artery
+ arteria
+artichoke
+ carciofo
+article
+ 1. merce; prodotto
+ 2. articolo
+ 3. articolo
+ 4. cosa; ogetto
+article
+ abito
+artillery
+ artiglieria
+as
+ 1. come
+ 2. come
+ 3. così
+ 4. considerato che; visto che
+asbestos
+ amianto
+ascend
+ 1. salire
+ 2. salire
+ascertain
+ constatare
+ash
+ 1. cenere
+ 2. frassino
+ashtray
+ portacenere
+ask
+ 1. domandare
+ 2. chiedere
+ask
+ chiedere
+asparagus
+ asparago
+aspect
+ apparenza; aria; aspetto
+asphalt
+ asfalto
+ass
+ asino; ciuco
+assailant
+ aggressore; assalitore
+assault
+ 1. attaccare
+ 2. aggredire; assalire
+ 3. attentato
+assemblage
+ convegno
+assembly
+ accumulazione
+assent
+ affermare
+assert
+ asserire; sostenere
+assertion
+ asserzione
+assets
+ 1. attivo
+ 2. attivo
+assigned
+ compito
+assist
+ 1. aiutare; assistere
+ 2. aiutare
+assistant
+ 1. assistente
+ 2. assistente
+associate
+ unirsi
+assure
+ assicurare
+asthma
+ asma
+asylum
+ asilo; ricovero
+as
+ di fatto
+as
+ d'altronde; inoltre
+as
+ come se
+as
+ come se
+at
+ 1. a
+ 2. a; su
+atmosphere
+ 1. atmosfera
+ 2. atmosfera
+atom
+ atomo
+atomic
+ energia atomica
+atom
+ bomba atomica
+atpersand
+ chiocciola; chiocciolina
+attach
+ 1. affigere
+ 2. fissare
+attack
+ 1. attaccare
+ 2. assalto; attacco
+attacker
+ aggressore; assalitore
+attain
+ arrivare
+attempt
+ provare
+attend
+ 1. curare
+ 2. visitare
+attendance
+ servizio
+attention
+ attenzione
+attentive
+ attento
+attitudinize
+ posare
+attract
+ 1. attrarre
+ 2. attirare
+attraction
+ forza attrativa
+attractive
+ allettante; attraente; seducente
+attune
+ adattare; aggiustare
+at
+ all'inizio; dapprima; dapprincipio
+at
+ a casa; in casa
+at
+ alla fine; finalmente
+at
+ almeno; per lo meno
+at
+ 1. tutt'al più
+ 2. tutt'al più
+at
+ 1. direttamente
+ 2. fra poco; immediatamente; subito
+at
+ là; laggiú; li
+at
+ all'inizio; dapprima; dapprincipio
+at
+ in tempo
+at
+ allo stesso tempo
+aubergine
+ melanzana
+audience
+ 1. udienza
+ 2. uditorio
+audit
+ controllare; verificare
+auditory
+ uditorio
+augment
+ ingrandire
+aunt
+ zia
+aurora
+ alba; aurora
+author
+ 1. autore
+ 2. autore
+authority
+ autorità
+autobus
+ autobus
+autocrat
+ autocrate
+automoton
+ automa
+autumn
+ autunno
+avail
+ essere utile; giovare; servire; utilizzare
+available
+ disponibile
+avaricious
+ avaro
+average
+ 1. medio
+ 2. mezzo
+aversion
+ avversione; ripugnanza
+aviation
+ aviazione
+avoid
+ evitare
+await
+ aspettare
+aware
+ cosciente
+awareness
+ consapevolezza; coscienza
+away
+ lontano
+awful
+ orrendo; orribile
+axe
+ ascia; scure
+axiom
+ assioma
+axis
+ assale; asse; perno
+axle
+ assale; asse; perno
+a
+ a lungo; da molto; per molto tempo
+a
+ molto
+babysitter
+ bambinaia
+back‐door
+ porta di dietro
+back
+ dorso
+backbiting
+ maldicenza
+background
+ fondo; sfondo
+backside
+ sedere
+backward
+ 1. a rovescio; supino
+ 2. indietro
+ 3. deficiente
+backwards
+ 1. indietro
+ 2. a rovescio; indietro; all'indietro; supino
+back
+ quartiere popolare; rione popolare
+bacon
+ lardo
+bacterium
+ batterio
+bad
+ cattivo
+badger
+ tasso
+badly
+ male
+bag
+ 1. borsa
+ 2. borsa
+bagasse
+ bagassa
+baggage
+ bagaglio
+bairn
+ bambino; fianciullo
+bait
+ esca
+baize
+ tessuto di lana
+bake
+ cuocere
+baker
+ fornaio
+bakery
+ panetteria
+balance
+ bilancio
+balcony
+ balcone; terrazzo
+bale
+ balla
+baleen
+ 1. osso di balena
+ 2. osso di balena
+ball‐bearing
+ globo
+ball‐frame
+ pallottoliere
+ball
+ 1. ballo
+ 2. globo
+ 3. palla
+ 4. sfera
+ballad
+ ballata
+ballade
+ ballata
+ballast
+ zavorra
+ballet
+ balletto
+ballet
+ ballerino
+balloon
+ pallone
+ballpoint
+ penna a sfera
+balustrade
+ parapetto
+bamboo
+ bambù
+ban
+ 1. anatema
+ 2. scomunica
+banana
+ banana
+bandit
+ bandito; brigante
+banisters
+ parapetto
+bank‐note
+ banconota
+bank
+ banca
+banking
+ conto bancario
+bankrupt
+ bancarotta; fallimento
+bankruptcy
+ fallimento
+bank
+ conto bancario
+bank
+ banchiere
+bank
+ banchiere
+banner
+ bandiera
+baptism
+ battesimo
+baptismal
+ fonte battesimale
+baptize
+ battezzare
+bar
+ 1. sbarrare
+ 2. eccetto; salvo
+ 3. impedire
+ 4. bar
+barbarian
+ barbaro
+barbaric
+ barbaro
+barber
+ 1. barbiere
+ 2. parrucchiere
+bare
+ nudo
+barely
+ appena
+bargain
+ mercanteggiare
+barge
+ 1. chiatta
+ 2. chiatta
+bark
+ corteccia
+barley
+ orzo
+barn
+ 1. baracca
+ 2. granaio
+barometer
+ barometro
+baron
+ barone
+barrack
+ baracca
+barracks
+ 1. caserma
+ 2. caserma
+barrel
+ 1. barile
+ 2. condotto
+barren
+ sterile
+barrier
+ barriera
+barring
+ eccetto; salvo
+barrister‐at‐law
+ avvocato
+barrister
+ avvocato
+base
+ basare; fondare
+basin
+ bacino
+basket
+ cesto
+bass
+ pesce persico
+bast
+ corteccia; scorza
+bastard
+ bastardo
+bastion
+ baluardo; bastione
+bath
+ 1. vasca da bagno
+ 2. bagno
+bathe
+ 1. bagnare
+ 2. bagnarsi
+bathing‐suit
+ costume da bagno
+bathing
+ costume da bagno
+bathroom
+ 1. stabilimento balneare
+ 2. sala da bagno; stanza da bagno
+battalion
+ battaglione
+battery
+ 1. accumulatore
+ 2. accumulatore
+ 3. batteria
+ 4. batteria
+battle
+ battaglia
+bay
+ baia
+bayonet
+ baionetta
+bazaar
+ bazar
+beach
+ spiaggia
+beacon
+ boa; gavitello
+beak
+ becco
+beam
+ 1. sciopero
+ 2. trave
+bean
+ fava
+bear
+ 1. produrre
+ 2. orso
+beard
+ barba
+beast
+ animale; bestia
+beat
+ battere
+beautiful
+ bello; carino
+beauty
+ bellezza
+because
+ considerato che; visto che
+become
+ acclimarsi; ambientarsi
+becoming
+ conveniente
+bed‐clothes
+ biancheria da letto
+bed
+ letto
+bedding
+ biancheria da letto
+bedridden
+ costretto a letto
+bedroom
+ camera da letto
+bee‐keeper
+ apicoltore; apicultore
+bee‐keeping
+ apicoltura; apicultura
+bee‐master
+ apicoltore; apicultore
+bee
+ ape
+beech
+ faggio
+beef
+ manzo
+beefsteak
+ bistecca
+beehive
+ alveare; arnia
+beer
+ birra
+beet
+ barbabietola
+befit
+ convenire
+beg
+ 1. mendicare
+ 2. chiedere
+beggar
+ mendicante
+begin
+ 1. cominciare
+ 2. cominciare
+beginning
+ inizio; principio
+behave
+ comportarsi; condursi
+behavior
+ condotta
+behaviour
+ condotta
+behind
+ 1. dietro; dopo
+ 2. di dietro; in fondo
+ 3. dietro; dopo
+behind
+ di nascosto
+believe
+ credere
+bell
+ campana
+belly
+ ventre
+belong
+ appartenere
+below
+ 1. sotto
+ 2. dabbasso; giú
+belt
+ cintura
+bench
+ panka
+bend
+ 1. curvarsi
+ 2. curva
+beneath
+ sotto
+benefit
+ beneficio; guadagno; profitto; vantaggio
+bent
+ curvo
+beret
+ beretta
+berry
+ bacca
+beside
+ 1. accanto
+ 2. a; su
+besides
+ 1. d'altronde; inoltre
+ 2. inoltre
+ 3. d'altronde; inoltre
+ 4. inoltre
+besiege
+ assediare
+best
+ migliore
+bet
+ scommettere
+better
+ migliore
+beverage
+ bevanda; bibita
+bevy
+ gruppo
+beyond
+ 1. dopo; in seguito; poi
+ 2. attraverso
+be
+ potere
+be
+ conoscere
+be
+ aver timore; temere
+be
+ vivere
+be
+ vergognarsi
+be
+ dormire
+be
+ combattere; duellare; picchiarsi
+be
+ osare
+be
+ nascere
+be
+ chiamarsi
+be
+ dipendere da
+be
+ resti dietro
+be
+ convenire
+be
+ trovarsi
+be
+ avere fame
+be
+ solere
+be
+ resti dietro
+be
+ trovarsi
+be
+ 1. maritarsi
+ 2. ammogliarsi
+ 3. sposare
+be
+ far male
+be
+ tacere
+be
+ rassomiglare
+be
+ rincrescere
+be
+ prosperare
+be
+ ammalarsi
+be
+ volere
+be
+ valere
+be
+ meritare
+bicuit
+ biscotto
+bicycle
+ 1. bicicletta
+ 2. bicicletta
+bid
+ 1. offrire
+ 2. chiedere
+big
+ grande
+bike
+ 1. bicicletta
+ 2. bicicletta
+bile
+ bile
+bill
+ 1. becco
+ 2. biglietto
+ 3. fattura
+ 4. conto
+billiards
+ biliardo
+bill
+ cambiale
+bind
+ 1. rilegare
+ 2. legare
+binding
+ legatura
+birch
+ betulla
+bird
+ uccello
+birth
+ nascita
+birthday
+ compleanno
+biscuit
+ biscotto
+bishop
+ vescovo
+bit
+ pezzo
+bite
+ mordere
+bitter
+ amaro
+black
+ 1. nero
+ 2. nero
+blackbird
+ merlo
+bladder
+ vescica
+blame
+ riprendere
+blameworthy
+ biasimevole
+blank
+ bianco
+blanket
+ coperta
+blaspheme
+ bestemmiare
+bleak
+ 1. sgradevole; spiacevole
+ 2. afflitto; triste
+ 3. buio; scuro
+ 4. freddo
+bleat
+ belare
+bleed
+ sanguinare
+bleeding
+ salasso
+blind
+ 1. cieco
+ 2. cieco
+blindness
+ cecita
+blister
+ bolla
+block
+ 1. bloccare
+ 2. blocco
+blockade
+ bloccare
+blond
+ biondo
+blood‐letting
+ salasso
+blood‐relationship
+ parentado; parentela
+blood
+ sangue
+bloom
+ fiore
+blotter
+ carta asciugante; carta assorbente
+blotting
+ carta asciugante; carta assorbente
+blouse
+ blusa
+blow
+ 1. colpo
+ 2. soffiare
+blue
+ azzurro; blu
+blueberry
+ bacca di mirtillo
+blunt
+ 1. smussato; spuntato
+ 2. spuntato
+blushing
+ rosso
+boarding
+ pensione
+boarding
+ pensione
+boat
+ barca
+body
+ corpo
+boil
+ 1. bollire
+ 2. far bollire
+boiler
+ calderotto
+bold
+ grosso; spesso
+bomb
+ bomba
+bon‐bon
+ confetto
+bonbon
+ confetto
+bond
+ legame
+bone
+ osso
+bonnet
+ cappotta
+book‐keeper
+ contabile
+book‐keeping
+ contabilità
+book
+ 1. libro
+ 2. ordinare
+bookcase
+ libreria
+bookseller
+ librario
+bookshop
+ libreria
+bookstore
+ libreria
+border
+ orlo
+bore
+ 1. succiello
+ 2. annoiare
+bosom
+ petto
+boss
+ 1. capo
+ 2. maestro; padrone; principale
+ 3. capo
+bother
+ disturbare
+bottle
+ bottiglia
+bottom
+ fondo
+bough
+ ramo
+boundary
+ confine; frontiera
+boutique
+ negozio
+bow
+ 1. arco
+ 2. prua
+bowl
+ bacino
+box
+ 1. fare il pugilato
+ 2. scatola
+ 3. cassa; tinozza; vaso
+boy
+ 1. ragazzo
+ 2. servire
+bra
+ reggiseno
+bracelet
+ 1. braccialetto
+ 2. braccialetto
+brain
+ cervello
+brake
+ 1. frenare
+ 2. freno
+branch
+ ramo
+brandy
+ cognac
+brass
+ 1. ottone
+ 2. ottone
+bread
+ pane
+bread
+ fetta di pane
+break
+ 1. rompere; spezzare
+ 2. rompersi
+breakfast
+ colazione; prima colazione
+break
+ demolire
+break
+ perdere l'abitunide di
+bream
+ scardola
+breast
+ petto
+breath
+ alito
+breathe
+ respirare
+breed
+ razza
+breeze
+ brezza
+brew
+ far la birra
+brick
+ mattone
+bride
+ 1. fidanzata
+ 2. novella sposa; sposa
+bridegroom
+ sposo
+bridge
+ 1. ponte; ponte di comando
+ 2. ponte
+brief
+ corto
+bright
+ brillante
+brilliant
+ brillante
+brim
+ orlo
+bring
+ portare
+brinjal
+ 1. melanzana
+ 2. melanzana
+brink
+ orlo
+broad
+ largo
+broadcast
+ trasmettere
+bronze
+ bronzo
+broom
+ granata; scopa
+brother‐in‐law
+ cognato
+brother
+ fratello
+brow
+ sopracciglio
+brown
+ bruno; marrone
+brush
+ 1. spazzolare
+ 2. spazzola
+brutal
+ brusco; rude
+bubble
+ vescica
+bucket
+ secchia; secchio
+budget
+ bilancio
+buffalo
+ bufalo
+buffet
+ bar
+bug
+ 1. insetto
+ 2. origliare
+build
+ costruire
+building
+ edificio
+bulb
+ ampolla; lampadina
+bull
+ toro
+bullet
+ palla
+burden
+ 1. caricare
+ 2. carico
+bureau
+ ufficio
+burn
+ 1. ardere
+ 2. accendere; bruciare
+burn
+ bruciare
+burst
+ crepa; fessura; screpolatura
+bury
+ 1. seppellire
+ 2. seppellire
+bus
+ autobus
+bush
+ arbusto
+business
+ 1. affare; faccenda
+ 2. commercio
+businessman
+ commerciante
+business
+ affare; faccenda
+busk
+ osso di balena
+busy
+ occupato
+but
+ eccetto; salvo
+butcher
+ macellaio
+butcher's
+ macelleria
+butter
+ burro
+butterfly
+ farfalla
+button
+ 1. pulsante
+ 2. pulsante
+buy
+ 1. comperare; comprare
+ 2. comperare; comprare
+ 3. comperare; comprare
+ 4. comperare; comprare
+ 5. comperare; comprare
+ 6. comperare; comprare
+ 7. acquisto; compra
+buyer
+ cliente; compratore
+by
+ 1. di
+ 2. mediante; per mezzo di
+bye
+ 1. addio
+ 2. arrivederci
+byname
+ soprannome
+by
+ a caso
+by
+ a caso
+by
+ a memoria
+by
+ 1. per via di matrimonio
+ 2. imparentato
+by
+ mediante; per mezzo di
+by
+ già
+by
+ in nessun modo
+by
+ a proposito
+cabbage
+ cavolo
+cabin
+ 1. capanna
+ 2. cabina
+cabinet
+ armadio
+cable
+ cavo
+cactus
+ cacto
+cake
+ torta
+calabash
+ zucca
+calculate
+ calcolare
+calculation
+ conto
+calf
+ 1. vitello
+ 2. polpaccio
+call
+ 1. chiamare
+ 2. chiamare
+call
+ visitare
+calm
+ 1. calmo; tranquillo
+ 2. calmare; placare
+cancel
+ 1. annullare un ordine
+ 2. annullare
+candle
+ candela
+capable
+ abile; adatto; capace; idoneo
+capitulate
+ arrendersi
+captain
+ 1. capitano
+ 2. capitano
+capture
+ prendere
+car
+ auto; automobile
+card
+ carta
+care
+ cura
+careful
+ cauto
+careless
+ negligente; noncurante; sbadato
+caress
+ accarezzare
+care
+ guarire
+carnation
+ garofano
+carpet
+ tappeto
+carriage
+ vagone; vettura
+carrot
+ carota
+carry
+ portare
+case
+ 1. affare; faccenda
+ 2. caso
+ 3. caso
+cash
+ contante
+casserole
+ casseruola
+cast
+ calco
+castle
+ 1. castello
+ 2. torre
+cat
+ gatto
+catalogue
+ catalogo
+catch
+ 1. prendere
+ 2. colpire
+catching
+ 1. infettivo
+ 2. contagioso
+caterpillar
+ bruco
+cathedral
+ catedrale; duomo
+cauldron
+ calderotto
+cauliflower
+ cavolfiore
+cause
+ 1. causare
+ 2. causa
+caution
+ avvertire
+cautious
+ cauto
+cease
+ cessare
+cede
+ cedere
+ceiling
+ soffitto
+celebrate
+ celebrare
+celebration
+ festa
+celery
+ sedano
+cello
+ violoncello
+cemetery
+ camposanto; cimitero
+censor
+ censura
+censurable
+ biasimevole
+censure
+ 1. criticare
+ 2. disapprovazione
+cent
+ centesimo
+centennial
+ secolo
+centimetre
+ centimetro
+centipede
+ millepiedi
+central
+ centrale
+centre
+ centro
+century
+ secolo
+certain
+ certo
+certainly
+ certamente
+certificate
+ 1. atto; azione; documento
+ 2. certificato attestato
+chain
+ catena
+chair
+ sedia
+chalk
+ creta
+challenge
+ contestare; disputare
+chamber
+ camera
+champagne
+ champagne
+champion
+ campione
+chance
+ caso
+change
+ 1. cambiarsi
+ 2. cambiamento
+ 3. variazone
+ 4. cambiare
+ 5. cambiarsi
+ 6. spicciole
+ 7. cambiamento
+channel
+ condotto
+chaplain
+ cappellano militare
+character
+ 1. carattere; indole; natura
+ 2. segno
+characteristic
+ caratteristico
+charge
+ 1. spese
+ 2. carico
+charitable
+ 1. misericordioso
+ 2. misericordioso
+charity
+ elemosina
+charm
+ fascino; incanto
+charming
+ affascinante; amabile; grazioso
+chase
+ 1. perseguire; perseguitare
+ 2. cacciare
+chasm
+ abisso; burrone
+chat
+ 1. pettegolezzo
+ 2. chiacchierare
+chatter
+ chiacchierare
+chatterbox
+ chiacchierone
+chauffeur
+ autista
+cheap
+ a buon mercato
+cheat
+ 1. imbroglione
+ 2. ingannare; truffare
+check
+ 1. controllare; verificare
+ 2. assegno; assegno bancario
+checker
+ controlore
+check
+ controllare; verificare
+cheek
+ guancia
+cheerful
+ allegro
+cheers
+ salute
+cheese
+ formaggio
+chef
+ capocuoco
+chemist
+ 1. farmacista
+ 2. chimico
+ 3. chimico
+chemistry
+ 1. chimica
+ 2. chimica
+chemist's
+ farmacia
+cheque
+ assegno; assegno bancario
+cherry‐tree
+ ciliegio
+cherry
+ ciliegia
+chest
+ 1. petto
+ 2. torace
+chestnut‐tree
+ 1. castagno
+ 2. castagno
+chestnut
+ castagna
+chew
+ masticare
+chicken
+ 1. gallina
+ 2. pollo
+chief
+ 1. capo
+ 2. capo
+chiefly
+ 1. principalmente; soprattutto
+ 2. principalmente; soprattutto
+chief
+ commissario
+child
+ 1. bambino; fianciullo
+ 2. bambino; fianciullo
+chilly
+ freddo
+chimney
+ fumaiuolo
+chin
+ mento
+chisel
+ scalpello
+chive
+ cipollina
+chlorine
+ cloro
+chocolate
+ cioccolata
+choice
+ scelta
+choke
+ soffocare
+choose
+ eleggere; scegliere
+chord
+ accordo
+christen
+ battezzare
+christening
+ battesimo
+chuck
+ accarezzare
+church‐building
+ chiesa
+church
+ chiesa
+cider
+ sidro
+cinder
+ cenere
+cinema
+ 1. cinema
+ 2. cinese
+circle
+ 1. circolo
+ 2. compagnia
+circus
+ circo
+citadel
+ cittadella
+citation
+ citazione
+cite
+ citare
+city
+ città
+civil
+ civile
+civilian
+ civile
+clap
+ applaudire; battere le mani
+clarify
+ spiegare
+claw
+ artiglio
+clay
+ argilla
+clean
+ 1. puro
+ 2. pulire
+cleanliness
+ pulizia
+cleanse
+ pulire
+clear
+ distinto
+clergyman
+ 1. ecclesiastico
+ 2. curato; prete; sacerdate
+clever
+ abile; destro; lesto; sveglio
+client
+ 1. cliente; compratore
+ 2. cliente; compratore
+climate
+ aria; clima
+climb
+ salire
+cloakroom
+ guardaroba
+clock
+ orologio
+close
+ 1. chiudere
+ 2. prossimo
+ 3. vicino
+closed
+ chiuso
+closet
+ armadio
+clothe
+ vestire
+cloud
+ nube; nuvola; nuvolo
+club
+ compagnia
+clutch
+ 1. afferrare
+ 2. frizione
+coach
+ vagone; vettura
+coal
+ carbone
+coast
+ costa
+cock
+ 1. cazzo
+ 2. gallo
+cocoa
+ cacao
+cod
+ merluzzo
+code
+ codice
+codfish
+ merluzzo
+coffee‐pot
+ caffettiera
+coffee
+ caffé
+coffin
+ cassa sa morto
+cognac
+ cognac
+coin
+ moneta
+coition
+ coito
+cold
+ 1. freddo
+ 2. raffreddore
+colleague
+ collegio
+collect
+ raccogliere
+collection
+ gruppo
+college
+ collega
+colour
+ colore
+comb
+ pettinare
+come
+ 1. discendere
+ 2. venire
+comedy
+ commedia
+come
+ accadere; arrivare; succedere
+come
+ incontrare
+come
+ rivenire
+come
+ avvicinarsi
+come
+ avvicinarsi
+come
+ avvicinarsi
+come
+ unirsi
+come
+ fermarsi
+comfort
+ consolare
+comfortable
+ comodo
+comfortably
+ piacevolmente
+comic
+ comico
+comical
+ comico
+command
+ 1. comando
+ 2. ordine
+commander
+ comandante
+commence
+ 1. cominciare
+ 2. cominciare
+commencement
+ inizio; principio
+commend
+ 1. lodare
+ 2. raccomandare; vantare
+commerce
+ commercio
+commercial‐at
+ chiocciola; chiocciolina
+committee
+ comitato
+commodity
+ merce; prodotto
+common
+ 1. comune
+ 2. volgare
+commonplace
+ banale
+commotion
+ 1. agitazione
+ 2. scandalo
+communicate
+ 1. annunciare; comunicare
+ 2. infettare
+communication
+ annunzio; comunicato
+communist
+ comunista
+company
+ 1. compagnia
+ 2. compagnia
+compare
+ confrontare
+compartment
+ scompartimento
+compass
+ bussola
+compel
+ costringere; forzare
+compensate
+ ricompensare
+compensation
+ ricompensa
+competition
+ 1. concorrenza
+ 2. concorso
+complain
+ lagnarsi
+complete
+ 1. completo
+ 2. completare
+ 3. pieno
+completed
+ finito; terminato
+completely
+ 1. completamente
+ 2. completamente
+complexion
+ carnagione
+compliment
+ complimento
+component
+ ingrediente
+composer
+ compositore
+comprise
+ contenere
+computer
+ computer
+concave
+ cavo
+conceal
+ nascondere
+conceited
+ vanitoso
+concentrated
+ denso
+concern
+ 1. importanza
+ 2. concernere; riguardare
+ 3. cura
+concerning
+ concernere
+concert
+ concerto
+concise
+ breve; conciso; succinto
+conclusion
+ 1. conclusione
+ 2. risultato
+concord
+ accordo
+concrete
+ calcestruzzo
+concurrence
+ accordo
+condemn
+ 1. condannare
+ 2. biasimare; disapprovare
+condemnable
+ biasimevole
+condemnation
+ disapprovazione
+conduct
+ 1. condurre; guidare
+ 2. condotta
+conduct
+ comportarsi; condursi
+confectioner
+ pasticciere
+conference
+ conferenza
+confess
+ 1. confessare
+ 2. confessare
+confession
+ 1. confessione
+ 2. confessione
+confidence
+ 1. fiducia
+ 2. fiducia
+confine
+ limitare; restringere
+confined
+ costretto a letto
+confirm
+ confermare
+conflict
+ conflitto
+confront
+ 1. far fronte a
+ 2. far fronte a; opporsi a
+congratulate
+ felicitare
+congress
+ congresso
+connect
+ legare
+connection
+ 1. coincidenza
+ 2. banda
+conquer
+ conquistare
+conscious
+ cosciente
+consciousness
+ consapevolezza; coscienza
+consecutively
+ successivamente
+consent
+ 1. concordare; esserer d'accordo
+ 2. accordo
+conservation
+ conservazione; preservazione
+conserve
+ conservare
+consider
+ 1. considerare
+ 2. guardare
+considerable
+ considerevole; notevole; ragguardevole
+consignee
+ destinario
+console
+ consolare
+constant
+ costante
+construct
+ costruire
+consul
+ console
+consulate
+ consolato
+consultation
+ consulto
+contact
+ contatto
+contagion
+ contagio
+contagious
+ 1. infettivo
+ 2. contagioso
+contain
+ contenere
+container
+ cassa; tinozza; vaso
+contamination
+ contagio
+contempt
+ sprezzo
+contented
+ contento
+contention
+ asserzione
+contents
+ 1. contenuto
+ 2. contenuto
+contest
+ concorso
+continual
+ costante
+continue
+ 1. durare
+ 2. continuare
+contract
+ contratto
+contradict
+ contraddire
+contrast
+ contrasto
+contribute
+ contribuire
+contribution
+ contributo
+contrite
+ pentito
+control
+ dominare; governare
+controller
+ controlore
+convention
+ congresso
+conversation
+ conversazione
+conversion
+ 1. cambiamento
+ 2. cambiamento
+convert
+ 1. convertire
+ 2. convertito
+ 3. convertito
+convince
+ convincere
+convoke
+ convocare
+cook
+ cuoca
+cooked
+ cotto
+cookie
+ biscotto
+cool
+ 1. raffreddare
+ 2. fresco
+cool
+ raffreddare
+coping
+ cresta
+copper
+ rame
+copy
+ copiare
+cork
+ sughero
+corkscrew
+ cavatappi
+corn
+ 1. callo
+ 2. granturco
+corner
+ angolo
+corpulent
+ grosso; spesso
+correct
+ 1. corretto
+ 2. correggere
+correspond
+ avere la coincidenza
+corridor
+ corridoio
+corroborate
+ confermare
+cost
+ 1. costare
+ 2. spese
+costly
+ caro; costoso
+costume
+ abito; costume
+cough
+ tossire
+counsel
+ 1. avvocato
+ 2. consigliare; raccomandare
+ 3. avviso; consiglio
+counsellor
+ consigliere
+count
+ 1. calcolare
+ 2. contare
+counter
+ banco
+countermand
+ annullare un ordine
+counting‐frame
+ pallottoliere
+country
+ 1. campagna
+ 2. paese
+countryside
+ campagna
+couple
+ coniugi; consorti
+coupon
+ cedola
+coupé
+ scompartimento
+courage
+ coraggio
+course
+ piatto
+court
+ cortile
+courteous
+ cortese
+courtyard
+ cortile
+cousin
+ 1. cugina
+ 2. cugino
+cover
+ 1. legatura
+ 2. coprire
+ 3. coperta
+ 4. percorrere
+covered
+ coperto
+cow
+ vacca
+cowardice
+ 1. codardia
+ 2. codardia
+crack
+ 1. crepa; fessura; screpolatura
+ 2. crepa; fessura; screpolatura
+cradle
+ culla; luogo d'origine
+crayfish
+ gambero
+crazy
+ matto
+cream
+ 1. panna
+ 2. crema
+ 3. scremare
+credit
+ avere; credito
+crevice
+ crepa; fessura; screpolatura
+crew
+ equipaggio
+crime
+ delitto
+crisis
+ crisi
+criticism
+ critica
+criticize
+ criticare
+crockery
+ stoviglie
+crocodile
+ coccodrillo
+cross‐cut
+ tabacco da fumo
+cross
+ 1. irato
+ 2. croce
+ 3. attraversare
+crowd
+ 1. folla
+ 2. affluenza; folla
+crude
+ crudo
+cruel
+ crudele
+crumble
+ sgretolarsi
+crumble
+ sgretolarsi
+crumble
+ sgretolarsi
+cry
+ 1. grido
+ 2. piangere
+cry
+ gridare
+cultivate
+ coltivare
+cup
+ tazza
+cupboard
+ armadio
+cure
+ guarire
+currant
+ ribes
+current
+ 1. attuale
+ 2. corrente
+ 3. attuale
+currently
+ oggigiorno
+curse
+ bestemmiare
+curtain
+ cortina
+curve
+ curva
+curved
+ curvo
+cushion
+ cuscino
+cuss
+ bestemmiare
+custom
+ costume
+customary
+ consueto; usuale
+customer
+ cliente; compratore
+customs
+ dogana
+cut
+ tagliare
+cutlet
+ costoletta
+cycle
+ bicicletta
+cylinder
+ cilindro
+cypres
+ cipresso
+dagger
+ pugnale
+daily
+ 1. giornaliero; quotidiano
+ 2. ogni giorno; quotidianamente
+daily
+ giornale
+dainty
+ delicato
+damage
+ 1. avaria
+ 2. danneggiare
+ 3. danno
+ 4. danneggiare
+ 5. difetto
+damp
+ umido
+dance
+ 1. ballo
+ 2. ballare
+ 3. ballo; danza
+dancer
+ 1. ballerina
+ 2. ballerino
+danger
+ pericolo
+dangerous
+ pericoloso
+dare
+ osare
+dark
+ 1. buio; scuro
+ 2. oscuro; scuro; tenebroso
+darkness
+ oscurità; tenebre
+dark
+ blu scuro
+darling
+ prediletto
+data
+ materiale
+date
+ 1. dattero
+ 2. dattero
+ 3. datare
+ 4. data
+ 5. appuntamento
+daughter
+ figlia; figliuola; figliola
+dawn
+ 1. alba; aurora
+ 2. alba
+day
+ giorno
+daybreak
+ alba
+daylight
+ luce del giorno
+dazed
+ confuso; turbato
+dead
+ morto
+deaden
+ ammortizzare
+deadly
+ mortale
+deaf
+ sordo
+deaf
+ sordomuto
+deal
+ trattare
+dear
+ 1. caro
+ 2. caro; costoso
+ 3. caro; costoso
+death
+ morte
+death
+ agonia
+debt
+ debito
+decayed
+ decrepito
+deceive
+ ingannare; truffare
+deceiver
+ imbroglione
+decent
+ decente
+decide
+ decidere
+decimetre
+ decimetro
+decision
+ 1. decisione
+ 2. decreto; deliberazione
+decisive
+ 1. decisivo
+ 2. decisivo
+deck
+ coperta; ponte
+declaration
+ dichiarazione
+decline
+ 1. declinare; deperire; peggiorare
+ 2. regressione
+decorate
+ decorare
+decrease
+ 1. diminuire
+ 2. diminuire
+decree
+ decreto
+decrepit
+ decrepito
+deduce
+ concludere; dedurre
+deem
+ 1. credere
+ 2. guardare
+deep
+ fondo; profondo
+defeat
+ disfatta
+defence
+ 1. difesa
+ 2. retroguardia
+defend
+ difendere
+defendant
+ 1. accusato; imputato
+ 2. accusato; imputato
+defense
+ difesa
+define
+ definire
+defining
+ definito; determinato; fissato
+definite
+ definitivo
+definitive
+ definitivo
+degree
+ grado
+delay
+ ritardo
+delegate
+ 1. delegato; deputato
+ 2. delegato; deputato
+deliberately
+ apposta
+delicate
+ delicato
+delivery
+ consegna
+demand
+ smercio; vendita
+democratic
+ democratico
+demolish
+ demolire
+demolition
+ 1. demolizione
+ 2. demolizione
+demonstration
+ manifestazione
+denounce
+ denunciare
+dense
+ denso
+dentist
+ dentista
+deny
+ negare
+depart
+ andarsene; partire
+departure
+ 1. partenza
+ 2. partenza
+depend
+ dipendere
+dependent
+ dipendente
+depend
+ dipendere da
+deportment
+ condotta
+depression
+ crisi
+depth
+ 1. profondità
+ 2. profondità
+deputy
+ delegato; deputato
+derive
+ 1. derivare
+ 2. discendere
+descend
+ scendere
+describe
+ descrivere
+descry
+ 1. accorgersi
+ 2. intravedere; scorgere
+desert
+ 1. deserto
+ 2. abbandonare
+deserve
+ meritare
+design
+ 1. disegnare
+ 2. disegno
+ 3. progetto
+ 4. progetto
+desirable
+ desiderabile
+desire
+ 1. desiderare
+ 2. desiderio
+desk
+ banco; scrivania
+despise
+ disprezzare
+despot
+ despota
+dessert
+ dessert
+destine
+ destinare
+destroy
+ distruggere
+detachment
+ brigata
+detail
+ dettaglio; particolare
+detain
+ ritenere
+detention
+ arresto
+deter
+ impaurire; spaventare
+determine
+ 1. definire
+ 2. fissare
+determining
+ definito; determinato; fissato
+deterrent
+ spaventevole
+develop
+ svilupparsi
+device
+ apparecchio
+devil
+ demonio; diavolo
+devilish
+ diabolico
+dew
+ rugiada
+dexterous
+ abile; destro; lesto; sveglio
+diabolical
+ diabolico
+diagram
+ 1. figura
+ 2. progetto
+dialect
+ dialetto
+diamond
+ diamante
+diarrhoea
+ diarrea
+diary
+ diario
+dictionary
+ dizionario
+die
+ 1. morire
+ 2. cubo; dado
+diet
+ dieta; regime
+die
+ morire
+different
+ differente
+differently
+ diversamente; in modo diverso
+difficult
+ difficile; pesante
+dilapidated
+ decrepito
+dim
+ oscuro; scuro; tenebroso
+dimension
+ dimensione
+diminish
+ 1. diminuire
+ 2. diminuire
+diminutive
+ piccolo
+din
+ rumore
+dining‐room
+ sala da pranzo
+dinner
+ colazione
+diploma
+ 1. atto; azione; documento
+ 2. diploma
+diplomat
+ diplomatico
+direct
+ 1. condurre; guidare
+ 2. destro
+director
+ amministratore delegato; direttore
+directory
+ catalogo
+disapprobation
+ disapprovazione
+disapproval
+ disapprovazione
+disapprove
+ biasimare; disapprovare
+disapprove
+ biasimare; disapprovare
+disciples
+ partito; seguito
+discourage
+ impaurire; spaventare
+discover
+ scoprire
+discovery
+ scoperta
+discrete
+ discreto
+discuss
+ 1. discutere
+ 2. discutere
+disease
+ malattia
+disgust
+ avversione; ripugnanza
+dish
+ 1. piatto
+ 2. piatto
+dislike
+ avversione; ripugnanza
+dismal
+ 1. banale
+ 2. sgradevole; spiacevole
+ 3. mostruoso; schifoso
+ 4. afflitto; triste
+ 5. buio; scuro
+ 6. afflitto; triste
+ 7. miserabile; misero; povero
+dismount
+ scendere
+dispose
+ vendere
+disposition
+ 1. disposizione
+ 2. ingegno; talento
+dissolve
+ risolvere
+dissuade
+ sconsigliare
+distance
+ distanza
+distant
+ distante; lontano
+distil
+ distillare
+distinct
+ distinto
+distinguish
+ distinguere
+distribute
+ distribuire
+district
+ 1. circondario; distretto
+ 2. circondario; distretto
+ 3. circondario; distretto
+disturb
+ disturbare
+dive
+ tuffarsi
+divide
+ 1. separare
+ 2. dividere
+divorce
+ divorzio
+do
+ commettere; fare
+doctor
+ 1. dottore
+ 2. dottore; medico
+document
+ 1. atto; azione; documento
+ 2. documento
+dog
+ cane
+doll
+ bambola
+dolphin
+ delfino
+done
+ finito; terminato
+donkey
+ asino; ciuco
+door
+ porta; uscio
+dose
+ dose
+dot
+ punto
+double
+ doppio
+doubt
+ dubitare
+doubtful
+ dubbioso
+dough
+ pasta
+dove
+ piccione
+dowry
+ dote
+dozen
+ dozzina
+draft
+ cambiale
+drag
+ tirare
+dragon
+ drago; dragone
+draw
+ 1. attrarre
+ 2. disegnare
+ 3. eguaglianza
+ 4. tirare
+drawer
+ cassetto
+drawers
+ mutande
+drawing
+ disegno
+dreadful
+ terribile
+dream
+ 1. sognare
+ 2. sogno
+dreary
+ 1. sgradevole; spiacevole
+ 2. mostruoso; schifoso
+ 3. afflitto; triste
+ 4. buio; scuro
+dress
+ 1. abito
+ 2. vestire
+ 3. vestirsi
+drink
+ 1. bevanda; bibita
+ 2. bere
+drinkable
+ potabile
+drip
+ goccia
+driver
+ autista
+droop
+ pendere
+drop
+ 1. goccia
+ 2. diminuire
+drown
+ 1. annegarsi
+ 2. annegare
+drugstore
+ farmacia
+drunk
+ 1. brillo; ubriaco
+ 2. ubriacone
+dry‐nurse
+ asciutta; balia
+dry
+ 1. secco
+ 2. seccare
+ 3. seccare
+dual
+ doppio
+duck
+ anitra
+dull
+ smussato; spuntato
+dumb
+ muto
+duplicate
+ moltiplicare
+during
+ durante
+dusk
+ crepuscolo
+dust
+ polvere
+duty
+ dovere
+dwarf
+ nano
+dwell
+ abitare; dimorare; stare
+dwelling‐place‐residence
+ residenza
+dwelling‐place
+ residenza
+dwelling
+ alloggio; appartamento
+dye
+ colore
+dynamite
+ dinamite
+each
+ ogni; ognuno; tutto
+eager
+ avido; bramoso
+eagle
+ aquila
+ear
+ 1. orecchio
+ 2. spiga
+early
+ di buon'ora
+earmark
+ destinare
+earn
+ guadagnare
+earnest
+ serio
+earth
+ terra
+earthen
+ terrestre
+earthenware
+ stoviglie
+earthly
+ terrestre
+earthquake
+ terremoto
+east
+ est
+easy
+ facile
+eavesdrop
+ 1. origliare
+ 2. origliare
+edge
+ orlo
+edging
+ orlo
+edible
+ commestibile; mangiabile
+eel
+ anguilla
+effect
+ risultato
+effective
+ efficace
+effectual
+ efficace
+efficacious
+ efficace
+egg
+ uovo
+eggfruit
+ melanzana
+eggplant
+ melanzana
+eight
+ otto
+eighteen
+ diciotto
+eighth
+ ottavo
+eighty
+ ottanta
+elbow
+ gomito
+elect
+ eleggere; scegliere
+election
+ scelta
+electricity
+ elettricità
+electronic
+ elettronico
+elegant
+ elegante
+element
+ 1. elemento
+ 2. fondamento
+ 3. ingrediente
+elements
+ alfabeto
+elephant
+ elefante
+elevator
+ ascensore
+eleven
+ undici
+elm
+ olmo
+else
+ 1. altro
+ 2. diversamente; in modo diverso
+elsewhere
+ altrove
+embassy
+ 1. ambasciata
+ 2. ambasciata
+embrace
+ 1. abbracciare
+ 2. abbracciare
+emerge
+ apparire
+emergency
+ crisi
+emmet
+ formica
+empire
+ impero
+employ
+ impiegare; usare
+employee
+ impiegato
+employment
+ ufficio di collocamento
+empty
+ 1. vuoto
+ 2. vuotare
+encounter
+ 1. incontrare
+ 2. incontro
+encouragement
+ incoraggiamento
+end
+ 1. finire; terminare
+ 2. fine
+ending
+ fine
+endive
+ indivia
+endure
+ 1. durare
+ 2. sopportare; tollerare
+end
+ arrivare
+enemy
+ nemico
+energetic
+ energico
+engine
+ 1. locomotiva
+ 2. macchina
+ 3. motore
+engineer
+ ingegnere
+enjoyable
+ gradevole; piacevole
+enlarge
+ ingrandire
+enlighten
+ illuminare
+enormous
+ 1. enorme
+ 2. enorme
+enough
+ 1. sufficiente
+ 2. abbastanza
+enter
+ entrare
+enterprise
+ impresa
+entertaining
+ divertente
+entertainment
+ divertimento
+enthusiasm
+ entusiasmo
+entire
+ completo; intero; totale; tutto
+entirely
+ completamente
+entomb
+ seppellire
+entrance
+ entrata
+entreaty
+ domanda; preghiera
+envelope
+ busta
+environment
+ ambiente
+environs
+ ambiente
+envy
+ 1. invidiare
+ 2. invidia
+epic
+ epopea; poema epico
+equal
+ eguale
+equality
+ eguaglianza
+equator
+ equatore
+equilibrium
+ equilibrio
+erect
+ fondere
+err
+ errare; sbagliarsi
+errand
+ messaggio
+error
+ errore; sbaglio
+especially
+ 1. soprattutto
+ 2. principalmente; soprattutto
+establish
+ 1. fondere
+ 2. constatare
+estate
+ fattoria
+esteem
+ 1. rispettare; stimare
+ 2. considerazione; stima; riguardo; rispetto
+ 3. considerare
+estimate
+ apprezzare; stimare; valutare
+etc.
+ ecc.
+etching
+ acquaforte
+eternal
+ eterno
+ethos
+ atmosfera
+etiquette
+ etichetta
+et
+ eccetera
+evade
+ evitare
+even
+ 1. piano
+ 2. eguale
+ 3. perfino
+ 4. regolare
+evening
+ sera
+evening
+ cena
+evening
+ edizione della sera; giornale della sera
+even
+ anche se
+ever
+ sempre
+every
+ ogni; ognuno; tutto
+everybody
+ ogni; ognuno; tutto
+everyday
+ volgare
+everything
+ tutto
+everywhere
+ dappertutto
+every
+ ogni; ognuno; tutto
+evident
+ chiaro; evidente; palese
+evolve
+ svilupparsi
+exact
+ esatto; preciso
+exactly
+ 1. giustamente; giusto
+ 2. giustamente; giusto
+exaggerate
+ esagerare
+examination
+ esame
+examine
+ esaminare
+example
+ esempio
+except
+ eccetto; salvo
+except
+ eccetto; salvo
+excise‐duty
+ dazio consumo
+excise
+ dazio consumo
+excite
+ incitare; spronare
+exclude
+ escludere
+exclusively
+ non ... che; soltanto
+excommunication
+ 1. anatema
+ 2. scomunica
+excuse
+ le domando scusa; scusatemi; permesso
+executioner
+ boia
+exercise‐book
+ fascicolo
+exercise
+ esercizio
+exert
+ praticare
+exhausted
+ esausto; sfinito
+exhibition
+ esposizione
+exhortation
+ ammonimento; esortazione
+exile
+ 1. bandire; esiliare
+ 2. esiliato; esule
+ 3. esilio
+exist
+ esistere
+existence
+ esistenza
+exit
+ 1. uscita
+ 2. uscire
+expect
+ aspettare
+expense
+ spese
+expensive
+ 1. caro; costoso
+ 2. caro; costoso
+expertness
+ abilità; destrezza
+expire
+ morire
+explain
+ 1. spiegare
+ 2. spiegare
+explanation
+ 1. spiegazione
+ 2. spiegazione
+exploit
+ sfruttare
+exposition
+ esposizione
+expression
+ aria
+extension
+ suffisso
+exterior
+ esteriore
+external
+ esterne
+extinguish
+ spegnere; spengere
+extort
+ estorcere
+extraordinary
+ straordinario
+extreme
+ estremo
+extremely
+ 1. assai; molto
+ 2. estremamente
+eyebrow
+ sopracciglio
+eyelid
+ palpebra
+fabricate
+ fabbricare
+face
+ 1. far fronte a
+ 2. faccia; viso
+facile
+ facile
+fact
+ fatto
+faction
+ partito
+factory
+ 1. fabbrica
+ 2. fabbrica
+fag
+ 1. affaticare; stancare
+ 2. affaticare; spossare; stancare
+fail
+ morire
+failure
+ fallimento
+faint
+ 1. debole
+ 2. svenirsi
+fair
+ 1. bazar
+ 2. biondo
+fairy
+ fata
+fairy
+ favola; fiaba
+faith
+ fiducia
+faithful
+ 1. fedele
+ 2. fedele
+fall
+ diminuire
+fall
+ ammalarsi
+fall
+ declinare; deperire; peggiorare
+false
+ falso
+family
+ famiglia
+famous
+ 1. celebre; famoso; rinomato
+ 2. celebre; famoso; rinomato
+fanatical
+ fanatico
+fancier
+ dilettante
+fancy
+ figurarsi
+fantasy
+ fantasia
+far
+ distante; lontano
+farewell
+ 1. addio
+ 2. addio; congedo
+farm
+ fattoria
+farmer
+ 1. mezzadro
+ 2. contadino
+ 3. agricoltore
+fast
+ presto
+fasten
+ fissare
+fast
+ treno rapido
+fat
+ 1. grosso; spesso
+ 2. grasso
+ 3. grasso
+father‐in‐law
+ suocero
+father
+ 1. padre
+ 2. padre
+fatherland
+ patria
+fatigue
+ affaticare; stancare
+fatty
+ grasso
+favor
+ favorire
+favour
+ favorire
+fear
+ 1. angoscia
+ 2. aver timore; temere
+ 3. paura
+feather
+ penna
+feed
+ alimentare
+feel
+ sentirsi
+fellow
+ uomo
+female
+ 1. femminile
+ 2. femminile
+female
+ cuoca
+female
+ parrucchiera
+female
+ giornalista
+female
+ parente
+female
+ cantante
+female
+ dattilografa
+female
+ sasta
+female
+ maestra
+female
+ ladra
+feminine
+ femminile
+fertile
+ 1. fecondo
+ 2. fecondo
+fertilize
+ concimare
+fervor
+ ardore; zelo
+fervour
+ ardore; zelo
+festival
+ festa
+fetch
+ 1. portare
+ 2. ottenere
+fever
+ febbre
+fiancée
+ fidanzata
+field
+ 1. campo
+ 2. campo
+ 3. campo
+ 4. campo
+field
+ ambulanza
+fifteen
+ quindici
+fifth
+ 1. quinto
+ 2. quinto
+fifty
+ cinquanta
+fig‐tree
+ 1. fico
+ 2. fico
+fig
+ fico
+fight
+ combattere; duellare; picchiarsi
+figure
+ 1. figura
+ 2. calcolare
+file
+ lima
+film
+ film; pellicola
+filter
+ filtro
+fin
+ pinna
+finally
+ alla fine; finalmente
+financial
+ finanziario
+find
+ trovare
+find
+ trovarsi
+fine
+ 1. bello; carino
+ 2. delicato
+ 3. multare
+ 4. contravvenzione; multa
+finger
+ dito
+finish
+ 1. finire; terminare
+ 2. apprestare; preparare
+finished
+ 1. finito; terminato
+ 2. pronto
+fir
+ abete
+fire
+ fuoco
+firebrand
+ attizzatore
+first
+ 1. primo
+ 2. dapprima; in primo luogo; prima
+firstly
+ dapprima; in primo luogo; prima
+first
+ prenome
+first
+ dapprima; in primo luogo; prima
+fish
+ 1. pescare
+ 2. pesce
+fisherman
+ pescatore
+fishing
+ canna
+fission
+ disintegrazione nukleare
+fist
+ pugno
+fit
+ 1. adattare; aggiustare
+ 2. apoplessia
+fitting
+ decente
+five
+ cinque
+fix
+ 1. adattare; aggiustare
+ 2. fissare
+ 3. riparare
+fixed
+ fermo
+fix
+ predisporre; sistemare
+flag
+ 1. bandiera
+ 2. stendardo
+flame
+ fiamma
+flannel
+ flanella
+flat‐iron
+ ferro da stiro
+flat
+ 1. appartamento
+ 2. piano
+flatter
+ lusingare
+flavour
+ aroma
+flaw
+ crepa; fessura; screpolatura
+flea
+ pulce
+flee
+ fuggire
+flesh
+ carne
+flight
+ fuga
+float
+ nuotare
+flood
+ 1. alta marea
+ 2. alta marea
+floor
+ 1. piano
+ 2. pavimento
+flour
+ fiore della farina
+flow
+ 1. fluire; scorrere
+ 2. corrente
+flower
+ fiore
+flowerpot
+ vaso da fiori
+flute
+ flauto
+fly
+ 1. volare
+ 2. mosca
+foam
+ schiuma
+focus
+ foco
+fog
+ nebbia
+fold
+ piegare
+folder
+ fascicolo
+folk
+ popolo
+follow
+ seguire
+following
+ 1. partito; seguito
+ 2. seguente
+ 3. seguente
+fondle
+ accarezzare
+font
+ fonte battesimale
+food
+ alimento; cibo
+foolish
+ ignorante; sciocco; stupido
+foot
+ 1. piede
+ 2. piede
+for
+ 1. durante
+ 2. considerato che; visto che
+forbid
+ vietare
+forbidding
+ spaventevole
+force
+ 1. costringere; forzare
+ 2. forza
+forecast
+ predire
+forefather
+ antenato
+forehead
+ fronte
+foreign
+ straniera
+foreigner
+ forestiere
+foreign
+ estero
+forest
+ bosco
+foretell
+ predire
+foreward
+ avanti
+forget
+ dimenticare
+fork
+ forchetta
+formal
+ formale
+former
+ passato
+formerly
+ davanti
+formidable
+ straordinario
+formula
+ formula
+formulate
+ formulare
+forsake
+ abbandonare
+fortunate
+ felice
+fortunately
+ per fortuna
+fortune
+ fortuna
+forty
+ quaranta
+for
+ a lungo; da molto; per molto tempo
+for
+ per esempio
+for
+ per esempio
+for
+ 1. per lo più
+ 2. per lo più
+for
+ 1. per lo più
+ 2. per lo più
+for
+ d'altronde; inoltre
+foster‐parents
+ genitori adottivi
+foster‐son
+ figlio adottivo
+found
+ fondere
+foundation
+ 1. fondamento
+ 2. fondo
+fountain‐pen
+ penna stilografica
+fountain
+ 1. fontana
+ 2. fonte; sorgente
+fountain
+ penna stilografica
+four
+ quattro
+fourteen
+ quattordici
+fourth
+ 1. quarto
+ 2. quarto
+fowl
+ 1. gallina
+ 2. pollo
+fox
+ volpe
+freeze
+ congelare; gelare
+freezing
+ gelo
+frequently
+ frequentemente; sovente; spesso
+fresh
+ fresco
+friend
+ 1. amica
+ 2. amico
+friendly
+ 1. amichevole; benevole; carino; cortese; gradevole; grazioso
+ 2. amicale; amichevole
+friendship
+ amicizia
+fright
+ angoscia; paura; timore
+frindge
+ frangia
+fringe
+ orlo
+frivolous
+ vanitoso
+frog
+ rana; ranocchio
+frolic
+ cattivo
+frolicsome
+ cattivo
+from
+ di
+from
+ da qui
+from
+ di là
+frontier
+ confine; frontiera
+frost
+ 1. gelo
+ 2. gelo
+froth
+ schiuma
+fruit
+ frutta
+fruitful
+ fecondo
+fry
+ friggere
+full
+ pieno
+fully
+ completamente
+full
+ pagamento
+fun
+ 1. divertimento
+ 2. piacere
+function
+ 1. funzione
+ 2. funzione; impiego
+fund
+ capitale; fondo
+fungus
+ fungo
+funny
+ 1. divertente
+ 2. comico
+fur
+ pelle
+furious
+ furibondo; furioso
+furniture
+ 1. mobili
+ 2. mobili
+furthermore
+ inoltre
+future
+ 1. avvenire
+ 2. avvenire
+ 3. avvenire
+gag
+ scherzo
+gain
+ 1. guadagno
+ 2. guadagnare
+ 3. beneficio; guadagno; profitto; vantaggio
+gall
+ bile
+gallery
+ galleria
+gallop
+ galoppare
+game
+ giuoco
+gang
+ compagnia
+gaol
+ 1. prigione
+ 2. prigione
+ 3. prigione
+garage
+ autorimessa
+garbage
+ cestino dei rifiuti
+garden
+ giardino
+gardener
+ giardiniere
+garlic
+ aglio
+garment
+ abito
+garrison
+ guarnigione
+gas
+ gas
+gasolene
+ benzina
+gasoline
+ benzina
+gather
+ 1. concludere; dedurre
+ 2. raccogliere
+ 3. concludere; dedurre
+gathering
+ convegno
+gaunt
+ 1. magro
+ 2. sottile
+ 3. afflitto; triste
+ 4. afflitto; triste
+gay
+ allegro
+gaze
+ fissare
+general
+ 1. universale
+ 2. generale
+generally
+ generalmente
+generation
+ generazione
+gentle
+ 1. dolce
+ 2. mite
+gentleman
+ signore
+genuinly
+ davvero; infatti
+geography
+ geografia
+gesture
+ gesto
+get
+ 1. arrivare
+ 2. arrivare
+ 3. ottenere
+ 4. prendere
+ 5. ricevere
+get
+ raffreddarsi
+get
+ 1. maritarsi
+ 2. ammogliarsi
+ 3. sposare
+get
+ scendere
+get
+ perdere l'abitunide di
+get
+ 1. alzarsi
+ 2. salire
+ 3. alzarsi
+get
+ abituarsi; avvezzarsi
+ghastly
+ 1. sgradevole; spiacevole
+ 2. orrendo; orribile
+gherkin
+ cetriolino
+gift
+ dono; presente; regalo
+gifted
+ 1. dotato
+ 2. dotato
+gill
+ branchia
+giraffe
+ giraffa
+girder
+ trave
+girdle
+ cintura
+girl
+ piccola; ragazza
+give
+ 1. dare
+ 2. presentare
+give
+ aerare; arieggiare; ventilare
+give
+ restituire
+give
+ cedere
+give
+ annunciare; annunziare; pubblicare
+give
+ sentire
+give
+ causare
+give
+ cedere
+give
+ cedere
+gladness
+ 1. gioia
+ 2. gioia
+glass
+ 1. bicchiere
+ 2. vetro
+glasses
+ occhiali
+globe
+ globo
+glow
+ ardore
+glue
+ appiccicare
+go
+ 1. andare; camminare
+ 2. camminare
+goal
+ proposito; scopo
+goat
+ capra
+goblet
+ calice; bicchiere; boccale
+god
+ dio
+godfather
+ compare
+going
+ regressione
+gold
+ oro
+good‐bye
+ addio; congedo
+good‐natured
+ amichevole; benevole; carino; cortese; gradevole; grazioso
+good
+ buono
+goodbye
+ 1. addio
+ 2. addio; congedo
+ 3. arrivederci
+good
+ buongiorno
+good
+ buonasera
+good
+ salute
+good
+ buongiorno
+good
+ buona notte; buonanotte
+goose
+ oca
+gooseberry
+ ribes
+gospel
+ vangelo
+gourd
+ zucca
+govern
+ dominare; governare
+government
+ governo
+gown
+ abito
+go
+ perdersi; smarrirsi
+go
+ andarsene; partire
+go
+ 1. declinare; deperire; peggiorare
+ 2. indietreggiare
+ 3. ritornare
+go
+ indietreggiare
+go
+ attraversare
+go
+ 1. diminuire; ribassare
+ 2. scendere
+go
+ affrettarsi
+go
+ entrare
+go
+ sparare
+go
+ continuare
+go
+ uscire
+go
+ percorrere
+go
+ coricarsi
+go
+ 1. salire
+ 2. salire
+grab
+ afferrare
+grade
+ grado
+gradually
+ poco a poco
+grammophone
+ disco
+grand‐nephew
+ pronipote
+grandchild
+ nipote
+granddaughter
+ nipote
+grandfather
+ nonno
+grandmother
+ nonna
+grandparents
+ nonni
+grandson
+ nipote
+grape
+ acino; chicco d'uva; uva
+grapevine
+ vite
+grapple
+ prendere
+grasp
+ afferrare
+grass
+ erba
+grasshopper
+ 1. cavalletta
+ 2. cavalletta
+gratitude
+ 1. gratitudine; riconoscenza
+ 2. gratitudine
+ 3. grazie
+graveyard
+ camposanto; cimitero
+gravy
+ salsa
+grease
+ grasso
+greasy
+ grasso
+great‐grandfather
+ bisnonno
+great‐grandmother
+ bisnonna
+great
+ grande
+greatgrandson
+ pronipote
+greedy
+ avido; bramoso
+green
+ 1. verde
+ 2. verde
+greet
+ salutare
+greeting
+ accoglienza; saluto
+grey
+ bigio; grigio
+grind
+ macinare
+grip
+ afferrare
+grisly
+ sgradevole; spiacevole
+groan
+ gemere
+ground‐floor
+ pianterreno
+ground
+ fondo
+group
+ 1. gruppo
+ 2. gruppo
+grow
+ 1. crescere
+ 2. coltivare
+growth
+ crescimento
+gruesome
+ 1. orrendo; orribile
+ 2. terribile
+gruff
+ brusco; rude
+guarantee
+ garanzia
+guard
+ capotreno
+guess
+ supporre
+guest
+ ospite
+guide
+ condurre; guidare
+guilty
+ colpevole
+guitar
+ chitarra
+gulf
+ abisso; burrone
+gum
+ gengiva
+gun
+ fucile
+habit
+ 1. abitudine; vizio
+ 2. costume
+hackneyed
+ 1. trito e ritrito
+ 2. trito e ritrito
+haggle
+ mercanteggiare
+hail
+ grandine
+hair
+ capelli
+hairdresser
+ 1. parrucchiera
+ 2. parrucchiere
+hairs
+ capelli
+half‐brother
+ fratellastro
+half‐sister
+ sorellastra
+half
+ 1. mezzo
+ 2. metà
+halt
+ 1. fermarsi
+ 2. fermare
+ham
+ prosciutto
+hamlet
+ paesello
+hammer
+ martello
+hamper
+ rendere difficile
+hand
+ 1. operaio
+ 2. mano
+handicraft
+ mestiere
+handle
+ 1. tenaglie
+ 2. trattare
+handlebars
+ remo
+handsome
+ bello; carino
+hang
+ 1. pendere
+ 2. sospendere
+hangman
+ boia
+hang
+ tenere
+happen
+ accadere; arrivare; succedere
+happy
+ felice
+harbor
+ porto
+harbour
+ porto
+hard‐worked
+ trito e ritrito
+hard
+ 1. duro
+ 2. difficile; pesante
+ 3. dura
+hardly
+ appena
+hardworking
+ attivo; laborioso
+hare
+ lepre
+haricot
+ fagiolo; fagiuolo
+harm
+ nuocere
+harmful
+ 1. nocivo
+ 2. nocivo
+harmony
+ accordo
+harsh
+ brusco; rude
+haste
+ fretta
+hate
+ 1. odiare
+ 2. odio
+haul
+ tirare
+have
+ 1. avere
+ 2. ricevere
+have
+ disporre
+have
+ bagnarsi
+have
+ avere
+hay
+ fieno
+hazard
+ 1. caso
+ 2. arrischiare
+ 3. rischio
+hazelnut
+ nocciola; nocciuola
+he‐goat
+ capro becco
+he
+ lui
+head
+ 1. condurre; guidare
+ 2. testa
+ 3. testa
+ 4. testa
+ 5. testa
+health
+ salute
+heap
+ 1. folla
+ 2. gruppo
+hear
+ udire
+heart
+ cuore
+heat
+ 1. ardore
+ 2. riscaldare
+ 3. calore
+heaven
+ cielo
+heel
+ tallone
+height
+ 1. altitudine; altura
+ 2. altitudine
+helix
+ elica
+hello
+ ciao
+helm
+ remo
+help
+ 1. aiutare; assistere
+ 2. aiuto; assistenza
+ 3. aiutare
+ 4. aiuto
+helper
+ assistente
+helpful
+ servizievole
+hence
+ da qui
+her
+ lei
+herb
+ erba
+herd
+ gruppo
+here
+ quà; qui
+hereditary
+ ereditario
+herring
+ aringa
+herself
+ stesso
+hesitate
+ 1. esitare; titubare
+ 2. esitare; titubare
+hide
+ 1. pelle
+ 2. nascondere
+ 3. nascondersi
+hideous
+ 1. orrendo; orribile
+ 2. orrendo; orribile
+hide
+ nascondersi
+high
+ alto
+high
+ alta marea
+hill
+ collina; colle
+him
+ lui
+himself
+ stesso
+hind
+ ultimo
+hinder
+ 1. rendere difficile
+ 2. impedire
+ 3. disturbare
+hindmost
+ ultimo
+hint
+ alludere
+hinterland
+ 1. retroterra
+ 2. retroterra
+hip
+ anca
+hippo
+ ippopotamo
+hippopotamus
+ ippopotamo
+hire
+ prendere in affitto
+his
+ suo
+history
+ storia
+hit
+ 1. battere
+ 2. colpire; picchiare
+ 3. colpire
+hither
+ quà; qui
+hog
+ porco
+hold
+ tenere
+hold
+ ritenere
+hole
+ buco
+hollow
+ cavo
+home
+ casa
+honest
+ onesto
+honey
+ miele
+honor
+ onore
+honour
+ onore
+hood
+ 1. cappotta
+ 2. coperta
+hoof
+ zoccolo
+hook
+ amo
+hooter
+ 1. tromba
+ 2. tromba
+hope
+ 1. sperare
+ 2. speranza
+horizon
+ orizzonte
+horn
+ 1. corno
+ 2. tromba
+horrible
+ 1. orrendo; orribile
+ 2. sgradevole; spiacevole
+ 3. mostruoso; schifoso
+ 4. terribile
+ 5. orrendo; orribile
+horror
+ 1. orrore; ribrezzo
+ 2. orrore; ribrezzo
+horse‐chestnut
+ castagna
+horse‐radish
+ barbaforte
+horse
+ cavallo
+horsepower
+ cavallo vapore
+horseradish
+ barbaforte
+hospitable
+ ospitale
+hospital
+ ospedale
+host
+ ospite
+hotel
+ albergo
+house
+ casa
+housefly
+ mosca
+house
+ chiesa
+how
+ 1. come
+ 2. come
+ 3. come
+howl
+ muggire
+how
+ come sta?
+how
+ come sta?
+hug
+ abbracciare
+huge
+ enorme
+human
+ umano
+humble
+ umile
+humid
+ umido
+humour
+ 1. umore
+ 2. umore
+hundred
+ cento
+hunger
+ fame
+hunt
+ cacciare
+hurry
+ 1. affrettarsi
+ 2. affrettarsi
+ 3. affrettarsi
+hurt
+ 1. far male
+ 2. ferire
+husband
+ marito; sposo
+hut
+ capanna
+ice
+ ghiaccio
+idea
+ idea; nozione
+idol
+ idolo
+if
+ se
+ill
+ malato
+illness
+ malattia
+illuminate
+ 1. illuminare
+ 2. accendere; illuminare
+image
+ 1. illustrazione; immagine; pittura
+ 2. figura
+imagination
+ immagine
+imagine
+ figurarsi
+imitate
+ imitare
+immediately
+ 1. direttamente
+ 2. fra poco; immediatamente; subito
+immense
+ enorme
+impertinent
+ impertinente; insolente
+imply
+ significare
+important
+ grave; importante
+impossible
+ impossibile
+imposter
+ imbroglione
+improve
+ migliorare
+in
+ a; dentro
+incendiary
+ bomba incendaria
+incite
+ incitare; spronare
+inclined
+ disposto
+include
+ contenere
+inconvenient
+ difficile; pesante
+increase
+ ingrandire
+increasingly
+ di più in più
+incredible
+ incredibile
+incubate
+ covare
+indeed
+ 1. di fatto
+ 2. davvero; infatti
+indicate
+ 1. indicare; mostrare
+ 2. mostrare
+indication
+ 1. augurio
+ 2. augurio
+ 3. indicazione
+induce
+ concludere; dedurre
+indulgence
+ indulgenza
+industry
+ applicazione; diligenza
+inexpensive
+ a buon mercato
+infant
+ bambino; fianciullo
+infect
+ infettare
+infection
+ 1. infezione
+ 2. contagio
+infectious
+ 1. infettivo
+ 2. contagioso
+infer
+ concludere; dedurre
+inference
+ conclusione
+inform
+ 1. informare; insegnare
+ 2. insegnare
+ingredient
+ ingrediente
+inhabitant
+ abitante
+inherit
+ ereditare
+inhibit
+ impedire
+injure
+ danneggiare
+injury
+ ferita
+ink
+ inchiostro
+inner
+ interno
+inquiry‐office
+ ufficio d'informazioni
+inquisitive
+ 1. curioso
+ 2. curioso
+insane
+ matto
+insect
+ insetto
+inside
+ 1. a; dentro
+ 2. interno
+ 3. dentro
+insist
+ insistere
+installment
+ pagamento a rate
+instantly
+ direttamente
+instigator
+ attizzatore
+instructor
+ maestro
+instrument
+ strumento
+insult
+ 1. insultare; offendere
+ 2. insultare; offendere
+insurance
+ assicurazione
+intend
+ intendere
+intention
+ intenzione
+inter
+ seppellire
+intercessor
+ avvocato
+interest
+ 1. interessare
+ 2. interesse
+ 3. interesse
+interesting
+ interessante
+internal
+ interno
+interrupt
+ interrompere
+intestine
+ intestino
+into
+ a; dentro
+intoxicated
+ brillo; ubriaco
+introduce
+ presentare
+invent
+ 1. inventare
+ 2. inventare
+invest
+ investire
+investigation
+ esame
+invite
+ invitare
+invoice
+ fattura
+in
+ 1. attivo
+ 2. attivo
+in
+ 1. inoltre
+ 2. d'altronde; inoltre
+ 3. inoltre
+in
+ come se
+in
+ contante
+in
+ contro
+in
+ di fatto
+in
+ in nessun modo
+in
+ all'inizio; dapprima; dapprincipio
+in
+ di sera
+in
+ di mattina
+in
+ in tempo
+in
+ invano
+in
+ 1. come
+ 2. come
+iron
+ 1. ferro
+ 2. ferro da stiro
+irrigate
+ annaffiare; bagnare; innaffiare
+island
+ isola
+issue
+ proclamare; pubblicare
+itself
+ stesso
+jack
+ cricco
+jade
+ 1. affaticare; stancare
+ 2. affaticare; spossare; stancare
+jail
+ 1. prigione
+ 2. prigione
+ 3. prigione
+jam
+ marmelata
+jaw
+ mascella
+jawbone
+ mascella
+jealousy
+ gelosia
+jest
+ scherzare
+jeweller
+ 1. gioielliere
+ 2. gioielliere
+job
+ 1. lavoro
+ 2. funzione; impiego
+ 3. compito
+join
+ 1. congiungere
+ 2. unirsi
+ 3. legare
+joint
+ comune
+joke
+ 1. scherzare
+ 2. scherzo
+journal
+ giornale
+journalist
+ 1. giornalista
+ 2. giornalista
+journey
+ viaggio
+joy
+ 1. gioia
+ 2. gioia
+judge
+ 1. giudice
+ 2. critico
+ 3. giudicare
+judgement
+ decreto; deliberazione
+judgment
+ giudizio
+jug
+ 1. brocca
+ 2. cassa; tinozza; vaso
+jump
+ 1. saltare
+ 2. salto
+just
+ 1. non ... che; soltanto
+ 2. fra poco; immediatamente; subito
+keel
+ chiglia
+keep
+ 1. conservare
+ 2. osservare
+ 3. compiere; eseguire
+ 4. salvare
+keeper
+ archivista
+keepsake
+ memoria
+keep
+ durare
+keep
+ non toccare
+kettle
+ calderotto
+key
+ chiave
+keyboard
+ pianola; tastiera
+kidney
+ rene
+kill
+ ammazzare; uccidere
+kind
+ 1. amichevole; benevole; carino; cortese; gradevole; grazioso
+ 2. genere; specie
+kindle
+ accendere
+kingdom
+ regno
+kiss
+ 1. baciare
+ 2. bacio
+kitchen
+ cucina
+klaxon
+ tromba
+knee
+ ginocchio
+kneel
+ 1. inginocchiarsi
+ 2. inginocchiarsi
+ 3. inginocchiarsi
+ 4. inginocchiarsi
+knife
+ coltello
+knob
+ tenaglie
+knock
+ colpire; picchiare
+knot
+ nodo
+know
+ 1. conoscere
+ 2. sapere
+knowledge
+ conoscenza
+know
+ 1. sapere
+ 2. conoscenze
+laborer
+ operaio
+labor
+ ufficio di collocamento
+labourer
+ operaio
+labour
+ ufficio di collocamento
+lack
+ mancanza
+lad
+ ragazzo
+ladder
+ scala
+laddie
+ ragazzo
+lady
+ signora
+lady
+ assistente
+laggard
+ ritardatario
+laid
+ costretto a letto
+lake
+ lago
+lamb
+ agnello
+land
+ 1. paese
+ 2. terra
+lane
+ vicolo
+language
+ lingua
+lapsed
+ decrepito
+large
+ grande
+lark
+ allodola
+lass
+ piccola; ragazza
+last
+ 1. durare
+ 2. scorso; ultimo
+ 3. passato
+lasting
+ continuo; durevole; permanente
+last
+ ieri sera
+late
+ tardo
+laud
+ lodare
+laugh
+ 1. ridere
+ 2. riso
+laughter
+ risa
+laundry
+ lavanderia
+laurel
+ alloro
+lawless
+ dissoluto; licenzioso
+lawn
+ tappeto erboso
+lawsuit
+ processo
+lawyer
+ avvocato
+lay
+ mettere; ponere
+lay
+ prendere
+lazy
+ pigro
+lead
+ 1. condurre; guidare
+ 2. piombo
+leader
+ capo
+leaf
+ foglia; foglio
+league
+ banda
+lean
+ 1. sostenere
+ 2. appoggiarsi
+ 3. magro
+ 4. sottile
+leap‐year
+ anno bisestile
+leap
+ 1. saltare
+ 2. salto
+learn
+ imparare
+leather
+ cuoio
+leave
+ 1. andarsene; partire
+ 2. abbandonare
+leave
+ abbandonare; lasciare
+leek
+ aglio
+left
+ 1. sinistro
+ 2. sinistra
+left
+ sinistra
+leg
+ 1. gamba
+ 2. gamba
+lemon
+ limone
+lentil
+ lenticchia
+lesson
+ lezione
+less
+ di meno in meno
+let
+ affittare
+letter
+ lettera
+letterbox
+ buca delle lettere
+lettuce
+ lattuga
+let
+ insegnare
+level‐crossing
+ passaggio a livello
+level
+ 1. piano
+ 2. eguale
+ 3. livello
+lever
+ alzare
+librarian
+ bibliotecario
+library
+ biblioteca
+licentious
+ dissoluto; licenzioso
+lid
+ coperta
+lie
+ 1. mentire
+ 2. bugia
+life
+ vita
+lift
+ 1. alzare
+ 2. salire
+ 3. ascensore
+light
+ 1. accendere
+ 2. accendere; illuminare
+ 3. luce
+ 4. debole
+ 5. leggero
+lighter
+ accendino
+lighthouse
+ faro
+lightning
+ baleno
+like
+ 1. come
+ 2. simile
+ 3. apprezzare
+likely
+ probabile
+likewise
+ anche
+like
+ così
+limb
+ membro
+lime‐tree
+ tiglio
+lime
+ calce
+limit
+ 1. limitare; restringere
+ 2. confine; frontiera
+limp
+ zoppicare
+linden‐tree
+ tiglio
+line
+ 1. lenza
+ 2. linea
+lineage
+ discendenza; nascita; origine
+lion
+ leone
+lip
+ labbro
+liquid
+ liquido
+liquidate
+ ammazzare; uccidere
+list
+ lista
+listen
+ ascoltare
+listen
+ origliare
+little
+ piccolo
+little
+ poco a poco
+live
+ 1. abitare; dimorare; stare
+ 2. vivere
+lively
+ spiritoso
+liver
+ fegato
+living‐room
+ stanza
+load
+ 1. caricare
+ 2. carico
+loaf
+ pane
+loathe
+ detestare
+lobster
+ aragosta
+location
+ luogo
+loch
+ lago
+lock
+ 1. serratura
+ 2. serrare a chiave
+locust
+ cavalletta
+lofty
+ alto
+logical
+ ragione
+long
+ 1. lungo
+ 2. a lungo; da molto; per molto tempo
+look
+ 1. parere
+ 2. apparenza; aria; aspetto
+ 3. guardare
+looking‐glass
+ specchio
+look
+ 1. prendere a cuore
+ 2. badare
+look
+ guardare
+look
+ cercare
+lord
+ signore
+lorry
+ 1. autocarro; camion
+ 2. autocarro; camion
+lose
+ perdere
+loss
+ 1. perdita
+ 2. perdita
+lost
+ perduto
+loudly
+ ad alta voce; forte
+lounge
+ salotto
+louse
+ pidocchio
+lovable
+ amabile; grazioso
+love
+ 1. amare; volere bene
+ 2. amore
+lovely
+ 1. gradevole; piacevole
+ 2. bello; carino
+ 3. caro
+ 4. affascinante; amabile; grazioso
+low
+ basso
+lower‐arm
+ avambraccio
+low
+ bassa marea
+loyal
+ fedele
+luggage‐van
+ bagagliaio
+luggage
+ bagaglio
+lukewarm
+ tiepido
+lump
+ 1. massa
+ 2. pezzo
+lunatic
+ pazzo
+lung
+ polmone
+luxury
+ lusso
+machine
+ macchina
+mackerel
+ sgombro
+mad
+ 1. matto
+ 2. rabbioso
+madam
+ signora
+magazine
+ rivista
+magpie
+ gazza
+maid
+ cameriera
+mail
+ posta
+mailbox
+ buca delle lettere
+mainly
+ principalmente; soprattutto
+maintain
+ conservare
+maintenance
+ conservazione; preservazione
+maize
+ granturco
+majority
+ maggioranza
+make
+ commettere; fare
+make
+ offrire
+make
+ concludere
+make
+ errare; sbagliarsi
+make
+ progettare
+make
+ pulire
+make
+ fissare
+make
+ 1. impiegare
+ 2. impiegare; usare
+male
+ maschio
+man
+ uomo
+manage
+ 1. amministrare; dirigere
+ 2. amministrare; dirigere
+management
+ 1. amministrazione; direzione; gestione
+ 2. amministrazione; direzione; gestione
+manager
+ 1. amministratore; direttore
+ 2. amministratore delegato; direttore
+manner
+ maniera; modo
+manufacture
+ fabbricare
+map
+ carta
+marble
+ marmo
+march
+ camminare
+mark
+ segno
+market
+ 1. bazar
+ 2. sbocco
+ 3. mercato
+marketplace
+ mercato
+mark
+ delimitare
+marmelade
+ marmelata
+marriage
+ matrimonio
+married
+ 1. sposato
+ 2. sposato
+married
+ coniugi; consorti
+marry
+ 1. maritarsi
+ 2. ammogliarsi
+ 3. sposare
+marvel
+ stupirsi
+marvel
+ stupirsi
+masculine
+ maschio
+mass
+ 1. folla
+ 2. affluenza; folla
+ 3. massa
+mast
+ albero
+master
+ maestro; padrone; principale
+match
+ fiammifero
+material
+ materiale
+matter
+ 1. affare; faccenda
+ 2. caso
+ 3. materia
+mattress
+ materasso
+mature
+ maturo
+maximum
+ massimo
+maybe
+ forse
+mayhap
+ forse
+mayor
+ sindaco
+meager
+ 1. magro
+ 2. miserabile; misero; povero
+meal
+ fiore della farina
+mealies
+ granturco
+mean
+ 1. intendere
+ 2. medio
+ 3. mezzo
+ 4. significare
+ 5. mirare a
+meaning
+ 1. intenzione
+ 2. significato
+means
+ 1. arnese; strumento
+ 2. arnesi
+measure
+ 1. misurare
+ 2. misura
+measured
+ misurato
+measurement
+ 1. dimensione
+ 2. misura
+meat
+ carne
+mechanic
+ meccanico
+meet
+ incontrare
+meeting
+ convegno
+melon
+ melone
+melt
+ sgelare
+member
+ 1. membro
+ 2. membro
+memento
+ memoria
+memorable
+ memorabile
+memorize
+ imparare a memoria; memorizzare
+memory
+ memoria
+menace
+ 1. minacciare
+ 2. minaccia
+mentally
+ deficiente
+mention
+ menzionare
+menu
+ 1. carta
+ 2. lista
+ 3. lista
+merchant
+ 1. commerciante
+ 2. commerciante
+merciful
+ 1. misericordioso
+ 2. misericordioso
+merit
+ meritare
+merry
+ allegro
+message
+ 1. messaggio
+ 2. annunzio; comunicato
+metal
+ metallo
+method
+ metodo
+methylated
+ alcool denaturato
+midday
+ mezzodì
+midday
+ colazione
+middle
+ 1. medio
+ 2. mezzo
+midget
+ nano
+midnight
+ mezzanotte
+mild
+ mite
+milk
+ latte
+milliner
+ modista
+million
+ milione
+mind
+ osservare
+mineral
+ minerale
+ministry
+ ministero
+minority
+ minorità
+mint
+ menta
+minutes
+ contravvenzione
+mirror
+ specchio
+miscarriage
+ aborto
+miscarry
+ abortire
+miscellaneous
+ di ogni genere; ogni sorta di
+miserable
+ 1. cattivo
+ 2. afflitto; triste
+ 3. povero
+ 4. afflitto; triste
+ 5. miserabile; misero; povero
+miserly
+ avaro
+misery
+ miseria
+mist
+ nebbia
+mistake
+ errore; sbaglio
+mixture
+ mistura
+moan
+ gemere
+mobile
+ mobile
+mode
+ maniera; modo
+modest
+ modesto
+moist
+ 1. umido
+ 2. umido
+money
+ denaro; soldi
+monitor
+ origliare
+monkey
+ scimmia
+monologue
+ monologo
+monotonous
+ 1. monotono
+ 2. monotono
+monster
+ mostro
+month
+ mese
+monthly
+ al mese; mensilmente
+monthly
+ asciutta; balia
+monument
+ monumento
+mood
+ 1. atmosfera
+ 2. umore
+moon
+ luna
+moped
+ ciclomotore
+morality
+ virtú
+moreover
+ 1. d'altronde; inoltre
+ 2. inoltre
+ 3. d'altronde; inoltre
+ 4. inoltre
+more
+ di più in più
+morning
+ mattina
+mosquito
+ zanzara
+most
+ estremamente
+mother‐in‐law
+ suocera
+mother
+ madre
+motion
+ film; pellicola
+motor
+ motore
+motorcycle
+ motocicletto
+mouldy
+ ammuffito
+mount
+ adattare; aggiustare
+mountain
+ montagna; monte
+mountain
+ montagne
+mountain
+ spigolo
+mouse
+ sorcio; topo
+moustache
+ baffi
+mouth
+ 1. bocca
+ 2. bocca; imboccatura
+ 3. bocca; imboccatura
+ 4. imboccatura
+move
+ 1. muovere
+ 2. muoversi
+movement
+ 1. movimento
+ 2. movimento
+movie
+ film; pellicola
+movie
+ cinema
+much
+ molto
+mud
+ fango
+mudguard
+ parafango
+mulberry‐tree
+ 1. gelso
+ 2. gelso
+mule
+ mulo
+multiply
+ 1. moltiplicare
+ 2. moltiplicare
+multitude
+ 1. folla
+ 2. affluenza; folla
+murk
+ oscurità; tenebre
+muscle
+ muscolo
+museum
+ museo
+mushroom
+ fungo
+musician
+ musicista
+mussel
+ vongola
+mustard
+ mostarda
+mute
+ muto
+mutton
+ carne di montone
+my
+ mio
+mysterious
+ misterioso
+nail
+ 1. chiodo
+ 2. unghia
+naked
+ nudo
+name
+ nome
+napkin
+ tovagliolo
+narrate
+ raccontare
+narrow
+ stretto
+nasty
+ 1. sgradevole; spiacevole
+ 2. mostruoso; schifoso
+ 3. cattivo
+ 4. disonesto
+nation
+ popolo
+national
+ nazionale
+nationality
+ cittadinanza
+naturally
+ naturalmente
+nature
+ 1. natura
+ 2. carattere; indole; natura
+nausea
+ avversione; ripugnanza
+navy
+ marina
+near‐sighted
+ miope
+near
+ 1. prossimo
+ 2. vicino
+nearby
+ 1. vicino
+ 2. prossimo
+ 3. vicino
+nearly
+ quasi
+necessary
+ necessario; occorrente
+neck
+ collo
+necktie
+ cravatta
+need
+ 1. aver bisogno di
+ 2. bisogno; fabbisogno
+needle
+ ago
+neglect
+ trascurare
+negligent
+ negligente; noncurante; sbadato
+neighbour
+ vicino
+neighbourhood
+ circondario; distretto
+neighbouring
+ vicino
+nephew
+ nipote
+nerve
+ nervo
+net
+ rete
+nettle
+ ortica
+network
+ rete
+never
+ mai; non ... mai
+new
+ nuovo
+newspaper
+ giornale
+next
+ 1. dietro; dopo
+ 2. dopo; in seguito; poi
+ 3. prossimo
+ 4. seguente
+ 5. seguente
+next
+ accanto
+nice
+ 1. gradevole; piacevole
+ 2. buono
+nickname
+ soprannome
+niece
+ nipote
+night
+ notte
+nightingale
+ usignolo; usignuolo
+nine
+ nove
+nineteen
+ diciannove
+ninety
+ novanta
+no
+ non
+nobility
+ nobiltà
+node
+ nodo
+noise
+ rumore
+non‐military
+ civile
+noon
+ mezzodì
+north
+ nord
+nose
+ naso
+not
+ no
+notary
+ notaio
+note
+ 1. biglietto
+ 2. annotazione; nota
+notebook
+ 1. fascicolo
+ 2. taccuino
+notice
+ 1. affisso; cartellone
+ 2. avviso
+ 3. osservare
+ 4. osservazione
+ 5. annunzio; comunicato
+notification
+ avviso
+notion
+ idea; nozione
+not
+ 1. in nessun modo
+ 2. niente affatto
+not
+ in nessun modo
+nourish
+ alimentare
+nourishment
+ alimento; cibo
+novel
+ 1. nuovo
+ 2. romanzo
+nowadays
+ oggigiorno
+nowhere
+ in nessun luogo
+now
+ di quando in quando; ogni tanto
+no
+ si capisce
+no
+ non ... più
+nude
+ nudo
+number
+ 1. numero
+ 2. numero
+numeral
+ numero
+nurse
+ 1. curare
+ 2. infermiera
+ 3. badare
+ 4. asciutta; balia
+nut
+ 1. madrevite
+ 2. noce
+ 3. madrevite
+nuts
+ matto
+oak
+ quercia
+oath
+ giuramento
+oats
+ avena
+obedient
+ 1. ubbidiente
+ 2. ubbidiente
+obey
+ ubbidire
+object
+ cosa; ogetto
+objectionable
+ biasimevole
+obligation
+ dovere
+observation
+ osservazione
+observe
+ 1. osservare
+ 2. compiere; eseguire
+obstinate
+ ostinato
+obstruct
+ sbarrare
+obtuse
+ smussato; spuntato
+obvious
+ chiaro; evidente; palese
+obviously
+ evidentemente
+occupation
+ 1. mestiere
+ 2. occupazione
+occupy
+ occupare
+occur
+ accadere; arrivare; succedere
+odd
+ strano
+of
+ di
+offence
+ scandalo
+offend
+ 1. insultare; offendere
+ 2. insultare; offendere
+offer
+ 1. offrire
+ 2. offerta
+ 3. presentare
+ 4. presentare
+ 5. presentare
+ 6. proporre
+office
+ 1. ufficio
+ 2. ufficio
+ 3. funzione; impiego
+officer
+ funzionario; impiegato
+official
+ 1. ufficiale
+ 2. funzionario; impiegato
+offset
+ distanza
+offspring
+ 1. generazione
+ 2. generazione
+ 3. discendente
+often
+ frequentemente; sovente; spesso
+of
+ di ogni genere; ogni sorta di
+of
+ famigerato
+of
+ aristocratico; nobile
+of
+ 1. adatto; capace; idoneo
+ 2. utilizzabile; utile
+oil
+ olio
+okay
+ 1. buono
+ 2. bene
+old
+ 1. vecchio
+ 2. antico
+ 3. vecchio
+old
+ macerie
+olive‐tree
+ 1. olivo
+ 2. olivo
+olive
+ oliva
+omen
+ 1. augurio
+ 2. augurio
+omnibus
+ autobus
+omnipotent
+ onnipotente
+omniscient
+ onnisciente
+on
+ 1. avanti
+ 2. a; dentro
+ 3. mediante; per mezzo di
+once
+ una volta
+once
+ ancora; di nuovo
+one
+ un; un'; una; uno
+one
+ cento
+one
+ mille
+one
+ una volta
+onion
+ cipolla
+only
+ 1. non ... che; soltanto
+ 2. solo
+only
+ appena
+on
+ a rovescio; supino
+on
+ apposta
+on
+ perciò; per quésto
+on
+ a sinistra
+on
+ attraverso
+on
+ a destra
+on
+ esatto; preciso
+on
+ di sopra
+open
+ 1. aprire
+ 2. aperto
+open
+ aprire
+operative
+ operaio
+opposed
+ contro
+opposite
+ 1. dirimpetto
+ 2. contro
+oppress
+ premere; serrare; stringere
+optician
+ ottico
+option
+ alternativa
+orange‐tree
+ 1. arancio
+ 2. arancio
+orange
+ arancia
+orchard
+ frutteto
+ordain
+ destinare
+order
+ 1. ordinare
+ 2. ordine
+ 3. ordine
+ 4. ordine
+origin
+ nascita; origine
+originate
+ discendere
+ornament
+ decorare
+other
+ altro
+other
+ eccetto; salvo
+out
+ fuori
+outer
+ esterne
+outfit
+ abito; costume
+outline
+ progetto
+outside
+ 1. esterne
+ 2. fuori
+over
+ 1. finito; terminato
+ 2. sopra
+overall
+ completo; intero; totale; tutto
+overdrive
+ 1. affaticare; stancare
+ 2. affaticare; spossare; stancare
+overhead
+ di sopra
+override
+ 1. affaticare; stancare
+ 2. affaticare; spossare; stancare
+overthrow
+ rovesciare
+over
+ laggiú
+owe
+ dovere
+owl
+ gufo
+own
+ 1. possedere
+ 2. proprio
+ox
+ bue
+oyster
+ ostrica
+pace
+ passo
+pack
+ avvolgere
+package
+ avvolgere
+packet
+ pacco
+pad
+ blocco
+padre
+ cappellano militare
+page
+ pagina
+pail
+ secchia; secchio
+pain
+ dolore
+painful
+ doloroso
+paint
+ 1. tingere
+ 2. dipingere
+painter
+ pittore
+painting
+ pittura
+palace
+ palazzo
+pale
+ pallido
+palm
+ palma
+panties
+ mutande
+pants
+ calzoni; pantaloni
+paper‐basket
+ cestino per la carta
+paper
+ 1. documento
+ 2. carta
+ 3. tappezzare
+parade
+ 1. chiamata
+ 2. chiamata
+paraffin‐oil
+ petrolio
+paragraph
+ capoverso
+parallel
+ parallelo
+parapet
+ parapetto
+parcel
+ pacco
+parents‐in‐law
+ suoceri
+parents
+ genitori; padre e madre
+parlour
+ salotto
+parrot
+ pappagallo
+parsley
+ prezzemolo
+part
+ 1. ingrediente
+ 2. parte; porzione
+ 3. parte; porzione
+partial
+ parziale
+partially
+ in parte; parzialmente
+participate
+ spartire
+participle
+ participio
+particular
+ 1. separato
+ 2. speciale
+partly
+ in parte; parzialmente
+partridge
+ pernice
+party
+ 1. partito; seguito
+ 2. festa
+ 3. partito
+pass
+ passare
+passable
+ praticabile
+passage
+ corridoio
+passenger
+ passagiere
+passenger
+ treno omnibus
+passion
+ ardore
+passport
+ passaporto
+pass
+ morire
+pass
+ percorrere
+past
+ 1. passato
+ 2. passato
+paste
+ pasta
+pastor
+ 1. curato
+ 2. curato; prete; sacerdate
+pate
+ testa
+path
+ sentiero
+patience
+ pazienza
+paw
+ gamba
+pay
+ pagare
+payment
+ 1. pagamento
+ 2. pagamento
+pay
+ aspettare; attendere
+pay
+ aspettare; attendere
+pay
+ spendere
+pea
+ pisello
+peace
+ pace
+peak
+ punta
+peanut
+ arachide
+pear‐tree
+ pero
+pear
+ pera
+peculiar
+ strano
+peer
+ fissare
+pelvis
+ bacino
+pencil
+ lapis; matita
+penetrate
+ penetrare
+peninsula
+ penisola
+penitent
+ pentito
+penthouse
+ 1. tettoia
+ 2. tettoia
+ 3. tettoia
+people
+ 1. gente
+ 2. popolo
+pepper
+ pepe
+per
+ a; dentro
+perceive
+ 1. accorgersi
+ 2. intravedere; scorgere
+perchance
+ forse
+perfect
+ perfetto
+perform
+ 1. apparire
+ 2. entrare
+ 3. commettere; fare
+ 4. compiere; eseguire
+ 5. presentare
+perhaps
+ forse
+peril
+ pericolo
+period
+ punto
+periodical
+ 1. rivista
+ 2. rivista
+permanent
+ costante
+permission
+ accordo
+permit
+ permettere
+perplexed
+ confuso; turbato
+persecute
+ perseguire; perseguitare
+persecution
+ 1. inseguimento
+ 2. inseguimento
+person
+ persona
+personal
+ 1. personale
+ 2. proprio
+persuade
+ convincere
+petition
+ petizione
+petitioner
+ petente; postulante; supplicante
+petrol
+ benzina
+petroleum
+ petrolio
+petulant
+ cattivo
+pheasant
+ fagiano
+philosopher
+ filosofo
+photograph
+ 1. fotografo
+ 2. fotografo
+photography
+ fotografia
+physical
+ fisico
+physician
+ dottore; medico
+pick
+ 1. rompere; staccare
+ 2. pungere
+pick
+ eleggere; scegliere
+pick
+ 1. ottenere
+ 2. raccogliere
+ 3. prendere
+picture
+ 1. illustrazione; immagine; pittura
+ 2. figura
+ 3. pittura
+picture
+ cartolina illustrata
+piece
+ 1. parte; porzione
+ 2. pezzo
+pig
+ porco
+pigeon
+ piccione
+pike
+ luccio
+pile
+ folla
+pilgrimage
+ 1. pelegrinaggio
+ 2. pelegrinaggio
+pillow
+ guanciale
+pincers
+ pinzette
+pine‐tree
+ pino
+pine
+ pino
+pineapple
+ ananas; ananasso
+pink
+ 1. garofano
+ 2. rosa
+ 3. rosa
+pioneer
+ iniziatore; pioniere
+pipe
+ condotto
+pitcher
+ brocca
+placard
+ affisso; cartellone
+place
+ 1. adattare; aggiustare
+ 2. luogo
+ 3. luogo
+ 4. mettere; ponere
+place
+ culla; luogo d'origine
+place
+ chiesa
+plain
+ 1. piano
+ 2. distinto
+plan
+ 1. intenzione
+ 2. progettare
+ 3. progetto
+ 4. progettare
+ 5. progetto
+ 6. progettare
+plane
+ 1. aereo; aeroplano
+ 2. progetto
+ 3. pialla
+plant
+ 1. piantare
+ 2. pianta
+plate
+ 1. piatto
+ 2. piatto
+platform
+ 1. piattaforma
+ 2. piattaforma
+platter
+ piatto
+play
+ 1. giocare; suonare
+ 2. giocare
+ 3. suonare
+plaza
+ piazza
+plea
+ argomento
+pleasant
+ gradevole; piacevole
+pleasantly
+ piacevolmente
+please
+ piacere
+pleased
+ contento
+pleasure
+ piacere
+plenty
+ abbondanza; affluenza
+plough
+ aratro
+pluck
+ rompere; staccare
+plug
+ candela
+plume
+ penna
+plunge
+ tuffarsi
+poem
+ poema
+poet
+ poeta
+poetry
+ poesia
+point
+ 1. punta
+ 2. punto
+pointed
+ appuntato
+point
+ mostrare
+poison
+ 1. avvelenare
+ 2. veleno
+poisonous
+ velenoso
+pole
+ barra
+police‐station
+ questura
+police
+ polizia
+policeman
+ 1. guardia; poliziotto
+ 2. guardia; poliziotto
+policy
+ politica
+polite
+ cortese
+politeness
+ cortesia
+political
+ politico
+politics
+ politica
+pond
+ stagno
+pool
+ unirsi
+poop
+ 1. poppa
+ 2. poppa
+poopdeck
+ 1. poppa
+ 2. poppa
+poor
+ 1. cattivo
+ 2. povero
+ 3. povero
+poplar
+ albero; pioppo
+population
+ populazione
+pork
+ maiale
+port
+ porto
+portable
+ portabile; portatile
+portal
+ entrata
+portent
+ 1. augurio
+ 2. augurio
+porter
+ facchino
+port
+ babordo
+pose
+ posare
+possess
+ possedere
+possession
+ 1. possesso
+ 2. possesso
+possible
+ possibile
+possibly
+ forse
+post
+ 1. funzione; impiego
+ 2. posta
+postage
+ affrancatura
+postage
+ bollo; francobollo
+postal
+ CAP; codice di avviamento postale
+postcard
+ cartolina postale
+poster
+ affisso; cartellone
+postman
+ portalettere; postino
+post
+ ufficio postale
+potato
+ patata
+pottery
+ stoviglie
+pour
+ versare
+poverty
+ povertà
+power
+ potere
+practicable
+ praticabile
+practical
+ reale
+practice
+ 1. applicare
+ 2. esercizio
+ 3. praticare
+praise
+ lodare
+prawn
+ granchiolino
+pray
+ pregare
+prayer
+ preghiera
+precipice
+ abisso; burrone
+precursor
+ augurio
+preferably
+ 1. piuttosto
+ 2. piuttosto
+pregnant
+ 1. incinta
+ 2. incinta
+prejudice
+ pregiudizio
+premium
+ premio
+prepare
+ 1. allestire; preparare
+ 2. apprestare; preparare
+prepay
+ affrancare; pestare
+presage
+ 1. augurio
+ 2. augurio
+presence
+ presenza
+present‐day
+ attuale
+present
+ 1. attuale
+ 2. dono; presente; regalo
+ 3. attuale
+ 4. presentare
+ 5. presentare
+ 6. presentare
+ 7. presente
+present
+ presentare
+preservation
+ conservazione; preservazione
+preserve
+ conservare
+press
+ premere; serrare; stringere
+pressure
+ pressione
+presume
+ supporre
+pretty
+ bellino; grazioso
+prevent
+ impedire
+previously
+ davanti
+price
+ prezzo
+pricey
+ caro; costoso
+prick
+ cazzo
+priest
+ 1. curato; prete; sacerdate
+ 2. prete; sacerdote
+principally
+ principalmente; soprattutto
+principle
+ principio
+print
+ stampare
+printer
+ tipografo
+prison
+ 1. prigione
+ 2. prigione
+ 3. prigione
+prisoner
+ arrestato; detenuto; prigioniero
+private
+ 1. particulare; privado
+ 2. senza impiego
+prize
+ premio
+probable
+ probabile
+probably
+ probabilmente
+problem
+ problema
+proceed
+ continuare
+process
+ azione; processo
+proclaim
+ proclamare; pubblicare
+proclamation
+ 1. dichiarazione
+ 2. pubblicazione
+ 3. pubblicazione
+produce
+ produrre
+product
+ prodotto
+profess
+ confessare
+profession
+ professione
+profit
+ 1. approfittare
+ 2. beneficio; guadagno; profitto; vantaggio
+profound
+ fondo; profondo
+progress
+ 1. miglioramento
+ 2. progresso
+prohibit
+ vietare
+project
+ progetto
+promenade
+ passeggiata
+promise
+ 1. promettere
+ 2. promessa
+promote
+ promuovere
+promotion
+ promozione
+prompt
+ esatto; preciso
+pronounce
+ 1. pronunciare
+ 2. pronunciare
+proof
+ prova
+propeller
+ elica
+proper
+ decente
+property
+ 1. fattoria
+ 2. possesso
+prophesy
+ predire
+proportional
+ proporzionale
+prosecute
+ perseguire; perseguitare
+proselyte
+ 1. convertito
+ 2. convertito
+prosper
+ prosperare
+protect
+ 1. proteggere
+ 2. riparare
+protection
+ 1. protezione
+ 2. protezione
+protest
+ 1. protestare
+ 2. protesta
+protocol
+ contravvenzione
+protégé
+ protetto
+protégée
+ protetta
+proud
+ fiero; orgoglioso
+prove
+ provare
+provided
+ se
+provoke
+ incitare; spronare
+prow
+ prua
+prudent
+ sensato
+pub
+ bar
+public
+ pubblico
+publication
+ pubblicazione
+public
+ piazza
+publish
+ pubblicare
+pull
+ tirare
+pull
+ demolire
+pulse
+ polso
+pulverize
+ macinare
+pump
+ 1. pompare
+ 2. pompa
+punctual
+ esatto; preciso
+punish
+ castigare; punire
+punishment
+ punizione
+pupil
+ 1. allievo; scolaro
+ 2. pupillo
+puppet
+ bambola
+purchase
+ 1. comperare; comprare
+ 2. comperare; comprare
+ 3. comperare; comprare
+ 4. comperare; comprare
+ 5. acquisto; compra
+ 6. acquisto; compra
+ 7. acquisto; compra
+ 8. acquisto; compra
+ 9. acquisto; compra
+purchaser
+ cliente; compratore
+pure
+ puro
+purge
+ pulire
+purity
+ pulizia
+purpose
+ proposito; scopo
+purser
+ commissario
+pursue
+ perseguire; perseguitare
+pursuit
+ 1. inseguimento
+ 2. inseguimento
+push
+ 1. spingere
+ 2. spinta; urto
+put
+ mettere; ponere
+put
+ mettere; ponere
+put
+ 1. togliere
+ 2. imbarcare; sbrigarsi di
+put
+ affigere
+put
+ posare
+put
+ affrancare; pestare
+put
+ presentare
+put
+ spegnere; spengere
+put
+ adattare; aggiustare
+put
+ sopportare; tollerare
+quarter
+ circondario; distretto
+quarter
+ quarto d'ora
+quash
+ distruggere
+quay
+ piattaforma
+quell
+ soffocare
+question
+ 1. domanda
+ 2. contestare; disputare
+quickly
+ presto
+quiet
+ calmare; placare
+quit
+ abbandonare
+quite
+ 1. abbastanza
+ 2. assai; molto
+quiver
+ tremare
+quotation
+ citazione
+quotation
+ virgolette
+quote
+ citare
+quotes
+ virgolette
+rabbit
+ coniglio
+rabid
+ rabbioso
+race
+ razza
+radiation
+ radioterapia
+radio
+ radio
+radish
+ ravanello
+ragout
+ cibreo
+railing
+ parapetto
+railroad
+ ferrovia
+railway
+ ferrovia
+railway
+ vagone; vettura
+rain
+ 1. piovere
+ 2. pioggia
+rainbow
+ arcobaleno
+raise
+ alzare
+ranch
+ fattoria
+rand
+ orlo
+rapier
+ spada
+rare
+ raro
+raspberry
+ lampone
+rat
+ topo
+rate
+ apprezzare; stimare; valutare
+rather
+ 1. piuttosto
+ 2. abbastanza
+raven
+ corvo
+raw
+ crudo
+ray
+ sciopero
+reach
+ arrivare
+react
+ reagire
+read
+ leggere
+ready
+ pronto
+real
+ reale
+reality
+ verità
+realize
+ capire; comprendere
+really
+ davvero; infatti
+rear‐lamp
+ luce di posizione; fanale posteriore
+rear‐light
+ luce di posizione; fanale posteriore
+rear
+ 1. retroguardia
+ 2. retroguardia
+rearguard
+ 1. retroguardia
+ 2. retroguardia
+reason
+ 1. causa
+ 2. ragione
+reasonable
+ sensato
+rebuke
+ 1. biasimare; disapprovare
+ 2. riprendere
+receipt
+ ricevuta
+receive
+ 1. accettare; accogliere
+ 2. ricevere
+recent
+ fresco
+recently
+ recentemente
+recess
+ alcova
+recipient
+ destinario
+recite
+ recitare
+recognize
+ 1. riconoscere
+ 2. riconoscere
+recollection
+ memoria
+recommend
+ raccomandare; vantare
+recommendable
+ raccomandabile
+recommendation
+ raccomandazione
+recruit
+ 1. arruolare; ingaggiare
+ 2. arruolare; ingaggiare
+red
+ 1. rosso
+ 2. rosso
+ 3. rosso
+redeemable
+ rimborsabile; estinguibile
+redemption
+ ammortizzamento
+reduce
+ respingere
+reek
+ sentire
+referee
+ arbitro
+refined
+ delicato
+refusal
+ rifiuto
+refuse
+ rifiutarsi
+regard
+ 1. considerazione; stima; riguardo; rispetto
+ 2. considerare
+ 3. guardare
+ 4. guardare
+register
+ raccomandare; vantare
+regret
+ rincrescere
+regular
+ regolare
+regularly
+ frequentemente; sovente; spesso
+regulation
+ regola
+reject
+ 1. rifiutare
+ 2. rigettare
+ 3. rifiutarsi
+relate
+ raccontare
+related
+ congiunto; parento
+related
+ imparentato
+relation
+ relazione
+relations
+ parentado
+relationship
+ parentado; parentela
+relative
+ 1. parente
+ 2. parente
+ 3. relativo
+relatives
+ parentado
+release
+ liberare
+relinquish
+ cedere
+remain
+ 1. resti dietro
+ 2. stare; restare; rimanere
+remit
+ annullare
+remote
+ 1. isolato
+ 2. distante; lontano
+remote
+ telecomando
+rendezvous
+ appuntamento
+rent
+ affittare
+repair
+ riparare
+repayable
+ rimborsabile; estinguibile
+repeat
+ ripetere
+repentance
+ pentimento; rimpianto
+repentant
+ pentito
+reply
+ 1. replicare; rispondere
+ 2. risposta
+report
+ 1. informare; insegnare
+ 2. annunciare; comunicare
+ 3. annunzio; comunicato
+repose
+ 1. riposarsi
+ 2. riposo
+represent
+ rappresentare
+representation
+ figura
+representative
+ delegato; deputato
+reproach
+ riprendere
+reprove
+ riprendere
+republic
+ repubblica
+request
+ chiedere
+require
+ aver bisogno di
+rescue
+ salvare
+resemble
+ rassomiglare
+reserve
+ 1. ordinare
+ 2. riservare
+residence
+ 1. residenza
+ 2. alloggio; appartamento
+respect
+ 1. rispettare
+ 2. rispetto
+respectable
+ onorevole; rispettabile
+respiration
+ respirazione
+respond
+ 1. reagire
+ 2. replicare; rispondere
+responsible
+ 1. responsabile
+ 2. responsabile
+rest
+ 1. riposarsi
+ 2. riposo
+restaurant
+ ristorante
+restrain
+ dominare; governare
+restrict
+ limitare; restringere
+result
+ 1. discendere
+ 2. risultato
+ 3. esito; risultato
+resumé
+ sommario
+retain
+ ritenere
+retardation
+ ritardo
+retarded
+ deficiente
+retention
+ conservazione; preservazione
+return‐ticket
+ biglietto d'andata e ritorno
+return
+ 1. restituire
+ 2. ritornare
+ 3. rivenire
+reveal
+ pubblicare
+revenge
+ vendetta
+revue
+ rivista
+reward
+ 1. ricompensare
+ 2. ricompensa
+rhino
+ rinoceronte
+rhinoceros
+ rinoceronte
+ribbon
+ nastro
+rice
+ riso
+rich
+ ricco
+rickety
+ decrepito
+ride
+ camminare
+ridiculous
+ ridicolo
+rifle
+ fucile
+right‐hand
+ destra
+right
+ 1. destro
+ 2. corretto
+ 3. diritto
+righthand
+ destro
+right
+ fra poco; immediatamente; subito
+right
+ fra poco; immediatamente; subito
+rigid
+ rigido
+rim
+ orlo
+ring
+ anello
+riotous
+ dissoluto; licenzioso
+ripe
+ maturo
+rise
+ 1. alzarsi
+ 2. salire
+ 3. alzarsi
+risk
+ 1. arrischiare
+ 2. rischio
+river
+ fiume
+road
+ cammino; corsia; pista; strada; via
+roar
+ muggire
+rob
+ derubare
+robe
+ abito
+rock
+ roccia
+rod
+ barra
+roll‐call
+ 1. chiamata
+ 2. chiamata
+roll
+ panino
+roller‐blind
+ persiana
+roller
+ cilindro
+roof
+ tetto
+room
+ 1. spazio
+ 2. camera
+rooster
+ gallo
+rough
+ 1. crudo
+ 2. brusco; rude
+round
+ 1. rotondo
+ 2. arrotondare
+ 3. intorno a
+round
+ arrotondare
+rouse
+ 1. incitare; spronare
+ 2. stimolare
+route
+ cammino; corsia; pista; strada; via
+rubber
+ 1. gomma
+ 2. gomma
+rubbish
+ macerie
+rudder
+ 1. remo
+ 2. remo
+rude
+ rozzo; scortese
+rudiments
+ alfabeto
+ruin
+ rovinare
+rule
+ 1. dominare; governare
+ 2. regola
+rump
+ sedere
+run
+ 1. fuga
+ 2. correre
+run
+ colpire
+run
+ fuggire
+rush
+ 1. affrettarsi
+ 2. affrettarsi
+rusty
+ arrugginito
+rye
+ segale
+sack
+ borsa
+sad
+ 1. afflitto; triste
+ 2. afflitto; triste
+ 3. afflitto; triste
+sadness
+ tristezza
+safety
+ sicurezza
+sagacious
+ saggio
+sage
+ 1. salvia
+ 2. saggio
+sail
+ vela
+sailor
+ marinaio
+salad
+ insalata
+salary
+ paga; salario
+sale
+ 1. smercio; vendita
+ 2. vendita
+sales
+ sbocco
+sallow
+ pallido
+salmon
+ salmone
+salon
+ salotto
+salt
+ sale
+salute
+ salutare
+sample
+ campione
+sand
+ sabbia
+satisfied
+ contento
+sauce
+ salsa
+saucepan
+ casseruola
+saucer
+ piattino
+sausage
+ salsiccia
+savage
+ selvaggio
+save
+ salvare
+saw
+ sega
+say
+ dire
+say
+ dire addio
+say
+ dire addio
+say
+ affermare
+scale
+ squama
+scales
+ bilancia
+scandal
+ 1. scandalo
+ 2. maldicenza
+ 3. scandalo
+scarcely
+ appena
+scare
+ impaurire; spaventare
+scatter
+ versare
+schedule
+ orario
+scheme
+ progetto
+scholar
+ 1. dotto; erudito
+ 2. allievo; scolaro
+ 3. dotto; erudito
+school
+ scuola
+science
+ scienza
+scientist
+ scienziato
+scissors
+ forbici
+scold
+ riprendere
+scratch
+ raschiare
+scream
+ gridare
+screen
+ schermo
+screw
+ vite
+screwdriver
+ cacciavite
+scuffle
+ battaglia
+sculptor
+ scultore
+sculpture
+ scultura
+scythe
+ falce
+sea‐dog
+ foca
+sea
+ mare
+seagull
+ gabbiano
+seal
+ foca
+seasickness
+ mal di mare
+seaside
+ costa
+season
+ stagione
+seat
+ posto
+second
+ 1. secondo
+ 2. secondo
+second
+ pronipote
+secret
+ 1. segreto
+ 2. segreto
+secretion
+ secrezione
+section
+ divisione
+secure
+ fissare
+security
+ sicurezza
+see
+ 1. incontrare
+ 2. vedere
+ 3. visitare
+seek
+ cercare
+seem
+ parere
+seemly
+ conveniente
+seize
+ afferrare
+seizure
+ apoplessia
+seldom
+ raramente
+self‐conscious
+ timido
+self‐interested
+ egoistico
+self
+ stesso
+selfish
+ egoistico
+sell
+ vendere
+send
+ mandare
+send
+ imbarcare; sbrigarsi di
+sensible
+ sensato
+sensitive
+ sensibile
+sentence
+ 1. frase
+ 2. condannare
+separate
+ 1. separato
+ 2. separare
+ 3. dividere
+serious
+ 1. grave; importante
+ 2. serio
+serpent
+ serpente
+servant
+ servire
+serve
+ 1. servire
+ 2. servire
+service
+ 1. uffizio divino
+ 2. servizio
+ 3. servizio
+set
+ 1. apparecchio
+ 2. gruppo
+settlement
+ pareggiamento dei conti
+seven
+ sette
+seventeen
+ diciasette
+seventh
+ settimo
+seventy
+ settanta
+several
+ qualche volta; talvolta
+severe
+ severo
+sex
+ sesso
+shack
+ 1. baracca
+ 2. capanna
+shade
+ ombra
+shadow
+ ombra
+shaft
+ albero
+shallow
+ basso
+shame
+ vergogna
+shanty
+ baracca
+share
+ 1. azione
+ 2. dividere
+ 3. parte; porzione
+ 4. spartire
+ 5. parte; porzione
+ 6. porzione
+shareholder
+ azionista
+shark
+ pescecane
+sharp
+ 1. affilato; tagliente
+ 2. acuto; affilato; aguzzo; appuntito; aspro; piccante; tagliente
+ 3. giustamente; giusto
+shave
+ far la barba
+she‐goat
+ capra
+she
+ lei
+shed
+ 1. tettoia
+ 2. tettoia
+ 3. baracca
+ 4. granaio
+ 5. tettoia
+ 6. versare
+sheep
+ pecora
+sheet
+ 1. foglia; foglio
+ 2. lenzuolo
+sheet
+ latta
+shelf
+ asse
+shell
+ conchiglia
+shelter
+ 1. riparo; rifugio
+ 2. riparare
+shine
+ brillare; risplendere
+shiver
+ tremare
+shoe
+ scarpa
+shoemaker
+ 1. calzolaio
+ 2. calzolaio
+shoot
+ fucilare
+shop
+ negozio
+shore
+ costa
+short‐sighted
+ miope
+short
+ 1. corto
+ 2. corto
+shortage
+ mancanza
+shortcoming
+ mancanza
+shortness
+ asma
+shoulder
+ spalla
+shout
+ 1. gridare
+ 2. grido
+show
+ mostrare
+shower
+ doccia
+shrew
+ megera
+shrub
+ arbusto
+shut
+ 1. chiudere
+ 2. chiuso
+shy
+ timido
+sick
+ malato
+side‐whiskers
+ baffi
+side
+ 1. fianco; lato
+ 2. partito
+sideboard
+ armadio
+siege
+ assedio
+sigh
+ sospirare
+sight
+ 1. apparenza; aria; aspetto
+ 2. vista
+sightless
+ cieco
+sign
+ 1. augurio
+ 2. augurio
+ 3. prova
+ 4. segno
+ 5. firmare
+signal
+ segno
+signalman
+ cantoniere; casellante
+signature
+ firma
+signify
+ significare
+silent
+ silenzioso
+sill
+ soglia
+silver
+ argento
+similar
+ simile
+simple
+ semplice
+since
+ 1. di
+ 2. considerato che; visto che
+sincere
+ sincero
+sing
+ cantare
+singer
+ 1. cantante
+ 2. cantante
+sir
+ signore
+sister‐in‐law
+ cognata
+sister
+ sorella
+sit
+ 1. covare
+ 2. essere seduto
+sitting‐room
+ 1. stanza
+ 2. salotto
+sit
+ 1. sedersi
+ 2. sedersi
+six
+ sei
+sixteen
+ sedici
+sixth
+ sesto
+sixty
+ sessanta
+sizable
+ considerevole; notevole; ragguardevole
+size
+ grandezza
+skeleton
+ 1. scheletro
+ 2. scheletro
+sketch
+ 1. progettare
+ 2. progetto
+skilfulness
+ abilità; destrezza
+skill
+ abilità; destrezza
+skillful
+ abile; destro; lesto; sveglio
+skillfulness
+ abilità; destrezza
+skim
+ scremare
+skimpy
+ magro
+skin
+ 1. pelle
+ 2. pelle
+skinny
+ magro
+skull
+ cranio
+sky
+ cielo
+sky
+ azzurro
+slander
+ 1. calunniare
+ 2. maldicenza
+slay
+ ammazzare; uccidere
+sleep
+ 1. dormire
+ 2. sonno
+sleeping‐car
+ vettura letti
+slender
+ sottile
+slice
+ tagliare
+slow
+ lento
+slug
+ lumaca
+slum
+ quartiere popolare; rione popolare
+small
+ piccolo
+smell
+ sentire
+smell
+ sentire di
+smile
+ 1. sorridere
+ 2. sorriso
+smoke
+ 1. fumare
+ 2. fumo
+smokers
+ fumatori
+smokestack
+ fumaiuolo
+smooth
+ 1. piano
+ 2. liscio
+snail
+ 1. chiocciola
+ 2. chiocciola; chiocciolina
+snake
+ serpente
+snore
+ russare
+snow
+ 1. nevicare
+ 2. neve
+so
+ 1. così
+ 2. così
+ 3. così
+sober
+ sobrio
+sobriquet
+ soprannome
+social
+ 1. sociale
+ 2. sociale
+society
+ compagnia
+soft
+ 1. dolce
+ 2. molle
+soil
+ 1. insudiciare; sporcare
+ 2. terra
+sole
+ 1. pianta
+ 2. solo
+ 3. sogliola
+solicitor
+ avvocato
+soliloquy
+ monologo
+solitary
+ solo
+solve
+ risolvere
+somber
+ afflitto; triste
+sometimes
+ qualche volta; talvolta
+somewhere
+ in qualche luogo
+son‐in‐law
+ genero
+son
+ figlio; figliolo
+song
+ canzone
+soon
+ fra poco
+soothe
+ calmare; placare
+sorrow
+ tristezza
+sort
+ genere; specie
+sound
+ 1. sonare
+ 2. suono
+soup
+ minestra
+sour
+ 1. acido; agro
+ 2. brusco; rude
+source
+ fonte; sorgente
+south
+ sud
+souvenir
+ memoria
+sow
+ seminare
+so
+ arrivederci
+so
+ così così
+so
+ per così dire
+spa
+ bagni; stazione balneare
+space
+ spazio
+spanner
+ chiave
+spark
+ scintilla
+spark
+ candela
+sparrow
+ passero
+speak
+ parlare
+special
+ 1. separato
+ 2. speciale
+specimen
+ campione
+spectacles
+ occhiali
+speechless
+ muto
+speed
+ 1. velocità
+ 2. andatura
+speed
+ accelerare
+spell
+ compitare
+spend
+ 1. spendere
+ 2. passare
+sphere
+ sfera
+spider
+ ragno
+spiked
+ appuntato
+spinach
+ spinaci
+spindle
+ albero
+spine
+ spina dorsale
+spirit
+ spirito
+spiritual
+ spirituale
+spit
+ sputare
+split
+ fendere
+spoil
+ danneggiare
+spoon
+ cucchiaio
+sport
+ sport
+spot
+ 1. luogo
+ 2. punto
+spring
+ 1. fonte; sorgente
+ 2. primavera
+ 3. molla
+ 4. saltare
+springtime
+ primavera
+spy
+ spiare
+squad
+ compagnia
+square
+ piazza
+square
+ gruppo
+squeeze
+ premere; serrare; stringere
+squirrel
+ scoiattolo
+stab
+ pungere
+stable
+ 1. stabile
+ 2. stalla
+staid
+ serio
+staircase
+ scala
+stairs
+ scala
+stale
+ trito e ritrito
+stall
+ stalla
+stamp
+ bollo; francobollo
+stand
+ 1. granaio
+ 2. alzarsi
+ 3. stare in piedi
+ 4. alzarsi
+standard
+ stendardo
+stand
+ 1. alzarsi
+ 2. alzarsi
+stand
+ far fronte a; opporsi a
+star
+ stella
+stare
+ fissare
+start
+ 1. cominciare
+ 2. cominciare
+ 3. inizio; principio
+state
+ 1. asserire; sostenere
+ 2. stato
+statement
+ dichiarazione
+station‐master
+ capostazione
+station
+ stazione
+statue
+ statua
+stay
+ stare; restare; rimanere
+stay
+ resti dietro
+stay
+ stare; restare; rimanere
+steak
+ bistecca
+steal
+ rubare
+steam‐boiler
+ caldaia
+steel
+ 1. osso di balena
+ 2. acciaio
+steep
+ ripido
+steering‐wheel
+ timone; volante
+stem
+ 1. tronco
+ 2. tronco
+stenotypist
+ dattilografa
+step‐brother
+ fratellastro
+step‐father
+ 1. patrigno
+ 2. patrigno
+step‐mother
+ 1. matrigno
+ 2. matrigno
+step‐sister
+ sorellastra
+step
+ passo
+sterile
+ sterile
+stern
+ 1. poppa
+ 2. poppa
+stew
+ cibreo
+stick
+ appiccicare
+sticky
+ 1. appiccicaticcio
+ 2. appiccicaticcio
+stiff
+ rigido
+still
+ 1. ancora
+ 2. calmare; placare
+stimulate
+ 1. incitare; spronare
+ 2. stimolare
+sting
+ 1. pungere
+ 2. aculeo; pungiglione
+stingy
+ avaro
+stir
+ 1. incitare; spronare
+ 2. stimolare
+stoke
+ riscaldare
+stomach
+ stomaco
+stomach
+ mal di pancia
+stone
+ pierra
+stoop
+ 1. curvarsi
+ 2. curvarsi
+stop
+ 1. fermata
+ 2. fermarsi
+ 3. fermare
+ 4. cessare
+ 5. fermare; interrompere
+storage
+ 1. accumulatore
+ 2. accumulatore
+store
+ negozio
+storey
+ piano
+storm
+ tempesta
+story
+ 1. piano
+ 2. storia
+straggler
+ ritardatario
+straight
+ destro
+straightforward
+ semplice
+strait
+ stretto
+strange
+ strano
+strawberry
+ fragola
+stray
+ perdersi; smarrirsi
+stream
+ 1. corrente
+ 2. ruscello
+strech
+ caricare
+street
+ via
+streetcar
+ tram
+strength
+ forza
+stress
+ 1. accentare
+ 2. accento
+stretcher
+ 1. barella
+ 2. barella
+strict
+ severo
+stride
+ passo
+strike
+ 1. battere
+ 2. colpire; picchiare
+ 3. fare sciopero
+ 4. colpire
+strike
+ saldare
+stroke
+ 1. apoplessia
+ 2. accarezzare
+stroke
+ apoplessia
+strong
+ forte
+struggle
+ battaglia
+stubborn
+ ostinato
+student
+ studente
+study
+ studiare
+stupid
+ ignorante; sciocco; stupido
+sty
+ stalla
+subject
+ eccetto; salvo
+subject
+ tassabile
+subscriber
+ abbonato
+subscription
+ abbonamento
+subsequently
+ dietro; dopo
+succeed
+ riuscire; succedere
+success
+ successo
+successor
+ discendente
+such
+ così
+such
+ come
+such
+ come
+suck
+ succhiare
+suckle
+ allattare
+sudden
+ subitaneo
+suddenly
+ ad un tratto; improvvisamente
+suffice
+ bastare
+sufficient
+ sufficiente
+sufficiently
+ abbastanza
+suffix
+ suffisso
+suffocate
+ soffocare
+sugar
+ zucchero
+suggest
+ indicare; mostrare
+suggestion
+ suggerimento
+suit
+ abito; costume
+suitable
+ 1. decente
+ 2. conveniente
+ 3. adatto; capace; idoneo
+ 4. utilizzabile; utile
+suitcase
+ valigia
+sum
+ importo; somma
+summer
+ estate
+summery
+ sommario
+summit
+ 1. punta
+ 2. cima
+summon
+ chiamare
+sun
+ sole
+sunrise
+ levar del sole
+sunset
+ tramonto
+superficial
+ 1. basso
+ 2. basso
+superior
+ superiore
+superstition
+ superstizione
+superstitious
+ superstizioso
+supervise
+ controllare; verificare
+supper
+ cena
+supplication
+ domanda; preghiera
+support
+ 1. sostenere
+ 2. poggiare; appoggiare; sostenere
+supporter
+ membro
+supporters
+ partito; seguito
+suppose
+ supporre
+suppress
+ 1. opprimere
+ 2. soffocare
+sure
+ certo
+surface
+ 1. cima
+ 2. superficie
+surgeon
+ chirurgo
+surly
+ brusco; rude
+surmise
+ supporre
+surname
+ cognome
+surprise
+ 1. sorprendere
+ 2. sorpresa
+surrender
+ arrendersi
+surround
+ circondare
+surroundings
+ ambiente
+suspect
+ sospettare
+suspicion
+ sospetto
+sustain
+ 1. sostenere
+ 2. poggiare; appoggiare; sostenere
+sustained
+ costante
+swallow
+ rondine
+swear
+ 1. bestemmiare
+ 2. giurare
+sweat
+ sudare; traspirare
+sweet
+ dolce
+swiftly
+ presto
+swim
+ nuotare
+swindle
+ 1. imbroglio; inganno; truffa
+ 2. truffa
+swindling
+ imbroglio; inganno; truffa
+swine
+ porco
+switch
+ 1. accendere
+ 2. interruttore
+swoon
+ svenirsi
+system
+ sistema
+table‐cloth
+ toviglia
+table
+ tavolo
+tail‐light
+ luce di posizione; fanale posteriore
+tail
+ coda
+tailor
+ 1. sasta
+ 2. sarto
+take
+ 1. accettare; accogliere
+ 2. occupare
+ 3. prendere
+take
+ agire
+take
+ ritirare
+take
+ demolire
+take
+ accettare; accogliere
+take
+ considerare
+take
+ dire addio
+take
+ dire addio
+take
+ constatare
+take
+ togliere
+take
+ comperare; comprare
+take
+ spartire
+take
+ rilevare
+taking
+ acquisto; compra
+taking
+ acquisto; compra
+talent
+ ingegno; talento
+talented
+ 1. dotato
+ 2. dotato
+talk
+ parlare
+tall
+ alto
+tap
+ origliare
+tape‐recorder
+ registratore
+tar
+ catrame
+tardy
+ tardo
+target
+ proposito; scopo
+tart
+ acido; agro
+task
+ compito
+taste
+ 1. gustare
+ 2. gusto
+tattler
+ chiacchierone
+tax
+ 1. tassare
+ 2. contribuzione; imposta; tassa
+tea‐pot
+ teiera
+tea
+ tè
+teach
+ insegnare; instruire
+teacher
+ 1. maestra
+ 2. maestro
+tear
+ lagrima
+tear
+ rompere; staccare
+tease
+ irritare
+teeth
+ dentatura; denti
+tell
+ 1. dire
+ 2. raccontare
+telltale
+ chiacchierone
+tell
+ mentire
+temper
+ umore
+temple
+ tempia
+ten
+ dieci
+tender
+ 1. dolce
+ 2. presentare
+ 3. proporre
+tend
+ curare
+terminate
+ finire; terminare
+terrestrial
+ terrestre
+terrible
+ terribile
+territory
+ teritorio
+test
+ 1. esame
+ 2. provare
+testimony
+ certificato attestato
+than
+ che; di
+thank
+ ringraziare
+thankful
+ grato; riconoscente
+thankless
+ ingrato
+thanks
+ grazie
+that
+ 1. che
+ 2. così
+that
+ cioé
+that
+ tanto
+that
+ 1. così
+ 2. là; lì
+thaw
+ sgelare
+the
+ i; il; gli; la; le; lo
+theatre
+ teatro
+thee
+ dar del tu a
+theft
+ furto
+their
+ di loro
+then
+ 1. dopo; in seguito; poi
+ 2. allora
+thence
+ di là
+there
+ 1. là; lì
+ 2. là; li
+ 3. là; laggiú; li
+thereafter
+ dopo; in seguito; poi
+therefore
+ perciò; per quésto
+these
+ oggigiorno
+they
+ 1. essi
+ 2. essi
+the
+ Antartico; Antartide; Polo Sud
+the
+ Artico
+the
+ Olanda
+the
+ dopodomani; posdomani
+the
+ ieri l'altro
+thick
+ 1. denso
+ 2. grosso; spesso
+thief
+ 1. ladra
+ 2. ladro
+thigh
+ coscia
+thin
+ 1. magro
+ 2. sottile
+thing
+ 1. cosa
+ 2. cosa; ogetto
+think
+ pensare
+think
+ anticipare
+think
+ rispettare; stimare
+third
+ 1. terzo
+ 2. terzo
+thirst
+ sete
+thirteen
+ tredici
+thirty
+ trenta
+this
+ stasera
+this
+ stamattina
+this
+ quà; qui
+thither
+ là; lì
+thorn
+ spina
+thou
+ 1. tu; voi
+ 2. tu; voi
+ 3. tu; voi
+though
+ benche; sebbene
+thought
+ pensiero
+thousand
+ mille
+thread
+ filo
+threat
+ minaccia
+threaten
+ minacciare
+three
+ tre
+three
+ tre volte
+thresh
+ trebbiare
+threshold
+ soglia
+thrice
+ tre volte
+throat
+ gola; gorga
+through
+ 1. finito; terminato
+ 2. completamente
+ 3. mediante; per mezzo di
+ 4. pronto
+ 5. attraverso
+throw
+ gettare
+throw
+ vomitare
+thrust
+ spingere
+thumb
+ 1. pollice
+ 2. pollice
+thunder
+ 1. tuonare
+ 2. tuono
+thus
+ 1. così
+ 2. così
+thwart
+ rendere difficile
+ticket‐window
+ sportello
+ticket
+ biglietto
+tie
+ 1. cravatta
+ 2. legare
+ 3. legame
+tie
+ legare
+tiger
+ tigre
+timber
+ legno
+time‐table
+ orario
+time
+ tempo
+timid
+ angoscioso; pauroso
+tin
+ 1. latta
+ 2. stagno
+tin
+ latta
+tip
+ 1. punta
+ 2. mancia
+tire
+ gomma
+tired
+ stanco
+tired
+ esausto; sfinito
+tire
+ affaticare; stancare
+to
+ a
+toad
+ rospo
+today
+ oggi
+toe
+ dito del piede
+together
+ insieme
+toilet‐paper
+ carta igienica
+toilet
+ cesso; gabinetto; ritirata
+token
+ 1. prova
+ 2. segno
+tolerate
+ sopportare; tollerare
+tomato
+ pomodoro
+tomorrow
+ domani
+tomorrow
+ domani sera
+tomorrow
+ domattina
+tongs
+ pinzette
+tongue
+ 1. lingua
+ 2. lingua
+too
+ 1. anche
+ 2. troppo
+tool
+ arnese; strumento
+too
+ troppo
+top
+ cima
+topgallant
+ scardola
+topical
+ attuale
+torch
+ fiaccola; torcia
+torture
+ torturare
+torturer
+ boia
+touch
+ toccare
+touch
+ menzionare
+touch
+ menzionare
+toward
+ a
+towards
+ 1. a
+ 2. intorno a
+towel
+ asciugamano
+tower
+ torre
+town‐hall
+ municipio
+town
+ città
+township
+ paesello
+toy
+ giuocattolo
+trace
+ delimitare
+trace
+ delimitare
+trade
+ 1. commercio
+ 2. mestiere
+train
+ 1. treno
+ 2. treno
+tram
+ tram
+tranquil
+ calmo; tranquillo
+transfer
+ attraversare
+transformation
+ 1. cambiamento
+ 2. cambiamento
+translate
+ tradurre
+translation
+ traduzione
+transmit
+ mandare
+transparant
+ trasparente
+transport
+ 1. trasportare
+ 2. trasporto
+travel
+ 1. camminare
+ 2. viaggiare
+treat
+ 1. guarire
+ 2. trattare
+treatment
+ trattamento
+treaty
+ trattato
+tree‐trunk
+ tronco
+tree
+ albero
+tremble
+ tremare
+triangle
+ triangolo
+trick
+ abitudine; vizio
+tricycle
+ triciclo
+trifle
+ inezia
+trip
+ viaggio
+trite
+ 1. banale
+ 2. trito e ritrito
+triumph
+ vittoria
+trouble
+ 1. problema
+ 2. disturbare
+trousers
+ calzoni; pantaloni
+trout
+ trota
+truck
+ 1. autocarro; camion
+ 2. autocarro; camion
+true
+ vero
+truly
+ davvero; infatti
+trumpet
+ tromba
+trunk
+ 1. tronco
+ 2. baule
+ 3. tronco
+trust
+ fiducia
+truth
+ 1. verità
+ 2. verità
+try
+ provare
+tube
+ 1. condotto
+ 2. valvola
+tug
+ 1. tirare
+ 2. rimorchiatore
+tugboat
+ rimorchiatore
+tummy
+ ventre
+tummy
+ mal di pancia
+tuna‐fish
+ tonno
+tuna
+ tonno
+tune
+ 1. adattare; aggiustare
+ 2. sintonizzare
+tunny
+ tonno
+turn
+ 1. svoltare
+ 2. svoltare
+ 3. rovesciare
+ 4. girare
+turnip
+ rapa
+turn
+ accendere
+turn
+ rovesciare
+turn
+ impiegare
+tussle
+ combattere; duellare; picchiarsi
+twelve
+ dodici
+twenty
+ venti
+twice
+ due volte
+twin
+ 1. gemelli
+ 2. gemelli
+two
+ due
+type
+ scrivere a macchina
+typewriter
+ macchina da scrivere
+tyrant
+ tiranno
+tyre
+ 1. gomma
+ 2. gomma
+ultimately
+ alla fine; finalmente
+umpire
+ arbitro
+uncle
+ zio
+unconscious
+ privo di sensi; svenuto
+uncover
+ scoprire
+under
+ sotto
+underhand
+ di nascosto
+underneath
+ 1. sotto
+ 2. dabbasso; giú
+underpants
+ mutande
+understand
+ capire; comprendere
+understandable
+ comprensibile
+undoubtedly
+ si capisce
+unfaithful
+ infedele
+unfortunately
+ 1. per fortuna
+ 2. per sfortuna
+ 3. per sfortuna
+ungrateful
+ ingrato
+unhappy
+ infelice
+unique
+ solo; unico
+unite
+ congiungere
+unity
+ unità
+universal
+ universale
+university
+ università
+unkind
+ brusco; rude
+unknown
+ sconosciuto
+unlearn
+ 1. perdere l'abitunide di
+ 2. disimparare
+unpleasant
+ brusco; rude
+unthankful
+ ingrato
+up‐to‐date
+ attuale
+upon
+ contro
+upper‐arm
+ omero
+upper
+ omero
+upset
+ 1. confuso; turbato
+ 2. rovesciare
+upstairs
+ di sopra
+urinate
+ orinare; pisciare
+us
+ noi
+use
+ 1. impiegare; usare
+ 2. impiego; uso
+used
+ consueto; usuale
+useful
+ utile
+use
+ logorare
+usual
+ 1. consueto; usuale
+ 2. generale
+utilize
+ 1. sfruttare
+ 2. impiegare
+vain
+ vanitoso
+valise
+ valigia
+valley
+ valle
+valuable
+ caro; costoso
+value
+ valore
+valve
+ valvola
+van
+ furgone
+variable
+ variabile
+variation
+ variazone
+variety
+ variazone
+veal
+ carne di vitello
+vegetable
+ legume
+vein
+ vena
+vend
+ vendere
+vengeance
+ vendetta
+ventilate
+ aerare; arieggiare; ventilare
+venture
+ arrischiare
+verify
+ controllare; verificare
+very
+ assai; molto
+very
+ assai; molto
+vessel
+ cassa; tinozza; vaso
+veterinarian
+ veterinario
+vicar
+ curato
+vice
+ virtú
+victory
+ vittoria
+view
+ 1. apparenza; aria; aspetto
+ 2. vista
+ 3. vista
+ 4. guardare
+ 5. vista
+vigour
+ forza
+village
+ villaggio
+vine
+ 1. vigna
+ 2. vite
+vinegar
+ aceto
+violate
+ aggredire; assalire
+viper
+ vipera
+visit
+ 1. visitare
+ 2. visita
+vixen
+ megera
+vocabulary
+ dizionario
+voice
+ 1. voce
+ 2. voce
+void
+ vuoto
+volume
+ tomo; volume
+vomit
+ vomitare
+vote
+ 1. votare
+ 2. voce
+voyage
+ viaggio
+vulgar
+ volgare
+wage
+ paga; salario
+wager
+ scommettere
+wages
+ paga; salario
+waggon
+ vagone; vettura
+wait
+ aspettare
+waiter
+ cameriere
+waiting‐room
+ sala d'aspetto
+waiting
+ servizio
+waiting
+ sala d'aspetto
+wait
+ aspettare
+walk
+ camminare
+wall
+ 1. muro
+ 2. parete
+walnut‐tree
+ 1. noce
+ 2. noce
+want
+ 1. bisogno; fabbisogno
+ 2. desiderio
+ 3. volere
+wanton
+ scatenato; sfrenato
+war
+ guerra
+warm
+ caldo
+warn
+ avvertire
+warning
+ avviso
+warrant
+ garanzia
+wash
+ 1. lavare
+ 2. lavare
+wasp
+ vespa
+waste
+ sottoprodotto
+watch
+ 1. orologio
+ 2. guardare
+watchmaker
+ orlogiaio
+watch
+ aspettare; attendere
+water
+ 1. acqua
+ 2. annaffiare; bagnare; innaffiare
+waterfall
+ 1. cascata
+ 2. cascata
+wave
+ onda
+waver
+ esitare; titubare
+way
+ 1. costume
+ 2. maniera; modo
+ 3. cammino; corsia; pista; strada; via
+way
+ uscita
+we
+ noi
+weak
+ debole
+weaken
+ debilitare
+wealth
+ ricchezza
+wealthy
+ ricco
+weapon
+ arma
+wear
+ 1. portare
+ 2. portare
+wear
+ logorare
+weather
+ tempo
+week
+ settimana
+weekly
+ settimanalmente
+weep
+ piangere
+weigh
+ 1. pesare
+ 2. pesare
+weight
+ peso
+welcome
+ bene arrivate; benvenuto
+well‐known
+ conosciuto; noto
+well‐mannered
+ cortese
+well‐off
+ ricco
+well
+ bene
+wench
+ piccola; ragazza
+west
+ 1. ovest
+ 2. ovest
+wet
+ bagnato
+whale
+ balena
+whalebone
+ 1. osso di balena
+ 2. osso di balena
+wharf
+ piattaforma
+what's
+ d'altronde; inoltre
+what
+ come
+what
+ che ora è?
+wheat
+ frumento
+wheel
+ ruota
+wheeziness
+ asma
+when
+ 1. quando
+ 2. quando
+ 3. quando
+ 4. quando
+whereas
+ durante
+while
+ 1. durante
+ 2. tempo
+whilst
+ durante
+whiskers
+ baffi
+whisper
+ bisbigliare; sussurrare
+whistle
+ fischiare
+white
+ 1. bianco
+ 2. bianco
+ 3. bianco
+whole
+ 1. completo; intero; totale; tutto
+ 2. tutto
+width
+ 1. larghezza
+ 2. larghezza
+wife
+ moglie
+wild
+ selvaggio
+wild
+ cinghiale
+will
+ volontà
+willingly
+ volentieri
+willingness
+ volontà
+willow
+ salcio; salice
+win
+ guadagnare
+wind
+ vento
+window
+ 1. finestra
+ 2. sportello
+wind
+ caricare
+wine
+ vino
+wing
+ ala
+winter
+ inverno
+wire
+ filo
+wireless
+ radio
+wisdom
+ freccia
+wise
+ saggio
+wish
+ 1. desiderare
+ 2. desiderio
+ 3. volere
+ 4. volontà
+with
+ 1. mediante; per mezzo di
+ 2. a; su
+within
+ a; dentro
+without
+ direttamente
+without
+ eccetto; salvo
+withstand
+ far fronte a; opporsi a
+with
+ incinta
+witty
+ spiritoso
+wolf
+ lupo
+woman
+ donna
+wonder
+ stupirsi
+wonted
+ consueto; usuale
+wood
+ legno
+woods
+ bosco
+word
+ parola
+work
+ 1. lavorare
+ 2. lavoro
+ 3. opera
+worker
+ operaio
+working
+ operaio
+workman
+ operaio
+work
+ calcolare
+world
+ mondo
+worldwide
+ universale
+worm
+ verme
+worn‐out
+ trito e ritrito
+worn
+ esausto; sfinito
+worship
+ adorare; venerare
+worship
+ uffizio divino
+worth
+ valore
+wound
+ 1. ferire
+ 2. ferita
+wrap
+ avvolgere
+wrench
+ chiave
+wrest
+ estorcere
+wretched
+ miserabile; misero; povero
+wring
+ estorcere
+wrist
+ 1. polso
+ 2. polso
+write
+ scrivere
+writer
+ autore
+writing‐desk
+ banco; scrivania
+writing
+ banco; scrivania
+yard
+ cortile
+yawn
+ 1. sbadigliare
+ 2. sbadiglio
+ye
+ 1. tu; voi
+ 2. tu; voi
+year
+ anno
+yearly
+ 1. annuale
+ 2. annualmente
+yellow
+ 1. giallo
+ 2. giallo
+yes
+ sì
+yesterday
+ ieri
+yet
+ 1. ancora
+ 2. già
+yield
+ cedere
+yon
+ laggiú
+yonder
+ 1. là; lì
+ 2. laggiú
+you
+ 1. tu; voi
+ 2. tu; voi
+ 3. tu; voi
+ 4. tu; voi
+young
+ giovane
+your
+ 1. tuo
+ 2. tuo; vostro
+zeal
+ ardore; zelo
+zodiac
+ zodiaco
+zone
+ cintura
+pghyzqrisjakbcétulmdevfwnxo

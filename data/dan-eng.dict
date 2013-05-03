@@ -1,0 +1,8838 @@
+
+00-database-dictfmt-1.10.11
+Danish-English FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.1
+Size: about 4000 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: dan-eng.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/] This Database was
+  generated from ergane, http://www.travlang.com
+  [http://www.travlang.com].
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-19 that was rolled back due to
+   Ergane's cryptic change of database licensing. Multi-word equivalents
+   should be split by spaces.
+ * 2004-06-26 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-26 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-04-27 Horst Eyermann:
+   Phonetics added - machine generated from MBRODICT
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane (http://www.travlang.com) -
+   Thanks!
+Danish-English FreeDict Dictionary ver. 0.2.1
+http://freedict.org/
+Aaron
+ Aaron
+Abkhasien
+ Abkhazia
+Abraham
+ Abraham
+Achilles
+ Achilles
+Adam
+ Adam
+Addis Ababa
+ AddisAbaba
+Aden
+ Aden
+Adonis
+ Adonis
+Adrianopel
+ Adrianople
+Adriaterhavet
+ 1. Adriatic; AdriaticSea
+ 2. Adriatic; AdriaticSea
+Adzharien
+ Adzharia
+Afghanistan
+ Afghanistan
+Afrika
+ Africa
+Afrikander
+ Afrikaner; Boer
+Agamemnon
+ Agamemnon
+Ajax
+ Ajax
+Akeron
+ 1. Acheron
+ 2. Acheron
+Alaska
+ Alaska
+Alba
+ Alva
+Albanien
+ Albania
+Albion
+ Albion
+Aleppo
+ Aleppo
+Alexander
+ Alexander
+Alexandria
+ Alexandria
+Alfred
+ Alfred
+Algeriet
+ Algeria
+Algier
+ Algiers
+Allah
+ Allah
+Alperne
+ Alps
+Alpinist
+ Alpinist; climber; mountainclimber; mountaineer
+Alsace‐Lorraine
+ Alsace‐Lorraine
+Alsakser
+ Alsatian
+Altai
+ Altai
+Amazonfloden
+ 1. Amazon; AmazonRiver
+ 2. Amazon
+Amboina
+ Amboina
+Ambon
+ Amboina
+Amerika
+ America
+Amerikansk Samoa
+ AmericanSamoa
+Amman
+ Amman
+Argentina
+ Argentina
+Asien
+ Asia
+Atlanterhavet
+ Atlantic; AtlanticOcean
+Australien
+ Australia
+BZ'er
+ squatter
+Belgien
+ Belgium
+Berlin
+ Berlin
+Bibel
+ Bible
+Boer
+ Afrikaner; Boer
+Botniske Bugt
+ GulfofBothnia
+Brasilien
+ Brazil
+Danmark
+ Denmark
+Deres
+ your
+De forenede stater
+ UnitedStatesofAmerica; USA
+Elsass‐Lothringen
+ Alsace‐Lorraine
+Elsasser
+ Alsatian
+England
+ 1. England
+ 2. England
+Europa
+ 1. Europa
+ 2. Europe
+ 3. Europa
+Europæisk Union
+ EuropeanUnion
+Finland
+ Finland
+Frankrig
+ France
+Frelsens hær
+ SalvationArmy
+Grækenland
+ Greece
+Gud
+ God
+Helsingør
+ Elsinore
+Holland
+ Holland
+Indien
+ India
+Irland
+ Ireland
+Ishavet
+ ArcticOcean
+Island
+ Iceland
+Italien
+ Italy
+Japan
+ Japan
+Kina
+ China
+København
+ Copenhagen
+London
+ London
+Nederlandene
+ Holland; theNetherlands
+Nordamerika
+ NorthAmerica
+Nordpolen
+ Arctic; theArctic
+Nordsøen
+ NorthSea
+Norge
+ Norway
+Paris
+ Paris
+Polen
+ Poland
+Portugal
+ Portugal
+Rusland
+ 1. Russia
+ 2. Russia
+Sjælland
+ Zealand
+Skandinavien
+ Scandinavia
+Skotland
+ Scotland
+Skåne
+ Scania
+Spanien
+ Spain
+Storbritannien
+ Britain; GreatBritain
+Svalbard
+ Spitsbergen
+Svejts
+ Switzerland
+Sverige
+ Sweden
+Sydamerika
+ SouthAmerica
+Sydpolen
+ Antarctic; theAntarctic
+Tyrkiet
+ Turkey
+Tyskland
+ Germany
+USA
+ UnitedStatesofAmerica; USA
+Ungarn
+ Hungary
+abbedi
+ abbey
+abbestellen
+ cancel; countermand
+abe
+ ape; monkey
+abkhasier
+ Abkhazian
+abonnement
+ subscription
+aborre
+ bass
+abrikos
+ apricot
+absces
+ abscess
+abstrakt
+ abstract
+absurd
+ absurd
+abyssiner
+ Abyssinian
+accent
+ 1. accent; stress
+ 2. accent
+ 3. accentmark; supersign
+acceptere
+ accept; receive; take; takein
+acetylen
+ acetylene
+achilleshæl
+ Achilles'heel
+achillessene
+ Achilles'tendon
+adamsæble
+ Adam'sapple
+adel
+ 1. nobility
+ 2. nobility
+adgang
+ access; admission; admittance
+adjektiv
+ adjective
+adlyde
+ obey
+admiral
+ admiral
+adoptivbarn
+ adoptivechild
+adresse
+ address
+adressere
+ address
+adskille
+ divide; separate
+adskillelse
+ separation; partition
+adskillige
+ several
+advare
+ caution; warn
+advarsel
+ warning
+advent
+ advent
+adverbium
+ adverb
+af
+ 1. from; outof
+ 2. about; concerning; on; upon
+afbenyttelse
+ use
+afbetale
+ payoff
+afbetaling
+ installmentpayment
+afbildning
+ image; picture
+afbryde
+ 1. interrupt
+ 2. cut; cutaconnection
+ 3. shutoff; stop; switchoff; turnoff
+ 4. break
+ 5. stop
+afbrydelse
+ interruption
+afbryder
+ switch
+afbrænde
+ 1. beburntdown
+ 2. burndown
+afbud
+ abolition; abrogation
+afdeling
+ 1. branch; compartment; department; pigeonhole; section; speciality
+ 2. section
+ 3. detachment
+afdelingschef
+ 1. headofadepartment
+ 2. headofdepartment
+affyre
+ discharge; fire; fireoff
+affære
+ affair; business; businessdeal; case; matter
+afgang
+ 1. departure
+ 2. departure
+afgangseksamen
+ leavingexamination
+afghaner
+ Afghan
+afghanerinde
+ Afghanwoman
+afgrund
+ abyss; chasm; gulf; precipice
+afgud
+ idol
+afgå
+ absentonself; depart; goaway; leave
+afgøre
+ decide
+afhænge
+ depend
+afhænge af
+ bedependenton; dependonldependupon
+afhængig
+ dependent
+afhængighed
+ dependence
+afhængig af
+ dependanton
+afhøre
+ 1. hear
+ 2. findout; hear; learnof
+afkøbe
+ ransom; redeem
+afkøle
+ 1. cool; cooldown
+ 2. getcold
+afkøling
+ cooling
+aflevere
+ deliver; furnish; supply
+aflevering
+ delivery
+aflyse
+ abjure; abolish; abrogate; annul; cancel; remit
+aflægge
+ achieve; act; do; make; perform
+aflægger
+ layer
+afløb
+ drain‐pipe; outlet‐pipe; waste‐pipe
+afløbsrør
+ drain‐pipe; outlet‐pipe; waste‐pipe
+afregne
+ 1. settle; squareup
+ 2. settle; squareup
+afregning
+ account; settlement
+afrejse
+ 1. absentonself; depart; goaway; leave
+ 2. driveaway; driveoff
+ 3. departure
+afrikaans
+ Afrikaans
+afrikaner
+ African
+afrikanerinde
+ Africanwoman
+afrikansk
+ African
+afro‐asiat
+ Afro‐Asian
+afrunde
+ round; roundoff
+afsende
+ 1. dispatch; sendoff; ship
+ 2. dismiss; turnaway
+afsender
+ 1. sender
+ 2. sender
+afsides
+ 1. remote
+ 2. distant; far; remote
+afskaffe
+ 1. abolish; abrogate
+ 2. doawaywith; getridof; remove
+afskaffelse
+ 1. abolition; abrogation
+ 2. abolition; abrogation
+ 3. abolition
+afsked
+ farewell; goodbye; good‐bye
+afskedige
+ 1. discharge; dismiss; fire; sack
+ 2. discharge; dismiss; fire; sack
+afskrift
+ copy
+afskrive
+ copy
+afskrivning
+ redemption
+afsky
+ 1. abhor; abominate; loathe
+ 2. abhorrence; abomination; horror
+afslå
+ reject
+afsløre
+ discover; uncover
+afsløring
+ discovery
+afsnit
+ 1. paragraph
+ 2. paragraph
+afstamme
+ accrue; come; derive; originate; result
+afstamning
+ lineage
+afstand
+ 1. distance; offset
+ 2. distance
+aftale
+ 1. accommodation; accord; agreement
+ 2. appointment; date; rendezvous
+aften
+ evening
+aftenavis
+ eveningpaper
+aftensmad
+ eveningmeal; supper
+afveksling
+ alternation
+afvigelse
+ aberrance; aberration
+afvise
+ reject
+af og til
+ nowandthen
+af træ
+ wooden
+agent
+ agent
+agentur
+ agency
+agerhøne
+ partridge
+agern
+ acorn
+aggression
+ aggression; aggro
+agte
+ esteem; thinkwellof
+agtelse
+ esteem; regard
+agterstavn
+ 1. poop; poopdeck; stern
+ 2. poop; poopdeck; stern
+agurk
+ cucumber
+ahorn
+ maple; sycamore
+akacie
+ acacia
+akademi
+ academy
+akademiker
+ academician
+akademisk
+ academic
+akkord
+ concord
+akkumulator
+ accumulator; battery; storagebattery
+akrobat
+ acrobat
+aksel
+ axis; axle
+akt
+ act
+aktie
+ share
+aktiv
+ 1. active
+ 2. active; inaction
+aktivitet
+ activity; vigour
+aktstykke
+ certificate; diploma; document
+aktuel
+ current; present; present‐day; topical; up‐to‐date
+akvarel
+ water‐colour
+akvarium
+ aquarium
+alarm
+ alarm
+albaner
+ Albanian
+albanierinde
+ Albanian; Albanianwoman
+albansk
+ Albanian; Albanianlanguage
+albue
+ elbow
+album
+ album
+alder
+ age
+alderdomshjem
+ oldpeople'shome
+aldrig
+ never
+alene
+ alone; only; sole; solitary
+alfabet
+ alphabet
+alfabetisk
+ alphabetical
+algerier
+ Algerian
+algerierinde
+ Algerianwoman
+alibi
+ alibi
+alkohol
+ alcohol
+alkoholfri
+ non‐alcoholic
+alkoholisk
+ alcoholic
+alle
+ all
+allehelgensdag
+ 1. AllSaints'Day
+ 2. AllHallows; AllSaints'Day
+allerede
+ already; bynow; yet
+allergisk
+ allergic
+allesjælesdag
+ AllSouls'Day
+allé
+ avenue
+almindelig
+ 1. accustomed; customary; usedto; usual; wonted
+ 2. common; ordinary; usual
+ 3. general; universal; worldwide
+ 4. general; usual
+almisse
+ alms; charity
+alpehytte
+ Alpinehut; climber'shut; mountainhut
+alt
+ all; altogehter; everything
+altan
+ balcony
+alter
+ altar
+altid
+ always; ever
+aluminium
+ aluminium; aluminum
+alun
+ alum
+alvorlig
+ 1. cheerful; gay; merry
+ 2. earnest; serious; staid
+amatør
+ 1. amateur; fancier
+ 2. amateur
+amazone
+ Amazon
+ambassadør
+ ambassador
+amboner
+ Amboinese
+ambulance
+ ambulance; fieldhospital
+amerikaner
+ 1. American
+ 2. American; UScitizen
+amerikanerinde
+ Americanwoman
+amerikansk
+ American
+amerikansk fodbold
+ football; Americanfootball
+amfiteater
+ amphitheatre
+ammunition
+ munition; ammunition
+amnesti
+ actofgrace; amnesty
+ampul
+ bulb
+amputere
+ amputate
+ananas
+ pineapple
+anarkist
+ anarchist
+anatomisk
+ anatomical
+anbefalet brev
+ registeredletter
+anbefaling
+ recommendation
+and
+ duck
+andel
+ share
+anden
+ second
+andetsteds
+ elsewhere
+anførelsestegn
+ invertedcomma; quotationmark; quote
+angina
+ angina; quinsy
+angive
+ 1. accuse; denounce
+ 2. indicate; suggest
+angivelse
+ declaration; proclamation; statement
+anglikansk
+ Anglican
+angreb
+ access; aggression; attack
+angribe
+ assault; attack
+angst
+ 1. agony; anguish; fear
+ 2. fright
+ 3. fear
+angå
+ concern
+ankel
+ ankle
+anker
+ anchor
+anklage
+ 1. accuse
+ 2. accuse
+ankomst
+ arrival
+anledning
+ chance; event; occurence; opportunity
+anliggende
+ affair; business; businessdeal; case; matter
+anlæg
+ accommodation; adjustment; arrangement
+anmelde
+ book
+annonce
+ ad; advertisement
+anonym
+ 1. anonymous
+ 2. anonymous; nameless; withoutaname
+ansigt
+ face
+ansjos
+ 1. anchovy
+ 2. anchovy
+anslag
+ assault
+anstrengelse
+ tension
+ansvarlig
+ 1. accountable; responsible
+ 2. accountable; responsible
+ 3. accountable; responsible
+ 4. accountable; responsible
+ansøger
+ candidate
+antage
+ guess; presume; suppose; surmise
+antal
+ amount; number
+antenne
+ aerial; antenna
+antibiotikum
+ antibiotic
+antik
+ ancient; antique
+antisemitisme
+ anti‐Semitism
+antiseptisk
+ antiseptic
+anvende
+ apply; practice
+apatisk
+ apathetic
+apostel
+ apostle
+apotek
+ chemist'sshop; drugstore
+apoteker
+ chemist
+apparat
+ apparatus; device; set
+appartement
+ apartment; flat
+appartementhus
+ apartmentbuilding; blockofflats
+appelsin
+ orange
+appetit
+ appetite
+applaus
+ acclamation
+april
+ April
+apropos
+ bytheway
+araber
+ Arab
+arabisk
+ Arabian; Arabic
+arbejde
+ 1. work
+ 2. job; work
+arbejder
+ 1. worker
+ 2. hand; laborer; labourer; operative; worker; workingman; workman
+arbejdsløs
+ unemployed
+arbejdsløshed
+ unemployment
+arena
+ arena
+argentinier
+ Argentine
+aristokratisk
+ aristocratic
+arkitekt
+ architect
+arkitektur
+ architecture
+arkiv
+ archive; archives; files; records
+arkæologi
+ archaeology
+arm
+ arm
+armbånd
+ 1. bracelet
+ 2. bracelet
+ 3. bracelet
+armstol
+ armchair
+armé
+ 1. army
+ 2. army
+aroma
+ aroma; flavour
+arrestere
+ arrest
+art
+ kind; sort
+arterie
+ artery
+artikel
+ 1. article; commodity
+ 2. article
+artilleri
+ artillery
+artiskok
+ artichoke
+artist
+ artist
+arv
+ inheritance
+arve
+ inherit
+asiat
+ Asian
+asiatisk
+ Asian; Asiatic
+ask
+ ash
+aske
+ ash; cinder
+askebæger
+ ashtray
+asketræ
+ ash
+asocial
+ antisocial; unsocial
+asparges
+ asparagus
+assistent
+ aid; assistant; helper
+asters
+ aster
+astma
+ asthma; shortnessofbreath; wheeziness
+astronaut
+ astronaut; spaceman
+astronomi
+ astronomy
+asyl
+ 1. asylum
+ 2. placeofrefuge; shelter
+atlantisk
+ 1. Atlantean
+ 2. Atlantic
+atlas
+ 1. atlas
+ 2. atlas
+atlet
+ athlete
+atmosfærisk
+ atmospheric
+atom
+ atom
+atomenergi
+ atomicenergy
+attaché
+ attaché
+atten
+ eighteen
+attende
+ eighteenth
+attest
+ certificate; testimony
+august
+ August
+auktion
+ auction
+aula
+ 1. auditorium
+ 2. lounge; parlour; salon; sitting‐room
+australier
+ Australian
+australsk
+ Australian
+autodidakt
+ autodidact; self‐taughtman
+automat
+ automoton
+automatisk
+ automatic
+automobil
+ car
+autopsi
+ autopsy
+autor
+ author
+autoritet
+ authority
+autoritær
+ authorative
+avertere
+ advertise; announce; givenotice
+avis
+ 1. gazette; magazine; newspaper; periodical
+ 2. dailypaper; journal; newspaper
+avle
+ breed; keep; raise; rear
+av guld
+ gold; golden
+azalea
+ azalea
+baby
+ baby
+babysitter
+ 1. babysitter
+ 2. babysitter
+bacon
+ bacon
+bad
+ bath
+bade
+ bathe
+badebukser
+ swimmingtrunks
+badedragt
+ bathingsuit; bathing‐suit
+badekar
+ bath
+badested
+ spa
+badeværelse
+ bathroom
+bagage
+ baggage; luggage
+bagagevogn
+ luggage‐van
+bage
+ bake
+bageovn
+ oven; bakingoven
+bager
+ baker
+bageri
+ bakery
+bagom
+ behind
+bagtale
+ slander
+bajonet
+ bayonet
+bakke
+ hill
+bal
+ ball; dance
+balkon
+ balcony
+ballast
+ ballast
+ballon
+ balloon
+balsam
+ balm; balsam
+bambus
+ bamboo
+banan
+ banana
+bandage
+ bandage
+bande
+ 1. band; bevy; gang
+ 2. blaspheme; cuss; curse; swear
+bandit
+ bandit
+bange
+ 1. afraid
+ 2. afraid
+ 3. afraid; timid
+bank
+ bank
+bankanvisning
+ check; cheque
+banke
+ hit; knock; strike
+barak
+ barn; shed; stand
+bare
+ exclusively; just; only
+bark
+ bark; husk; peel; shell
+barm
+ bosom
+barmhjertighed
+ charity; mercifulness; mercy
+barn
+ 1. child; offspring; young
+ 2. bairn; child; infant
+ 3. child
+barnebarn
+ 1. granddaughter
+ 2. grandson
+barometer
+ barometer
+barrikade
+ barricade
+baryton
+ baritone
+basar
+ bazaar; fair; market
+base
+ base; basis
+baseball
+ baseball
+basilika
+ basilica
+basis
+ base; basis
+bast
+ bast
+batteri
+ 1. battery
+ 2. battery
+beboer
+ 1. inhabitant
+ 2. inhabitant
+bebrejde
+ blame; rebuke; reproach; reprove; scold
+bebrejdelse
+ reproach
+bed
+ bed
+bede
+ 1. beet
+ 2. ask; askfor; beg; bid; request
+ 3. pray
+bedrag
+ swindle
+bedrage
+ cheat; deceive
+bedrageri
+ swindle
+bedre
+ better
+bedring
+ progress
+bedrøvet
+ 1. dismal; gaunt; miserable; sad
+ 2. dismal; dreary; sad
+bedst
+ best
+bedstefader
+ grandfather
+bedsteforældre
+ grandparents
+bedstemoder
+ grandmother
+bedømme
+ appraise; estimate; rate
+befalet brev
+ registeredletter
+befaling
+ 1. command
+ 2. command; order
+befolkning
+ population
+befæste
+ attach; determine; fasten; fix; affix; makefast; secure
+begejstring
+ alacrity; enthusiasm
+begge
+ both
+begrave
+ 1. bury
+ 2. bury; entomb; inter
+begreb
+ 1. idea
+ 2. notion; sense; realization
+ 3. concept; idea
+ 4. notion
+begynde
+ 1. begin; commence; start
+ 2. begin; commence; start
+begyndelse
+ 1. beginning; commencement; start
+ 2. beginning; commencement; start
+behage
+ please
+behagelig
+ agreeable; enjoyable; lovely; nice; pleasant
+behagelighed
+ pleasantness
+behandle
+ 1. carefor; cure; treat
+ 2. discuss
+ 3. treat
+ 4. dealwith; handle; treat
+behandling
+ 1. treatment
+ 2. treatment
+ 3. treatment
+beherske
+ control; govern; restrain; rule
+beherske sig
+ controloneself
+beholde
+ 1. conserve; keep; maintain; preserve
+ 2. keep; save; rescue
+beholder
+ 1. barrel
+ 2. jug; box; container; vessel
+ 3. vase; vessel
+behov
+ need; want
+behøve
+ need; require
+bekende
+ acknowledge; admit; confess; profess
+bekendelse
+ acknowledgement; admission; confession
+bekendt
+ acquaintance
+bekendtgørelse
+ advice; announcement; communication; message; notice; report
+bekendtskab
+ acquaintance; conversance; familiarity
+beklage
+ 1. besorryabout; regret
+ 2. mourn
+beklædning
+ articleofdress; garment
+bekræfte
+ acknowledge; confirm; corroborate
+bekvem
+ comfortable
+belgier
+ Belgian
+belgisk
+ Belgian
+beløb
+ amount; sum
+belønne
+ compensate; reward
+belønning
+ compensation; reward
+bemærkning
+ remark
+ben
+ 1. leg
+ 2. leg; paw
+ 3. bone
+benytte
+ 1. makeuseof; turntogoodaccount; utilize
+ 2. employ; use; makeuseof
+benyttelse
+ use
+benzin
+ gasolene; gasoline; petrol
+benzintank
+ gastank; petroltank
+benægte
+ deny
+benævnelse
+ appellation; name
+benådning
+ 1. actofgrace; amnesty
+ 2. absolution; pardon
+beregne
+ calculate; count; figure; workout
+beregning
+ account; bill; calculation
+beretning
+ 1. bulletin
+ 2. account; communication
+ 3. errand; message
+ 4. account; record; report
+beruset
+ drunk; intoxicated
+berømt
+ 1. famous
+ 2. famous
+ 3. famous; glorious
+ 4. famous
+berøre
+ touch
+berøring
+ touch
+besejre
+ defeat; winover
+besidde
+ own; possess
+besiddelse
+ possession
+beskadige
+ damage; injure; spoil
+beskeden
+ 1. discrete
+ 2. modest
+beskrive
+ describe
+beskrivelse
+ account; description
+beskytte
+ protect
+beskyttelse
+ 1. protection
+ 2. protection
+beskæftigelse
+ 1. occupation
+ 2. activity; occupation
+beslutning
+ decision
+beslutte
+ decide
+bestemme
+ destine; earmark; ordain
+bestemmelse
+ destiny; fate
+bestik
+ holder; socket
+bestille
+ book; order; reserve
+bestilling
+ order
+bestræbe sig
+ aim; attempt; endeavour; takesteps; undertake
+bestyrer
+ director; manager
+besvær
+ complaint
+besætte
+ overpower; usurp
+besættelse
+ occupation
+besøge
+ attend; callon; see; visit
+betale
+ pay
+betaling
+ payment
+betegnelse
+ 1. appointment; appointmenttooffice
+ 2. indication
+betingelse
+ condition; stipulation; terms
+betjening
+ attendance; service; waiting
+beton
+ concrete
+betoning
+ accent; stress
+betyde
+ imply; mean; signify
+betydning
+ meaning
+betænkningstid
+ timetoconsider
+beundre
+ admire
+bevare
+ hangonto; hold
+bevidsthed
+ awareness; consciousness
+bevidstløs
+ unconscious
+bevis
+ 1. argument; plea
+ 2. proof; sign; token
+bevise
+ prove
+bevægelig
+ mobile
+bevægelse
+ 1. movement
+ 2. movement
+bevæggrund
+ account; motive; reason
+beværtning
+ treat
+bi
+ bee
+biavler
+ apiarist; bee‐keeper; bee‐master
+bibel
+ bible
+bibliotek
+ library
+bid
+ bite
+bide
+ bite
+bidrage
+ contribute
+bifald
+ 1. acclaim; acclamation; approval
+ 2. acclamation
+ 3. acclaim; acclamation; approval
+ 4. acclaim; approval
+bikini
+ bikini
+bil
+ car
+bilag
+ 1. addendum; addition; additive
+ 2. addition; adjunct
+bilist
+ motorist
+billard
+ billiards
+bille
+ 1. beetle
+ 2. beetle
+billede
+ 1. image; picture
+ 2. painting; picture
+ 3. portrait
+billet
+ bill; ticket; note
+billethul
+ booking‐office
+billig
+ 1. cheap; inexpensive
+ 2. cheap; inexpensive
+bilvej
+ expressway; freeway
+bind
+ braid; fillet; string; tie
+binde
+ bind; connect; join; tie; tieup
+biograf
+ cinema; movietheatre
+birk
+ birch
+biskop
+ bishop
+bitter
+ acerbic; bitter
+bjerg
+ mountain
+bjælke
+ beam; girder
+bjørn
+ bear
+blad
+ leaf; sheet
+blande
+ blend; mingle; mix; shuffle
+blanding
+ admixture; mixture
+bleg
+ pale; sallow
+blik
+ 1. sheetmetal; tin; tinplate
+ 2. look
+blind
+ blind
+blindhed
+ blindness
+blind person
+ blind; sightlessperson
+blive
+ 1. become; comeabout; grow; happen
+ 2. become; get; grow
+ 3. remain; stay; stayover
+blive forbavset
+ marvel; marvelat; wonder
+blod‐
+ bloody
+blod
+ blood
+blok
+ block; pad
+blokade
+ blockade
+blomkål
+ cauliflower
+blomme
+ plum
+blomst
+ bloom; flower
+blomsterbuket
+ bouquet
+blond
+ blond; fair
+blot
+ exclusively; just; only
+bluse
+ blouse
+bly
+ lead
+blyant
+ pencil
+blæk
+ ink
+blænde
+ dazzle
+blære
+ bladder; bubble
+blæse
+ blow
+blå
+ blue
+blåbær
+ blueberry
+blød
+ soft
+bo
+ 1. beaguestof; staywith
+ 2. beonavisit; stay; stop
+ 3. dwell; live
+boer‐sprog
+ Afrikaans
+bog
+ book
+boghandel
+ bookshop; bookstore
+boghandler
+ bookseller
+bogholder
+ book‐keeper
+bogskab
+ bookcase
+bogstav
+ letter
+bokser
+ boxer
+bold
+ ball
+boldspil
+ ballgame
+bolig
+ abode; accommodation; dwelling; residence
+bolsje
+ bonbon; bon‐bon
+bombe
+ bomb
+bomuld
+ cotton
+bonde
+ 1. farmer; rancher
+ 2. farmer
+bondegård
+ estate; farm; property; ranch
+bopæl
+ 1. abode; dwelling‐place; residence
+ 2. abode; dwelling‐place‐residence
+bor
+ bore
+bord
+ table
+borddug
+ table‐cloth
+bordel
+ brothel
+bore
+ bore; drill
+borger
+ middleclasscitizen
+borgmester
+ 1. mayor
+ 2. burgomaster; mayor; provost
+bort
+ 1. away
+ 2. trimming
+botanik
+ botany
+bouillon
+ bouillon
+bov
+ bow; prow
+bo på værelse
+ liveinlodgings
+bo sammen
+ cohabit; livetogether
+brandbombe
+ incendiarybomb
+brasilianer
+ Brazilian
+bred
+ broad
+bredde
+ 1. width
+ 2. width
+bregne
+ fern
+bremse
+ 1. brake
+ 2. gadfly; horse‐fly
+brev
+ letter
+brevkasse
+ letterbox; mailbox
+brevkort
+ postcard
+brevpapir
+ writing‐paper
+brigade
+ brigade
+briket
+ bar
+briller
+ glasses; spectacles
+bringe
+ bring; fetch
+briste
+ 1. burst; split
+ 2. burst
+brite
+ Briton
+britisk
+ British
+bro
+ 1. bridge
+ 2. bridge
+broche
+ brooch
+brochure
+ leaflet; pamphlet; paperback
+broder
+ brother
+broderdatter
+ niece
+brodersøn
+ nephew
+brokke
+ oppose
+brombær
+ blackberry
+bronze
+ bronze
+bror
+ brother
+brud
+ 1. fragment; lump; piece
+ 2. bride
+brudgom
+ bridegroom
+brudstykke
+ fragment; lump; piece
+brug
+ 1. use
+ 2. use
+bruge
+ employ; use; makeuseof
+brumme
+ growl; grumble
+brun
+ brown
+brusebad
+ shower
+bryde
+ break
+bryde sig om
+ careabout; takecareof
+bryllup
+ wedding; wedding‐party
+bryst
+ 1. bosom; breast; chest
+ 2. bosom
+brække
+ 1. break
+ 2. break
+brænde
+ burn
+brændenælde
+ nettle
+brændpunkt
+ focus
+brændsel
+ 1. fuel
+ 2. fuel
+bræt
+ shelf
+brød
+ bread; loaf
+brønd
+ well
+bud
+ ambassador; emissary; envoy; messenger
+budding
+ pudding
+bue
+ arc; bow
+buffet
+ buffet
+bug
+ abdomen; belly; tummy
+bugserbåd
+ tug; tugboat
+bugt
+ 1. bay
+ 2. gulf
+bukser
+ pants; trousers
+bur
+ cage
+bus
+ 1. bus; autobus; omnibus
+ 2. omnibus
+busk
+ bush; shrub
+butik
+ boutique; shop; store
+by
+ city; town
+bydel
+ district; neighbourhood; quarter
+byg
+ barley
+bygge
+ build; construct
+byggeplads
+ 1. building‐plot; building‐site
+ 2. building‐plot; building‐site
+bygmester
+ builder; contractor; buildingcontractor; masterbuilder
+bygning
+ building
+byrde
+ burden; charge; load
+bytte
+ 1. prey
+ 2. booty
+bæger
+ 1. chalice; goblet
+ 2. goblet
+bæk
+ stream
+bælte
+ belt; girdle
+bænk
+ 1. bench
+ 2. bench; easel; tressle; workbench
+bær
+ berry
+bære
+ carry; wear
+båd
+ boat
+både
+ both
+bånd
+ bond; tie
+båre
+ litter; strecher
+bøde
+ fine
+bøf
+ steak; beefsteak
+bøffel
+ buffalo
+bøg
+ beech
+bøje
+ 1. bend
+ 2. incline; beinclined
+ 3. bend
+ 4. buoy
+bøjet
+ bent; curved
+bøje sig
+ 1. stoop
+ 2. bend; stoop
+bølge
+ wave
+bøn
+ request
+bønne
+ bean
+bønskrift
+ petition
+børs
+ purse; wallet
+børste
+ 1. brush
+ 2. brush
+bøsse
+ gun
+café
+ café; coffee‐house
+camping
+ campingground; campingsite
+celle
+ cell
+cement
+ cement
+censur
+ censor
+centimeter
+ centimetre
+central
+ central
+centralvarme
+ centralheating
+centrum
+ centre
+ceremoni
+ ceremony
+champagne
+ 1. champagne
+ 2. champagne
+champignon
+ mushroom
+chauffør
+ 1. conductor; driver
+ 2. driver
+ 3. chauffeur; driver
+chef
+ 1. boss; chief; leader
+ 2. chief; superior
+ 3. chief; boss
+chokolade
+ chocolate
+cigar
+ cigar
+cigaret
+ cigarette
+cirkel
+ circle
+cirkus
+ circus
+citadel
+ citadel
+citere
+ cite; quote
+citron
+ lemon
+civil
+ civil; civilian; non‐military
+civilstand
+ civilstatus
+cognac
+ brandy; cognac
+cykel
+ bike; cycle; bicycle
+cylinder
+ cylinder; roller
+cypres
+ cypres
+da
+ then
+daddel
+ date
+dadle
+ reproach; rebuke; reprove; scold
+dag
+ day
+daggry
+ dawn; daybreak
+daglig
+ daily
+dagligstue
+ living‐room; sitting‐room
+dal
+ valley
+dam
+ pond
+dame
+ lady
+damp
+ steam; vapor; vapour
+damspil
+ checkers
+danne
+ form; shape
+danser
+ dancer
+danserinde
+ dancer
+dansk
+ Danish
+dansker
+ 1. Danishwoman
+ 2. Dane
+dansk kvinde
+ Danishwoman
+dato
+ date
+datter
+ daughter
+dav
+ hello
+davs
+ hello
+debat
+ debate
+december
+ December
+defekt
+ damage
+deficit
+ deficit
+dekan
+ dean
+dekoration
+ 1. décor; decoration
+ 2. adornment; ornament
+del
+ part; piece; share
+dele
+ divide; separate; share
+delegation
+ delegation
+delegeret
+ 1. delegate
+ 2. delegate; deputy; representative
+ 3. delegate; deputy; representative
+delfin
+ dolphin
+dels
+ partially; partly
+deltage
+ participate; share; takepart
+deltagelse
+ condolences
+delvis
+ partially; partly
+demokrati
+ democracy
+demokratisk
+ democratic
+den
+ 1. it
+ 2. it
+dens
+ its
+deprimeret
+ depressed
+der
+ 1. that; who
+ 2. there
+derefter
+ afterwards; next; subsequently
+derfor
+ 1. onthataccount; therefore
+ 2. onthataccount; therefore
+derfra
+ fromthere; thence
+derhen
+ thatway; there; thither; yonder
+derpå
+ beyond; next; then; thereafter
+derunder
+ 1. below; downstairs; underneath
+ 2. below; underneath
+desinficere
+ disinfect
+desperat
+ desperate
+dessert
+ dessert
+desuden
+ 1. besides; inaddition; moreover
+ 2. besides; inaddition; moreover
+ 3. besides; furthermore; inaddition; moreover
+desværre
+ alas; regrettably; unfortunately
+det
+ 1. it
+ 2. it
+detektiv
+ detective
+dets
+ its
+det er en skam
+ 1. alas; regrettably; unfortunately
+ 2. that'stoobad; whatapity
+dialekt
+ dialect
+diamant
+ diamond
+diameter
+ diameter
+diarré
+ diarrhoea
+did
+ thatway; there; thither; yonder
+dig
+ thee; you
+dige
+ dike; embankment
+digt
+ poem
+digter
+ poet
+digtning
+ poetry
+din
+ your
+direktør
+ director; manager
+dirigent
+ manager
+disciplin
+ discipline
+diskos
+ dial; disc; record
+diskussion
+ 1. discussion
+ 2. discussion
+distrikt
+ district
+dit
+ your
+diæt
+ diet
+djævel
+ devil
+dobbelt
+ double; dual
+dok
+ dock
+doktor
+ doctor
+dokument
+ document; paper
+dolk
+ dagger
+dom
+ judgment
+domkirke
+ cathedral
+dommer
+ judge
+donkraft
+ jack
+dosis
+ dose
+doven
+ lazy
+drager
+ porter
+dragt
+ costume; outfit; suit
+drama
+ drama
+drejebænk
+ lathe
+dreng
+ boy; lad; laddie
+drik
+ beverage; drink
+drikke
+ drink
+drikkepenge
+ tip
+droge
+ drug
+dronning
+ queen
+drukken
+ drunk; intoxicated
+drukne
+ 1. drown
+ 2. drown
+dræbe
+ kill; liquidate; slay
+drøftelse
+ 1. discussion
+ 2. discussion
+ 3. discussion
+drømme
+ dream
+due
+ 1. dove; pigeon
+ 2. pigeon
+dug
+ dew
+dum
+ addled; foolish; stupid
+dun
+ down; fluff
+dusin
+ dozen
+dværg
+ 1. dwarf; midget
+ 2. pigmy
+dyb
+ deep; profound
+dybde
+ 1. depth
+ 2. depth
+dygtig
+ able; capable
+dykke
+ 1. dive; plunge
+ 2. dive; sink
+dynamit
+ dynamite
+dynd
+ mud
+dyr
+ 1. animal
+ 2. animal; beast
+ 3. dear; expensive; valuable
+ 4. dear; expensive
+ 5. costly; dear; expensive; pricey
+dyrke
+ adore; worship
+dyrlæge
+ 1. veterinarian
+ 2. veterinarian
+dæk
+ 1. deck
+ 2. tyre
+ 3. tire; tyre
+dække
+ cover
+dæmning
+ dike; embankment
+dårlig
+ bad; miserable; nasty; poor
+dårligt
+ badly
+dåse
+ 1. box
+ 2. box
+dåseoplukker
+ canopener; tin‐opener
+dø
+ die; expire; passaway
+død
+ 1. dead
+ 2. death
+dødelig
+ deadly
+dømme
+ 1. judge
+ 2. condemn; sentence
+dør
+ door
+dørtrin
+ sill; threshold
+døv
+ deaf
+døvstum
+ deafanddumb
+ebbe
+ lowtide
+ed
+ oath
+edderkop
+ spider
+edikke
+ vinegar
+efter
+ after; behind
+efterhånden
+ 1. gradually; littlebylittle
+ 2. gradually; littlebylittle
+efterlade
+ leavebehind
+efterligne
+ imitate
+efterligning
+ 1. imitation
+ 2. imitation
+ 3. imitation
+eftermiddag
+ afternoon
+efternavn
+ surname
+efterår
+ autumn
+eg
+ oak
+egen
+ own; personal
+egenskab
+ 1. property; quality
+ 2. property; quality
+egentlig
+ true
+egern
+ squirrel
+egnethed
+ ability
+egoistisk
+ self‐interested; selfish
+eje
+ own; possess
+ejendom
+ 1. possession; property
+ 2. property
+ 3. ownership
+ejendommelig
+ 1. characteristic
+ 2. typical
+ejendomsmægler
+ broker
+ejer
+ owner
+ekko
+ echo
+eksempel
+ example
+eksemplar
+ copy
+eksil
+ exile
+eksistens
+ existence
+eksistere
+ exist
+eksperiment
+ experiment
+eksplodere
+ explode
+eksplosion
+ explosion
+eksprestog
+ 1. corridortrain
+ 2. internationalexpress; internationalexpresstrain
+ekstra
+ additional; extra
+ekstrem
+ extreme
+elastisk
+ elastic
+elefant
+ elephant
+elegant
+ elegant
+elektricitet
+ electricity
+elektrisk
+ electric
+elektronisk
+ electronic
+element
+ element
+elementær
+ elemental; elementary
+elendighed
+ misery
+elevator
+ elevator; lift
+elfenben
+ ivory
+eller
+ or
+ellers
+ elsewhere
+elleve
+ eleven
+elm
+ elm
+elske
+ 1. love
+ 2. court; woo
+elvte
+ eleventh
+embede
+ function; job; office; post
+embedsmand
+ officer; official
+emblem
+ emblem
+emne
+ 1. subject
+ 2. theme; topic; subject
+en
+ 1. one
+ 2. a; an
+end
+ than
+ende
+ end; ending
+endelig
+ atlast; finally; ultimately
+endelse
+ end; terminate
+endetarmsåbning
+ anus; arse
+endnu
+ still; yet
+endnu ikke
+ notyet
+energi
+ energy
+energisk
+ energetic
+eneste
+ unique
+eng
+ 1. meadow
+ 2. meadow
+engang
+ once; onetime
+engel
+ angel
+engelsk
+ 1. English
+ 2. English; Englishlanguage
+englænder
+ Englishman; Sassenach
+englænderinde
+ English; Englishwoman
+enhed
+ 1. unit
+ 2. unity
+enighed
+ agreement; consent; permission
+enke
+ widow
+enkefrue
+ widow
+enkelt
+ simple; straightforward
+enkelthed
+ detail
+enkemand
+ widower
+enlig
+ livingalone; single
+enorm
+ enormous
+ensian
+ gentian
+entré
+ hall
+en gang
+ once; onetime
+en og tyve
+ twenty‐one
+epoke
+ age; epoch; era
+erfaring
+ experience
+erhverv
+ accession; acquisition; gain
+erhvervelse
+ accession; acquisition; asset
+erhvervs‐
+ professional
+erindring
+ 1. memory; recollection
+ 2. recollection
+ 3. recollection
+erklære
+ declare; state
+erobre
+ conquer
+es
+ ace
+et
+ 1. one
+ 2. a; an
+etage
+ floor; storey; story
+etiket
+ label
+europæer
+ European
+europæisk
+ European
+evangelisk
+ evangelic
+eventyr
+ adventure
+evne
+ possibility
+fabel
+ fable
+fabrik
+ 1. factory
+ 2. factory
+fabrikere
+ fabricate; manufacture
+facade
+ façade
+fader
+ father
+fag
+ branch; compartment; department; pigeonhole; section; speciality
+fagforening
+ 1. corporation; trade‐union
+ 2. labour‐union; trade‐union; syndicate
+fakkel
+ torch
+faktisk
+ 1. actually; asamatteroffact; indeed; infact
+ 2. genuinely; indeed; really; truly
+faktum
+ fact
+fakultet
+ faculty
+fald
+ fall
+falde
+ drop; fall
+faldskærm
+ parachute
+falk
+ falcon
+falsk
+ false
+familie
+ family
+fane
+ flag; standard
+fange
+ capture; catch; grapple
+fangst
+ catch; prey
+fantasi
+ fantasy
+far
+ father
+farbror
+ 1. uncle
+ 2. uncle; paternaluncle
+fare
+ 1. danger; peril
+ 2. go; ride; travel
+farlig
+ dangerous
+fart
+ speed
+farve
+ 1. paint
+ 2. colour; dye
+ 3. dye; tint
+ 4. dye; tint
+farvel
+ adieu; farewell; bye; goodbye
+farvel så længe
+ bye; goodbye; solong
+fasan
+ pheasant
+fastsætte
+ attach; determine; fasten; fix; affix; makefast; secure
+fast
+ 1. fixed
+ 2. fast; firm; stable
+ 3. firm; robust; sturdy
+ 4. firm; solid
+faster
+ 1. aunt
+ 2. aunt; paternalaunt
+fastland
+ continent; mainland
+fattig
+ 1. miserable; poor
+ 2. poor
+fattigdom
+ poverty
+feber
+ ague; fever
+februar
+ February
+fed
+ fat; fatty; greasy
+fedt
+ fat; grease
+feje
+ sweep
+fejekost
+ broom
+fejhed
+ 1. cowardice
+ 2. cowardice
+fejl
+ aberration; error; mistake
+fejre
+ 1. celebrate
+ 2. celebrate
+ 3. celebrate
+fejre fødselsdag
+ celebratingone'sbirthday
+feltflaske
+ 1. flask
+ 2. canteen; water‐bottle
+fem
+ five
+femte
+ fifth
+femten
+ fifteen
+femtende
+ fifteenth
+fennikel
+ fennel
+ferie
+ 1. vacation
+ 2. sparetime; timeoff; vacation
+fernis
+ lacquer
+fersken
+ peach
+ferskvand
+ 1. freshwater
+ 2. freshwater
+fest
+ celebration; festival; party
+feste
+ celebrate
+festmåltid
+ banquet; feast
+figen
+ fig
+figur
+ figure; diagram; image; picture; representation
+fil
+ file
+filateli
+ philately; stamp‐collecting
+filial
+ affiliate; affiliation; branch
+film
+ film; motionpicture; movie
+filt
+ felt
+filter
+ filter
+filtrere
+ filter
+finale
+ decider; play‐off
+finde
+ find
+finger
+ finger
+finne
+ 1. Finn
+ 2. fin
+finsk
+ Finnish
+firben
+ lizard
+fire
+ four
+firkantet
+ square
+firma
+ company; firm
+firs
+ eighty
+fisk
+ fish
+fiske
+ fish
+fjeder
+ 1. feather
+ 2. spring
+fjende
+ adversary; enemy
+fjendskab
+ enmity
+fjer
+ feather
+fjerde
+ fourth
+fjerdedel
+ fourth
+fjerne
+ doawaywith; getridof; remove
+fjernsyn
+ television; TV
+fjernsynsapparat
+ TVset; televisionset
+fjorten
+ fourteen
+fjortende
+ fourteenth
+fjorten dage
+ fortnight; twoweeks
+flad
+ even; flat; level; smooth
+flag
+ banner; flag
+flagermus
+ bat
+flamme
+ flame
+flaske
+ bottle
+flere
+ more
+flertal
+ majority
+flid
+ industry
+flink
+ affable; friendly; good‐natured; kind
+flip
+ collar
+flise
+ tile
+flittig
+ diligent; hardworking; industrious
+flod
+ 1. hightide
+ 2. river
+flonel
+ flannel
+flue
+ fly; housefly
+flugt
+ 1. flight
+ 2. flight; run
+flyde
+ flow
+flydende
+ 1. fluid; liquid
+ 2. liquid
+flygte
+ flee; runaway
+flytning
+ removal; move
+flytte
+ 1. move
+ 2. move
+flyttevogn
+ furniturevan; pantechnicon; pantechniconvan
+flyve
+ fly
+flyvemaskine
+ 1. aeroplane; airplane; plane
+ 2. aircraft
+flåde
+ 1. fleet
+ 2. fleet
+fløde
+ cream
+flødeskum
+ whippedcream
+fløjte
+ flute
+fløjte
+ whistle
+fodgænger
+ pedestrian
+fodre
+ feed; nourish
+fodsål
+ sole
+fold
+ 1. fold
+ 2. furrow; wrinkle
+folde
+ fold
+folk
+ folk; nation; people
+fontæne
+ fountain
+for
+ 1. at; to; toward; towards
+ 2. too; toomuch
+foragt
+ contempt
+foragte
+ despise
+forandre
+ 1. alter; change
+ 2. change; turn
+ 3. change
+forbavselse
+ astonishment; wonder; surprise
+forberede
+ prepare
+forbi
+ beyond; by; past; straightpast
+forbigangen
+ 1. former; last; previous; prior
+ 2. last
+forbinde
+ connect; connectup; plugin
+forbindelse
+ 1. connection
+ 2. connection
+ 3. connection
+ 4. connection
+forblive
+ remain; stay; stayover
+forbogstav
+ 1. initial
+ 2. initial
+forbrydelse
+ crime
+forbrænding
+ combustion
+forbyde
+ forbid; prohibit
+fordampe
+ evaporate
+fordel
+ 1. advantage; benefit
+ 2. advantage; benefit
+fordelagtig
+ advantageous
+fordele
+ distribute
+fordeler
+ distributor
+fordeling
+ 1. distribution
+ 2. distribution
+fordi
+ 1. because; forthereasonthat
+ 2. because; forthereasonthat
+ 3. as; because; for; since
+fordoble
+ double
+fordom
+ prejudice
+fordre
+ demand; postulate; require
+fordøje
+ digest
+fordøjelse
+ 1. digestion
+ 2. digestion
+fordømme
+ damn
+foredrag
+ lecture
+foregive
+ 1. giveasanexcuse; pretend
+ 2. feign; pretend
+forekomme
+ 1. comeabout; happen; occur
+ 2. befound; belocated; findoneself
+ 3. appear; appeartobe; seem
+forel
+ trout
+forelske sig
+ 1. fallinlovewith
+ 2. fallinlovewith
+foreløbig
+ provisional; temporary
+forene
+ join; unite
+forestille
+ fancy; imagine
+foretage
+ undertake
+foretrække
+ prefer
+forfald
+ 1. decay
+ 2. adversity; decay
+ 3. decay
+forfatter
+ author; writer
+forfængelig
+ conceited; frivolous; vain
+forfængelighed
+ vanity
+forfærdelig
+ 1. alarmed; dismayed; dumbfounded; putoutofcountenance
+ 2. abysmal; dreadful; gruesome; horrible; terrible
+forfølge
+ chase; persecute; prosecute; pursue
+forgifte
+ poison
+forgæves
+ invain
+forhen
+ ahead; formerly; previously
+forhindre
+ 1. bar; inhibit; prevent
+ 2. bar; hinder; inhibit; prevent
+forhold
+ 1. relation; understanding
+ 2. relation
+forklare
+ 1. accountfor; explain
+ 2. accountfor; clarify; explain
+forklaring
+ 1. account; explanation
+ 2. account; explanation
+forkorte
+ 1. abbreviate; abridge; shorten
+ 2. abbreviate; abridge; curtail; shorten
+forkæle
+ coddle; pamper; pet
+forkælet
+ spoiled
+forkølelse
+ 1. cold
+ 2. cold
+forlade
+ abandon; forsake; desert; leave; quit
+forlegen
+ 1. abashed; self‐conscious; shy
+ 2. shy
+forlovede
+ 1. bride; fiancée
+ 2. fiancé
+forlovelse
+ 1. betrothal; engagement
+ 2. betrothal; engagement
+ 3. betrothal; engagement
+forlove sig
+ 1. becomeengaged
+ 2. becomeengaged
+ 3. becomeengaged
+forlove sig med
+ 1. becomeengagedwith; becomethefiacéeof
+ 2. becomeengagedwith; becomethefiancéof
+forlægger
+ publisher
+form
+ form; shape
+formel
+ formula
+formular
+ blank; form
+formål
+ aim; goal; purpose; target
+fornavn
+ 1. firstname
+ 2. firstname
+ 3. Christianname
+forneden
+ 1. below; downstairs; underneath
+ 2. below; underneath
+fornemmelse
+ emotion
+fornuft
+ 1. intellect; mind
+ 2. reason; logicalreasoning
+fornuftig
+ 1. prudent; reasonable; sensible
+ 2. sagacious; sage; wise
+forny
+ renew
+fornærme
+ 1. abuse; insult; offend
+ 2. abuse; insult; offend
+fornærmelse
+ abuse
+fornøjelse
+ fun; pleasure
+forplejning
+ treat
+forråde
+ accuse; denounce
+forsamles
+ assemble; congregate; gather; meet
+forsamling
+ 1. meeting
+ 2. assemblage; gathering; meeting
+forsigtig
+ careful; cautious
+forsigtighed
+ 1. caution
+ 2. caution
+forsikre
+ affirm; assure
+forsikring
+ insurance
+forskel
+ difference
+forskellig
+ different
+forskrække
+ 1. frighten; terrify
+ 2. alarm; frighten
+forstad
+ 1. suburb
+ 2. suburb
+forstyrre
+ bother; disturb; hinder; trouble
+forstærke
+ fortify
+forstå
+ understand; realize
+forsvar
+ defence; defense
+forsvare
+ defend
+forsvinde
+ disappear
+forsvindelse
+ disappearance
+forsætligt
+ deliberately; onpurpose
+forsøg
+ attempt; effort
+forsøge
+ attempt; test; try
+forsømme
+ neglect
+fortid
+ 1. past
+ 2. past
+ 3. past
+ 4. past
+fortjene
+ 1. earn; gain; win
+ 2. beworthyof; deserve; merit
+ 3. earn
+fortov
+ pavement; sidewalk
+fortryllende
+ charming; lovely
+fortsætte
+ continue; goon; proceedwith
+fortsættelse
+ continuation
+fortvivle
+ despair
+fortvivlelse
+ despair
+fortælle
+ narrate; relate; tell
+fortælling
+ account; narrative; story; tale
+forudse
+ foresee
+forudsige
+ 1. forecast; foretell; prophesy
+ 2. forecast; foretell; prophesy
+ 3. forecast; foretell; prophesy
+ 4. forecast
+forvente
+ 1. abide; expect; wait; await; waitfor
+ 2. advert; payattention; payattentionto; watchoutfor
+forventning
+ expectation
+forvirre
+ confuse; puzzle
+forældre
+ parents
+forår
+ spring; springtime
+forødelse
+ waste
+for ... siden
+ ...ago
+fotograf
+ 1. photographer
+ 2. photographer
+fotografere
+ photograph
+fotografi
+ photography
+fradrage
+ subtract
+frakke
+ 1. coat; overcoat
+ 2. coat; overcoat
+fransk
+ 1. French
+ 2. French; Frenchlanguage
+franskmand
+ Frenchman
+fransk kvinde
+ Frenchwoman
+fraskilt
+ 1. divorced
+ 2. divorced
+fraværelse
+ 1. absence; non‐attendance
+ 2. absence
+fraværende
+ 1. absent
+ 2. absent
+fra tid til anden
+ nowandthen
+fred
+ peace
+fredag
+ Friday
+fremad
+ ahead; foreward; on
+fremkomst
+ appearance
+fremmed
+ alien; foreign; strange
+fremskridt
+ advance; advancement; progress
+fremtid
+ 1. future
+ 2. future
+fremtidig
+ future
+frigive
+ release
+frihed
+ freedom
+frimurer
+ freemason; Mason
+frimærke
+ stamp; postagestamp
+frisk
+ fresh; recent
+frisør
+ barber; hairdresser
+frost
+ 1. freezingcold; frost
+ 2. frost
+fru
+ madam; Mrs.
+frue
+ lady
+frugt
+ fruit
+frugtbar
+ 1. fertile
+ 2. fertile; fruitful
+fryse
+ freeze
+fræk
+ impertinent
+frø
+ frog
+frøken
+ Miss
+fugl
+ bird
+fugtig
+ moist
+fuld
+ 1. drunk; intoxicated
+ 2. complete; full
+fuldende
+ 1. finish
+ 2. accomodate; end; finish; terminate
+ 3. finish; prepare
+fuldstændig
+ absolute; complete
+fundament
+ element; foundation
+fungere
+ function; operate; run; work
+funktion
+ function
+fylde
+ fill; fillin; fillup
+fyldepen
+ fountain‐pen; fountainpen
+fyr
+ pine; pine‐tree
+fyrre
+ forty
+fyrretræ
+ pine; pine‐tree
+fyrretyve
+ forty
+fyrtårn
+ lighthouse
+fysik
+ physics
+fædreland
+ fatherland
+fælde
+ snare; trap
+fælg
+ felly; felloe; rim
+fælles
+ common; joint
+fængsel
+ 1. jail; gaol; prison
+ 2. jail; gaol; prison
+ 3. jail; gaol; prison
+færdig
+ finished; ready; through
+færdsel
+ traffic
+fæstning
+ fortification
+fætter
+ cousin
+få
+ get; have; receive
+får
+ sheep
+fårehyrde
+ shepherd
+fårekød
+ mutton
+fødested
+ cradle; placeofbirth
+fødsel
+ birth
+fødseldag
+ birthday
+følelse
+ 1. emotion
+ 2. emotion
+ 3. feel; feeling; sensation
+følge
+ 1. consequence; consistency
+ 2. result
+ 3. follow
+ 4. consequence
+følgende
+ 1. next
+ 2. following; next
+følsom
+ 1. affecting; moving; touching
+ 2. sensitive
+før
+ before; infrontof
+føre
+ conduct; guide; lead
+fører
+ 1. conductor; driver
+ 2. driver
+ 3. chauffeur; driver
+først
+ first; firstly; firstofall
+første
+ first
+førstehjælp
+ 1. firstaid
+ 2. firstaid
+gabe
+ yawn
+gade
+ street
+gaffel
+ fork
+gage
+ salary; wage; wages
+gal
+ odd; peculiar; strange
+galleri
+ gallery
+galop
+ gallop
+gammel
+ 1. old
+ 2. old
+gang
+ 1. occasion; time
+ 2. corridor; passage
+gangster
+ gangster; hoodlum
+garage
+ 1. garage
+ 2. garage
+garantere
+ guarantee; warrant
+garanti
+ guarantee; warrant
+garderobe
+ cloakroom
+gardin
+ curtain
+garnison
+ garrison
+gartner
+ gardener
+gas
+ gas
+gave
+ 1. gift; present
+ 2. gift
+gavmild
+ generous
+gear
+ gear
+ged
+ goat
+gedde
+ pike
+gejstlig
+ clergyman
+gemme
+ conceal; hide
+generation
+ generation
+generel
+ general; usual
+genert
+ 1. abashed; self‐conscious; shy
+ 2. shy
+gennem
+ through
+gennemgå
+ 1. abide; bear; endure; putupwith; suffer
+ 2. experience; livethrough; survive
+gennemse
+ cover; gothrough; passthrough
+gennemsigtig
+ transparant
+gennemsnit
+ 1. average
+ 2. average
+gennemsnitlig
+ 1. average; mean
+ 2. average; mean
+gensidig
+ mutual; reciprocal
+gentage
+ 1. repeat
+ 2. repeat
+gentagelse
+ repetition
+gentagne gange
+ repeatedly
+geografi
+ geography
+geologi
+ geology
+geometri
+ geometry
+georgine
+ dahlia
+gerne
+ willingly
+gerrig
+ avaricious; miserly; stingy
+gesandt
+ ambassador; emissary; envoy; messenger
+gevær
+ gun; rifle
+gift
+ 1. married
+ 2. married
+ 3. married
+ 4. poison
+gifte sig
+ 1. marry; bemarried; getmarried
+ 2. marry; bemarried; getmarried
+ 3. marry; bemarried; getmarried
+gifte sig med
+ 1. becomethewifeof; marry
+ 2. becomethehusbandof; marry
+giftig
+ poisonous
+giraf
+ giraffe
+give
+ give
+give efter
+ cede; givein; giveup; giveway; relinquish; yield
+give et knus
+ 1. embrace
+ 2. embrace; hug
+give ud
+ payout; spend
+glad
+ happy; glad
+glas
+ 1. glass
+ 2. glass
+glat
+ smooth
+glemme
+ forget
+glide ud
+ skid; slip
+glæde
+ gladness; joy
+gnide
+ rub
+gnist
+ spark
+god
+ good; nice; okay
+godaften
+ goodevening
+goddag
+ 1. goodafternoon
+ 2. goodday
+ 3. hello
+godhjertet
+ good‐hearted; kind
+godkende
+ approve
+godmorgen
+ goodmorning
+godt
+ okay; well
+god nat
+ goodnight
+golf
+ golf
+go ud
+ absentonself; depart; goaway; leave
+grad
+ degree; grade
+gradvis
+ 1. gradually; littlebylittle
+ 2. gradually; littlebylittle
+gram
+ gram; gramme
+grammatik
+ grammar
+gran
+ spruce; spruce‐fir
+granat
+ grenade
+granatæble
+ pomegranate
+granit
+ granite
+grapefrugt
+ grapefruit
+gratis
+ fornothing; free; gratis
+gratulere
+ congratulate
+grave
+ dig; grub; spade
+gren
+ bough; branch
+greve
+ count; earl
+gribe
+ 1. clutch; grab; grasp; grip; seize
+ 2. get; layholdof; pickup; take
+grim
+ nasty; ugly
+grimasse
+ grimace
+gris
+ 1. piglet
+ 2. hog; pig; swine
+grotesk
+ grotesque
+grotte
+ cave; grotto
+grubearbejder
+ miner
+gruble
+ puzzleover; rackone'sbrains
+grund
+ bottom; foundation; ground
+gruppe
+ 1. bevy; collection; group; heap; herd; set
+ 2. group
+grusom
+ cruel
+græde
+ cry; weep
+græker
+ Greek
+grænse
+ boundary; frontier; limit
+græs
+ grass
+græshoppe
+ 1. grasshopper; locust
+ 2. grasshopper
+græsk
+ Greek
+græsk kvinde
+ Greekwoman
+græsplæne
+ lawn
+grævling
+ badger
+grå
+ grey
+grød
+ gruel; mess; mush
+grøn
+ green
+grønsager
+ vegetable
+gud
+ god
+guddommelig
+ divine
+guirlande
+ garland; wreath
+guitar
+ guitar
+gul
+ yellow
+guld
+ gold
+guldfisk
+ goldfish
+guldsmed
+ goldsmith
+gulerod
+ carrot
+gullasch
+ goulash; stew
+gulv
+ floor
+gulvtæppe
+ carpet
+gummi
+ rubber
+gunstig
+ advantageous; favourable
+gylden
+ 1. guilder; gulden
+ 2. gold‐coloured; golden
+gyldig
+ valid
+gymnasium
+ highschool
+gymnastik
+ gymnastics
+gæld
+ debt
+gælle
+ gill
+gæst
+ guest
+gæstevenskab
+ hospitality
+gæstfri
+ hospitable
+gætte
+ guess
+gå
+ 1. go
+ 2. march; walk
+gård
+ estate; farm; property; ranch
+gårdsplads
+ court; yard; courtyard
+gås
+ goose
+gå foran
+ 1. precede
+ 2. precede
+gå i seng
+ gotobed
+gå ud
+ exit; goout
+gødning
+ fertilizer; manure
+gøg
+ cuckoo
+gøre
+ achieve; act; do; make; perform
+gøre rent
+ clean; cleanse; makeclean; purge
+had
+ hate
+hade
+ hate
+hage
+ chin
+hagl
+ hail
+haj
+ shark
+hakke
+ hoe
+hale
+ tail
+hallo
+ hello
+hals
+ neck
+halte
+ limp
+halvdel
+ half
+halvfems
+ ninety
+halvfjerds
+ seventy
+halvfjerdsindstyve
+ seventy
+halvtreds
+ fifty
+halvtredsindstyve
+ fifty
+halvø
+ peninsula
+ham
+ him
+hammer
+ hammer
+han
+ he; him
+handel
+ business; commerce; trade
+handle
+ 1. dobusiness; trade
+ 2. negotiate; trade
+handling
+ 1. achievement; act; action
+ 2. accomplishment; achievement; act; action
+handske
+ glove; mitten
+hane
+ 1. faucet; tap
+ 2. cock; rooster
+hankat
+ malecat
+hans
+ his
+hare
+ hare
+harmonika
+ accordion
+hashish
+ hashish
+hasselnød
+ hazelnut
+hast
+ 1. haste
+ 2. speed
+hastighedsgrænse
+ speed‐limit; speedlimit
+hat
+ hat
+hav
+ sea
+have
+ 1. have; havegot
+ 2. garden
+have medlidenhed
+ havecompassionon; pity
+have medlidenhed med
+ havecompassionon; pity
+have respekt
+ respect
+have respekt for
+ respect
+have ret
+ beright
+have tillid på
+ relyon; trustin
+have tillid til
+ havefaith; havefaithin; trust
+have uret
+ bewrong
+havn
+ harbor; harbour; port
+havre
+ oats
+ha' det godt
+ adieu; farewell; bye; goodbye
+hed
+ hot
+hedde
+ becalled
+hede
+ 1. heath
+ 2. heat
+hej
+ hello
+hejre
+ heron
+heks
+ witch
+hel
+ entire; overall; whole
+held
+ luck
+hellere
+ 1. preferably
+ 2. preferably; rather
+heller ikke
+ neither; nor
+helst
+ preferably; rather
+helt
+ 1. hero
+ 2. atall; entirely; quite; wholly
+heltinde
+ heroine
+hemmelig
+ secret
+hemmelighed
+ secret
+hende
+ her
+hendes
+ her
+hensigt
+ 1. aim; goal; purpose; target
+ 2. intention; meaning; plan
+hente
+ fetch; get; pickup
+hentydning
+ allusion
+henvendelse
+ request
+herberg
+ hostel; inn
+herefter
+ afterwards; next; subsequently
+herfra
+ fromhere; hence
+herhen
+ here; hither; thisway
+hermetisk
+ airtight
+heroin
+ heroin
+herr
+ Mister; Mr.; sir
+herre
+ gentleman; lord
+hertugdømme
+ duchy
+hest
+ horse
+hestekraft
+ 1. horsepower
+ 2. horsepower
+hestestald
+ corral; stable
+hid
+ here; hither; thisway
+hilse
+ greet; salute
+hilsen
+ greeting
+himmel
+ heaven; sky
+himmerig
+ heaven; sky
+hinanden
+ eachother; oneanother
+hindbær
+ raspberry
+hindre
+ 1. bar; hinder; inhibit; prevent
+ 2. bother; disturb; hinder; trouble
+hingst
+ stallion
+historie
+ story; history
+hjem
+ 1. home
+ 2. home
+hjemme
+ athome
+hjerne
+ brain
+hjerte‐
+ cardiac; heart‐
+hjerte
+ heart
+hjertelig
+ 1. hearty; cordial; warm
+ 2. cordial; hearty; warm
+ 3. cordial; hearty; warm
+hjul
+ wheel
+hjælp
+ 1. aid; help
+ 2. aid; help
+hjælpe
+ accomodate; aid; assist; help
+hjørne
+ corner
+hobby
+ 1. hobby; sideline
+ 2. hobby
+hockey
+ hockey
+hofte
+ hip
+holde
+ hangonto; hold
+holdeplads
+ stop
+holde hus
+ keephouse; manage
+holdning
+ attitude
+hollandsk
+ Dutch
+hollænder
+ 1. Dutchman; Hollander
+ 2. Dutchman
+honning
+ honey
+horisont
+ horizon
+horn
+ 1. horn
+ 2. hooter; horn; klaxon
+hornugle
+ eagleowl
+horoskop
+ horoscope
+hos
+ 1. at; beside; by; near; nearby; nearto; nextto
+ 2. at; beside; with
+hospital
+ hospital
+hoste
+ 1. cough
+ 2. cough
+hotel
+ hotel
+hov
+ hoof
+hoved
+ head; pate
+hovedpine
+ headache
+hovedsalat
+ lettuce
+hud
+ skin
+hue
+ cap
+hukommelse
+ memory; recollection
+hul
+ 1. concave; hollow
+ 2. hollow
+ 3. hole
+hummer
+ lobster
+hun
+ her; she
+hund
+ dog
+hundrede
+ hundred; onehundred
+hurtig
+ 1. speedy
+ 2. fast; quick; rapid; speedy; swift
+hurtigt
+ fast; quickly; swiftly
+hus
+ house
+husdyr
+ domesticanimal
+husejer
+ house‐owner
+huske
+ 1. recall; recollect; remember
+ 2. recall; recollect; remember
+husmoder
+ housewife
+husnummer
+ number; numberofthehouse
+hustru
+ wife
+hvad
+ 1. what
+ 2. that; what
+hvad er klokken?
+ whattimeisit?
+hval
+ whale
+hvede
+ wheat
+hvem
+ who
+hveps
+ wasp
+hverken ... eller
+ neither...nor
+hvid
+ white
+hvile
+ repose; rest
+hvilken
+ who
+hvilket
+ who
+hviske
+ whisper
+hvor
+ where
+hvordan
+ 1. how; inwhatway
+ 2. how; inwhatway
+hvordan har De det?
+ howareyou?; howdoyoudo?
+hvorfor
+ whatfor; wherefore; why
+hvornår
+ when
+hvor ... fra
+ fromwhere; whence
+hyggelig
+ homy
+hygiejnisk
+ hygienic
+hyld
+ elder
+hylde
+ board; plank
+hyrde
+ shepherd
+hyre
+ hire
+hysterisk
+ hysterical
+hytte
+ cabin; hut; shack
+hæk
+ grate; grid; grill
+hæl
+ 1. heel
+ 2. heel
+hænge
+ droop; hang
+hænge op
+ hang
+hær
+ 1. army
+ 2. army
+hævde
+ assert; state
+hævn
+ revenge; vengeance
+håb
+ hope
+håbe
+ hope
+hånd
+ hand
+håndklæde
+ towel
+håndkuffert
+ suitcase; valise
+håndled
+ wrist
+håndtryk
+ handshake
+hår
+ hair
+hård
+ 1. hard
+ 2. hard
+hårdhed
+ hardness
+hø
+ hay
+høflig
+ courteous; polite; well‐mannered
+høflighed
+ politeness
+høj
+ 1. high; lofty; tall
+ 2. tall
+ 3. loud
+højde
+ 1. height
+ 2. altitude; height
+højhus
+ apartmentbuilding; blockofflats
+højtid
+ celebration; festival; party
+høne
+ 1. chicken; hen
+ 2. chicken; fowl
+hør
+ flax
+høre
+ 1. hear
+ 2. findout; hear; learnof
+hørelse
+ 1. hearing
+ 2. hearing
+høst
+ 1. autumn
+ 2. harvest
+høste
+ harvest
+høvl
+ plane
+i
+ a; in; inside; into; on; per; within
+iagttagelse
+ 1. observation
+ 2. notice; observation
+ideal
+ ideal
+identificere
+ identify
+identitet
+ identity
+idiot
+ idiot
+idræt
+ sport
+idé
+ idea
+igen
+ 1. afresh; again; alloveragain; anew
+ 2. afresh; again; oncemore
+igennem
+ through
+ihjelskyde
+ shootdead
+ikke
+ not
+ikke at kunne lide
+ dislike
+ilbud
+ courier
+ild
+ 1. glow; heat; passion
+ 2. fire
+ilde
+ bad; miserable; nasty; poor
+iltog
+ 1. fasttrain
+ 2. fasttrain
+imitation
+ 1. imitation
+ 2. imitation
+ 3. imitation
+imidlertid
+ for; during; whereas; while; whilst
+imod
+ acrossfrom; against; inexchangefor; opposedto; opposite; upon
+importere
+ import
+indbetaling
+ payment
+indbildning
+ illusion
+indbinding
+ binding; cover
+indbo
+ furniture
+indbyde
+ invite
+indbydelse
+ invitation
+indbygger
+ 1. inhabitant
+ 2. inhabitant
+indeholde
+ comprise; contain; include
+indenfor
+ inside
+inder
+ Indian
+indeslutte
+ include
+indflydelse
+ action; influence
+indføre
+ import
+indgang
+ entrance; portal
+indhegning
+ fence; palisade
+indhold
+ contents
+indianer
+ Indian; AmericanIndian
+individ
+ individual
+individuel
+ individual
+indkomst
+ 1. income
+ 2. income
+ 3. income; return
+indkøb
+ acquisition; purchase
+indpakke
+ pack; package; wrapup
+indre
+ inner; inside; internal
+indretning
+ accommodation; adjustment; arrangement
+indrette
+ 1. arrange; fixup
+ 2. install
+ 3. arrange; putinorder; tidy
+indrømme
+ admit; concede; grant
+indskrænke
+ abridge; confine; limit; restrict
+indtaste
+ goin; enter; perform
+indtil
+ until; till
+indtryk
+ impression
+industri
+ industry
+infanteri
+ infantry
+inflation
+ inflation
+influenza
+ flu; grip; influenza
+information
+ account; information
+ingen
+ neither; nobody; none; no‐one
+ingeniør
+ engineer
+ingenlunde
+ bynomeans; innoway; notatall; notonanyaccount
+ingensteds
+ nowhere
+injektion
+ injection
+insekt
+ bug; insect
+inspektion
+ inspection
+institution
+ institution
+intelligent
+ intelligent; sagacious
+interessant
+ interesting
+interesse
+ 1. interest
+ 2. interest
+international
+ international
+interview
+ interview
+intetsteds
+ nowhere
+intim
+ close; intimate
+intolerant
+ intolerant
+invalid
+ disabledperson
+invasion
+ invasion
+invitere
+ invite
+indvolde
+ intestines
+irlænder
+ Irishman
+ironisk
+ ironic
+is
+ 1. ice; icecream
+ 2. ice
+islandsk
+ Icelandic
+islænding
+ Icelander
+italiener
+ Italian
+iver
+ fervor; fervour; zeal
+i aften
+ thisevening
+i anledning af
+ ontheoccasionof
+i dag
+ today
+i det mindste
+ atleast
+i eftermiddag
+ thisafternoon
+i familie
+ affined; akin; related
+i forbindelse med
+ toward; towards; withreferenceto
+i forgårs
+ thedaybeforeyesterday
+i går
+ yesterday
+i går aftes
+ lastnight
+i henhold til
+ accordingas; accordingto; as; by
+i morgen aften
+ tomorrowevening
+i morgen tidlig
+ tomorrowmorning
+i morges
+ thismorning
+i nat
+ 1. tonight
+ 2. tonight
+i overmorgen
+ thedayaftertomorrow
+i tide
+ attherighttime; intime
+ja
+ yes
+jage
+ chase; hunt
+jaloux
+ jealous
+januar
+ January
+japaner
+ Japanese
+jeres
+ your
+jern‐
+ iron
+jern
+ iron
+jernbane
+ railroad; railway
+jogge
+ jog
+jord
+ earth; land; soil
+jordbær
+ strawberry
+jordskælv
+ earthquake
+journalist
+ 1. journalist
+ 2. journalist
+jubilæum
+ jubilee
+jul
+ Christmas; Yule
+julesalat
+ chicory
+juli
+ July
+jungle
+ jungle
+juni
+ June
+jurist
+ jurist; lawyer
+jury
+ jury
+juvelér
+ jeweller
+jyde
+ Jute; Jutlander
+jæger
+ hunter
+jævnføre
+ compare
+kabaret
+ cabaret
+kabel
+ cable
+kabliau
+ cod; codfish
+kaffe
+ coffee
+kaffekande
+ 1. coffee‐pot
+ 2. coffee‐pot
+kage
+ cake
+kahyt
+ cabin
+kaj
+ platform; quay; wharf
+kakao
+ cocoa
+kaktus
+ cactus
+kalde
+ 1. call
+ 2. call; summon
+kaldes
+ becalled
+kalender
+ calendar
+kalk
+ lime
+kalkulere
+ calculate; count; figure; workout
+kalkun
+ turkey
+kalv
+ calf
+kalvekød
+ veal
+kam
+ comb
+kamel
+ camel
+kamera
+ camera
+kammerat
+ buddy; companion; comrade; pal
+kamp
+ action; battle; scuffle; struggle
+kanal
+ canal; channel
+kanariefugl
+ canary
+kande
+ jug; pot
+kandidat
+ candidate
+kanin
+ rabbit
+kanon
+ cannon
+kant
+ border; brim; brink; edge; edging; fringe; rim
+kapitel
+ chapter
+kaptajn
+ 1. captain
+ 2. captain
+kar
+ tub; vat
+karakter
+ character; nature; personality
+karbonade
+ cutlet
+karburator
+ carburettor
+karneval
+ carnival
+karosseri
+ body; coach‐work
+karpe
+ carp
+karrusel
+ carousel; carrousel; merry‐go‐round
+kartoffel
+ potato
+karton
+ cardboard
+kaserne
+ 1. barracks
+ 2. barracks
+kasino
+ casino
+kasket
+ cap
+kasserolle
+ casserole; saucepan
+kassette
+ 1. cassette
+ 2. cassette
+kastanie
+ 1. chestnut; horse‐chestnut
+ 2. chestnut
+kaste
+ throw
+kaste op
+ throwup; vomit
+kaste tilbage
+ reflect
+kat
+ cat
+katalog
+ catalogue; directory
+katar
+ catarrh
+katastrofe
+ catastrophe
+kateder
+ pulpit
+katedral
+ cathedral
+katolsk
+ Catholic
+kaution
+ pledge; security
+kaviar
+ caviar
+kede
+ bore
+kedel
+ 1. kettle
+ 2. kettle
+kejser
+ emperor
+kejserrige
+ empire
+kemi
+ 1. chemistry
+ 2. chemistry
+kemiker
+ chemist
+kende
+ beacquaintedwith; know
+kerne
+ nucleus
+kikkert
+ binoculars
+kiks
+ biscuit; cookie
+kilde
+ fountain; source; spring
+kildre
+ tickle
+kilo
+ kilo
+kilogram
+ kilo
+kilometer
+ kilometre
+kind
+ cheek
+kindskæg
+ whiskers; side‐whiskers
+kineser
+ Chinaman; Chinese
+kinesisk
+ Chinese
+kinin
+ quinine
+kirke
+ church; church‐building; houseofworship; placeofworship
+kirkegård
+ cemetery; God'sacre; graveyard
+kirsebær
+ cherry
+kirurg
+ surgeon
+kiste
+ box; chest
+kjole
+ dress; gown; robe
+klage
+ complain
+klar
+ clear; distinct; plain
+klasse
+ class
+klassisk
+ classic; classical
+klatre
+ climb
+klima
+ climate
+klippe
+ 1. rock
+ 2. clip; cut; shear
+ 3. boulder
+klo
+ claw
+kloak
+ sewer
+klog
+ cultured; educated; learned; well‐informed
+klokke
+ bell
+klor
+ chlorine
+kloster
+ monastery
+klovn
+ clown
+klub
+ club; society
+klæbe
+ stick
+klæbrig
+ 1. sticky
+ 2. sticky
+klæder
+ clothes; clothing
+klæde sig
+ dress
+knallert
+ moped
+knap
+ 1. button
+ 2. button
+knappenål
+ pin; needle
+kneb
+ subterfuge; trick; trickery
+kniv
+ knife
+knogle
+ bone
+knude
+ knot; node
+knurre
+ growl; grumble
+knuse
+ crush; shatter; smash
+knytte
+ knot
+knæ
+ knee
+knægt
+ boy; servant
+knæle
+ 1. kneel
+ 2. kneel
+ 3. kneel
+ 4. kneel
+ko
+ cow
+kobber
+ copper
+koble af
+ uncouple
+koble fra
+ cut; cutaconnection
+koble til
+ connect; connectup; plugin
+kobling
+ clutch
+kofanger
+ buffer; bumper
+koge
+ 1. boil
+ 2. boil
+ 3. cook
+kokkepige
+ cook; femalecook
+kokosnød
+ coconut
+kold
+ bleak; chilly; cold
+kolera
+ cholera
+kollega
+ colleague
+kollekt
+ collection
+koloni
+ colony; settlement
+kolonne
+ column; pillar
+kolossal
+ colossal; huge
+kombination
+ combination
+komedie
+ comedy
+komfort
+ comfort
+komfortabel
+ comfortable
+komisk
+ comic; comical; funny
+komité
+ committee
+komma
+ comma
+kommando
+ command
+komme
+ 1. arrival
+ 2. come
+kommentar
+ annotation; note
+komme sig
+ recover
+kommode
+ chest; dresser
+kompagni
+ company
+kompas
+ compass
+komponist
+ composer
+kompromis
+ accommodation
+koncern
+ concern
+koncert
+ concert
+koncertsal
+ concert‐room
+konditori
+ confectionery
+kondom
+ condom; rubber
+konduktør
+ guard
+kone
+ 1. wife
+ 2. woman
+konge
+ king
+kongres
+ congress; convention
+konkurrence
+ competition
+konkurrere
+ compete; rival
+konservativ
+ conservative
+konservere
+ conserve; keep; maintain; preserve
+konstruere
+ build; construct
+konsul
+ consul
+konsulat
+ consulate
+kontakt
+ 1. contact
+ 2. light‐switch
+kontinent
+ continent; mainland
+konto
+ account
+kontor
+ 1. office
+ 2. bureau; office
+kontorist
+ clerk
+kontrollere
+ audit; check; checkupon; supervise; verify
+konversation
+ conversation
+konvolut
+ envelope
+kop
+ cup
+kopi
+ copy
+kopiere
+ copy
+kopper
+ smallpox
+kor
+ chorus; coir
+korridor
+ corridor; passage
+korrigere
+ correct
+kors
+ cross
+korsvej
+ crossroads
+kort
+ 1. short
+ 2. brief; short
+kost
+ broom
+koste
+ cost
+krabbe
+ crab
+kradse
+ scratch
+kraft
+ force; strength; vigour
+krage
+ 1. crow
+ 2. crow
+krebs
+ crayfish
+kredit
+ credit
+kridt
+ chalk
+krig
+ war
+krigs‐
+ military
+kristen
+ Christian
+kristendom
+ 1. Christianity
+ 2. Christianity
+kritik
+ criticism
+kritisere
+ censure; criticize
+kro
+ hostel; inn
+krokodille
+ crocodile
+krom
+ chromium
+krone
+ 1. crown
+ 2. crown
+krop
+ body
+krucifiks
+ crucifix
+krybe
+ crawl; creep
+krystal
+ crystal
+kræve
+ 1. need; require
+ 2. ache
+ 3. ache; longfor; yearn
+kuffert
+ trunk
+kugle
+ bullet
+kul
+ coal
+kulde
+ cold
+kultur
+ culture
+kulør
+ colour; dye
+kumme
+ basin; bowl; pelvis
+kun
+ exclusively; just; only
+kunde
+ client; customer
+kundskab
+ 1. acquaintance; knowledge
+ 2. knowledge
+kunne
+ beableto
+kunne lide
+ appreciate; like
+kunst
+ art
+kunstig
+ artificial
+kupon
+ coupon
+kupé
+ compartment; coupé
+kursus
+ class; course
+kurv
+ basket
+kusine
+ cousin
+kvadrat
+ square
+kvadratmeter
+ squaremetre
+kvars
+ rock‐crystal
+kvarter
+ 1. quarterofanhour
+ 2. district; neighbourhood; quarter
+kviksølv
+ mercury; quicksilver
+kvinde
+ woman
+kvindelig
+ 1. female; feminine
+ 2. female
+kvindelig sekretær
+ secretary
+kvit
+ even; paidup; paid‐up
+kvittering
+ 1. receipt
+ 2. acknowledgement; receipt
+kvæg
+ livestock
+kvæle
+ 1. choke; strangle
+ 2. choke
+kynisk
+ cynical
+kys
+ kiss
+kysse
+ kiss
+kyst
+ coast; seaside; shore
+kæbe
+ jaw; jawbone
+kæde
+ chain
+kælder
+ basement; cellar
+kæmme
+ comb
+kæmpe
+ fight; struggle
+kær
+ dear; expensive; valuable
+kærlighed
+ affection; love
+kærne
+ core; nucleus; kernel; pit
+kål
+ cabbage
+kålorm
+ caterpillar
+kårde
+ rapier
+køber
+ buyer; client; purchaser
+købesum
+ purchasemoney
+købmand
+ 1. merchant
+ 2. businessman; merchant
+kød
+ 1. flesh
+ 2. meat
+køkken
+ kitchen
+køkkenbord
+ dresser
+køl
+ keel
+køler
+ radiator
+køleskab
+ refrigerator
+kølig
+ cool
+køn
+ 1. pretty
+ 2. sex
+køre
+ 1. go; ride; travel
+ 2. drive
+kørekort
+ driving‐licence
+køretilladelse
+ driving‐licence
+køretøj
+ vehicle
+laboratorium
+ laboratory
+lade
+ barrack; barn; shack; shanty; shed
+lade fordampe
+ evaporate
+lade sig skille
+ getadivorce; getdivorced
+lade som om
+ feign; pretend
+lade vandet
+ urinate
+lagen
+ sheet
+lager
+ 1. depository
+ 2. box‐room; storageroom
+ 3. warehouse
+ 4. warehouse
+laks
+ salmon
+lam
+ lamb
+lampe
+ lamp
+land
+ 1. country; countryside
+ 2. country; land
+lande
+ 1. land
+ 2. land
+landgang
+ gangway
+landkort
+ 1. map
+ 2. map
+landmand
+ farmer
+landsby
+ village
+landskab
+ landscape; scenery
+landsmand
+ compatriot
+lang
+ long
+langsom
+ slow
+langsomt
+ leasurely; slowly
+languster
+ lobster
+lap
+ rag; scrap
+larm
+ ado; din; noise
+last
+ burden; charge; load
+lastbil
+ 1. lorry; truck
+ 2. lorry; truck
+lastrum
+ hold
+lastvogn
+ 1. lorry; truck
+ 2. lorry; truck
+latinsk
+ Latin
+latter
+ laughter
+latterlig
+ ridiculous
+lav
+ 1. low
+ 2. shallow; superficial
+lava
+ lava
+lave
+ achieve; act; do; make; perform
+lavine
+ avalanche
+le
+ 1. scythe
+ 2. laugh
+lede
+ govern; headup; restrain
+leder
+ leader
+ledsage
+ accompany
+leg
+ game
+legal
+ legal
+legation
+ legation
+lege
+ play
+legeme
+ body
+legering
+ alloy
+leje
+ 1. hire
+ 2. hire; rent; rental
+ 3. rent
+lejekontrakt
+ lease
+lejer
+ renter; tenant
+lejlighed
+ 1. apartment; flat
+ 2. chance; event; occurence; opportunity
+lektion
+ lecture
+ler
+ clay
+let
+ 1. easy; facile
+ 2. bright; light
+lettelse
+ relief
+lettet
+ relieved
+leve
+ bealive; live
+levende
+ alive
+lever
+ liver
+leverance
+ delivery
+levering
+ delivery
+liberal
+ liberal
+lidt
+ alittle; rather; some; somewhat; tosomeextent
+lift
+ elevator; lift
+lig
+ equal; even; level
+lige
+ 1. even
+ 2. direct; straight
+ligevægt
+ equilibrium
+lige så ... som
+ as...as
+ligge
+ 1. lie; recline
+ 2. besituated
+ 3. befound; belocated; findoneself
+lighed
+ resemblance; similarity
+ligne
+ besimilar; resemble
+lignende
+ 1. similar
+ 2. like; alike; similar
+likør
+ liqueur
+lilje
+ lily
+lille
+ diminutive; little; small
+limonade
+ lemonade
+lind
+ lime‐tree; linden‐tree
+lineal
+ ruler; straightedge
+linie
+ line
+linse
+ lentil
+liste
+ list
+liter
+ liter; litre
+litteratur
+ literature
+liv
+ life
+livlig
+ adroit; agile; alert; brisk; keen
+loft
+ 1. ceiling
+ 2. attic
+loftsrum
+ attic
+logisk
+ logical
+lokomotiv
+ engine
+lomme
+ pocket
+lommetørklæde
+ handkerchief
+loppe
+ flea
+lort
+ dung; excrement
+lotteri
+ lottery; raffle
+lov
+ law
+love
+ promise
+luft
+ air
+lufthavn
+ airport
+lugt
+ odor; odour; scent; smell
+lugte
+ giveoffanodour; reek; smell
+lugte af
+ smellof
+lukke
+ close; shut
+lukket
+ closed; shut
+luksus
+ luxury
+lunge
+ lung
+lunken
+ lukewarm
+lus
+ louse
+lyd
+ sound
+lyde
+ sound
+lydig
+ 1. obedient
+ 2. obedient
+lykke
+ happiness
+lykkelig
+ fortunate; happy
+lykkeligvis
+ unfortunately
+lykkes
+ succeed
+lykønske
+ congratulate
+lyn
+ lightning
+lys
+ 1. bright; clear; light
+ 2. candle
+ 3. light
+lytte
+ listen
+lytte til
+ listen
+lyve
+ lie; tellalie
+læbe
+ lip
+læder
+ leather
+læg
+ 1. furrow; wrinkle
+ 2. calf
+læge
+ doctor; physician
+lægemiddel
+ drug; medicine; pharmaceutical
+lægge
+ 1. lay
+ 2. laydown; place; put; putdown
+lægge mærke til
+ notice
+lægge sig
+ liedown
+lægge vægt på
+ accent; accentuate; emphasize
+lænestol
+ 1. armchair
+ 2. armchair
+læne sig
+ lean
+længde
+ 1. length
+ 2. length
+længes efter
+ achefor
+længsel
+ 1. ache; longfor; yearn
+ 2. longing
+lære
+ learn
+lærer
+ instructor; teacher
+lærk
+ larch
+læse
+ read
+læsebog
+ ABCbook
+låg
+ cover; hood; lid
+lån
+ loan
+låne
+ 1. advance; lend
+ 2. borrow
+ 3. borrow; lend; loan
+lår
+ thigh
+lås
+ lock
+låse
+ lock
+løbe
+ run
+løbe på skøjter
+ 1. skate
+ 2. skate
+løbe sammen
+ converge
+løfte
+ 1. lever; lift; raise
+ 2. affirmation; promise
+løg
+ onion
+løgn
+ lie
+løjtnant
+ lieutenant
+løn
+ salary; wage; wages
+lørdag
+ Saturday
+løs
+ loose
+løslade
+ allow; leave; let; release
+løve
+ lion
+mad
+ food
+madras
+ mattress
+mager
+ 1. gaunt; lean; meager; skimpy; skinny; thin
+ 2. gaunt; lean; slender; thin
+magnet
+ magnet
+maj
+ May
+majs
+ corn; Indiancorn; maize; mealies
+make‐up
+ makeup; make‐up
+makrel
+ mackerel
+malaria
+ malaria
+male
+ 1. grind; pulverize
+ 2. paint
+maler
+ 1. painter
+ 2. painter
+malke
+ milk
+manchet
+ cuff
+mand
+ 1. husband
+ 2. fellow; man
+mandag
+ Monday
+mandarin
+ tangerine
+mandlig
+ 1. male
+ 2. male; masculine
+ 3. male
+mandskab
+ crew
+maner
+ manner; mode; way
+mange
+ many
+mangel
+ absence; lack; shortage; shortcoming
+mange tak
+ thankyouverymuch
+marchere
+ march; walk
+mareridt
+ nightmare
+margarine
+ margarine
+mark
+ 1. field
+ 2. field
+ 3. mark
+marmelade
+ jam; marmelade
+marmor
+ marble
+marts
+ March
+martyr
+ martyr
+maske
+ mask
+maskere
+ mask
+maskine
+ engine; machine
+maskinskrive
+ type
+maskinskriverske
+ typist
+massage
+ massage
+masse
+ lump; mass
+massere
+ massage
+mast
+ mast
+matematik
+ mathematics
+materiale
+ data; material
+materie
+ 1. matter
+ 2. pus
+materiel
+ material
+mave
+ stomach
+mavesmerter
+ stomachache; tummyache
+med
+ with
+meddele
+ 1. giveanaccount; report
+ 2. acquaint; letknow; inform
+meddelelse
+ notification; notice
+medekrog
+ hook
+medesnøre
+ line
+medestang
+ fishingrod
+medicin
+ drug; medicine; pharmaceutical
+medicinsk
+ 1. medical
+ 2. medical
+medikament
+ drug; medicine; pharmaceutical
+medlem
+ 1. acolyte; member; supporter
+ 2. limb; member
+medlidenhed
+ compassion; pity
+meget
+ quite; very; verymuch
+mejeri
+ dairy
+mejsel
+ chisel
+mekanik
+ 1. mechanics
+ 2. mechanics
+mekaniker
+ 1. mechanic
+ 2. mechanic
+mel
+ flour; meal
+mellem
+ among; between
+melodi
+ melody; tune
+melon
+ melon
+men
+ but
+mene
+ account; deem; opine; think
+mening
+ opinion
+menneske
+ man; humanbeing
+menneskehed
+ humanrace; mankind
+menneskelig
+ human
+menu
+ menu
+mere
+ 1. more
+ 2. else; further; more; on
+mer og mer
+ increasingly; moreandmore
+messing
+ 1. brass
+ 2. brass
+metal
+ metal
+meter
+ metre
+metode
+ method
+middag
+ 1. dinner; middaymeal
+ 2. midday; noon
+midnat
+ midnight
+midte
+ average; mean; middle
+mikrofon
+ microphone
+mikroskop
+ microscope
+mil
+ mile
+mild
+ gentle; mild
+militær
+ 1. military
+ 2. military
+ 3. warrior
+millimeter
+ millimetre
+million
+ million
+min
+ my
+mindre
+ fewer; less
+mindreårig
+ underage
+mindre og mindre
+ lessandless
+mine
+ my
+mineral
+ mineral
+minimal
+ minimum
+minister
+ minister
+ministerium
+ ministry
+minut
+ minute
+misforstå
+ misunderstand
+mission
+ mission
+mistanke
+ suspicion
+mistro
+ 1. distrust; suspect
+ 2. suspicion
+misunde
+ envy
+misundelig
+ 1. envious
+ 2. envious; jealous
+misundelse
+ envy
+mit
+ my
+mod
+ courage
+mode
+ fashion; mode
+model
+ model
+moden
+ mature; ripe
+moder
+ mother
+moderne
+ modern
+modernisere
+ modernize
+modig
+ brave; courageous; valiant
+modsat
+ 1. adverse; alien; contrary
+ 2. contrary; opposite
+modstand
+ resistance
+modsætning
+ 1. antithesis; contradistinction; contrast; opposition
+ 2. antithesis
+ 3. contrast
+modtage
+ 1. accept; receive; take; takein
+ 2. get; have; receive
+modtagelig
+ affecting; moving; touching
+modtager
+ 1. addressee
+ 2. addressee
+ 3. consignee; recipient
+modvilje
+ aversion; dislike
+montage
+ assemblage; assembly; composing; erecting; fittingup; mounting
+montør
+ assembler; fitter
+monument
+ monument
+mor
+ mother
+moral
+ morals
+morbror
+ 1. uncle
+ 2. uncle; maternaluncle
+mord
+ murder
+morder
+ 1. murderer
+ 2. murderer
+morfin
+ morphia; morphine
+morgen
+ morning
+morgenmad
+ breakfast
+morsom
+ amusing; entertaining; funny
+mosaik
+ mosaic; mosaicwork
+moské
+ mosque
+moster
+ 1. aunt
+ 2. aunt; maternalaunt
+motel
+ motel
+motor
+ engine; motor
+motorbåd
+ motor‐boat; motor‐launch
+motorcykel
+ motorcycle
+motorhjelm
+ bonnet; hood
+muhamedaner
+ Mohammedan; Moslem; Muslim; Mussulman
+muldvarp
+ mole
+mulig
+ possible
+mulighed
+ possibility
+muligvis
+ maybe; mayhap; perchance; perhaps; possibly
+multiplicere
+ 1. multiply
+ 2. duplicate; multiply
+mund
+ mouth
+munk
+ monk
+munter
+ cheerful; gay; merry
+mur
+ wall
+mursten
+ brick
+mus
+ mouse
+museum
+ museum
+musical
+ 1. musical
+ 2. musical
+musik
+ music
+musiker
+ musician
+musikinstrument
+ musicalinstrument
+muskel
+ muscle
+myg
+ gnat
+myndig
+ adult; grown‐up; full‐grown
+myndighed
+ boardofdirectors
+mynte
+ mint
+myre
+ ant; emmet
+mytologi
+ mythology
+mytteri
+ mutiny; rebellion; revolt
+mælk
+ milk
+mængde
+ 1. accumulation; crowd; heap; mass; multitude; pile
+ 2. crowd; mass; multitude
+mærke
+ mark
+mærkelig
+ noteworthy; remarkable
+måge
+ seagull
+mål
+ 1. aim; goal; purpose; target
+ 2. measure; measurement
+måle
+ measure
+måltid
+ meal
+måne
+ moon
+måned
+ month
+måske
+ maybe; mayhap; perchance; perhaps; possibly
+måtte
+ haveto; must; oughtto; should
+møbler
+ furniture
+møbleret
+ furnished
+møde
+ 1. comeacross; encounter; meet; see
+ 2. encounter
+mødes
+ meeteachother; meetoneanother
+møl
+ moth
+mønster
+ sample; specimen
+mørk
+ 1. bleak; dark; dismal; dreary
+ 2. dark; dim
+mørke
+ darkness; murk
+møtrik
+ 1. nut
+ 2. nut
+nabo
+ neighbour
+nabolag
+ neighbourhood; vicinity
+naiv
+ naïf; naïve
+nakke
+ backoftheneck; nape
+nat
+ night
+nation
+ nation
+national
+ national
+nationalitet
+ nationality
+natur
+ nature
+naturlig
+ natural
+naturligvis
+ naturally
+navn
+ appellation; name
+ned
+ 1. down
+ 2. down; underneath
+nede
+ 1. below; downstairs; underneath
+ 2. below; underneath
+nederdel
+ skirt
+nederlag
+ defeat
+nederlandsk
+ Dutch
+nedtrykt
+ depressed
+ned ad
+ 1. down
+ 2. down; underneath
+negl
+ nail
+negligé
+ négligé; undress
+nej
+ no
+nem
+ easy; facile
+nemlig
+ namely; viz.
+neon
+ neon
+nerve
+ nerve
+nervøs
+ 1. agitated; nervous
+ 2. agitated; nervous
+net
+ net; network
+neutral
+ impartial; neutral
+nevø
+ nephew
+ni
+ nine
+niece
+ niece
+niende
+ ninth
+nitten
+ nineteen
+nittende
+ nineteenth
+niveau
+ level
+nogensinde
+ atsometime; ever; sometime
+nogensteds
+ anywhere; somewhere
+noget
+ anything; something
+nok
+ 1. certainly
+ 2. enough; sufficient
+ 3. enough; quite; rather; sufficiently
+nonne
+ nun
+nord
+ north; North
+nordisk
+ Scandinavian
+nordlig
+ northern
+nordmand
+ Norwegian
+nord for
+ above
+normal
+ 1. normal
+ 2. normal
+norsk
+ Norwegian
+notar
+ notary
+notesbog
+ notebook
+novelle
+ shortstory
+november
+ November
+nu
+ atpresent; now
+nul
+ 1. nought; zero
+ 2. naught; nought; null; zero; zilch
+nulke
+ hiccup
+nummer
+ number; numeral
+nummerplade
+ numberplate
+nu for tiden
+ currently; nowadays; thesedays
+nu til dags
+ currently; nowadays; thesedays
+ny
+ new; novel
+nyde
+ delightin; enjoy
+nyhed
+ news; novelty; somethingnew
+nylig
+ recently
+nylon
+ nylon
+nyse
+ sneeze
+nysgerrig
+ 1. agog; inquisitive
+ 2. agog; curious; inquisitive
+ 3. agog; inquisitive
+nyttig
+ advantageous; useful
+næb
+ beak; bill
+nægte
+ 1. deny
+ 2. refuse; reject
+næppe
+ barely; hardly; onlyjust; scarcely
+nær
+ 1. nearby
+ 2. close; near; nearby
+nære
+ feed; nourish
+nærhed
+ nearness; proximity
+nærheden
+ close; near; nearby
+næring
+ food; nourishment
+nærværende
+ 1. actual; current; present; present‐day
+ 2. current; present
+næse
+ nose
+næst
+ nearest; next
+næste
+ 1. next
+ 2. following; next
+næsten
+ almost; nearly
+næve
+ fist
+nå
+ now; well; wellthen
+nåde
+ absolution; pardon
+nål
+ needle
+nødbremse
+ communication‐cord
+nødt
+ compulsory
+nødvendig
+ necessary
+nødvendighed
+ necessity
+nøgen
+ bare; naked; nude
+nøgenhed
+ nakedness; nudity
+nøgle
+ key; wrench
+ocean
+ ocean
+offensiv
+ aggressive; offensive
+offentlig
+ public
+officer
+ officer
+officiel
+ official
+ofte
+ frequently; often; regularly
+og
+ 1. or
+ 2. and
+også
+ also; likewise; too
+okse
+ ox
+oksekød
+ beef
+oktober
+ October
+olie
+ oil
+oliven
+ olive
+oliventræ
+ 1. olive‐tree
+ 2. olive‐tree
+olympisk
+ olympic
+om
+ 1. a; in; inside; into; on; per; within
+ 2. about; concerning; on; upon
+ 3. about; round; around; towards
+omelet
+ omelette
+omfang
+ 1. circumference
+ 2. outskirts; periphery
+omfavne
+ 1. embrace
+ 2. embrace; hug
+omgive
+ surround
+omgivelse
+ environment; environs; surroundings
+omgås
+ associatewith
+omkring
+ about; round; around; towards
+omnibus
+ omnibus
+område
+ 1. region
+ 2. territory
+omsætning
+ turnover
+omtale
+ mention
+omtrent
+ about; approximately
+om aftenen
+ intheevening
+om forladelse
+ excuseme
+ond
+ bad; miserable; nasty; poor
+onkel
+ uncle
+onsdag
+ Wednesday
+op
+ above; up; uphill; upwards
+opblæse
+ inflate
+opdage
+ discover; uncover
+opdagelse
+ discovery
+opdrage
+ breed; bringup; educate; raise
+opdragelse
+ 1. education
+ 2. education
+opera
+ opera
+operation
+ operation; surgicaloperation
+operere
+ operate
+opfattelse
+ 1. idea
+ 2. concept; idea
+ 3. opinion
+opfinde
+ 1. invent
+ 2. invent
+opfindelse
+ 1. invention
+ 2. invention
+ 3. invention
+ 4. invention
+opføre sig
+ behave; conductoneself
+opførsel
+ behavior; behaviour; conduct; deportment
+opgave
+ job; assignedjob; task
+opgivelse
+ declaration; proclamation; statement
+ophold
+ stay
+opholde
+ detain; holdback; retain
+ophøre
+ cease; stop
+opium
+ opium
+oplag
+ edition
+oplevelse
+ experience
+oplyse
+ illuminate; light
+oplysning
+ solution
+oplysningskontor
+ inquiry‐office
+opløse
+ dissolve
+opmuntre
+ encourage
+opmærksom
+ attentive
+opmærksomhed
+ acuity; advertence; advertency; attention
+opposition
+ opposition
+oppumpe
+ pump
+oprette
+ 1. erect; establish
+ 2. erect; establish; found
+oprindelig
+ 1. aboriginal; original
+ 2. original
+oprindelse
+ origin
+oprøre
+ agitate; excite; rouse; stirup
+opsigt
+ sensation
+opslag
+ notice; placard; poster
+opstand
+ mutiny; rebellion; revolt
+optage
+ record; register
+optiker
+ optician
+optimist
+ optimist
+opvaskemaskine
+ dishwasher
+op ad
+ above; up; uphill; upwards
+orange
+ orange‐coloured
+ord
+ word
+ordbog
+ dictionary; vocabulary
+ordinær
+ common; ordinary; usual
+ordne
+ arrange; fixup
+ordning
+ order
+ordre
+ order
+ordsprog
+ adage; proverb
+organ
+ organ
+organisation
+ organization
+organisere
+ organize
+orgel
+ organ
+orientalsk
+ eastern; Oriental
+orkester
+ orchestra
+orkidé
+ orchid
+orm
+ worm
+orne
+ wildboar
+ortografi
+ orthography
+os
+ us
+ost
+ cheese
+otte
+ eight
+ottende
+ eighth
+oven
+ above; ontop; overhead; upstairs
+over
+ 1. about; concerning; on; upon
+ 2. above; over
+ 3. on; upon
+ 4. across; beyond; ontheothersideof
+overall
+ overalls
+overalt
+ allabout; everywhere
+overarm
+ upperarm; upper‐arm
+overbevise
+ convince; persuade
+overbevisning
+ belief; conviction
+overblik
+ abridgement; abstract; resumé; summery
+overdrive
+ exaggerate
+overflade
+ 1. summit; surface; top
+ 2. surface
+overgå
+ exceed; surpass
+overordnet
+ chief; superior
+overraske
+ surprise
+overraskelse
+ surprise
+overskæg
+ moustache
+oversætte
+ translate
+oversættelse
+ translation
+overtale
+ persuade
+overtro
+ superstition
+overtroisk
+ superstitious
+overtyde
+ convince; persuade
+ovn
+ furnace; kiln; oven; stove
+pakke
+ 1. pack; package; wrapup
+ 2. packet; parcel
+ 3. pack
+pakke ud
+ 1. unpack
+ 2. unpack
+palads
+ palace
+palme
+ palm; palmtree
+pande
+ forehead
+panik
+ panic
+panorama
+ view
+papegøje
+ parrot
+papir
+ paper
+papirhandel
+ stationer'sshop
+papirkurv
+ paper‐basket
+paprika
+ paprika
+parade
+ display; parade
+paradis
+ paradise
+paragraf
+ paragraph
+parallel
+ parallel
+paraply
+ umbrella
+parfume
+ perfume
+park
+ park
+parkere
+ park
+parlament
+ parliament
+parre sig
+ mate
+parti
+ faction; party; side
+partifælle
+ member; supporter
+paryk
+ hairpiece; wig
+pas
+ passport
+passager
+ passenger
+passe
+ 1. attend; nurse; tendto
+ 2. guard; keep; lookafter; watchover
+ 3. conform; fit; fitin
+passende
+ ofuse; suitable
+patent
+ patent
+pater
+ father
+patient
+ 1. patient
+ 2. patient
+patriotisk
+ patriotic
+patron
+ cartridge
+pattegris
+ piglet
+pause
+ break; intermission; pause; recess
+pave
+ pope
+pavillon
+ pavilion
+peber
+ pepper
+peberrod
+ horse‐radish; horseradish
+pedal
+ pedal
+pejs
+ hearth
+pels
+ fur; furcoat; furpiece
+penge
+ money
+pengeafpresning
+ exaction; extortion
+pengeseddel
+ bank‐note
+perfekt
+ perfect
+periode
+ period
+perle
+ pearl
+perron
+ 1. platform; quay; wharf
+ 2. platform; railwayplatform
+persianer
+ Persian
+persille
+ parsley
+person
+ person
+personlig
+ personal
+personnummer
+ personalnumber
+pervers
+ perverse
+pest
+ pestilence; plague
+petroleum
+ paraffin‐oil; petroleum
+pfennig
+ pfennig
+pibe
+ pipe
+picnic
+ picnic
+pige
+ girl; lass; wench
+pil
+ willow
+pilgrim
+ pilgrimage
+pille
+ pill
+pinse
+ Pentecost; Whitsunday
+pioner
+ pioneer
+pistol
+ pistol; spraygun
+pjalt
+ rag; scrap
+plads
+ 1. place
+ 2. location; place; spot
+ 3. plaza; square; publicsquare
+ 4. placetosit; seat
+plage
+ aggravate; annoy
+plan
+ design; diagram; plan; plane
+planere
+ plan
+planet
+ planet
+planlægge
+ 1. makeaprojectof; plan
+ 2. plan; sketch
+plante
+ plant
+pleje
+ attend; nurse; tendto
+plet
+ blot; spot
+pligt
+ duty; obligation
+plov
+ plough
+pludselig
+ abrupt; sudden
+pludseligt
+ allofasudden; suddenly
+plukke
+ 1. pick; pluck; tearoff
+ 2. pick; pluck
+plyndre
+ plunder; rob
+pløje
+ plough
+podium
+ platform; podium
+polak
+ Pole
+politibetjent
+ 1. policeman
+ 2. policeman
+politik
+ policy; politics
+politisk
+ 1. political
+ 2. politician
+politistation
+ police‐station
+pony
+ pony
+poppel
+ poplar
+populær
+ popular
+port
+ gate; gateway; portal
+portier
+ porter
+portion
+ share
+porto
+ postage
+portræt
+ portrait
+portugiser
+ Portuguese
+post
+ mail; post
+postbud
+ postman
+posthus
+ 1. postoffice
+ 2. postoffice
+postnummer
+ postalcode; ZIPcode
+postvæsen
+ mail; post
+potte
+ jug; box; container; vessel
+pragtfuld
+ lovely
+praktisere
+ exert; practice
+praktisk
+ practical
+prale
+ boast; brag
+presse
+ press
+primitive
+ 1. fore‐; greatgrand‐
+ 2. primitive
+princip
+ principle
+principiel
+ firminone'sprinciple; firminone'sprinciples
+prins
+ prince
+prinsesse
+ princess
+pris
+ price
+privat
+ private
+problem
+ problem; trouble
+proces
+ 1. action; lawsuit
+ 2. process
+procession
+ procession
+producere
+ afford; bear; produce
+produkt
+ product
+produktion
+ production
+professor
+ professor
+profil
+ profile
+profitere
+ profit
+projekt
+ plan; project; scheme
+prop
+ cork
+propaganda
+ propaganda; publicity
+proptrækker
+ corkscrew
+prospektkort
+ picturepostcard
+prostitueret
+ prostitute
+protest
+ protest
+protestere
+ protest
+protokol
+ minutes; protocol
+provokere
+ defy; incite; provoke
+prædikant
+ preacher
+prædike
+ preach
+præmie
+ premium; prize
+præservativ
+ preservative
+præsident
+ chairman; president
+præst
+ 1. clergyman
+ 2. clergyman; pastor; priest
+ 3. preacher
+ 4. priest
+prøve
+ 1. attempt; test; try
+ 2. attempt; test
+psykiater
+ psychiatrist
+psykisk
+ psychic
+pude
+ 1. pillow
+ 2. cushion
+pudse sin næse
+ blowone'snose
+pukkel
+ bump; hump
+pullover
+ pulloversweater
+pumpe
+ 1. pump
+ 2. pump
+pund
+ pound
+pung
+ purse; wallet
+punkt
+ dot; period; point; spot
+pyjamas
+ pyjamas
+pyramide
+ pyramid
+pære
+ 1. bulb
+ 2. pear
+på
+ 1. at; to; toward; towards
+ 2. from; of
+ 3. a; in; inside; into; on; per; within
+ 4. at; by; on; upon
+ 5. on; upon
+påfaldende
+ striking
+pågældende
+ concerned; inquestion
+pålidelig
+ reliable; trustworthy
+pårørende
+ nextofkin
+påske
+ Easter
+påskud
+ pretext
+påstand
+ contention; assertion
+påstå
+ assert; state
+på gensyn
+ bye; goodbye; solong
+pølse
+ sausage
+rabbiner
+ rabbi
+race
+ breed; race
+radikal
+ radical
+radio
+ radio; wireless
+radise
+ radish
+ragout
+ ragout; stew
+raket
+ rocket
+rand
+ 1. border; brim; brink; edge; edging; fringe; rim
+ 2. rand
+ransage
+ search
+rar
+ 1. agreeable; enjoyable; lovely; nice; pleasant
+ 2. charming; lovely
+rasende
+ furious
+rask
+ healthy; well
+rat
+ joystick; steering‐wheel
+rav
+ amber
+reagere
+ react; respond
+reb
+ cord; rope; string
+recitere
+ recite
+redaktør
+ editor
+redde
+ keep; save; rescue
+rede
+ 1. den; nest
+ 2. arrange; putinorder; tidy
+redningsbælte
+ life‐belt; lifebelt; safety‐belt
+redningsbåd
+ life‐boat
+redskab
+ agent; means; tool
+reel
+ actual; practical; real
+reflektere
+ reflect
+regel
+ regulation; rule
+regelmæssig
+ even; regular
+regere
+ control; govern; restrain; rule
+regering
+ administration; government
+regiment
+ regiment
+region
+ region
+regional
+ regional
+registrere
+ record; register
+regn
+ rain
+regnbue
+ rainbow
+regne
+ rain
+regning
+ account; bill; calculation
+rejse
+ 1. travel
+ 2. journey; trip; voyage
+rejsebureau
+ touristagency; travelagency
+rejsende
+ traveller
+rejse bort
+ 1. absentonself; depart; goaway; leave
+ 2. depart; leave; setout
+rejse sig
+ rebel; revolt
+reklame
+ ad; advert; advertisement
+rekord
+ record
+rekreation
+ distraction; diversion
+rekrut
+ recruit
+religion
+ religion
+religiøs
+ religious
+ren
+ pure
+rendezvous
+ appointment; date; rendezvous
+renhed
+ cleanliness; purity
+renovere
+ renew
+rense
+ clean; cleanse; makeclean; purge
+reparere
+ 1. mend; patch; patchup
+ 2. repair
+ 3. fix; repair
+reproduktion
+ reproduction
+republik
+ republic
+reservere
+ book
+respekt
+ respect
+respektere
+ respect
+rest
+ 1. remainder; rest
+ 2. remainder; rest
+restaurant
+ restaurant
+resultat
+ conclusion; effect; result
+ret
+ right
+retfærdig
+ fair; just; righteous
+retfærdighed
+ justice; righteousness
+retning
+ direction
+rette
+ correct
+rettidigt
+ attherighttime; intime
+reumatisme
+ rheumatism
+revidere
+ revise
+revolution
+ revolution
+revolver
+ revolver
+ribs
+ 1. currant
+ 2. currant; redcurrant
+ride
+ ride
+ridse
+ abrasion; scratch
+rig
+ affluent; rich; wealthy; well‐off
+rigdom
+ abundance; affluence; wealth
+rigtig
+ correct; exact; proper; right
+ringe
+ 1. jingle; tinkle
+ 2. ring
+ris
+ rice
+risikabel
+ adventurous; hazardous; risky
+risiko
+ hazard; risk
+risikere
+ hazard; risk; venture
+rival
+ rival
+rive itu
+ tear
+ro
+ 1. row
+ 2. repose; rest
+rod
+ 1. confusion; disorder
+ 2. root
+ 3. chaos; tangle
+roe
+ turnip
+rolig
+ 1. calm; quiet
+ 2. calm; tranquil
+rolle
+ part; role; rôle
+roman
+ novel
+romantisk
+ romantic
+romersk
+ Roman
+ror
+ 1. handlebars; helm; rudder
+ 2. rudder
+rose
+ 1. commend; glorify; laud; praise
+ 2. commend; laud; praise
+ 3. rose
+rosenkål
+ Brussels‐sprouts
+rotte
+ rat
+ru
+ coarse; rough
+rubin
+ ruby
+rug
+ rye
+ruin
+ ruin
+ruinere
+ ruin
+rulle
+ roll
+rullegardin
+ roller‐blind
+rum
+ room; space
+rummelig
+ extensive; spacious; vast; wide
+rund
+ round
+rundstykke
+ roll
+russer
+ Russian
+russisk
+ Russian
+rusten
+ rusty
+rutine
+ routine
+rydde op
+ arrange; putinorder; tidy
+ryg
+ back
+ryge
+ smoke
+rygere
+ smokers
+rygrad
+ spine
+rygte
+ 1. rumor; rumour
+ 2. reputation
+rykke
+ move
+ryste
+ 1. agitate; shake; shock
+ 2. shake
+ 3. quiver; shiver; tremble
+rytme
+ rhythm
+rædsel
+ 1. agony; anguish; fear
+ 2. fright
+rædsom
+ 1. alarmed; dismayed; dumbfounded; putoutofcountenance
+ 2. abysmal; dreadful; gruesome; horrible; terrible
+rækkehus
+ terracehouse; terracedhouse
+ræv
+ fox
+rå
+ raw; uncooked
+råb
+ cry; shout
+råbe
+ call; summon
+råd
+ advice; counsel
+råde
+ advise; counsel
+rådhus
+ 1. town‐hall
+ 2. cityhall; townhall
+rådne
+ putrefy; rot
+rød
+ 1. red
+ 2. red
+ 3. red
+rødgran
+ fir
+rødspætte
+ plaice
+røg
+ smoke
+røn
+ mountain‐ash; rowan
+rør
+ barrel; channel; pipe; tube
+røre sig
+ move
+røv
+ anus; arse
+røver
+ robber
+sadel
+ saddle
+saft
+ juice; sap
+saks
+ scissors
+sal
+ floor; storey; story
+salami
+ salami
+salat
+ 1. lettuce
+ 2. salad
+salg
+ sale
+salt
+ salt
+saltvand
+ saltwater
+samle
+ collect; gather; pickup
+samlever
+ 1. co‐occupant
+ 2. companion
+samling
+ collection
+sammen
+ together
+sammenligne
+ compare
+sammenligning
+ comparison
+samtykke
+ 1. mutualunderstanding
+ 2. accommodation; accord; agreement
+ 3. accede; agree; consent
+sand
+ 1. sand
+ 2. true
+sandal
+ sandal
+sandet
+ sand; sand‐; ofsand
+sandhed
+ 1. truth
+ 2. reality; truth
+sandsynlig
+ likely; probable
+sandsynligvis
+ probably
+sandwich
+ sandwich
+sang
+ song
+sangbog
+ songbook
+sanger
+ singer
+sans
+ sense
+satellit
+ satellite
+sauce
+ gravy; sauce
+sauna
+ sauna
+sav
+ saw
+save
+ saw
+savne
+ 1. lack
+ 2. miss
+scene
+ scene
+schilling
+ shilling
+schæferhund
+ sheep‐dog
+schäferhund
+ Alsatian
+se
+ see
+sejl
+ sail
+sejle
+ sail
+sejr
+ victory
+sekretær
+ secretary
+seks
+ six
+seksten
+ sixteen
+sekstende
+ sixteenth
+seksuel
+ generative; sexual
+sekund
+ second
+seler
+ braces; suspenders
+selskab
+ 1. company
+ 2. circle; club; society
+selv
+ 1. even
+ 2. self; herself; himself; itself
+selvstarter
+ starter
+selvstændig
+ 1. independant
+ 2. independant
+selvtillid
+ self‐confidence; self‐reliance
+sen
+ late; tardy
+sende
+ send; transmit
+sende afbud
+ 1. cancel; countermand
+ 2. abjure; abolish; abrogate; annul; cancel; remit
+seng
+ bed
+sennep
+ mustard
+sensation
+ sensation
+sent
+ late
+september
+ September
+serie
+ series; set
+serum
+ serum
+servere
+ serve
+service
+ crockeryset
+serviet
+ napkin
+sex
+ sex
+se efter
+ lookafter; nurse
+se ud
+ appear; look
+shorts
+ shortpants; shorts
+sidde
+ sit
+side
+ 1. side
+ 2. page
+siden
+ 1. since; eversince
+ 2. from; since
+sidst
+ last
+sidste
+ hind; hindmost
+sidste nat
+ lastnight
+sifon
+ siphon
+sige
+ say; tell
+sige goddag
+ greet; salute
+sige ja tak til
+ accept; receive; take; takein
+sige nej tak til
+ reject
+signal
+ mark; sign; signal; token
+signalhorn
+ 1. hooter
+ 2. hooter; horn; klaxon
+sigte
+ aim; intend
+sigøjner
+ gypsy; Gypsy
+sikker
+ certain; sure
+sikkerhed
+ 1. safety; security
+ 2. safety
+sikkerhedsnål
+ safety‐pin; safetypin
+sikre
+ guarantee; warrant
+sild
+ herring
+silke
+ silk
+sin
+ her; his; its; their
+sindssyg
+ crazy; insane; mad; nuts
+sirup
+ syrup
+sit
+ her; his; its; their
+sjette
+ sixth
+sjov
+ comic; comical; funny
+sjælden
+ 1. rare
+ 2. seldom
+skab
+ cabinet; closet; cupboard; sideboard
+skabelon
+ model
+skade
+ 1. damage
+ 2. magpie
+skadelig
+ 1. adverse; harmful
+ 2. harmful
+skak
+ chess
+skam
+ shame
+skammelig
+ ashamed
+skamme sig
+ beashamed
+skarp
+ 1. sharp
+ 2. sharp
+skarphed
+ acerbity; acrimony; acuity; sharpness
+skat
+ 1. tax
+ 2. treasure
+ske
+ 1. become; comeabout; grow; happen
+ 2. spoon
+ 3. comeabout; happen; occur
+skelet
+ 1. skeleton
+ 2. skeleton
+skelne
+ differentiate
+skema
+ model; pattern; scheme
+skeptisk
+ skeptical
+ski
+ ski
+skib
+ ship; vessel
+skilles
+ getadivorce; getdivorced
+skilling
+ groschen
+skilsmisse
+ divorce
+skind
+ 1. fur; hide; skin
+ 2. skin
+skinke
+ ham
+skinne
+ 1. shine
+ 2. shine
+skinsyge
+ jealousy
+skive
+ dial; disc; record
+skjorte
+ shirt
+skjule sig
+ hide; hideoneself
+skjule
+ conceal; hide
+sko
+ shoe
+skobånd
+ shoe‐lace
+skole
+ school
+skomager
+ shoemaker
+skorsten
+ 1. chimney; smokestack
+ 2. fireplace; hearth
+skotte
+ Scot; Scotsman
+skov
+ forest; woods
+skovl
+ shovel
+skrabe
+ scrape; scratch
+skrald
+ debris; rubbish; rubble
+skraldespand
+ garbagecan
+skridt
+ pace; step; stride
+skrifte
+ confess
+skriftemål
+ confession
+skrige
+ cryout; scream; shout
+skrive
+ write
+skrivebord
+ desk; writingdesk; writing‐desk
+skrivemaskine
+ typewriter
+skrue
+ 1. helix; propeller
+ 2. screw
+ 3. screw
+skruenøgle
+ adjustablewrench; spanner
+skruetrækker
+ screwdriver
+skrædder
+ tailor
+skrækkelig
+ abysmal; dreadful; gruesome; horrible; terrible
+skrælle
+ shell; peel
+skrænt
+ acclivity; hillside; slope
+skubbe
+ pushalong; shove
+skudår
+ leap‐year
+skuespiller
+ actor
+skuffe
+ 1. disappoint
+ 2. disappoint; setstraight
+ 3. drawer
+skuffelse
+ disappointment
+skulder
+ shoulder
+skulle
+ haveto; must; oughtto; should
+skulptur
+ sculpture
+skum
+ foam; froth
+skumme
+ foam; froth
+skumring
+ 1. eveningtwilight
+ 2. eveningtwilight
+skur
+ depository
+sky
+ 1. cloud
+ 2. abashed; self‐conscious; shy
+ 3. afraid; timid
+ 4. shy
+skyde
+ fire; shoot
+skygge
+ 1. shadow
+ 2. shade
+skyld
+ blame; fault; guilt
+skylde
+ owe
+skyldig
+ guilty
+skylle
+ gargle; rinse
+skynde sig
+ 1. gofast; hurry; rush
+ 2. hurry; rush
+ 3. hurry
+skæg
+ beard
+skæl
+ scale
+skælde
+ abuse; insult; offend
+skældsord
+ invective; termofabuse
+skænderi
+ 1. dispute; quarrel
+ 2. quarrel
+ 3. quarrel
+skændes
+ quarrel; wrangle
+skændsel
+ shame
+skære
+ cut; slice
+skærm
+ screen
+skål
+ cheers; goodhealth
+skøge
+ hooker; whore
+skøn
+ beautiful; fine; handsome; lovely
+skønhed
+ beauty
+skør
+ breakable; brittle; fragile
+sladre
+ slander
+slag
+ 1. action; battle; scuffle; struggle
+ 2. blow
+slags
+ kind; sort
+slagsmål
+ action; battle; scuffle; struggle
+slagter
+ butcher
+slange
+ serpent; snake
+slank
+ slender; slim
+slet
+ bad; miserable; nasty; poor
+slette
+ plain
+slet ikke
+ notatall
+slips
+ tie; necktie
+slot
+ castle
+sludre
+ 1. chat; chatter
+ 2. gossip
+slukke
+ extinguish; putout
+slutte
+ 1. abstract; deduce; gather
+ 2. abstract; induce; gather; infer
+slægt
+ relations; relatives
+slægtning
+ relative
+slå
+ 1. beat; hit; strike
+ 2. cut; mow
+slås
+ fight; struggle
+sløv
+ 1. blunt
+ 2. dull; obtuse
+smag
+ taste
+smage
+ 1. taste
+ 2. taste
+smal
+ narrow
+smaragd
+ emerald
+smed
+ smith
+smelte
+ 1. melt
+ 2. melt
+smerte
+ ache; pain
+smertelig
+ painful
+smigre
+ flatter
+smil
+ smile
+smile
+ smile
+sminke
+ 1. makeup
+ 2. makeup; make‐up
+smitte
+ infect
+smuk
+ beautiful; fine; handsome; lovely
+småpenge
+ 1. change
+ 2. change
+smør
+ butter
+smøre
+ anoint; smear; spread
+smørrebrød
+ breadandbutter
+snabel‐a
+ atpersand; commercial‐atsign; snail
+snakke
+ 1. chat; chatter
+ 2. gossip
+ 3. speak; talk
+snaksom
+ talkative
+snart
+ soon
+snavset
+ dirty; filthy; nasty; soiled; unclean
+snavse til
+ soil
+sne
+ 1. snow
+ 2. snow
+snegl
+ snail
+snor
+ cord; rope; string
+snorke
+ snore
+social
+ social
+sofa
+ 1. bench
+ 2. couch; divan
+ 3. sofa
+sok
+ sock
+sol
+ sun
+solbær
+ currant
+soldat
+ pawn; soldier
+solnedgang
+ sunset
+solopgang
+ sunrise
+solsort
+ blackbird
+som
+ that; who
+sommer
+ summer
+sommerfugl
+ butterfly
+som regel
+ 1. ordinarily
+ 2. generally
+sorg
+ care; concern
+sort
+ black
+souvenir
+ keepsake; memento; souvenir
+sove
+ beasleep; sleep
+sovekammer
+ bedroom
+sovesofa
+ sofa
+soveværelse
+ bedroom
+sovjetisk
+ Soviet
+sovevogn
+ sleeping‐car
+spade
+ spade
+spadseretur
+ stroll; walk
+spalte
+ 1. split
+ 2. crack; crevice
+spand
+ bucket; pail
+spanier
+ Spaniard
+spare
+ save; spare
+spark
+ kick
+sparke
+ kick
+speciel
+ particular; special
+spedalskhed
+ leprosy
+spejl
+ looking‐glass; mirror
+spejlæg
+ boiledegg
+spids
+ 1. pointed; spiked
+ 2. peak; point; tip; summit
+spil
+ game
+spilde
+ waste
+spille
+ play
+spinat
+ spinach
+spindelvæv
+ spiderweb
+spion
+ spy
+spiral
+ spiral
+spisekammer
+ 1. pantry
+ 2. pantry
+spiselig
+ edible
+spisesal
+ dining‐room
+spiseseddel
+ 1. menu
+ 2. menu
+spisestue
+ 1. dining‐room
+ 2. dining‐room
+sport
+ sport
+sprede
+ 1. spreadout
+ 2. layout; spread; spreadout
+spring
+ jump; leap
+springe
+ jump; leap; spring
+sprit
+ methylatedspirit
+sprog
+ language; tongue
+spurv
+ sparrow
+spytte
+ 1. spit
+ 2. spit
+spædbarn
+ baby
+spændende
+ exciting
+spænding
+ tension
+spærring
+ blockade
+spøge
+ jest; joke
+spørge
+ ask
+spørgsmål
+ question
+stadig
+ constant; continual; permanent; sustained
+stadion
+ stadium
+stald
+ stable; stall; sty
+stamme
+ stem; trunk
+standse
+ halt; cometoahalt; stop
+star
+ celebrity; star
+stat
+ state
+station
+ 1. station
+ 2. stage; station; stop
+stationsforstander
+ station‐master
+statsborger
+ citizen
+status
+ balancesheet
+stave
+ spell
+sted
+ 1. abode; dwelling‐place; residence
+ 2. place
+ 3. location; place; spot
+ 4. abode; dwelling‐place‐residence
+stege
+ roast; toast
+stegepande
+ frying‐pan; fryingpan
+stejl
+ abrupt; steep
+stemme
+ 1. vote
+ 2. voice
+stemme overens
+ 1. accord; agree
+ 2. accord; fittogether; harmonize
+stemning
+ mood
+sten‐
+ metalled; stone
+sten
+ stone
+stenografi
+ shorthand; stenography
+sti
+ path
+stifte bekendtskab med
+ make...acquaintance
+stige
+ 1. ladder
+ 2. ladder
+stige ud
+ 1. getout; getoutofacar
+ 2. exit; goout
+ 3. getout
+stik
+ plug; electricplug; stopper
+stikke
+ pick; stab; sting
+stikkelsbær
+ gooseberry
+stikkontakt
+ electricsocket
+stilk
+ stalk; stem
+stille
+ laydown; place; put; putdown
+stilling
+ 1. handicraft; occupation; trade
+ 2. profession
+stimulere
+ rouse; stimulate; stirup
+stinke
+ reek; smell; smellbad; stink
+stiv
+ rigid; stiff
+stjerne
+ star
+stjæle
+ steal
+stof
+ 1. matter
+ 2. matter; stuff; substance
+stol
+ chair
+stole på
+ 1. relyon; trustin
+ 2. relyon; trustin
+stolt
+ pride
+stoppe
+ halt; stop
+stor
+ big; great; large
+stork
+ stork
+storm
+ storm
+straf
+ punishment
+straffe
+ punish
+straks
+ 1. atonce; instantly; immediately; withoutdelay
+ 2. atonce; immediately; just; rightaway; rightnow
+strand
+ beach
+strejfe om
+ roam; wander
+strejke
+ 1. strike
+ 2. strike
+strube
+ throat
+strygejern
+ iron; flat‐iron
+stræde
+ alley; lane
+stråle
+ beam; ray
+strø
+ 1. scatter
+ 2. dump; pour; pourout; scatter
+strøm
+ 1. current; flow; stream
+ 2. current
+strømpe
+ stocking
+student
+ academic; student
+studere
+ study
+studium
+ 1. study
+ 2. study
+stue
+ living‐room; sitting‐room
+stueetage
+ ground‐floor
+stuepige
+ maid
+stum
+ dumb; mute; speechless
+stump
+ 1. blunt
+ 2. dull; obtuse
+stykke
+ bit; lump; piece
+styre
+ 1. administration; management
+ 2. platform; stage
+ 3. boardofdirectors
+ 4. control; reign; rule
+styre
+ 1. direct; guide; manage; steer
+ 2. steer
+stænkskærm
+ mudguard
+stær
+ starling
+stærk
+ strong
+stå
+ stand
+stål‐
+ steal; ofsteal
+stål
+ steel
+stå op
+ 1. getup; rise; stand; standup
+ 2. getup
+stød
+ push
+støde
+ push; thrust
+stønne
+ groan
+størrelse
+ 1. bulk; dimension; extend; size
+ 2. size
+ 3. size
+støtte
+ lean; support; sustain
+støv
+ dust
+støvet
+ dusty
+støve af
+ dust
+støvle
+ boot
+støvsuger
+ vacuumcleaner; vacuum‐cleaner
+succes
+ achievement; success
+suge
+ suck
+sukke
+ sigh
+sukker
+ sugar
+sult
+ hunger
+sulten
+ hungry
+sum
+ amount; sum
+sund
+ healthy; well
+sundhed
+ health
+suppe
+ soup
+supplement
+ adjunct
+sur
+ 1. acetous; acid; sour; tart
+ 2. dismal
+surrogat
+ equivalent
+svag
+ faint; light; weak
+svale
+ swallow
+svamp
+ 1. fungus; mushroom
+ 2. sponge
+svane
+ swan
+svar
+ answer; reply
+svare
+ answer; reply; respond
+svede
+ sweat
+svejtser
+ Swiss
+svensk
+ Swedish
+svensker
+ Swede
+svigerdatter
+ daughter‐in‐law
+svigerfar
+ father‐in‐law
+svigerforældre
+ parents‐in‐law
+svigerinde
+ sister‐in‐law
+svigermor
+ mother‐in‐law
+svigersøn
+ son‐in‐law
+svin
+ hog; pig; swine
+svinekød
+ pork
+sving
+ bend; curve
+svinge
+ 1. brandish; fling; swing; wave; waveabout
+ 2. sway; swing
+svoger
+ brother‐in‐law
+svulme
+ swell
+sværge
+ swear
+svømme
+ float; swim
+sy
+ sew
+syd
+ south
+sydlig
+ south; southern
+syfilis
+ syphilis
+syg
+ ill; sick
+sygeplejerske
+ nurse
+symbol
+ symbol
+symfoni
+ symphony
+sympatisk
+ sympathetic
+symptom
+ symptom
+syn
+ 1. appearance; aspect; look; sight; view
+ 2. view
+synagoge
+ synagogue
+synde
+ sin; transgress
+synes
+ 1. meditate; thinktooneself
+ 2. account; deem; opine; think
+ 3. think; thinkabout; reflecton
+synes om
+ 1. love
+ 2. appreciate; like
+synge
+ sing
+synke
+ 1. sink
+ 2. sink
+ 3. dive; sink
+synlig
+ visible
+syre
+ acid
+syren
+ lilac
+system
+ system
+systematisk
+ systematic
+sytten
+ seventeen
+syttende
+ seventeenth
+syv
+ seven
+syvende
+ seventh
+sæbe
+ soap
+sædvane
+ custom; habit; way
+sædvanlig
+ 1. accustomed; customary; usedto; usual; wonted
+ 2. common; ordinary; usual
+sædvanligvis
+ ordinarily; usually
+sæl
+ seal; sea‐dog
+sælge
+ disposeof; sell; vend
+sænke
+ sink
+sær
+ odd; peculiar; strange
+særlig
+ 1. particular; special
+ 2. specific
+ 3. quite; very; verymuch
+særskilt
+ apart; particular; separate; special
+sæter
+ alp; mountainpasture
+sætning
+ sentence
+sætte
+ laydown; place; put; putdown
+sætte pris på
+ appreciate; like
+sætte sig
+ sitdown
+så
+ 1. sow
+ 2. then
+ 3. likethat; thatway; thus
+sådan
+ so; such; thus
+således
+ so; such; thus
+sår
+ injury; wound
+såre
+ hurt
+så at sige
+ sotospeak
+så snart som
+ assoonas
+sø
+ lake; loch
+sød
+ 1. gentle; soft; sweet; tender
+ 2. dear; lovely
+søge
+ lookfor; seek
+sølv
+ silver
+søm
+ nail
+sømand
+ sailor
+søn
+ son
+søndag
+ Sunday
+sørge
+ mourn
+søskende
+ brothersandsisters; siblings
+søster
+ sister
+søsterdatter
+ niece
+søstersøn
+ nephew
+søsyge
+ seasickness
+søvn
+ sleep
+søvnig
+ 1. sleepy
+ 2. drowsy
+tab
+ loss
+tabel
+ index; table; tablet; tabulation
+taburet
+ stool
+tag
+ roof
+tage
+ get; layholdof; pickup; take
+tagetes
+ Africanmarigold
+tage afsked
+ saygoodbye; saygoodbyeto; takeleave; takeleavefrom
+tage afsked med
+ saygoodbye; saygoodbyeto; takeleave; takeleavefrom
+tage bort
+ abstract; takeaway
+tage brusebad
+ shower
+tage fejl
+ err; makeamistake
+tage hensyn til
+ 1. payattentionto; takeaccountof; takeintoaccount
+ 2. account; consider; esteem; regard; takeintoaccount
+tage op
+ get; layholdof; pickup; take
+tak
+ 1. gratitude; thanks
+ 2. thankyou; thanks
+takke
+ thank
+takke for
+ acknowledge; thankfor
+taknemlig for
+ 1. gratefulfor
+ 2. gratefulfor
+taknemmelig
+ 1. thankful
+ 2. thankful
+taknemmelighed
+ gratitude
+taks
+ yew‐tree
+takt
+ musicaltime; tact
+tak for det
+ thankyou; thanks
+tal
+ amount; number
+tale
+ 1. speech
+ 2. speak; talk
+talent
+ 1. aptitude; disposition; talent
+ 2. aptitude; disposition; talent
+talje
+ waist; waistline
+tallerken
+ plate
+tampon
+ plug; tampon
+tand
+ tooth
+tandbørste
+ tooth‐brush
+tandhjul
+ cogwheel; gear
+tandkød
+ gum
+tandlæge
+ dentist
+tandpasta
+ tooth‐paste
+tandpine
+ toothache
+tandstikker
+ toothpick
+tang
+ tongs
+tank
+ 1. tank
+ 2. tank
+tanke
+ thought
+tante
+ aunt
+tapet
+ tapestry; wallcovering
+tapetsere
+ paper
+tapetserer
+ paperer; paper‐hanger
+tapper
+ brave; courageous; valiant
+tarm
+ intestine
+taxa
+ taxi
+taxachauffør
+ taxidriver; taxi‐driver
+te
+ tea
+teater
+ theatre
+tegn
+ character; mark; sign; signal; token
+tegne
+ design; draw
+tegning
+ 1. design; drawing
+ 2. design; drawing
+teknik
+ technics; technique
+teknisk
+ technical
+tekst
+ lyric; text
+telefon
+ telephone
+telefonere
+ telephone
+telegrafere
+ telegraph
+telegram
+ telegram
+teleskop
+ telescope
+tema
+ theme; topic; subject
+tempel
+ temple
+temperatur
+ temperature
+tempo
+ speed
+tendens
+ 1. tendency
+ 2. disposal; inclination; tendency
+tendentiøs
+ biased; tendencious; tendentious
+tennis
+ tennis
+teori
+ theory
+tepotte
+ 1. teapot
+ 2. tea‐pot
+terapi
+ therapy
+termoflaske
+ 1. thermosbottle
+ 2. thermos; thermosflask
+termometer
+ thermometer
+terning
+ cube
+terrasse
+ terrace
+terræn
+ ground; grounds; terrain
+test
+ test
+testamente
+ testament; will
+teste
+ test
+testikel
+ testicle
+ti
+ ten
+tid
+ time; while
+tidlig
+ early
+tidligt
+ early
+tidsel
+ thisle
+tidskrift
+ magazine; periodical; revue
+tie
+ bequiet
+tiende
+ tenth
+tiger
+ tiger
+tigger
+ beggar
+til
+ 1. at; to; toward; towards
+ 2. from; of
+ 3. about; concerning; on; upon
+tilbage
+ back
+tilberedelse
+ 1. preparation
+ 2. preparation
+tilbringe
+ employ; use; makeuseof
+tildragelse
+ 1. event
+ 2. event
+ 3. event; occasion; occurence; opportunity
+ 4. event
+ 5. event
+tilfreds
+ contented; pleased; satisfied
+tilfælde
+ 1. accidence; chance; hazard
+ 2. affair; case; matter
+tilfældig
+ accidental; adventitious; chance; random
+tilføje
+ add
+tilgive
+ forgive; pardon
+tilgængelig
+ accessible
+tilhænger
+ 1. disciple
+ 2. member; supporter
+tilhøre
+ belongto
+tillade
+ accord; admit; afford; allow; permit
+tilladelse
+ 1. licence; license
+ 2. permission
+tillavning
+ 1. preparation
+ 2. preparation
+tilfældigvis
+ byaccident; bychance
+tillid
+ 1. confidence; faith; trust
+ 2. confidence
+tilløb
+ run
+tilpasning
+ adaptation; adjustment
+tilsammen
+ together
+tilskud
+ subsidy
+tilstand
+ 1. circumstances; condition; situation
+ 2. condition; state
+tilstrækkelig
+ enough; sufficient
+tilstrømning
+ access; impetus; impulse
+tilstå
+ acknowledge; admit; confess; profess
+tilsøle
+ soil
+tiltagende
+ increase
+tiltrække
+ attract
+tiltrækningskraft
+ attraction
+til højre
+ right; totheright
+til leje
+ forrent
+til salg
+ forsale
+til venstre
+ left; totheleft
+time
+ hour; o'clock; time
+timelding
+ 1. accommodateoneself; adaptoneself
+ 2. inscription
+tin
+ tin
+ting
+ 1. thing
+ 2. article; object; thing
+tirsdag
+ Tuesday
+tit
+ frequently; often; regularly
+titel
+ degree; heading; title
+tjene
+ 1. earn; gain; win
+ 2. serve
+tjener
+ 1. waiter
+ 2. maid; servant
+ 3. boy; servant
+tjeneste
+ service
+tjære
+ tar
+to
+ two
+tog
+ 1. train
+ 2. train
+togoverskæring
+ level‐crossing
+toilet
+ toilet
+toiletpapir
+ toilet‐paper
+told
+ customs
+tolerant
+ tolerant
+tolk
+ interpreter
+tolv
+ twelve
+tolvte
+ twelfth
+tom
+ empty; void
+tomat
+ tomato
+tommelfinger
+ 1. thumb
+ 2. thumb
+tone
+ tone
+top
+ 1. peak; point; tip; summit
+ 2. summit; surface; top
+torden
+ thunder
+tordne
+ thunder
+torn
+ thorn
+torsdag
+ Thursday
+torsk
+ cod; codfish
+torv
+ 1. bazaar; fair; market
+ 2. market; marketplace
+tosse
+ idiot
+tosset
+ odd; peculiar; strange
+to gange
+ twice
+tradition
+ tradition
+trafik
+ traffic
+tragedie
+ tragedy
+transistor
+ transistor
+transport
+ transport
+transportere
+ transport
+trappe
+ staircase; stairs
+tre
+ three
+tredive
+ thirty
+tredje
+ third
+trehjulet cykel
+ tricycle
+trekant
+ triangle
+tres
+ sixty
+tresindstyvende
+ sixtieth
+tresindstyve
+ sixty
+tretten
+ thirteen
+trettende
+ thirteenth
+tre gange
+ threetimes; thrice
+tribune
+ rostrum; speaker'splatform
+trist
+ 1. dismal; gaunt; miserable; sad
+ 2. dismal; dreary; sad
+ 3. sad; sorrowful
+tro
+ 1. faithful
+ 2. account; accredit; believe; deem
+ 3. belief
+ 4. faithful; loyal
+ 5. guess; presume; suppose; surmise
+trompet
+ trumpet
+tropisk
+ tropical
+tro på
+ believein
+true
+ menace; threaten
+trussel
+ menace; threat
+tryk
+ 1. pressure
+ 2. pressure
+ 3. print
+trykke
+ 1. press; oppress; squeeze
+ 2. print
+trykke ud
+ squeezeout
+træ‐
+ wooden
+træ
+ 1. tree
+ 2. timber; wood
+træde
+ pace; stalk; step; stride; tread
+træffe
+ comeacross; encounter; meet; see
+træfning
+ action; battle; scuffle; struggle
+træk
+ pull
+trækharmonika
+ accordion
+trække
+ drag; draw; haul; pull; tug
+trække op
+ strech; windup
+trækpapir
+ blotter; blottingpaper
+trængende
+ pressing; urgent
+trænge til
+ need; require
+træt
+ tired
+tråd
+ 1. wire
+ 2. thread
+trøst
+ consolation
+trøste
+ comfort; console
+tudse
+ toad
+tulipan
+ tulip
+tunfisk
+ tuna; tuna‐fish; tunny
+tung
+ burdensome; heavy; onerous
+tunge
+ 1. tongue
+ 2. sole
+turde
+ bebold; dare
+tusinde
+ thousand; onethousand
+tusmørke
+ dusk
+tvetydig
+ ambiguous
+tvilling
+ 1. twins
+ 2. twin
+tvinge
+ compel; force
+tvivl
+ doubt
+tvivle
+ doubt
+tværs
+ across; beyond; ontheothersideof
+tværtimod
+ onthecontrary; otherwise
+tydelig
+ clear; distinct; plain
+tyfus
+ typhus
+tygge
+ chew
+tyk
+ bold; corpulent; fat; thick
+tynd
+ 1. gaunt; lean; meager; skimpy; skinny; thin
+ 2. gaunt; lean; slender; thin
+typisk
+ typical
+tyr
+ bull
+tyrk
+ Turk
+tysk
+ 1. German
+ 2. German; Germanlanguage
+tysker
+ German
+tyv
+ thief
+tyve
+ twenty
+tyvende
+ twentieth
+tyveri
+ abstraction; theft
+tælle
+ count
+tænde
+ kindle; light
+tænding
+ ignition
+tændrør
+ plug; sparkplug
+tændstik
+ match
+tænke
+ think
+tæppe
+ 1. blanket
+ 2. carpet
+tærte
+ pie; tart
+tæt
+ 1. concentrated; dense; thick
+ 2. narrow
+tå
+ toe
+tåge
+ fog; mist
+tåle
+ endure; putupwith; tolerate
+tålmodig
+ patient
+tålmodighed
+ patience
+tåre
+ tear
+tårn
+ castle; tower
+tøffel
+ slipper
+tøj
+ clothes; clothing
+tøjklemme
+ clothespeg; clothespin
+tømme
+ empty
+tør
+ dry
+tørhed
+ dryness
+tørklæde
+ shawl
+tørre
+ 1. dry
+ 2. dry
+tørst
+ thirst
+tørstig
+ thirsty
+tøve
+ 1. hesitate
+ 2. hesitate; waver
+tøvejr
+ melting; thaw
+uafbrudt
+ 1. abiding; lasting
+ 2. continuous
+ 3. continuous
+uafhængig
+ 1. independant
+ 2. independant
+ubehagelig
+ 1. bleak; dismal; dreary; horrible; ghastly; grisly; nasty
+ 2. nasty
+ud
+ from; outof
+udbytte
+ exploit; utilize
+uden
+ without
+uddunstning
+ fume
+udelade
+ 1. release
+ 2. leaveout; omit; overlook
+udelukke
+ secrete
+udelukkende
+ 1. exclusive
+ 2. exclusively
+udenad
+ byheart
+udenfor
+ abroad; out; outside
+udenlandsk
+ alien; foreign
+uden tvivl
+ nodoubt; undoubtedly
+udfald
+ conclusion; effect; result
+udfordre
+ 1. challenge; defy
+ 2. defy; incite; provoke
+udgang
+ exit; wayout
+udgift
+ expenses
+udgive
+ issue; publish
+udland
+ foreigncountry
+udle
+ laughat
+udleje
+ let; rentout
+udlænding
+ foreigner
+udmeldelse
+ resignation
+udnævnelse
+ appeal
+udsende
+ broadcast
+udsigt
+ 1. view
+ 2. view
+ 3. perspective
+udskifte
+ interchange; swap
+udslukke
+ extinguish; putout
+udstille
+ exhibit
+udstilling
+ exhibition; exposition
+udsætte
+ adjourn; delay; postpone
+udtale
+ 1. pronounce
+ 2. pronounce
+udtryk
+ 1. expression
+ 2. term
+udtrykke sig
+ expressoneself
+udtrædelse
+ resignation
+udvidelse
+ expansion
+udvikle
+ develop; evolve
+udvikling
+ 1. development; evolution
+ 2. development; evolution
+udørken
+ desert
+uenig
+ atvariance; disagreeing
+uenighed
+ 1. disagreement; discord; dissension
+ 2. disagreement; discord; dissension
+ufordelagtig
+ adverse; detrimental
+uge
+ week
+ugift
+ single; unmarried
+ugle
+ owl
+uhøflig
+ rude
+uld
+ wool
+ulempe
+ disadvantage
+ulv
+ wolf
+ulykke
+ accident
+ulykkelig
+ unhappy
+ulykkeligvis
+ unfortunately
+ulykkestilfælde
+ accident
+under
+ below; beneath; under; underneath
+underarm
+ lower‐arm
+underbukser
+ drawers; panties; underpants
+undergrundsbane
+ subway; underground
+underholdning
+ entertainment
+underkjole
+ undergarment
+underkop
+ saucer
+underlig
+ odd; peculiar; strange
+underofficer
+ noncom; non‐commissionedofficer
+underskrift
+ signature
+underskrive
+ sign
+understrege
+ emphasize; underline
+undersøge
+ 1. examine
+ 2. examine; explore; investigate; research
+undersøgelse
+ 1. investigation; examination; test
+ 2. exploration; investigation; research
+undertegne
+ sign
+undertiden
+ severaltimes; sometimes
+undertrøje
+ vest
+undervise
+ teach
+undervisning
+ education
+undfly
+ escape; flee
+undgå
+ avoid; evade
+undkomme
+ escape; flee
+undre sig
+ marvel; marvelat; wonder
+undskyld
+ excuseme
+undskylde
+ 1. excuse
+ 2. excuse
+undskylde sig
+ 1. apologize
+ 2. apologize
+undskyldning
+ 1. apology
+ 2. apology
+undskyld mig
+ excuseme
+undtagelse
+ exception
+undvige
+ avoid; evade
+ung
+ 1. young
+ 2. youngster; youth
+ungarer
+ Hungarian
+ungdom
+ 1. youth
+ 2. youth
+uniform
+ uniform
+universitet
+ university
+uoverskuelig
+ everlasting
+upartisk
+ 1. impartial; neutral
+ 2. impartial
+upålidelig
+ unreliable
+ur
+ 1. watch
+ 2. clock; watch
+uregelmæssig
+ abnormal
+urin
+ urine
+urinere
+ urinate
+urmager
+ watchmaker
+urtepotte
+ flowerpot
+usand
+ 1. false; untrue
+ 2. false; untrue
+uskyld
+ innocence
+uskyldig
+ guiltless; innocent
+usympatisk
+ nasty
+utaknemlig
+ thankless; ungrateful; unthankful
+utilfreds
+ discontented; displeased; dissatisfied
+utopisk
+ utopian
+utydelig
+ indistinct
+utålmodig
+ impatient
+utøj
+ 1. vermin
+ 2. vermin
+uundværlig
+ indispensable
+uvenlig
+ 1. brutal; gruff; harsh; rough; sour; surly; unkind; unpleasant
+ 2. nasty
+uærlig
+ nasty
+valg
+ choice; election
+valnød
+ walnut
+valse
+ waltz
+valuta
+ currency
+vand
+ water
+vandfald
+ 1. waterfall
+ 2. waterfall
+vandmelon
+ 1. water‐melon
+ 2. water‐melon
+vane
+ custom; habit; way
+vanille
+ vanilla
+vanlig
+ 1. accustomed; customary; usedto; usual; wonted
+ 2. common; ordinary; usual
+vanskelig
+ difficult; hard; inconvenient
+vare
+ continue; endure; keepon; last
+varieté
+ varietyentertainment
+varm
+ warm
+varme
+ warmth
+vase
+ vase; vessel
+vaseline
+ vaseline
+vaske
+ 1. wash
+ 2. wash
+vasketøj
+ laundry
+vaskeskind
+ chamois; chamoisleather
+vaske op
+ washup
+vat
+ cotton‐wool; wadding
+ved
+ at; by; on; upon
+vedbend
+ ivy
+vedrørende
+ toward; towards; withreferenceto
+vegetar
+ vegetarian
+vegetarisk
+ vegetarian
+vej
+ road; route; way
+veje
+ 1. weigh
+ 2. weigh
+vejr
+ weather
+vejviser
+ addresslist
+veksle
+ change; turn
+velhavende
+ ineasycircumstances; well‐to‐do
+ven
+ friend
+vende
+ turn; turnaround; turnround
+vending
+ 1. turn
+ 2. turn
+veninde
+ friend
+venlig
+ affable; friendly; good‐natured; kind
+venskab
+ friendship
+venskabelig
+ friendly
+venstre
+ left
+ventesal
+ waiting‐room; waitingroom
+ventil
+ tube; valve
+ventilator
+ electricfan; ventilator
+verden
+ world
+verdensdel
+ continent; mainland
+verdenskrig
+ worldwar
+værktøj
+ agent; means; tool
+vermouth
+ vermouth
+vest
+ 1. west; West
+ 2. west
+ 3. vest; waistcoat
+vestlig
+ western
+vi
+ us; we
+vid
+ 1. soul
+ 2. about; concerning; on; upon
+vide
+ know; knowhow
+videnskab
+ science
+videnskabelig
+ scientific
+videnskabsmand
+ scientist
+videre
+ 1. beyond; farther; further
+ 2. farther
+ 3. besides; furthermore; inaddition; moreover
+vigtig
+ important; serious
+vild
+ savage; wild
+vilje
+ will; willingness; wish
+villa
+ 1. detachedhouse
+ 2. villa
+ville
+ bewillingto; want; wish
+vin
+ wine
+vind
+ wind
+vinde
+ earn; gain; win
+vindrue
+ grape
+vindue
+ window
+vinduesrude
+ window‐glass
+vinge
+ wing
+vinke
+ wave
+vinkel
+ angle
+vinstok
+ vine; grapevine
+vinter
+ winter
+viol
+ violet
+violin
+ violin
+virkelig
+ 1. actual; real
+ 2. actual; factual; real
+ 3. actual; practical; real
+virke på
+ act; beeffective; haveeffect
+vise
+ indicate; pointout; show
+visit
+ visit
+viskelæder
+ rubber
+viskestykke
+ dishcloth; dustrag
+visum
+ visa; visé
+vi ses
+ bye; goodbye; solong
+vogn
+ carriage; coach; railwaycarriage; waggon
+vokal
+ vowel
+vokse
+ accrue; grow
+voksen
+ 1. adult; full‐grown
+ 2. adult; grown‐up
+vor
+ our
+vort
+ our
+vorte
+ wart
+vove
+ bebold; dare
+vred
+ angry; cross
+vulgær
+ common; everyday; vulgar
+vulkan
+ volcano
+vurdere
+ appraise; estimate; rate
+vædde
+ bet; wager
+væg
+ wall
+væge
+ fuse; wick
+vægre sig
+ refuse; reject
+vægt
+ 1. scales
+ 2. weight
+vække
+ arouse; wake; awaken; wakeup
+vækkeur
+ alarm; alarmclock
+vækst
+ 1. growth
+ 2. accretion; growth
+vælge
+ choose; elect; pickout
+vælling
+ gruel; mess; mush
+væmmelse
+ disgust; nausea
+værdi
+ value; worth
+værdifuld
+ 1. costly; valuable
+ 2. dear; expensive; valuable
+ 3. costly; dear; expensive; pricey
+være
+ 1. be
+ 2. be
+værelse
+ chamber; room
+være bange
+ beafraidof; fear
+være bange for
+ beafraidof; fear
+være borte
+ beabsent; bemissing
+være enig med
+ agreewith
+være født
+ arise; beborn
+være heldig
+ belucky; havegoodluck
+være i slægt med
+ berelatedto
+være ked af
+ besorryabout; regret
+være ked af det
+ begrieved; besad; besorrowful
+være misundelig
+ envy
+være misundelig på
+ envy
+være uheldig
+ havebadluck
+være vild efter
+ befondof; love
+være værd
+ 1. beworth; beworthyof
+ 2. beworth
+værre
+ worse
+værst
+ worst
+vær så god at
+ please
+væsel
+ weasel
+væske
+ liquid
+væve
+ weave
+våben
+ weapon
+våd
+ wet
+vågen
+ awake
+vågne op
+ wake; wakeup
+watt
+ watt
+weekend
+ week‐end
+yacht
+ yacht
+ydre
+ external; outer; outside
+ynde
+ charm
+yoghurt
+ yoghourt; yoghurt
+yver
+ udder
+zink
+ zinc
+zone
+ zone
+zoologisk have
+ zoo
+Ægir
+ Aegir
+Æneas
+ Aeneas
+æble
+ apple
+æbletræ
+ apple‐tree
+æblevin
+ cider
+ædel
+ 1. ofnoblebirth
+ 2. noble
+ædelsten
+ jewel
+ædru
+ sober
+æg
+ egg
+ægte
+ 1. authentic; genuine
+ 2. true
+ægtefælle
+ 1. wife
+ 2. husband
+ægtemand
+ husband
+ægtepar
+ couple; marriedpeople
+ægteskab
+ 1. marriage; matrimony
+ 2. marriage
+ 3. marriage
+ægyptisk
+ Egyptian
+ændre
+ 1. alter; change
+ 2. change; turn
+ændring
+ 1. alteration; change; conversion; transformation
+ 2. alteration; change; conversion; transformation
+ 3. about‐face; alteration; change; conversion; transformation
+ære
+ honor; honour
+ærgerrighed
+ ambition
+ærgre sig
+ beindignant
+ærgre sig over
+ beindignantwith; takeoffenceat
+ærkebiskop
+ archbishop
+ærlig
+ above‐board; honest
+ærme
+ sleeve
+ært
+ pea
+æsel
+ ass; donkey
+æter
+ ether
+åben
+ open
+åbenbare
+ publish; reveal
+åbne
+ open; openup
+åbning
+ opening
+ål
+ eel
+ånd
+ 1. ghost; phantom
+ 2. spirit
+ånde
+ 1. breathe
+ 2. breath
+åndedræt
+ respiration
+år
+ year
+åre
+ 1. oar
+ 2. vein
+århundrede
+ centennial; century
+årlig
+ annual; yearly
+årsag
+ cause; reason
+årstid
+ season
+Østersøen
+ BalticSea
+Østrig
+ Austria
+Østriger
+ Austrian
+ø
+ island
+ødelægge
+ destroy; quash
+ødelæggelse
+ destruction
+øje
+ eye
+øjeblik
+ instant; moment
+øjenbryn
+ brow; eyebrow
+øjenlæge
+ oculist; ophtalmologist
+øjenlåg
+ eyelid
+økse
+ axe
+øl
+ ale; beer
+ønske
+ 1. desire; wish
+ 2. desire; want; wish
+øre
+ ear
+ørering
+ earring
+ørn
+ eagle
+øse
+ pour; scatter; shed
+øst
+ east; East
+østers
+ oyster
+østlig
+ eastern; Oriental
+øve
+ exercise; practise
+øvelse
+ exercise; practice
+øverst
+ upper
+pgähyåzæriøsjakbcétulmdev fwnxo

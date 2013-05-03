@@ -1,0 +1,2767 @@
+
+00-database-dictfmt-1.11.2
+Swahili-Polish SSSP/FreeDict Dictionary
+
+przygotowanie początkowego zbioru haseł: Anna Pytluk
+redakcja merytoryczna: Beata Wójtowicz
+conversion to TEI P5 by: Piotr Bański
+Maintainer: Beata Wójtowicz
+
+Edition: 0.2.2
+Size: 1319 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Original dictionary contents available under the GNU Free Documentation
+  License, ver. 1.1 and later. XML application together with the content
+  is available under the terms of the GNU General Public License, version
+  3.0 or any later version.
+
+Publication date: 9 September 2011.
+Published at:
+
+Notes:
+
+ * Database Status: small
+
+
+Source(s):
+
+  Created from the Postscript version of the dictionary available at
+  http://www.mimuw.edu.pl/~jsbien/BW/SSSP/, dated 20.05.2003, published
+  electronically on pages belonging to the University of Warsaw. Converted
+  from postscript by Open Office Writer, post-edited in oXygen.
+
+Source(s):
+
+  Oryginalny opis wersji z 2003 r.: Niniejszy Studencki słownik
+  suahilijsko-polski powstał na podstawie haseł opracowanych i
+  wprowadzonych do komputera (za pomocą programu MS Access) przez Annę
+  Pytluk, studentkę Zakładu Języków i Kultur Afryki Instytutu
+  Orientalistycznego Uniwersytetu Warszawskiego; do składu i łamania
+  wykorzystano system LaTeX2e. Obecnie słownik zawiera 1320 haseł
+  obejmujących zakres materiału z pierwszego roku nauki języka suahili.
+  Słownik jest dostępny na zasadach licencji GNU FDL1 m.in. w formacie PDF
+  pod adresem http://www.orient.uw.edu.pl/~jsbien/BW/SSSP/ i jest
+  replikowany pod adresem http://www.mimuw.edu.pl/~jsbien/BW/SSSP/.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project, . This project
+  aims to make many translating dictionaries available for free. Your
+  contributions are welcome!
+
+Changelog:
+
+ * 2011-09-10: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2011-09-09 Piotr Bański ver. 0.2.2:
+   * Mostly a maintenance release, to sort out file distribution
+     issues and to include a list of biblical names in the archive (it is
+     not a part of the dictionary). Accompanied by an update of Freedict
+     schemas, to handle <table> and friends, so that the front matter can
+     be put into 00-database-info together with the header information.
+ * 2009-12-31 Piotr Bański ver. 0.2.1:
+   * Front matter, more work on the header, some CSS changes.
+   * The first source release.
+ * 2009-12-13 Beata Wójtowicz ver. 0.2:
+   * Corrections in translations
+   * (and Piotr rearranged some XML bits)
+ * 2009-11-30 Piotr Bański ver. 0.1:
+   * Created version 0.1, converted from postscript into TEI P5 XML
+     for the Freedict project.
+
+  =====================================================================
+    
+
+Niniejszy Studencki Słownik Suahilijsko-Polski powstał na podstawie haseł opracowanych i
+wprowadzonych do komputera (za pomocą programu MS Access) przez Annę Pytluk, studentkę
+Zakładu Języków i Kultur Afryki Instytutu Orientalistycznego Uniwersytetu Warszawskiego.
+Został on wybrany jako najlepszy spośród kilku podobnych słowników studenckich oraz
+przejrzany i skorygowany przez Beatę Wójtowicz, doktorantkę IO, która następnie dokonała
+składu i łamania słownika z wykorzystaniem systemu LATEX2e. Słownik w takiej formie został
+w roku 2003 opublikowany elektronicznie na licencji GNU FDL 1.1, m.in. w formacie PDF, pod
+adresem http://www.orient.uw.edu.pl/~jsbien/BW/SSSP/ oraz http://www.mimuw.edu.pl/~jsbien/BW/SSSP/.
+
+
+Oryginalna wersja słownika zawierała 1320 haseł, obejmujących zakres materiału z
+pierwszego roku nauki języka suahili. W roku 2009 słownik został skonwertowany na język
+znaczników XML wg. schematu TEI P5, a następnie opublikowany w projekcie
+Freedict [http://freedict.org/], na licencji GNU Public License 3.0.
+
+Objaśnienie skrótów stosowanych przez autorkę haseł:
+
+| Skrót  Opis  Przykład 
+| V0  czasowniki jednosylabowe i nieregularne  ja 
+| V1  czasowniki regularne zakończone samogłoską a; formy podstawowe  soma 
+| V2  czasowniki zakończone w formie podstawowej 2 samogłoskami  chukua 
+| V3  czasowniki zakończone na i  fikiri 
+| V4  czasowniki zakończone na u  husu 
+| W  czasowniki w formie wzajemnej  onana 
+| D  czasowniki w formie kierunkowej  pikia 
+| K  czasowniki w formie kauzatywnej  somesha 
+| S  czasowniki w formie statywnej  vunjika 
+| Z  czasowniki w stronie zwrotnej  jifunza 
+| B  czasowniki w stronie biernej  andikwa 
+| N1  rzeczowniki w klasie 1 mające liczbę mnogą w klasie 2  mjomba / wajomba 
+| N3  rzeczowniki w klasie 3 mające liczbę mnogą w klasie 4  mti / miti 
+| N5  rzeczowniki w klasie 5 mające liczbę mnogą w klasie 6  debe / madebe 
+| N6  rzeczowniki będące zazwyczaj tylko w klasie 6  maji 
+| N7  rzeczowniki w klasie 7 mające liczbę mnogą w klasie 8  kijiko / vijiko 
+| N9  rzeczowniki w klasie 9 mające liczbę mnogą w klasie 10  ajili / ajili 
+| N11/14  rzeczowniki w klasie 11/14; lp jak kl.3, lm jak kl.10  ukuta / kuta; unywele / nywele 
+| N5/1  rzeczowniki w klasie 5, ale odmieniające się jak klasa 1  bwana / mabwana 
+| N7/1  rzeczowniki w klasie 7, ale odmieniające się jak klasa 1  kijana / vijana 
+| N9/1  rzeczowniki w klasie 9, ale odmieniające się jak klasa 1  ndege / ndege 
+| A1  przymiotniki uzgadniajace się z rzeczownikiem (rodzime)  embamba 
+| A2  przymiotniki nieuzgadniające się z rzeczownikiem (zapożyczenia)  maalumu 
+| A3  przymiotniki składające się z wyrażenia (wielowyrazowe)   aina kwa aina 
+| P1  przysłówki jednowyrazowe  karibu 
+| P2  przysłówki składające się z wyrażenia (wielowyrazowe)  hivi karibuni 
+  
+  =====================================================================
+Swahili-Polish SSSP/FreeDict Dictionary ver. 0.2.2
+
+-a kigeni <adj A3>
+ obcy
+-a kimataifa <adj A3>
+ zagraniczny
+-a kireno <adj A3>
+ portugalski
+-a kitaaluma <adj A3>
+ akademicki
+-a kutosha <adv P2>
+ wystarczająco
+-a pekee <adj A3>
+ jedyny, niepowtarzalny
+abudu <v V4>
+ czcić
+acha <v V1>
+ zostawiać; pozwalać
+adhibu <v V4>
+ ukarać
+adhimisha <v V1>
+ świętować
+adhuhuri <n N9>
+ pora dnia między godziną 12.00 a 13.00
+adui <n N5/1>
+ wróg
+afadhali <adv P1>
+ lepiej...
+afya <n N9>
+ zdrowie
+aga <v V1>
+ żegnać
+agana <v V1W>
+ pożegnać się (ze sobą)
+Agano Jipya <n N5>
+ Nowy Testament
+Agano la Kale <n N5>
+ Stary Testament
+agiza <v V1>
+ zamówić
+aina <n N9>
+ rodzaj
+aisikrimi <n N9>
+ lody
+ajabu <n N9>
+ zadziwiająca rzecz; cud
+ajali <n N9>
+ wypadek
+ake <adj A1P>
+ jego, jej
+akili <n N9>
+ umysł; rozum
+akina <n N9>
+ grupa ludzi o podobnych cechach
+akiwa <conj>
+ gdy; podczas
+ako <adj A1P>
+ twój
+alasiri <n N9>
+ pora dnia między godziną 13.00 a 17.00
+alfajiri <n N9>
+ pora dnia między godziną 3.00 a 6.00
+alhamis <n N9>
+ czwartek
+alika <v V1>
+ zaprosić
+amani <n N9>
+ pokój
+amba- <pron PN>
+ który
+ambia <v V2>
+ mówić, powiedzieć
+ambukiza <v V1>
+ zarażać
+amini <v V3>
+ wierzyć
+amka <v V1>
+ budzić się; wstawać
+amua <v V2>
+ decydować
+andaa <v V2>
+ przygotować
+andamana <v V1W>
+ towarzyszyć sobie, iść razem; iść jeden za drugim
+andika <v V1>
+ pisać
+angalia <v V2>
+ uważać; dbać; obserwować
+angu <adj A1P>
+ mój
+angua <v V2>
+ wybuchnąć (o śmiechu/łzach)
+anguka <v V1>
+ spaść, upaść, przewrócić się
+anwani <n N9>
+ adres
+anza <v V1>
+ zaczynać
+ardhi <n N9>
+ ziemia
+arobaini <num>
+ czterdzieści
+asali <n N9>
+ miód
+asante <interj>
+ dziękuję
+asimilia <n N9>
+ procent
+askari <n N9/1>
+ mundurowy; żołnierz
+asubuhi <n N9>
+ rano
+aya <n N9>
+ paragraf
+azima <v V1>
+ pożyczyć
+baa <n N9>
+ bar
+baada ya <adv P3>
+ po
+baadaye <adv P1>
+ później
+baadhi <adj A2>
+ niektórzy
+baba <n N5/1>
+ ojciec, tata
+badala ya <adv P1>
+ zamiast
+badili <v V3>
+ zmieniać
+bado <adv>
+ wciąż; jeszcze
+bafu <n N9>
+ łazienka; wanna
+bahasha <n N9>
+ koperta
+bahati <n N9>
+ szczęście
+bahati mbaya <n N9>
+ pech
+bahati nzuri <n N9>
+ szczęście
+bahiri <adj A2>
+ skąpy
+baina ya ... na <adv P1>
+ pomiędzy ... i ...
+baisikeli <n N9>
+ rower
+baki <v V3>
+ zostać
+bakshishi <n N9>
+ napiwek
+bali <conj>
+ ale; lecz
+balozi <n N9/1>
+ ambasador
+banda <n N6>
+ chata
+bangili <n N9>
+ bransoletka
+bao <n N9>
+ deska
+bara <n N9>
+ kontynent; ląd
+barabara <n N9>
+ droga
+baraka <n N9>
+ błogosławieństwo
+baridi <n N9>
+ zimno
+barua <n N9>
+ list
+barua umeme <n N9>
+ e-mail
+basi <n N9>
+ autobus
+basi <interj>
+ więc; basta , koniec
+baya <adj A1>
+ zły
+beba <v V1>
+ nieść
+bee <interj>
+ odpowiedź kobiety na wezwanie
+bega <n N5>
+ ramię
+bei <n N9>
+ cena
+benki <n N9>
+ bank
+bia <n N9>
+ piwo
+biashara <n N9>
+ handel
+bibi <n N5/1>
+ kobieta; żona
+bichi <adj A1>
+ niedojrzały, nieugotowany
+bidi <v V3>
+ musieć, trzeba
+bila <conj>
+ bez; wyłączając
+bilauri <n N9>
+ szklanka
+binadamu <n N9/1>
+ człowiek; istota ludzka
+binti <n N9/1>
+ córka
+bisha hodi <v V1>
+ pukać do drzwi (okrzykiem)
+bivu <adj A1>
+ dojrzały; świeży
+blauzi <n N9>
+ bluzka
+buluu <adj A2>
+ niebieski
+bomba <n N5>
+ rura
+bombo <n N9>
+ przeziębienie
+bora <adj A2>
+ wspaniały; lepszy
+breki <n N9>
+ hamulec
+buibui <n N5>
+ pająk; ubranie kobiet muzułmańskich, czador
+bunduki <n N9>
+ broń
+bunge <n N9>
+ parlament
+bure <adv P1>
+ na próżno / darmo
+busara <n N9>
+ mądrość
+bustani <n N9>
+ ogród
+bwana <n N5/1>
+ pan, mężczyzna; mąż
+chache <adv P1>
+ mało, niewiele
+chafu <adj A1>
+ brudny
+chagua <v V2>
+ wybrać
+chai <n N9>
+ herbata
+chaki <n N9>
+ kreda
+chakula <n N7>
+ jedzenie
+chakula cha jioni <n N7>
+ kolacja
+chama <n N7>
+ partia
+changamfu <adj A2>
+ pogodny; szczęśliwy
+chapa <v V1>
+ bić; uderzać
+chawa <n N5>
+ wesz
+cheka <v V1>
+ śmiać się
+chelewa <v V0B>
+ spóźnić się
+chemka <v V1>
+ wrzeć
+chemsha <v V1K>
+ gotować
+cheza <v V1>
+ grać ; bawić się
+cheza karata <v V1>
+ grać w karty
+chini <n N9>
+ spód
+chini ya <adv P3>
+ pod
+choka <v V1>
+ zmęczyć się
+chokaa <n N9>
+ gips
+chokoleti <n N9>
+ czekolada
+choma <v V1>
+ wkłuwać
+chombo <n N7>
+ naczynie; narzędzie; środek (do)
+chomoa <v V1R>
+ wykłuwać
+chomoka <v V1RK>
+ wyjść poza
+choo <n N7>
+ toaleta
+chosha <v V1K>
+ męczyć
+chotara <n N9/1>
+ mieszaniec
+chozi <n N5>
+ łza
+chui <n N9/1>
+ leopard
+chukia <v V2>
+ nienawidzić
+chukua <v V2>
+ brać
+chuma <n N7>
+ żelazo
+chumba <n N7>
+ pokój
+chumbia <v V1D>
+ zaręczyć się
+chungu <n N9>
+ mnóstwo
+chungu nzima <n N9>
+ całe mnóstwo
+chungwa <n N5>
+ pomarańcza
+chuo <n N7>
+ college (ang.)
+chuo kikuu <n N7>
+ uniwersytet
+chupa <n N7>
+ butelka
+chupi <n N9>
+ majtki
+dada <n N9/1>
+ siostra
+daftari <n N5>
+ książka rachunków; zeszyt
+dakika <n N9>
+ minuta
+daktari wa meno <n N5>
+ dentysta
+daladala <n N9>
+ autobus
+damu <n N9>
+ krew
+danganya <v V1>
+ kłamać
+dansa <n N9>
+ taniec
+daraja <n N9>
+ most
+darasa <n N5>
+ lekcja
+dawa <n N5>
+ lekarstwo
+dawati <n N5>
+ biurko
+dereva <n N9/1>
+ kierowca
+dhahabu <n N9>
+ złoto
+dharau <v V4>
+ obrażać; gardzić
+dhidi ya <conj>
+ przeciwko, przeciw
+dhulumu <v V4>
+ traktować niesprawiedliwie
+dirisha <n N5>
+ okno
+doa <n N5>
+ plama
+dobi <n N5/1>
+ pracz
+dogo <adj A1>
+ mały; młody/szy
+dondoka <v V2K>
+ spaść
+doti <n N5>
+ para (o ubraniu), komplet
+dua <n N9>
+ modlitwa; prośba
+duka <n N5>
+ sklep
+duka la dawa <n N5>
+ apteka
+dumisha <v V4K>
+ podtrzymywać
+dunda <v V1>
+ bić; uderzać; tętnić
+dunia <n N9>
+ świat
+ekundu <adj A1>
+ czerwony
+elekea <v V1D>
+ udać się (dokądś), kierować się
+elewa <v V2B>
+ rozumieć
+elfu <num>
+ 1000
+elimu <n N9>
+ nauka; wykształcenie
+elimu ya afya <n N9>
+ higiena; medycyna
+ema <adj A1>
+ dobry
+embe <n N9>
+ mango
+enda <v V0>
+ iść; jechać; posuwać się do przodu, rozwijać się
+enda z-(zaim.dzierż.) <v V0>
+ iść sobie
+endea <v V1D>
+ udać się
+endelea <v V1D>
+ kontynuować
+endesha <v V0K>
+ kierować
+eneza <v V2K>
+ rozprzestrzenić
+enyewe <adj A1>
+ sam
+epesi <adj A1>
+ lekki; szybki
+epuka <v V1>
+ unikać
+epukana na <v V1W>
+ unikać
+eti <interj>
+ określenie na wątpliwość; określenie na zdziwienie
+eupe <adj A1>
+ biały
+eusi <adj A1>
+ czarny
+fa <v V0>
+ umrzeć
+fagia <v V1>
+ zamiatać
+fahali <n N9/1>
+ byk
+fahamisha <v V4K>
+ wyjaśnić
+fahamu <v V4>
+ rozumieć; znać
+familia <n N9>
+ rodzina
+fanya <v V1>
+ robić
+farasi <n N9/1>
+ koń
+fasihi <n N9>
+ literatura
+fataki <n N9>
+ fajerwerki
+fedha <n N9>
+ srebro; pieniądze
+ficha <v V1>
+ chować; ukrywać
+fika <v V1>
+ przybywać
+fikiri <v V3>
+ myśleć
+fisi <n N9/1>
+ hiena
+fomu <n N9>
+ formularz
+fua <v V2>
+ prać
+fuata <v V1>
+ podążać, iść za kimś
+fuatana <v V1W>
+ przebywać w towarzystwie
+fufua <v V2>
+ wskrzesić, wrócić do życia po śmierci
+fujo <n N5>
+ chaos
+fulani <adj>
+ pewien, jakiś
+fumba <v V1>
+ zamykać oczy
+fumbua <v V1K>
+ otwierać oczy
+fundi <n N9/1>
+ mistrz; rzemieślnik
+fundi ya saa <n N5/1>
+ zegarmistrz
+fundisha <v V1>
+ uczyć kogoś
+funga <v V1>
+ zamykać; zawiązywać
+funga mizigo <v>
+ pakować się
+funga safari <v V1>
+ rozpocząć podróż
+fungua <v V1R>
+ otwierać
+fupi <adj A1>
+ niski, krótki
+furahi <v V3>
+ cieszyć się
+futa <v V1>
+ wycierać
+gani <adj A1>
+ jaki, który
+gari <n N5>
+ samochód
+gauni <n N9>
+ sukienka
+gawanya <v V1>
+ dzielić
+gazeti <n N5>
+ gazeta
+gereza <n N9>
+ więzienie
+geuka <v V1>
+ skręcić
+ghali <adj A2>
+ drogi
+ghere <n N9>
+ zazdrość; zawiść
+ghorofa <n N9>
+ piętro
+giza <n N9>
+ ciemność
+glasi <n N9>
+ szklanka
+gombana <v V1W>
+ kłócić się
+gonga <v V1>
+ uderzyć, wpaść na coś
+gonjwa <n N5>
+ choroba
+goti <n N9>
+ kolano
+gumu <adj A1>
+ twardy; trudny
+habari <n N9>
+ wiadomości
+hadhiti <n N9>
+ opowiadanie
+hai <adj A2>
+ żyjący, ożywiony
+haja <n N9>
+ potrzeba
+halafu <adv P1>
+ później, potem
+halisi <adj A2>
+ naturalny
+hamaki <n N9>
+ złość
+hamsini <num>
+ 50
+hamu <n N9>
+ chęć; potrzeba
+hapa <adv P1>
+ tutaj
+hapana <interj>
+ nie
+hapo <adv P1>
+ właśnie wtedy
+haraka <n N9>
+ pośpiech
+haribu <v V4>
+ niszczyć
+hasa <adv P1>
+ dokładnie; specjalne; właśnie
+hata <conj>
+ aż
+hata hivyo <conj>
+ pomimo to
+hata kidogo <adv P2>
+ wcale, ani trochę
+hatari <adj A2>
+ niebezpieczny
+hatua <n N9>
+ krok
+haya <adv P1>
+ dobrze, w porządku
+hekalu <n N9>
+ świątynia
+hereni <n N9>
+ kolczyk
+hesabu <n N9>
+ liczenie; matematyka; rachunki
+heti <n N9>
+ czapka
+himiza <v V1>
+ popędzać, poganiać
+historia ya kisasa <n N9>
+ historia współczesna
+hitaji <v V3>
+ potrzebować
+hitajika <v V3S>
+ być potrzebnym
+hivi <adv P1>
+ około
+hivi hivi <adv P2>
+ tak sobie; trochę
+hivi karibuni <adv P2>
+ zaraz; niedawno
+hivyo <adv P1>
+ tak; w ten sposób
+hodari <adj A2>
+ zdolny
+hodi! <interj>
+ (pukanie) czy mogę...?
+hofu <n N9>
+ strach
+hoji <v V3>
+ wypytywać, przepytywać
+homa <n N9>
+ gorączka
+homa ya manjano <n N9>
+ żółta febra
+hospitali <n N9>
+ szpital
+hoteli <n N9>
+ hotel
+hudhuria <v V3D>
+ uczestniczyć; być obecnym
+huduma <n N9>
+ usługi; obsługa, pomoc
+hudumia <v V4D>
+ obsługiwać
+hujumu <v V4>
+ sabotować
+huko <adv P1>
+ tam
+humu <adv P1>
+ tutaj
+hundi <n N9>
+ czek
+huzuni <n N9>
+ smutek
+huzunika <v V1>
+ zasmucić się
+iba <v V1>
+ kraść
+idara <n N9>
+ biuro; oddział; katedra (na uczelni)
+ijumaa <n N9>
+ piątek
+ikiwa <conj>
+ czy (w zdaniach podrzędnych); jeśli
+imba <v V1>
+ śpiewać
+inama <v V1>
+ schylić się
+ingawa <conj>
+ chociaż
+ingi <adj A1>
+ wiele, dużo
+ingia <v V2>
+ wchodzić
+ingine <adj A1>
+ niektóry/rzy; inny
+insha <n N9>
+ wypracowanie; esej
+inuka <v V1K>
+ wstawać
+inzi <n N9/1>
+ mucha
+isha <v V1>
+ kończyć
+ishara <n N9>
+ symbol
+ishi <v V3>
+ żyć; mieszkać
+ishirini <num>
+ 20
+isimu <n N9>
+ charakter; istota
+isimu ya lugha <n N9>
+ lingwistyka
+ita <v V1>
+ wołać; nazywać; dzwonić (telefonem)
+ja <v V0>
+ przychodzić
+jaa <v V2>
+ być pełnym
+jahanamu <n N9>
+ piekło
+jamaa <n N9/1>
+ kolega; rodzina duża
+jambo <n N5>
+ sprawa; rzecz
+jamhuri <n N9>
+ republika
+jana <n N9>
+ wczoraj
+janga <n N5>
+ nieszczęście
+jani <n N5>
+ liść; trawka
+jaribu <v V4>
+ próbować
+jawabu <n N5>
+ sprawa; odpowiedź; produkt
+jaza <v V2K>
+ wypełniać
+je <conj>
+ czy
+jela <n N9>
+ więzienie
+jembe <n N5>
+ motyka
+jengo <n N5>
+ budynek
+jiandaa <v V2>
+ przygotowywać się
+jibu <v V4>
+ odpowiadać
+jicho <n N5>
+ oko
+jifanya <v V1Z>
+ udawać
+jifungua <v V1ZR>
+ urodzić; mieć rozwiązanie
+jifunza <v V1Z>
+ uczyć się
+jiko <n N5>
+ kuchnia
+jikwaa <v V2Z>
+ potknąć się
+jina <n N5>
+ imię, nazwisko; nazwa
+jino <n N5>
+ ząb
+jinsi <n N9>
+ sposób
+jiografia <n N9>
+ geografia
+jioni <n N9>
+ wieczór
+jipokeza <v V1ZK>
+ zgubić się
+jirani <n N5>
+ sąsiad
+jitahidi <v V3Z>
+ starać się
+jiunga <v V1Z>
+ dołączyć
+jiuzulu <v V1Z>
+ podać się do dymisji
+jivuna <v V1Z>
+ popisywać się
+jiwe <n N5>
+ kamień
+joho <n N5>
+ płaszcz muzułmański
+joto <n N9>
+ ciepło; gorączka
+jua <v V2>
+ wiedzieć; umieć; potrafić
+jua <n N5>
+ słońce
+juishana <v V1KW>
+ informować się nawzajem; powiadamiać się
+juisi <n N9>
+ sok
+juma <n N9>
+ tydzień
+jumamosi <n N9>
+ sobota
+jumanne <n N9>
+ wtorek
+jumapili <n N9>
+ niedziela
+jumatano <n N9>
+ środa
+jumatatu <n N9>
+ poniedziałek
+jumba <n N5>
+ duży dom; duży pokój; budynek
+jumba la umeme <n N5>
+ elektrownia
+jumlisha <v V1>
+ dodawać
+juu ya <adv P1>
+ na; nad; o
+juzi <n N9>
+ przedwczoraj
+kaa <v V2>
+ mieszkać; siedzieć; pasować
+kabati <n N5>
+ szafa; kredens
+kabisa <adv P1>
+ dobrze; odpowiednio; wystarczająco
+kabla <adv P1>
+ przed
+kabla ya <adv P1>
+ przed (czasowe)
+kaburi <n N5>
+ grób
+kadhaa <adj A2>
+ kilka; niewiele
+kadi <n N9>
+ kartka (pocztowa; z życzeniami)
+kahawa <n N9>
+ kawa
+kaka <n N9/1>
+ brat
+kali <adj A1>
+ surowy, okrutny; ostry, gorzki; mocny
+kama <conj>
+ jak; jeśli; czy
+kamera <n N9>
+ aparat fotograficzny
+kamili <adv P1>
+ dokładnie
+kamusi <n N9>
+ słownik
+kana <v V1>
+ wyrzec się
+kanda <v V1>
+ masować, robić masaż
+kando ya <adv P1>
+ obok; na brzegu; na skraju
+kanisa <n N9>
+ kościół
+kantini <n N9>
+ stołówka
+kanzu <n N9>
+ ubranie męskie, długa męska koszula
+kaptura <n N9>
+ krótkie spodnie
+karamu <n N9>
+ impreza, przyjęcie
+karani <n N9/1>
+ urzędnik
+karata <n N9>
+ karty
+karatasi <n N9>
+ kartka; papier
+karibia <v V2>
+ przybliżyć się
+karibisha <v V1>
+ zaprosić
+karibu <interj>
+ proszę, zapraszam
+karibu <adv P3>
+ blisko; prawie
+karimu <adj A1>
+ chojny
+kasi <adv P1>
+ szybko
+kasirika <v V1>
+ rozłościć się
+kaskazini <n N9>
+ północ
+kata <v V1>
+ ciąć; przerywać
+kata shauri <v V1>
+ powziąć decyzję
+kata tamaa <v V1>
+ stracić chęć
+kataa <v V2>
+ odmówić
+katibu <n N9/1>
+ sekretarz
+katikati ya <adv P1>
+ po środku
+katlesi <n N9>
+ kotlet
+katoni <n N5>
+ karton
+kaunta <n N9>
+ okienko; lada
+kazi <n N9>
+ praca; zajęcie
+kebeji <n N9>
+ kapusta
+kebichi <n N9>
+ kapusta
+keki <n N9>
+ ciasto
+kemea <v V2>
+ krzyczeć; ganić
+kesho <n N9>
+ jutro
+kesho kutwa <n N9>
+ pojutrze
+keti <v V3>
+ siadać
+kheri <n N9>
+ powodzenie; szczęście
+kiatu <n N7>
+ but
+kiazi <n N7>
+ ziemniak
+kibanda <n N7>
+ chata; szopa
+kibidhi <v V3>
+ wręczyć; dać
+kibiriti <n N7>
+ zapałka; paczka zapałek
+kiboko <n N7/1>
+ hipopotam; bat ze skóry
+kichaa <n N7/1>
+ szaleniec
+kicheko <n N7>
+ śmiech
+kichorochoro <n N7>
+ zaułek
+kichwa <n N7>
+ głowa
+kidani <n N7>
+ naszyjnik
+kidole <n N7>
+ palec
+kidonge <n N7>
+ tabletka; pastylka
+kifaranga <n N7>
+ kurczaczek
+kifaru <n N7/1>
+ nosorożec; czołg
+kifo <n N7>
+ śmierć
+kifua <n N7>
+ klatka piersiowa
+kifurushi <n N7>
+ paczka
+kijana <n N7/1>
+ młodzieniec
+kijiji <n N7>
+ miasteczko
+kijiko <n N7>
+ łyżka
+kikapu <n N7>
+ kosz
+kiko <n N7>
+ fajka
+kikombe <n N7>
+ filiżanka; kubek
+kila <adj A2>
+ każdy / a
+kilabu <n N7>
+ klub; bar
+kilabu cha mazoezi <n N7>
+ fitness klub
+kilemba <n N7>
+ turban
+kilio <n N7>
+ płacz
+kima <n N9>
+ pulpet; mięso mielone
+kima <n N9/1>
+ małpa
+kimya <n N7>
+ cisza
+kinga <v V1>
+ bronić; chronić
+kinga <n N9>
+ obrona; ochrona
+kingajua <n N9>
+ daszek u czapki
+kinyozi <n N7/1>
+ fryzjer; golibroda
+kinywaji <n N7>
+ napój
+kiongozi <n N7/1>
+ przewodniczący
+kioo <n N7>
+ lustro
+kipande <n N7>
+ kawałek
+kipindi <n N7>
+ okres czasu, moment
+kipindupindu <n N7>
+ cholera
+kishujaa <adv P1>
+ odważnie; bohatersko
+kisima <n N7>
+ studnia
+kisingino <n N7>
+ łokieć; kolano
+kisu <n N7>
+ nóż
+kitabu <n N7>
+ książka
+kitako <n N7>
+ pośladek
+kitambaa <n N7>
+ chusta; obrus; materiał
+kitambo <n N7>
+ krótki odcinek czasu; krótki odcinek drogi
+kitambulisho <n N7>
+ legitymacja
+kitana <n N7>
+ grzebień
+kitanda <n N7>
+ łóżko
+kitenge <n N7>
+ materiał, którym okrywają się kobiety
+kitivo <n N7>
+ wydział
+kito <n N7>
+ biżuteria
+kitu <n N7>
+ rzecz; coś
+kitunguu <n N7>
+ cebula
+kituo cha basi <n N7>
+ przystanek autobusowy
+kiu <n N9>
+ pragnienie
+kiulizi <n N7>
+ pytajnik
+kivuko <n N7>
+ przejście
+kivuli <n N7>
+ cień
+kiwanda <n N7>
+ fabryka
+kiwanja cha mpira <n N7>
+ boisko
+kiwanja cha ndege <n N7>
+ lotnisko
+kizibau <n N7>
+ kamizelka
+kodi <n N9>
+ podatek
+kofi <n N5>
+ dłoń
+kofia <n N9>
+ czapka w stylu muzułmańskim
+kohoa <v V2>
+ kaszleć
+koma <v V1>
+ przestać
+kompyuta <n N9>
+ komputer
+kona <n N9>
+ róg
+koo <n N5>
+ gardło
+kopa <v V1>
+ pożyczyć; dać kredyt
+kope <n N5>
+ rzęsa, brew; pożyczka
+kosa <v V1>
+ błądzić; brakować
+koti <n N9>
+ palto; płaszcz
+koti la mvua <n N9>
+ płaszcz przeciwdeszczowy
+kubali <v V3>
+ zgadzać się
+kubwa <adj A1>
+ duży, wielki; ciężki, ważny, mocny; stary
+kugawa <n N15>
+ dzielenie
+kuhara <n N15>
+ biegunka
+kuhusu <n N15>
+ dotyczący
+kujumlisha <n N15>
+ dodawanie
+kuku <n N9/1>
+ kurczak
+kulia <n N9>
+ prawa strona
+lima <v V1>
+ uprawiać rolę
+kumbuka <v V1>
+ pamiętać; przypominać sobie
+kumi na tisa <num>
+ 19
+kunde <n N5>
+ bób
+kundi <n N9>
+ stado
+kunguni <n N9>
+ pluskwy
+kuni <n N9>
+ drewno
+kupe <n N9>
+ kleszcz bydlęcy lub psi
+kushoto <n N9>
+ lewa strona
+kusini <n N9>
+ południe
+kuta <v V1>
+ spotkać
+kutahamaki <adv P1>
+ nagle
+kutana <v V1W>
+ spotykać się (z...)
+kutoa <n N15>
+ odejmowanie
+kutoka <conj>
+ z
+kutua <adv P1>
+ jak
+kuu <adj A1>
+ główny
+kuza <v V2K>
+ uprawiać
+kuzidisha <n N15>
+ mnożenie
+kwa ajili <adv P2>
+ z powodu; dla (dobra) ... (+)
+kwa bahati mbaya <conj>
+ niestety
+kwa bidii <adv P2>
+ pilnie
+kwa heri <adv P2>
+ do widzenia
+kwa jumla <adv P2>
+ w sumie
+kwa kila hali <conj>
+ w każdym razie
+kwa moyo <adv P2>
+ na pamięć
+kwa vile <conj>
+ ponieważ
+kwako <adj A2P>
+
+kwamba <conj>
+ że
+kwanza <adv P1>
+ najpierw
+kweli <adv P1>
+ naprawdę; rzeczywiście; prawda
+kwenye <conj>
+ w
+la <v V0>
+ jeść
+la <interj>
+ nie (stanowczo)
+laanifu <adj A1>
+ przeklęty
+labda <conj>
+ być może
+labeka <interj>
+ odpowiedź kobiety na wezwanie
+lahaja <n N9>
+ dialekt
+laini <adj A2>
+ gładki; delikatny
+lakini <conj>
+ ale, lecz
+lala <v V1>
+ spać
+lango <n N5>
+ brama
+laza <v V1K>
+ uśpić
+lazima <adv P1>
+ trzeba
+lea <v V2>
+ wychowywać
+lenga <v V1>
+ lać się; zalewać się
+lenga <v V1>
+ celować
+lengo <n N5>
+ cel
+leo <n N9>
+ dziś, dzisiaj
+leta <v V1>
+ przynosić
+lewa <v V1>
+ upić się
+lia <v V2>
+ płakać; krzyczeć
+likizo <n N9>
+ ferie, wakacje
+lini <adv P1>
+ kiedy
+lipa <v V1>
+ płacić
+lori <n N5>
+ ciężarówka
+lugha <n N9>
+ język (środ. komunikacji)
+maafa <n N6>
+ przerażenie; groza; terror
+maana <n N9>
+ znaczenie
+maana yake <conj>
+ co to znaczy
+maelfu <n N6>
+ tysiące
+maendeleo <n N6>
+ rozwój
+mafua <n N6>
+ przeziębienie
+mafuta <n N6>
+ olej
+magharibi <n N9>
+ zachód
+mahali <n N16>
+ miejsce
+maharagwe <n N6>
+ fasola
+maili <n N9>
+ mila
+maisha <n N6>
+ życie
+maiti <n N6>
+ martwe ciało
+maji <n N6>
+ woda
+maji ya machungwa <n N6>
+ sok pomarańczowy
+majivu <n N6>
+ popiół
+majuto <n N6>
+ żal
+makala <n N6>
+ artykuły
+makini <n N6>
+ uwaga; spokój; godność
+maktaba <n N6>
+ biblioteka
+makumi <n N6>
+ dziesiątki
+malaria <n N9>
+ malaria
+mali <n N9>
+ majątek; bogactwo
+maliza <v V1>
+ kończyć
+mama <n N5/1>
+ matka, mama
+mamba <n N9/1>
+ krokodyl
+mamia <n N6>
+ setki
+mamilioni <n N6>
+ miliony
+mamoja <n N6>
+ jedności
+manjano <n N9>
+ kurkuma
+maoni <n N6>
+ opinie
+mapema <adv P1>
+ wcześnie
+mapinduzi <n N6>
+ rewolucja
+mapokezi <n N6>
+ recepcja
+mara <n N9>
+ raz; nagle
+mara moja <adv P1>
+ nagle
+maradhi <n N6>
+ choroba
+maradhi <n N6>
+ choroby
+marehemu <n N9>
+ nieboszczyk
+marikiti <n N9>
+ supermarket; duży sklep
+marudio <n N6>
+ powtórzenie
+marufuku <adj A2>
+ zabroniony
+masafa <n N6>
+ odległość
+mashairi <n N6>
+ poezja
+mashariki <n N9>
+ wschód
+maskini <adj A2>
+ biedny; biedak
+masomo <n N6>
+ studia
+matata <n N6>
+ kłopot, problem
+mate <n N6>
+ ślina
+matembezi <n N6>
+ spacer
+matokeo <n N6>
+ wyniki
+matope <n N6>
+ błoto
+matumizi <n N6>
+ użycie; wydatki
+maumivu <n N6>
+ ból
+mauti <n N6>
+ śmierć
+mawasiliano <n N6>
+ komunikacja
+mazingira <n N6>
+ środowisko
+mazishi <n N6>
+ pogrzeb
+maziwa <n N6>
+ mleko
+mbaazi <n N3>
+ groch
+mbali na <adv P1>
+ daleko
+mbao <n N3>
+ deska; tablica
+mbati <n N1>
+ pijak
+mbati <n N9>
+ dachówka
+mbele ya <adv P1>
+ przed (miejscowe)
+mbili tatu <adv P2>
+ parę; kilka
+mbio <adv P1>
+ szybko
+mboga <n N9>
+ warzywa
+mboga <n N3>
+ tykwa
+mbona <interj>
+ dlaczego; określenie na zdziwienie
+mbu <n N9>
+ komar
+mbuga <n N9>
+ park; sawanna
+mbuga <n N3>
+ rodzaj akacji
+mbuni <n N1>
+ twórca
+mbuni <n N3>
+ drzewko kawowe
+mbuni <n N9/1>
+ struś
+mbuyu <n N3>
+ baobab
+mbuzi <n N9/1>
+ koza
+mbwa <n N1>
+ pies
+mbwawa <n N3>
+ basen; jeziorko
+mchana <n N9>
+ popołudnie
+mchawi <n N1>
+ czarownica
+mchele <n N3>
+ ryż niegotowany łuskany
+mchezo <n N3>
+ gra; zabawa
+mchumba <n N1>
+ narzeczony
+mchungwa <n N3>
+ drzewko pomarańczowe
+mchuzi <n N3>
+ sos
+mdali <n N9>
+ medalik
+mdogo wa kike <n N1>
+ młodsza siostra
+mdogo wa kiume <n N1>
+ młodszy brat
+mdomo <n N3>
+ usta
+mdudu <n N1>
+ owad
+meli <n N9>
+ statek
+mende <n N9>
+ karaluch
+meneja <n N9>
+ dyrektor; kierownik
+meza <n N9>
+ stół
+meza <v V1>
+ połykać
+mfalme <n N1>
+ król
+mfanyakazi <n N1>
+ robotnik; pracownik
+mfereji <n N3>
+ kanał; wodociąg
+mfuko <n N3>
+ torba; kieszeń; torebka
+mfupa <n N3>
+ kość
+mgahawa <n N3>
+ kawiarnia
+mganga <n N1>
+ zielarz; znachor
+mgeni <n N1>
+ gość; obcy
+mgongo <n N3>
+ grzbiet; plecy
+mgonjwa <n N1>
+ chory
+mguu <n N3>
+ noga
+mhadhara <n N9>
+ lektura; lektorat
+mhuni <n N1>
+ łobuz
+mhusika <n N1>
+ bohater (książki)
+mia <num>
+ 100
+miadi <n N9>
+ randka
+miaka <n N4>
+ wiek (liczba lat)
+milele <n N9>
+ wieczność; [wiecznie]
+mimi <pron PN>
+ ja
+miongoni kwa <adv P1>
+ pomiędzy
+miwani <n N4>
+ okulary
+mjamzito <n N1>
+ kobieta w ciąży
+mjanja <v V1>
+ mędrzec
+mji <n N3>
+ miasto
+mjinga <n N1>
+ ignorant
+mjumbe <n N1>
+ posłaniec
+mkahawa <n N3>
+ kawiarnia
+mkate <n N3>
+ chleb
+mkazi <n N1>
+ mieszkaniec
+mke <n N1>
+ żona
+mkeka <n N3>
+ mata
+mkesha <n N3>
+ wigilia; czuwanie;
+mkoa <n N3>
+ okręg
+mkoba <n N3>
+ torebka
+mkono <n N3>
+ ręka
+mkopo <n N3>
+ pożyczka
+mkuki <n N3>
+ dzida
+mkulima <n N1>
+ rolnik
+mkutano <n N3>
+ zebranie
+mla watu <n N1>
+ ludożerca
+mlango <n N3>
+ drzwi
+mlevi <n N1>
+ pijak
+mlima <n N3>
+ góra
+mlio <n N3>
+ krzyk
+mnazi <n N3>
+ palma kokosowa
+mnunuzi <n N1>
+ klient; kupujący
+mnyama <n N1>
+ zwierzę
+moja <num>
+ jeden
+moja kwa moja <adv P2>
+ prosto; bezpośrednio; od razu
+moshi <n N3>
+ dym
+moto <n N3>
+ ogień
+motokaa <n N9>
+ samochód; motocykl
+moyo <n N3>
+ serce
+mpaka <n N3/4>
+ granica
+mpaka <conj>
+ do
+mpando <n N3>
+ górka
+mpiga picha <n N1>
+ fotograf
+mpira <n N3>
+ piłka; guma
+mpishi <n N1>
+ kucharz
+mpokeaji <n N1>
+ recepcjonista
+mrembo <n N1>
+ piękna kobieta; ślicznotka
+msaada <n N3>
+ pomoc
+msalaba <n N3>
+ krzyż
+mshangao <n N3>
+ zdziwienie
+mshikaki <n N3>
+ szaszłyk
+mshonaji <n N1>
+ krawiec
+mshumaa <n N3>
+ świeca
+msiba <n N3>
+ nieszczęście
+msichana <n N1>
+ dziewczyna
+msikiti <n N3>
+ meczet
+mtalii <n N1>
+ turysta
+mtego <n N3>
+ pułapka
+mtengenezaji nywele <n N1>
+ fryzjer
+mteremko <n N3>
+ dołek
+mtihani <n N3>
+ egzamin
+mto <n N3>
+ rzeka
+mtoto <n N1>
+ dziecko
+mtu <n N1>
+ człowiek
+mtumishi <n N1>
+ kelner; służący
+muda <n N3>
+ okres
+muhtasari <n N9>
+ podsumowanie
+mume <n N1>
+ mąż
+mvi <n N9>
+ siwizna
+mvinyo <n N3>
+ wino; alkohol
+mviringo <n N3>
+ koło; okrąg
+mvua <n N9>
+ deszcz
+mvulana <n N1>
+ chłopak
+mvungu <n N3>
+ spód; podłoga; na podłodze
+mvuvi <n N1>
+ rybak
+mwaga <v V1>
+ wlewać; nalewać
+mwaka <n N3>
+ rok
+mwaliko <n N3>
+ zaproszenie
+mwalimu <n N1>
+ nauczyciel
+mwamvuli <n N3>
+ parasol
+mwana <n N1>
+ dziecko; syn
+mwana elimu nafsi <n N1>
+ psycholog
+mwanafunzi <n N1>
+ uczeń; student
+mwanaharamu <n N1>
+ łajdak; bękart
+mwanamke <n N1>
+ kobieta
+mwanamume <n N1>
+ mężczyzna
+mwananchi <n N1>
+ rodak; obywatel
+mwanga <n N3>
+ jasność; światło
+mwangaza <n N3>
+ światło
+mwanzo <n N3>
+ początek
+mwenda wazimu <n N1>
+ wariat
+mwendo <n N3>
+ prędkość; ruch
+mwenyeji <n N1>
+ człowiek stąd; miejscowy
+mwenyekiti <n N1>
+ kierownik
+mwenzi <n N1>
+ kompan
+mwezi <n N3>
+ miesiąc; księżyc
+mwili <n N3>
+ ciało
+mwisho <n N3>
+ koniec
+mwitu <n N3>
+ las
+mwizi <n N1>
+ złodziej
+mwoga <n N1>
+ tchórz
+mwongo <n N3>
+ kłamstwo
+mwuguzi <n N1>
+ pielęgniarka
+mwungano <n N3>
+ federacja
+mzazi <n N1>
+ rodzic
+mzee <n N1>
+ starsza osoba; rodzic
+mzigo <n N3>
+ bagaż
+Mzungu <n N1>
+ Europejczyk
+na <conj>
+ i; a
+naam <interj>
+ odpowiedź mężczyzny na wezwanie
+nafuu <adj A2>
+ korzystny
+namba <n N9>
+ liczba
+nambari <n N9>
+ liczba
+nanasi <n N5>
+ ananas
+nani <adv P1>
+ kto; jaki (o człowieku); który (o człowieku)
+nauli <n N9>
+ opłata za przejazd
+nawa <v V1>
+ myć ręce lub twarz lub stopy
+nawisha <v V1K>
+ moknąć; nasiąkać
+nazi <n N9>
+ orzech kokosowy
+nchi <n N9>
+ kraj
+ndani ya <adv P1>
+ wewnątrz
+ndege <n N9/1>
+ ptak; samolot
+dini <n N9>
+ religia
+ndiyo <interj>
+ tak
+ndizi <n N9>
+ banan
+ndugu <n N9>
+ krewny; rodzeństwo
+nenepa <v V1>
+ utyć
+neno <n N5>
+ słowo
+nesi <n N5/1>
+ pielęgniarka
+ngamia <n N9/1>
+ wielbłąd
+ngano <n N9>
+ ziarno; żyto; pszenica
+ngapi <adv P1>
+ ile
+nge <n N9/1>
+ skorpion
+ng’oa <v V2>
+ wyrywać
+ngoja <v V1>
+ czekać
+ngoma <n N9>
+ bęben
+ng’ombe <n N9>
+ krowa; bydło
+ngozi <n N9>
+ skóra
+ngumi <n N9>
+ pięść
+nguo <n N9>
+ ubranie
+nguruwe <n N9/1>
+ świnia
+nguvu <n N9>
+ siła
+nia <n N9>
+ chęć; zamierzenie
+nini <adv P1>
+ co; jaki; który (o ny)
+njaa <n N9>
+ głód
+nje ya <adv P1>
+ na zewnątrz
+njia <n N9>
+ droga
+njia panda <n N9>
+ skrzyżowanie
+noti <n N9>
+ banknot
+nukta <n N9>
+ kropka; chwila
+nusu <n N9>
+ pół
+nyama <n N9>
+ mięso
+nyamaza <v V1>
+ być cicho; milczeć
+nyati <n N9/1>
+ bawół
+nyesha <v V1>
+ padać (o deszczu)
+nyima <v V1>
+ odmawiać
+nyinyi <pron PN>
+ wy
+nyoa <v V2>
+ ogolić
+nyoka <n N9/1>
+ wąż
+nyonge <adj A1>
+ samotny
+nyota <n N9>
+ gwiazda
+nyuki <n N9/1>
+ pszczoła
+nyuma <n N9>
+ tył
+nyumba <n N9>
+ dom; rodzina; budynek
+nyusi <n N11/14>
+ brew
+nywa <v V0>
+ pić
+nywele <n N9>
+ włosy
+nzi <n N9/1>
+ mucha
+o -ote <adj A1>
+ jakakolwiek/jakikolwiek
+oa <v V2>
+ ożenić się
+oda <n N9>
+ zamówienie
+ofisi <n N9>
+ biuro
+oga <v V1>
+ myć się; brać prysznic
+ogelea <v V1D>
+ pływać
+ogopa <v V1>
+ bać się
+omba <v V1>
+ prosić; modlić się o...
+ona <v V1>
+ patrzeć; widzieć; postrzegać, uważać
+onana <v V1W>
+ widzieć się nawzajem; postrzegać się nawzajem
+ondoa <v V2>
+ usunąć; zabrać
+ondoka <v V2K>
+ wyjechać; odejść; umrzeć
+onekana <v V1SW>
+ być widzianym
+ongeza <v V2K>
+ dołożyć, zwiększyć
+onya <v V1K>
+ ostrzegać
+onyesha <v V1K>
+ pokazywać
+onyesho <n N5>
+ scena (w sztuce); wystawa; scena (w teatrze)
+orodha <n N9>
+ lista
+orodha ya vyakula <n N9>
+ menu
+osha <v V1>
+ myć; zmywać
+ote <adj A1>
+ wszyscy
+pa <v V0>
+ dawać
+pa lifti <v V0>
+ podwieść
+paa <n N9/1>
+ gazela; antylopa
+pafu <n N5>
+ płuco
+pahala <n N16>
+ miejsce
+paka <n N9>
+ kot
+paka <v V1>
+ malować
+pakacha <n N9>
+ koszyczek
+pakua <v V2R>
+ rozładować; rozpakować
+pamoja na <adv P1>
+ razem z
+pana <adj A1>
+ szeroki
+panda <v V1>
+ wchodzic pod górę; wchodzić na / do
+pande <n N9>
+ kierunek
+panga <n N9>
+ miecz
+pangusa <v V1>
+ wycierać
+panza <v V1K>
+ wnosić do góry/pod górę
+papai <n N5>
+ papaja
+papasa <v V1>
+ dotykać
+papasi <n N9>
+ kleszcz
+pasua <v V2>
+ rozerwać
+pasuka <v V1K>
+ rwać
+paswa <v V1B>
+ musieć; być wymaganym
+pata <v V1>
+ otrzymać; znaleźć
+patana <v V1W>
+ dogadać się; pogodzić się
+patikana <v V1SW>
+ być dostępnym; być złapanym; być znalezionym
+pazia <n N5>
+ zasłona
+peke y-(adj.dzierż.) <adj A2>
+ sam
+pekua <v V2>
+ przeszukiwać
+peleka <v V1>
+ zawieść; przewieść; wysłać
+penda <v V1>
+ lubić; kochać
+pendekeza <v V1K>
+ zaproponować
+pendelea <v V1D>
+ woleć
+penseli <n N9>
+ ołówek
+pesa <n N9>
+ pieniądz/e
+pete <n N9>
+ pierścionek
+pia <adv P1>
+ także
+picha <n N9>
+ zdjęcie; obrazek
+piga deki <v V1>
+ myć podłogę
+piga hodi <v V1>
+ pukać (do drzwi)
+piga pasi <v V1>
+ prasować
+piga picha <v V1>
+ robić zdjęcia
+piga simu <v V1>
+ dzwonić (telefonem)
+piga sindano <v V1>
+ zrobić zastrzyk
+pika <v V1>
+ gotować
+pima <v V1>
+ mierzyć; ważyć
+pima joto <v V1>
+ mierzyć temperaturę
+pinda <v V1>
+ skręcić
+pinki <adj A2>
+ różowy
+pita <v V1>
+ przejść; wpaść (gdzieś lub do kogoś)
+pole <v V5>
+ ochłonąć
+pombe <n N9>
+ drink; piwo
+pona <v V1>
+ wyzdrowieć
+ponda <v V1>
+ miażdżyć; gnieść
+ponga <v V1>
+ potrącić
+pori <n N5>
+ step
+posta <n N9>
+ poczta
+potea <v V2>
+ zgubić się
+poteza <v V2K>
+ tracić; gubić
+pua <n N9>
+ nos
+pumbavu <adj A2>
+ głupi
+pumua <v V2>
+ oddychać
+pumzika <v V1>
+ odpoczywać; iść na emeryturę
+punda <n N9/1>
+ osioł
+punda milia <n N9/1>
+ zebra
+punde <n N9>
+ moment; chwila
+punga <v V1>
+ machać
+punguza <v V1K>
+ obniżyć
+pwani <n N9>
+ wybrzeże
+pya <adj A1>
+ nowy
+radhi <n N9>
+ wybaczenie
+rafiki <n N9/1>
+ przyjaciel
+rahisi <adj A2>
+ tani; łatwy; prosty
+rais <n N5/1>
+ prezydent; przewodniczący, prezes
+ramani <n N9>
+ mapa
+rangi <n N9>
+ kolor
+rasmi <adj A2>
+ oficjalny
+redio <n N9>
+ radio
+rejesta <n N9>
+ polecony (list)
+rekebisha <v V1>
+ wyregulować; naprawić; uzupełnić
+resheni <n N9>
+ przydział
+risasi <n N9>
+ grafit
+robo <n N9>
+ kwadrans
+roho <n N9>
+ dusza; duch
+rudi <v V3>
+ wracać
+rudia <n V1D>
+ powtarzać; zawracać
+ruhusa <v V1>
+ pozwolić
+ruhusu <v V4>
+ pozwolić
+ruka <v V1>
+ latać; skakać
+saa <n N9>
+ godzina; zegarek
+sababisha <v V1>
+ powodować
+sabini <num>
+ 70
+sabuni <n N9>
+ mydło
+safari <n N9>
+ podróż
+safi <adj A2>
+ czysty
+safiri <v V3>
+ podróżować
+safisha <v V1>
+ czyścić; sprzątać
+sahani <n N9>
+ talerz
+sahau <v V4>
+ zapomnieć
+sahihi <adj A2>
+ właściwy; poprawny; prawdziwy
+salaam <n N9>
+ pozdrowienie
+salale <interj>
+ o Boże!
+salama <adj A2>
+ spokojny
+salamu <n N9>
+ pozdrowienie
+sali <v V1>
+ modlić się
+salimia <v V4D>
+ pozdrowić
+salimu <v V4>
+ powitać, pozdrowić; ocalić; poddać się
+samahani <interj>
+ przepraszam
+samaki <n N9>
+ ryba
+samawati <n N9>
+ niebo
+sambusa <n N9>
+ pieróg
+sana <adv P1>
+ bardzo
+sanaa <n N9>
+ sztuka
+sanamu <n N9>
+ rzeźba; posąg
+sare <n N9>
+ mundurek
+sarufi <n N9>
+ gramatyka
+sasa <adv P1>
+ teraz
+sasa hivi <adv P1>
+ natychmiast; od zaraz
+sauti <n N9>
+ głos
+sawa <adj A2>
+ równy; w porządku
+sawa sawa <interj>
+ równa się
+sayansi <n N9>
+ nauka ścisła
+sehemu <n N9>
+ część
+sekunde <n N9>
+ sekunda
+sema <v V1>
+ mówić
+serikali <n N9>
+ rząd
+seyfu <n N9>
+ miecz
+shairi <n N5>
+ wiersz
+shaka <n N5>
+ wątpliwość
+shamba <n N6>
+ wieś; pole
+shanga <n N5>
+ paciorki
+sharti <adv P1>
+ jest konieczne; trzeba
+shati <n N5>
+ koszula; bluzka
+shehena <n N9>
+ ładunek
+shemeji <n N9/1>
+ szwagier, szwagierka
+sherehe <n N9>
+ święto
+sherehekea <v V2>
+ świętować
+shiba <v V1>
+ najeść się, być sytym
+shibe <n N5>
+ sytość
+shida <n N5>
+ kłopot, problem
+shika <v V1>
+ trzymać
+shimo <n N5>
+ dziura
+shinda <v V1>
+ pokonać, wygrywać
+shingo <n N9>
+ szyja
+shirika <n N9>
+ spółka; przedsiębiorstwo
+shona <v V1>
+ szyć
+shtuka <v V1>
+ zaskoczyć się; przerazić się; wzdrygnąć się
+shujaa <n N5/1>
+ bohater
+shuka <n N5>
+ prześcieradło
+shuka <v V1>
+ schodzić
+shukuru <v V4>
+ dziękować; być wdzięcznym
+shule <n N9>
+ szkoła
+shule ya chini <n N9>
+ szkoła podstawowa
+shule ya msingi <n N9>
+ szkoła podstawowa
+shule ya sekondari <n N9>
+ liceum
+shusha <v V1K>
+ wysadzić; sprawić by ktoś wyszedł
+siafu <n N9/1>
+ mrówka
+siagi <n N9>
+ masło
+siasa <n N9>
+ polityka
+sidiria <n N9>
+ stanik
+sifuri <n N9>
+ zero
+sigara <n N9>
+ papieros
+sikia <v V1D>
+ słyszeć
+sikiliza <v V2K>
+ słyszeć
+sikio <n N5>
+ ucho
+sikitika <v V1>
+ żałować
+siku <n N9>
+ dzień
+siku zote <adv P2>
+ zawsze
+simama <v V1>
+ stać
+simba <n N9/1>
+ lew
+simba wa bara hindi <n N9/1>
+ tygrys
+simu <n N9>
+ telegram; telefon
+simu ya mkononi <n N9>
+ telefon komórkowy
+sindano <n N9>
+ zastrzyk
+sindikiza <v V1>
+ towarzyszyć; odprowadzać
+sinema <n N9>
+ kino
+siri <n N9>
+ sekret
+sisi <pron PN>
+ my
+sita <v V1>
+ wahać się
+sitini <num>
+ 60
+siyo <adv P1>
+ nie
+skafu <n N9>
+ szalik
+sketi <n N9>
+ spódnica
+soko <n N5>
+ targ
+soksi <n N9>
+ skarpetki
+soma <v V1>
+ uczyć się; czytać
+somesha <v V1K>
+ uczyć kogoś
+somo <n N5>
+ lekcja
+songa mbele <v V1>
+ iść naprzód
+staajabu <v V4>
+ zadziwiać
+stakabadhi <n N9>
+ rachunek; pokwitowanie
+starehe <n N9>
+ rozrywka
+stempu <n N9>
+ znaczek
+stesheni <n N9>
+ stacja
+stimu <n N9>
+ elektryczność
+stovu <n N9>
+ kuchenka
+subiri <v V3>
+ oczekiwać; czekać cierpliwie
+sufuri <n N9>
+ zero
+sufuria <n N9>
+ garnek (metalowy)
+sukari <n N9>
+ cukier
+sukuma <v V1>
+ prowadzić
+sulubu <v V4>
+ prześladować
+sumbua <v V2>
+ męczyć
+sumu <n N9>
+ trucizna
+sungura <n N9/1>
+ zając; królik
+sura <n N9>
+ wygląd; twarz
+suruali <n N9>
+ spodnie
+suti <n N9>
+ garnitur
+swahiba <n N5>
+ przyjaciel
+swali <n N5>
+ pytanie
+sweta <n N9>
+ sweter
+taa <n N9>
+ lampa
+taa za stimu <n N9>
+ światło elektryczne
+taabani <adj A2>
+ wyczerpany
+taaluma <n N9>
+ nauka; kształcenie
+taarifa <n N9>
+ informacja
+tabasamu <v V4>
+ uśmiechać się
+tabibu <n N5/1>
+ lekarz
+tabu <n N9>
+ kłopot, problem
+tafauti <n N9>
+ różnica
+tafrija <n N9>
+ impreza; przyjęcie
+tafuta <v V1>
+ szukać
+tahadhari <v V3>
+ być ostrożnym
+taifa <n N9>
+ naród
+tajiri <adj A2>
+ bogaty
+tajiri <n N9/1>
+ bogacz
+taka <v V1>
+ chcieć
+tatizo <n N5>
+ kłopot, problem
+tamaa <n N9>
+ chęć
+tambua <v V2>
+ zorientować się
+tamu <adj A1>
+ słodki; smaczny
+tanga <v V1>
+ chodzić bez celu
+tangaza <v V1>
+ ogłosić
+tangu <conj>
+ od
+tangulia <v V2>
+ iść przodem
+tarakimu <n N9>
+ cyfra
+tarehe <n N9>
+ data
+tatua <v V1R>
+ rozwiązać problem
+tawa <adj A1>
+ pobożny; święty
+tazama <v V1>
+ oglądać
+tega <v V1>
+ zastawiać pułapki
+tegua <v V1R>
+ uwalniać z pułapki
+tele <adv P1>
+ wiele; dużo
+teleza <v V1>
+ ślizgać się; pośliznąć się
+tembea <v V2>
+ spacerować
+tembelea <v V2D>
+ odwiedzić
+tembo <n N9/1>
+ słoń
+tena <conj>
+ poza tym; jeszcze; znowu
+tende <n N5>
+ daktyl
+tengeneza <v V1>
+ przygotować
+teremka <v V1>
+ schodzić
+teso <n N5>
+ grzech
+tetemeka <v V1>
+ trząść się
+thelathini <num>
+ 30
+theluji <n N9>
+ śnieg
+themanini <num>
+ 80
+thiata <n N9>
+ teatr
+tia <v V2>
+ nalać; położyć; wkładać
+timiza <v V1>
+ wypełniać
+tisha <v V1>
+ przerażać; przestraszać
+tisini <num>
+ 90
+toa <v V2>
+ układać; wykładać, wyjmować; odejmować
+toa damu <v V2>
+ pobrać krew
+toa oda <v V2>
+ składać zamówienie
+tofali <n N5>
+ cegła
+tofauti <n N9>
+ różnica
+toka <v V1>
+ iść skądś; wychodzić; pochodzić
+tokea <v V1D>
+ zdarzyć się; pojawić się
+toroka <v V1>
+ uciec
+tosha <v V1>
+ wystarczać
+toweka <v V1>
+ zniknąć; zaginąć
+tua <v V2>
+ wylądować
+tuama <v V1>
+ osiąść
+tufaa <n N5>
+ jabłko
+tukana <v V1W>
+ obrażać się
+tuliza <v V2K>
+ uspokoić się; zatrzymać (np. wzrok)
+tuma <v V1>
+ wysyłać
+tumaini <v V3>
+ mieć nadzieję; spodziewać się
+tumbo <n N5>
+ brzuch
+tumia <v V2>
+ używać; stosować
+tumika <v V1S>
+ być używanym
+tumikia <v V2SD>
+ służyć komuś
+tunda <n N5>
+ owoc
+tundu <adj A1>
+ uparty; zuchwały
+tundu <n N5>
+ dziura; gniazdo
+tunza <v V1>
+ opiekować się; troszczyć się
+tupa <v V1>
+ rzucać
+tuta <n N5>
+ grządka
+twiga <n N9/1>
+ żyrafa
+ua <n N5>
+ kwiat
+ua <v V2>
+ zabijać
+ubalozi <n N11/14>
+ ambasada
+ubao <n N11/14>
+ deska; tablica
+ubishi <n N11/14>
+ spór; kłótnia
+uchumi <n N11/14>
+ ekonomia
+uchumi <n N11/14>
+ handel; ekonomia
+udevu <n N11/14>
+ włos z brody
+udhi <v V3>
+ urazić; zranić
+udongo <n N11/14>
+ glina
+ufa <n N11/14>
+ dziura
+ufagio <n N11/14>
+ szczotka
+ufunguo <n N11/14>
+ klucz
+ufupi <n N11/14>
+ skrót; krótkość
+ufupisho <n N11/14>
+ streszczenie
+ugali <n N11/14>
+ gęsta kaszka
+ugawaji <n N11/14>
+ dystrybucja
+ugonjwa <n N11/14>
+ choroba
+uhuru <n N11/14>
+ wolność
+uhusiano <n N11/14>
+ stosunek; relacja; związek
+ujamaa <n N11/14>
+ wspólnota; socjalizm
+ujasiri <n N11/14>
+ odwaga
+uji <n N11/14>
+ rzadka kaszka
+ukarimu <n N11/14>
+ grzeczność; szacunek
+ukubwa <n N11/14>
+ wielkość
+ukucha <n N11/14>
+ paznokieć
+ukulima <n N11/14>
+ rolnictwo
+ukurasa <n N11/14>
+ strona; numer strony
+ukuta <n N11/14>
+ ściana
+Ulaya <n N11/14>
+ Europa
+ulimwengu <n N11/14>
+ świat
+uliza <v V1>
+ pytać
+ulizana hali <v V1W>
+ pytać się nawzajem o zdrowie
+uma <v V1>
+ ugryźć; boleć
+uma <n N11/14>
+ widelec
+umande <n N11/14>
+ mgła
+umaskini <n N11/14>
+ bieda
+umbali <n N11/14>
+ odległość
+umbo <n N11/14>
+ kształt; postać
+umbu <n N9/1>
+ brat kobiety; siostra mężczyzny
+umeme <n N11/14>
+ elektryczność
+umoja <n N11/14>
+ jedność
+umri <n N11/14>
+ wiek
+unga <n N11/14>
+ mąka; kokaina, heroina
+ungamana <v V1SW>
+ połączyć się
+unganisha <v V1K>
+ połączyć
+Unguja <n N11/14>
+ Zanzibar
+unyenyekevu <n N11/14>
+ skromność
+unyevunyevu <n N11/14>
+ wilgotność
+unywele <n N11/14>
+ włos
+upande <n N11/14>
+ strona; część
+upepo <n N11/14>
+ wiatr
+upesi <adv P1>
+ szybko
+urefu <n N11/14>
+ długość
+usaha <n N11/14>
+ ropa
+ushindi <n N11/14>
+ zwycięstwo
+usiku <n N9>
+ noc
+usiku wa manane <n N9>
+ pora między godziną 24.00 a 3.00; środek nocy
+usingizi <n N9>
+ senność
+uso <n N11/14>
+ twarz
+ustawi <n N11/14>
+ dobro
+utajiri <n N11/14>
+ bogactwo; skarb
+uthibitisho <n N11/14>
+ pewność; przekonanie; dowód
+utu <n N11/14>
+ człowieczeństwo
+utungaji <n N11/14>
+ wypracowanie
+uuzaji <n N11/14>
+ sklep
+uvumilivu <n N11/14>
+ tolerancja; cierpliwość
+uza <v V1>
+ sprzedawać
+uzima <n N11/14>
+ zdrowie
+uzuri <n N11/14>
+ piękno
+vaa <v V2>
+ ubrać się
+vagi <n N9>
+ brzuch
+vazi <n N9>
+ ubrania
+vibaya <adv P1>
+ źle
+vilevile <conj>
+ też; tak samo
+vimba <v V1>
+ puchnąć
+vinywaji vikali <n N8>
+ mocne alkohole
+vita <n N9>
+ wojna
+vivu <adj A1>
+ leniwy
+vua <v V2>
+ łowić; rozbierać
+vuka <v V1>
+ przekroczyć
+vuka <v V1>
+ minąć
+vumbi <n N9>
+ kurz
+vunja <v V1>
+ złamać
+vunjika <v V1S>
+ rozbić się
+vurugika <v V1>
+ być pomieszanym
+vuta <v V1>
+ palić (papierosy); ciągnąć
+vyombo <n N8>
+ środki
+wa <v V0>
+ być
+wa na <v V0>
+ mieć
+wahi <v V3>
+ zdążyć; mieć okazję
+waka <v V1>
+ palić się
+wakati <n N11/14>
+ czas
+wala <conj>
+ ani
+wali <n N11/14>
+ gotowany ryż
+wao <pron PN>
+ oni
+wapi <adv P1>
+ gdzie
+waridi <n N9>
+ róża
+washa <v V1K>
+ zapalać
+wasiwasi <n N9>
+ niepokój
+wastani <adj A2>
+ przeciętny
+waza <v V1>
+ myśleć
+wazi <adj A2>
+ otwarty; wolny, pusty; oczywisty
+wazimu <n N11/14>
+ szaleństwo
+waziri <n N5/1>
+ minister
+wazo <n N5>
+ myśl; pogląd
+weka <v V1>
+ położyć; postawić
+wewe <pron PN>
+ ty
+weza <v V1>
+ móc
+wezekana <v V1SW>
+ być możliwym
+wia radhi <v V0D>
+ wybaczyć
+wifi <n N9/1>
+ szwagierka
+wiki <n N9>
+ tydzień
+wimbo <n N11/14>
+ piosenka
+winda <v V1>
+ polować
+wino <n N11/14>
+ atrament
+wizara <n N11/14>
+ ministerstwo
+yaani <conj>
+ to znaczy
+yai <n N5>
+ jajko
+yakhe <n N9/1>
+ brat (zwrot do dobrego znajomego)
+yeye <pron PN>
+ on, ona, ono
+yeyuka <v V1>
+ rozpuścić się; roztopić się
+yumba <v V1>
+ chwiać się; wahać się
+zabibu <n N9>
+ winogrona
+zaburi <n N9>
+ psalm
+zamani <adv P1>
+ kiedyś; dawno
+zambarau <n N9>
+ śliwka
+zamu <n N9>
+ zmiana
+zawadi <n N9>
+ prezent
+zero <n N9>
+ zero
+ziara <n N5>
+ wizyta
+ziba <v V1>
+ zatkać; zamknąć
+zidi <v V3>
+ powiększać, zwiększać; kontynuować
+zidisha <v V3K>
+ zwiększać; mnożyć
+zika <v V1>
+ grzebać
+zima <adj A1>
+ cały
+zima taa <v V1>
+ zgasić światło
+zindua <v V2>
+ ocknąć się; zbudzić się
+zito <adj A1>
+ ciężki
+ziwa <n N5>
+ jezioro
+zizi <n N5>
+ obora
+zoea <v V2>
+ przyzwyczaić się
+zoezi <n N5>
+ ćwiczenie
+zua <v V2>
+ dziurawić
+zuia <v V2>
+ przeszkadzać
+zulia <n N5>
+ dywan
+zungumza <v V1>
+ rozmawiać
+zuri <adj A1>
+ ładny; dobry
+zuru <v V4>
+ odwiedzić
+ abcdefghijklmnoprstuvwyzż

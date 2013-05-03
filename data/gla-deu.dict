@@ -1,0 +1,591 @@
+
+00-database-dictfmt-1.10.11
+Scottish Gaelic-German FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.1.1
+Size: about 260 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version. This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version. This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details. You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: gla-deu.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This Database was generated from Ergane.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-21 that was rolled back due to
+   Ergane's cryptic change of database licensing. Renamed "Gaelic" (there
+   is no "Gaelic" as such, other than a language family) to "Scottish
+   Gaelic". Renamed the database from "sco-deu" to "gla-deu".
+ * 2005-07-19 Michael Bunk:
+   Following Debian Bug#318025, retitled the dictionary from
+   'Scottish-German' to 'Gaelic-German'.
+ * 2005-02-12 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-30 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+Scottish Gaelic-German FreeDict Dictionary ver. 0.1.1
+
+Albannach
+ Schotte
+Beurla
+ Englisch; englische Sprache
+Bìobull
+ Bibel
+Di‐Màirt
+ Dienstag
+Di‐luain
+ Montag
+Glaschu
+ Glasgow
+Sasunnach
+ Engländer
+a
+ daß
+abaich
+ reif
+abhainn
+ Fluß
+acair
+ Anker
+ach
+ aber; allein; dagegen; sondern
+ad
+ Hut
+adhar
+ Himmel
+agus
+ und
+aig
+ an; bei; neben
+aimsir
+ Wetter; Witterung
+ainm
+ Name
+air
+ an; auf
+airgead
+ Geld
+am
+ Zeit
+an
+ das; der; die
+anns
+ in; nach; pro; zu
+an diugh
+ heute
+an dé
+ gestern
+aodann
+ Angesicht; Antlitz; Gesicht
+aon
+ ein; eine; eins
+aran
+ Brot
+arm
+ Armee; Heer
+a nis
+ jetzt; gegenwärtig; nun
+baile
+ Ort; Stadt
+bainne
+ Milch
+balla
+ Mauer; Wand
+beag
+ gering; klein
+bean
+ Frau; Gemahlin
+beannachd leat
+ adieu; aufWiedersehen; lebewohl
+beannachd leibh
+ adieu; aufWiedersehen; lebewohl
+beinn
+ Berg
+biadh
+ Gericht; Speise
+blas
+ Geschmack
+bliadhna
+ Jahr
+blàth
+ warm
+bocsa
+ Büchse; Schachtel
+boireannach
+ Frau; Weib
+botul
+ Flasche
+bradan
+ Lachs; Salm
+braec
+ Forelle
+bras
+ geschwind; hurtig; rasch; schnell
+briogais
+ Beinkleid; Hose
+bràthair
+ Bruder
+bròg
+ Schuh
+bó
+ Kuh
+bàn
+ blond
+bàrdachd
+ Gedicht; Poem
+bàta
+ Boot
+bòidheach
+ hübsch
+bòrd
+ Tisch
+bùth
+ Butike; Geschäft; Kramladen; Laden
+cadal
+ Schlaf
+caileag
+ Dirne; Mädchen
+caisteal
+ Burg; Kastell; Schloß
+cala
+ Hafen
+caoraich
+ Hammel; Schaf
+cat
+ Katze
+cathair
+ Stuhl
+cearc
+ Henne
+ceist
+ Frage
+ceithir
+ vier
+ceàrr
+ falsch; irrig
+ceòl
+ Musik
+ciamar?
+ wieso?
+ciste
+ Kasten; Kiste; Truhe
+clachan
+ Dorf; Ort
+cluas
+ Ohr
+cnoc
+ Halde; Hügel
+comhairle
+ Rat; Ratschlag
+crann
+ Mast
+craobh
+ Baum
+creag
+ Fels; Felsen; Steinmasse
+cròic
+ Geweih
+cuan
+ Ozean; Weltmeer
+cuideachd
+ auch; ebenfalls; gleichfalls
+cuileag
+ Fliege
+cunnart
+ Gefahr
+cupa
+ Tasse
+cóig
+ fünf
+càise
+ Käse
+càr
+ Auto
+cìr
+ Kamm
+còmhradh
+ Gespräch; Konversation; Unterhaltung
+còta
+ Mantel; Paletot; Überrock; Überzieher
+cù
+ Hund
+dath
+ Farbe
+dearg
+ rot
+deich
+ zehn
+diallaid
+ Sattel
+doirbh
+ schwer
+domhain
+ tief
+donn
+ braun
+dorus
+ Tür
+dubh
+ schwarz
+duine
+ Mann
+dà
+ zwei
+dòchas
+ Hoffnung
+dòrn
+ Faust
+dùthaich
+ Land
+e
+ 1. er; ihm; ihn; seiner
+ 2. es; ihm
+each
+ Gaul; Pferd
+eadar
+ unter; mittenunter; zwischen
+eaglais
+ Kirche
+eallach
+ Belastung; Bürde; Fuhre; Ladung; Last
+earball
+ Bürzel; Fahne; Lunte; Rute; Schleppe; Schwanz; Schweif; Sterz; Wedel
+earrach
+ Frühjahr; Frühling; Lenz
+eilean
+ Eiland; Insel
+eun
+ Vogel
+facal
+ Vokabel; Wort
+fada
+ lang
+fairge
+ Meer; See
+fann
+ flau; gelinde; schwach
+feòil
+ Fleisch
+fiadh
+ Hirsch
+fiodh
+ Holz
+fitheach
+ Rabe
+fliuch
+ naß
+freagairt
+ Antwort
+fuachd
+ Kälte
+fìon
+ Wein
+fìrinn
+ 1. Wahrheit
+ 2. Wahrheit
+gaoth
+ Wind
+gas
+ Gas
+gealach
+ Mond
+gille
+ Junge; Knabe
+glic
+ gescheit; klug; weise
+gloine
+ Glas
+glé
+ sehr
+glùn
+ Knie
+gnùis
+ Angesicht; Antlitz; Gesicht
+gorm
+ blau
+gruaidh
+ Backe; Wange
+gunna
+ Büchse; Flinte; Schießgewehr
+gus
+ bis
+gu leòr
+ genug; genügend; hinlänglich; ziemlich
+gàradh
+ Anlage; Garten
+i
+ 1. es; ihm
+ 2. die; ihr; ihrer; sie
+iarann
+ Eisen
+iarmailt
+ Himmel
+iasg
+ Fisch
+innis
+ 1. Anger; Aue; Wiese
+ 2. Senne; Trift; Weide; Wiese
+iolair
+ Adler
+is
+ und
+iuchair
+ Schlüssel
+lagh
+ Gesetz
+latha
+ Tag
+leabhar
+ Buch
+leasan
+ Lehraufgabe; Lektion; Unterrichtsstunde
+litir
+ Brief
+loch
+ See
+long
+ Schiff
+luath
+ geschwind; hurtig; rasch; schnell
+làir
+ Stute
+làmh
+ Hand
+làn
+ voll
+làr
+ Boden; Diele; Dielung; Fußboden
+lìon
+ Garn; Netz
+ma
+ falls; insofern; wenn; wofern
+mac
+ Sohn
+madainn
+ Frühe; Morgen
+mas e bhur toil e
+ bitte
+math
+ gut; gütig
+meanglan
+ Ast; Zweig
+mil
+ Honig
+mionaid
+ Minute
+muc
+ Schwein
+muir
+ Meer; See
+mór
+ groß
+màthair
+ Mutter
+naoi
+ neun
+nathair
+ Schlange
+nead
+ Horst; Nest
+neul
+ Wolke
+obair
+ Arbeit
+ochd
+ acht
+oibriche
+ Arbeiter
+oidhche
+ Nacht
+ola
+ Öl
+orainsear
+ Apfelsine; Orange; Pomeranze
+paipear
+ Papier
+peansail
+ Bleistift; Crayon
+pian
+ Schmerz; Weh
+piuthar
+ Schwester
+prìs
+ Preis
+pàirc
+ Park
+pìob
+ Pfeife
+rathad
+ Bahn; Chaussee; Strecke; Weg
+rudeigin
+ etwas; irgendetwas; irgendwas
+saighdear
+ Soldat
+salach
+ unlauter
+salann
+ Salz
+samhradh
+ Sommer
+saoghal
+ Welt
+saothrach
+ Arbeit
+seachd
+ sieben
+seachdain
+ Woche
+sealgair
+ Jäger; Weidmann
+sean
+ alt; bejahrt; betagt
+seanair
+ Großvater
+searbhadair
+ Handtuch
+seòl
+ Segel
+seòmar
+ Gemach; Stube; Zimmer
+sgeulachd
+ Erzählung; Geschichte
+sgian
+ Messer
+sgiath
+ Fittich; Flügel
+sgillinn
+ Penny
+sgoil
+ Schule
+sgìth
+ matt; müde
+sia
+ sechs
+sinn
+ uns; unser; wir
+sionnach
+ Fuchs
+siùcar
+ Zucker
+soirbh
+ geläufig; leicht; mühelos; nichtschwierig
+solus
+ Licht
+spàin
+ Löffel
+sràid
+ Straße
+sròn
+ Nase
+stèsean
+ Bahnhof
+sàil
+ Ferse; Hacke
+sàsar
+ Untertasse
+sìde
+ Wetter; Witterung
+sìol
+ Same
+sìth
+ Friede
+sùgh
+ 1. Saft
+ 2. Suppe
+sùil
+ Auge
+tapadh leibh
+ danke
+tarag
+ Nagel; Stift
+tarbh
+ Stier
+teine
+ Feuer
+teth
+ heiß
+tràigh
+ Strand
+trì
+ drei
+tuagh
+ Axt; Beil; Hacke
+turus
+ Reise; Tour
+tàillear
+ Schneider
+tì
+ Tee
+tìr
+ Boden; Erdboden; Erde; Grund; Land; Terrain
+uaine
+ grün
+uan
+ Lamm
+ubhal
+ Apfel
+uisge
+ 1. Wasser
+ 2. Regen
+àite
+ 1. Anstalt; Gelaß; Ort; Platz; Stelle
+ 2. Fleck; Ort; Platz; Stätte; Stelle; Terrain
+àrd
+ erhaben; hoch
+ìm
+ Butter
+òg
+ jugendlich; jung
+òganach
+ Jüngling
+òr
+ Gold
+òran
+ Gesang; Lied
+òrd
+ Hammer
+òrdag
+ Daumen
+ìpghrisabècùétàulòmdóe fno

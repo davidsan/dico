@@ -1,0 +1,2080 @@
+
+00-database-dictfmt-1.10.11
+Khasi - German FreeDict Dictionary
+
+Maintainer: Michael Bunk <micha@luetzschena.de>
+
+Edition: 0.1.2
+Size: about 1000 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version. This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version. This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details. You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: kha-deu.tei 1080 2010-12-11 15:48:27Z bansp $
+
+Series: free dictionaries
+
+Notes:
+
+ * Thanks go to the supporters of this project: Karl-Heinz Grüßner,
+   University of Tübingen; Rebekah Tham, CIEFL, Shillong; Brother Sngi,
+   Sacred Heart College, Shillong; University of Leipzig, Depts of
+   Indology and Computer Science; Rik Faith for dictd server & protocol;
+   TEI for their wonderful guidelines; Horst Eyermann for his generous
+   freedict project; the open source community: thrust for trust &
+   development
+
+
+Source(s):
+
+  Home: http://freedict.org/ [http://freedict.org/]
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+nvimitfmfmnID# (iso639-3): kha
+KhasiKhasiKhasiID# (iso639-1): de
+ID# (iso639-3): deu
+???DeutschGermanChangelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-12-11 Piotr Bański:
+   added the langUsage, added xml:lang where appropriate.
+ * 2010-11-08 Piotr Bański:
+   added the FreeDict ontology interface plugin and commented it. Going
+   to use it as an example at the coming TEI-MM. Added soft links to P5
+   stuff.
+ * 2010-10-30 Piotr Bański:
+   Conversion of TEI P4 source into P5 via
+   tools/xsl/freedict_P4toP5.xsl; manual clean-up. There are some brackets
+   in <orth> and <quote> waiting to be handled.
+ * 2005-Nov-24 Michael Bunk:
+   Note that this version is quite final. I concentrate on the
+   Khasi-English dictionary now.
+ * 2003-05-01 Michael Bunk:
+   Updated some things in XML header information
+ * 2002-02-18 Michael Bunk:
+   First Draft
+ * before February 2002 Karl-Heinz Grüßner:
+   compilation of wordlists
+Khasi - German FreeDict Dictionary ver. 0.1.2
+http://freedict.org/
+nep, blanket <n, f>
+ Decke <f>
+adong <v>
+ verboten sein
+ai <v>
+ geben
+ai ding <v>
+ Feuer machen
+ai i-syn-ei <v>
+ Almosen geben
+ai khublei <v>
+ jn grüssen
+ai kylliang <v>
+ ausleihen
+ai kyrteng <v>
+ benennen; Namen geben
+ai nguh <v>
+ danken
+ai noh <v>
+ 1. weggeben
+ 2. statt x, gib mir y
+ai sboh <v>
+ düngen; Dünger geben
+ai shuti <v>
+ Urlaub gewähren
+ai tika <v>
+ impfen
+ai wai <v>
+ vermieten
+aiti <v>
+ übergeben
+alhia <v>
+ untätig sein; faul sein
+almari <n, f>
+ Schrank <m>
+almari buh jain <n, m>
+ Kleiderschrank <m>
+ang nud <v>
+ sehnen nach; sich wünschen; begierig sein
+ang <v>
+ offen stehen
+anna <v>
+ dumm sein; geistig zurückgeblieben sein
+ap <v>
+ warten; bewachen; aufpassen
+at <v>
+ anschwellen
+ata <n, m>
+ Roggenmehl <n>
+bah <v>
+ tragen (Kind auf dem Rücken)
+baje (peit por) <n, f>
+ Uhr <f>
+baje iing <n, f>
+ Klingel <f>
+bakla <v>
+ verkehrt sein
+bam da <v>
+ leben von
+bam hynroh ka sngi <v>
+ Sonnenfinsternis sn
+bam hynroh u bnai <v>
+ Mondfinsternis sn
+bam lut <v>
+ aufessen
+bam <v>
+ essen
+bang <v>
+ schmecken
+banian <n, f>
+ Unterhemd <n>
+bat <v>
+ etwas halten; festhalten; ergreifen
+batai <v>
+ erklären
+beh noh <v>
+ 1. fliehen
+ 2. folgen; streben
+beh <v>
+ vertreiben; wegjagen
+behmrad <v>
+ jagen (Tiere)
+beit <v>
+ gerade sein; ehrlich sein; richtig sein
+beiñ <v>
+ herausfordern; jm trotzen
+painpoh, belt <n, m>
+ Gürtel <m>
+bet <v>
+ 1. werfen
+ 2. säen
+bha bok <v>
+ Glück haben
+bha briew <v>
+ schön sein (Person)
+bha met <v>
+ korpulent sein; gesund sein
+bha nusip <v>
+ Glück haben
+bha <v>
+ gut sein
+bhindi <n, m>
+ Okra <f>
+biang <v>
+ genug sein
+bieit <v>
+ dumm sein
+bin <n, m>
+ Bohne <f>
+bishar <v>
+ urteilen; Gericht halten
+bishni <v>
+ beneiden; eifersüchtig sein
+bitar <v>
+ böse sein
+bitor <n, m>
+ Flasche <f>
+blaws <n, f>
+ Bluse <f>
+bniah <v>
+ sorgfältig sein
+borti <n, f>
+ Eimer <m>
+bret <v>
+ werfen; schmeissen
+brut <n, m>
+ Bürste <f>
+brut sad shniuh <n, m>
+ Haarbürste <f>
+brut shut bniat <n, m>
+ Zahnbürste <f>
+bsa <v>
+ füttern
+bta <v>
+ waschen (Gesicht); beschmieren (Gesicht)
+bthah <v>
+ benachrichtigen; informieren
+bthei <v>
+ aufbrechen; ausstossen; explodieren
+buh ryntih <v>
+ ordnen
+buh <v>
+ setzen; stellen; legen; hinstellen etwas
+buhrieh <v>
+ verbergen ew
+buhteng <v>
+ verschieben
+buiñ <v>
+ säugen; Brust geben
+bun <v>
+ viel sein
+burom <v>
+ achten; respektieren
+but <n, m>
+ Stiefel <m>
+byrngut <v>
+ trübe sein
+byrsaw <v>
+ rosa sein
+da khmih <v>
+ bemerken
+da <v>
+ unterstützen
+dabor <n, f>
+ Schüssel <f>
+dai <n, m>
+ Linse <f>
+dait <v>
+ beißen; jucken; stechen
+dambit <v>
+ kleben; anhaften
+dang + V <v>
+ gerade tun; dabei sein etwas zu tun; noch tun
+dap da <v>
+ gefüllt sein mit; angefüllt sein mit
+dap ram <v>
+ verschuldet sein; Schulden haben
+dap <v>
+ voll sein
+dawa <v>
+ beanspruchen
+dei ban + V <v>
+ sollen; müssen
+dei <v>
+ 1. sein; sollen
+ 2. zufällig berühren; ertasten
+dei na kjat <v>
+ am Bein verletzt
+dem <v>
+ sich beugen
+die <v>
+ verkaufen
+dier <v>
+ spät sein
+dih <v>
+ trinken
+dih sikret <v>
+ rauchen
+dkoh <v>
+ lahm sein
+doh <n, f>
+ Fleisch <n>
+doh blang <n, f>
+ Ziegenfleisch <n>
+doh langbrot <n, f>
+ Lammfleisch <n>
+doh masi <n, f>
+ Rindfleisch <n>
+doh sniang <n, f>
+ Schweinefleisch
+doh syiar <n, f>
+ Hühnerfleisch <n>
+dohkha <n, f>
+ Fisch <m>
+dom klet, klet bieit <v>
+ dauernd vergessen; vergesslich sein
+don akor <v>
+ höflich sein
+don kyrhai <v>
+ Überfluß haben
+don lad <v>
+ Gelegenheit haben
+don <v>
+ haben; sein (an einem Ort); existieren
+donbok <v>
+ Glück haben
+donkam <v>
+ nötig haben; brauchen
+dro <n, f>
+ Schublade <f>
+dud <n, m>
+ Milch <f>
+duh <v>
+ zu Ende sein; letzte sein; verloren gehen
+dum <v>
+ dunkel sn
+dumok <v>
+ schelten
+duna <v>
+ weniger sein; wenig haben
+dung <v>
+ durchstossen
+duwai <v>
+ beten
+eh (nach dem V)
+ sehr
+eh <v>
+ schwierig sein
+eit <v>
+ Stuhlgang haben; scheissen
+hap <v>
+ fallen
+heh <v>
+ groß sein
+her <v>
+ fliegen
+hiar <v>
+ herabsteigen; aussteigen (Bus)
+hikai tynrai <v>
+ indoktrinieren
+hikai <v>
+ lernen; erziehen
+hok <v>
+ gerecht sein; ehrlich sein
+i beiñ <v>
+ verachten jn
+i kum <v>
+ aussehen wie
+i kynrum kynram <v>
+ unaufgeräumt sn
+i shynna <v>
+ sichtbar sn
+i <v>
+ aussehen
+iabeh <v>
+ gesellig sein; mitfühlend sein
+iabynta <v>
+ teilen mit jn
+iada na <v>
+ sich schützen vor
+iada <v>
+ beschützen
+iadei jingdei <v>
+ passen; verwandt sein
+iadei jingmut <v>
+ übereinstimmen; einer Meinung sein
+iadei <v>
+ passen; richtig sein
+iadon bynta <v>
+ teinehmen
+iahap jingmut <v>
+ interessiert sein an; die gleichen Interessen haben
+iai ong <v>
+ reden (dauernd)
+iaid <v>
+ laufen; gehen
+iaid kylleng <v>
+ umhergehen
+iaid lyngba <v>
+ überqueren
+iaid sawdong (ia) <v>
+ umkreisen
+iaioh lem <v>
+ teilen mit jn
+iaishah <v>
+ geduldig sein
+iakajia <v>
+ Streit suchen
+iakhalai <v>
+ spielen (Karten etc); zocken
+iakmen lem <v>
+ sich mitfreuen
+iakren <v>
+ reden
+iakynduh <v>
+ antreffen jn
+iakyrshan <v>
+ unterstützen
+ialam <v>
+ führen
+ialam leitkai <v>
+ ausführen jemanden
+ialang <v>
+ sammeln
+ialap <v>
+ predigen
+ialap-iariew <imit>
+ es wird gesagt
+ialeh <v>
+ kämpfen
+ialehkai <v>
+ spielen (Spiel/Fußball etc)
+ialong lok <v>
+ verkehren mit
+iam <v>
+ weinen
+iam huk <v>
+ in Tränen ausbrechen
+iam kthang <v>
+ weinen (bitterlich)
+iamynjur <v>
+ übereinstimmen
+ianeh <v>
+ gläubig sein
+iania <v>
+ sich streiten; Streit haben
+iap <v>
+ sterben
+iap jyllop <v>
+ ertrinken
+iapeiñ <v>
+ umwechseln (Geld)
+iapher <v>
+ verschieden sn
+iapli <v>
+ wechseln
+iapyrshah <v>
+ protestieren gegen; gegen etwas sein
+iar <v>
+ sich ausbreiten; verbreitet sein; weit sein; verstreut sein
+iarap <v>
+ helfen
+iarap bor <v>
+ fördern; unterstützen; helfen
+iaroh <v>
+ schmeicheln; gratulieren
+iaryntih <v>
+ diszipliniert sein
+iasaid <v>
+ diskutieren
+iashan <v>
+ unterstützen; bevorzugen
+iashem <v>
+ antreffen
+iashoh <v>
+ sich prügeln
+iasynñiang <v>
+ abonnieren
+iathuh <v>
+ erzählen etwas
+iathuhkhana <v>
+ erzählen
+iathuhlypa <v>
+ voraussagen; weissagen
+iatur <v>
+ kämpfen (Stiere); kämpfen gegen (Gefahr)
+iatur shaphrang ha <v>
+ vorwärtsschreiten in
+iatur <v>
+ sich entgegenstemmen
+iatylli <v>
+ einmütig sein
+ibit <v>
+ ordentlich sein
+iehnoh, ieh noh <v>
+ etwas aufgeben; aufgeben; ablassen von
+iehnoh shadien <v>
+ zurückbleiben
+ieid <v>
+ lieben
+ieng <v>
+ stehen
+ih <v>
+ reif sein; gekocht sein
+iing <n, f>
+ Haus <n>
+iit <n, f>
+ Glas <n>
+iit khmat <n, f>
+ Brille <f>
+ijli <v>
+ sich ekeln
+im <v>
+ leben; lebendig sein; frisch sein (Gemüse)
+imat <v>
+ scheinen als ob; anscheinend
+ioh <v>
+ erhalten; bekommen; kriegen
+ioh baibam <v>
+ Stipendium erhalten
+ioh baiongkhlieh <v>
+ Kopfweh bekommen
+ioh bam, ioh dih <v>
+ Lebensunterhalt verdienen
+ioh jingshit, ioh khieshoh <v>
+ Fieber bekommen
+ioh lad <v>
+ Gelegenheit haben; Chance bekommen
+ioh sakhlieh <v>
+ Erkältung bekommen
+ioh tnga <v>
+ Geschlechtsverkehr haben
+ioh-i <v>
+ sehen
+ioh-i shai kdar <v>
+ deutlich sehen
+iohnong <v>
+ gewinnen; Gewinn machen; Profit machen
+iohpdiang <v>
+ empfangen
+iohsngew <v>
+ hören etwas
+iohthiah <v>
+ eingeschlafen sein
+iong <v>
+ schwarz sein
+isih <v>
+ hassen; häßlich sein
+ithuh <v>
+ erkennen
+itynnad <v>
+ schön sein
+iw, iew <v>
+ riechen
+iw bih <v>
+ riechen; duften; wohlriechend sein
+iw hek <v>
+ riechen (schlecht und stark)
+iw huiñ-huiñ <v>
+ riechen (die Luft)
+iw jew <v>
+ riechen (säuerlich)
+iw jit <v>
+ riechen (schal, abgestanden)
+iw jlep <v>
+ riechen (ekelhaft); stinken (zum Erbrechen)
+iw jli <v>
+ stinken (furchtbar)
+iw jung, iw sit <v>
+ riechen (nach Urin)
+iw khong <v>
+ riechen (unangenehm, nach etwas Verbranntem); stinken
+iw kynrum <v>
+ riechen (muffig); riechen (Müllkippengeruch)
+iw lhoh <v>
+ riechen (muffig, unangenehm, Körper, Kleidung,
+			   während des Monsuns)
+iw lhop <v>
+ riechen (abgeschlossener Raum)
+iw li <v>
+ riechen (frischer Fisch)
+iw lngaw <v>
+ riechen (unbewohntes Haus)
+iw pdu <v>
+ riechen (fauler Fisch)
+iw riem <v>
+ riechen (leicht unangenehm)
+iw rieng <v>
+ riechen (Gestank, kurzer Luftzug)
+iw rim <v>
+ riechen (Gestank, ganz kurz)
+iw sat <v>
+ riechen (scharf, stechend)
+iw sieng <v>
+ riechen (stechend)
+iw sma <v>
+ riechen; Geruch haben (leichtnangnehm)
+iw syndot <v>
+ riechen (wie Wild, Fuchs etc)
+iw thiang <v>
+ riechen; duften
+iw tung <v>
+ riechen; stinken; faul riechen
+iw tung her her <v>
+ riechen; stinken (zum Himmel stinken)
+jah <v>
+ verloren gehen
+jah noh <v>
+ verschwunden sein
+jain <n, f>
+ Kleidung <f>
+jain phongthiah <n, f>
+ Nachthemd <n>
+jaipdeh <v>
+ faul sein
+jaket <n, f>
+ Jacke <f>
+jakhlia <v>
+ schmutzig sein
+janai <v>
+ vollendet sein
+jem dor <v>
+ billig (Preis)
+jemnud <v>
+ sanft sein
+jew <v>
+ sauer sein
+jhieh <v>
+ nass sein
+jhur <n, m>
+ Gemüse <n>
+jied <v>
+ wählen; auswählen
+jingjiarsha <n, f>
+ Teesieb <n>
+jingkhang iing <n, f>
+ Tür <f>
+jingplie bitor <n, m>
+ Flaschenöffner <m>
+jingplie bitor wain <n>
+ Korkenzieher <m>
+jingplie kor um <n, m>
+ Wasserhahn <m>
+jingsopkti <n, f>
+ Handschuh <m>
+jingthiah <n, f>
+ Bett <n>
+jliah <v>
+ lecken
+jlih <v>
+ glatt sein
+jlih phyrnai <v>
+ glatt sein; hübsch sein
+jlih plin plin <v>
+ glatt sein
+jngai <v>
+ entfernt sein
+jngi <v>
+ schwimmen
+jngoh <v>
+ besichtigen; gucken; nachgehen
+jop thiaw <v>
+ siegen
+jot <v>
+ zerstört sein; kaputt sein
+jrong <v>
+ lang sein
+ju + V <v>
+ pflegen zu; gewöhnlich (etwas tun)
+judon <v>
+ allgemein sein; üblich sein
+juh <v>
+ mögen; gefallen; zahm sein
+jung <v>
+ urinieren
+jur <v>
+ 1. schwierig sein
+ 2. begabt; gekonnt
+juti <n, m>
+ Schuh <m>
+jylliew <v>
+ tief sein
+jyndong <v>
+ flach sein (Wasser)
+jyrhoh <v>
+ husten
+jyrngam <v>
+ grün sein
+jyrngum <v>
+ blau sein
+jam <v>
+ laut sein; lärmen; schreiten
+kai (nach dem V) <v>
+ ohne Ziel etwas tun
+kait <n, f>
+ Banane <f>
+kajor <n, m>
+ Karotte; Möhre <f>
+kamai <v>
+ verdienen; Arbeit haben; arbeiten
+kawang <v>
+ werfen; schleudern
+kbum duma <v>
+ Tabak im Mund haben (ohne zu kauen oder zu schlucken); still sein
+kbum kop <v>
+ schweigen; still sein
+kdew <v>
+ zeigen auf; deuten auf
+kdiah <v>
+ pflücken
+kdor <v>
+ gekrümmt sein
+keiñnoh <v>
+ aufhören; genug sein
+kem <v>
+ ergreifen; fassen ewas; angreifen
+kem ding <v>
+ Feuer fangen
+kem pang <v>
+ krank werden
+ker <v>
+ umgeben sein von
+ketli <n, m>
+ Kessel <m>
+kha <v>
+ gebären
+kha pylleng <v>
+ Eier legen
+khain, khaiñ ret ret <v>
+ rauh sein
+jingkhan iit, khalki <n, f>
+ Fenster <n>
+kham + V <v>
+ mehr + V als (Komparativ)
+kham shait <v>
+ sich besser fühlen
+khang <v>
+ schließen; verbieten
+khang noh <v>
+ abschliessen
+khapnap <v>
+ selbstsüchtig sein
+khapngiah <v>
+ eng sein
+khar-khar <v>
+ rauh sein (Laut)
+khawoh <v>
+ schaufeln; aufschaufeln
+khawpud <v>
+ feige sein
+khein <v>
+ rechnen
+kheinlang <v>
+ zusammenzählen
+kheit <v>
+ pflücken
+khemdud <v>
+ melken
+khet <v>
+ fällen
+khia <v>
+ schwer sein (Last); wiegen
+khie <v>
+ sich erheben; aufstehen; aufwachsen
+khieshoh <v>
+ Fieber haben
+khih ksaid <v>
+ sich bewegen; sich rühren
+khim <v>
+ eng sein; Mangel haben
+khlad <v>
+ sich trennen; Abschied nehmen; sterben
+khlain <v>
+ stark sein
+khlain jinglong <v>
+ charakterstark sein
+khleh <v>
+ mischen
+khlem akor <v>
+ kein Benehmen haben; unhöflich sein
+khlieng <v>
+ waschen (Geschirr)
+khmih <v>
+ schauen nach
+khmih bniah <v>
+ aufpassen
+khmih lynti <v>
+ erwarten etwas
+khmih shalor <v>
+ nach oben blicken
+khoh <v>
+ schälen
+khot <v>
+ rufen jn; anrufen
+khot sngewbha <v>
+ einladen jn
+khrai <v>
+ abschneiden; abschlagen
+khreh <v>
+ vorbereiten
+khriat <v>
+ kalt sein; kühl sein
+khuid <v>
+ rein sein; heilig sein
+khun <v>
+ gebogen sein
+khwai <v>
+ angeln
+khwan <v>
+ gierig sein
+khylliap <v>
+ falten etwas
+khynñiat <v>
+ stoßen
+khyrwait <v>
+ drehen; wringen; schrauben; aufziehen (Uhr)
+khyrwait tala <v>
+ verschliessen (Tür)
+khñium <v>
+ murmeln; meckern; sich beschweren
+kiew <v>
+ klettern; einsteigen (Bus); sich erheben
+kit <v>
+ tragen (iws.: Last)
+kjit <v>
+ saugen
+klat <n, f>
+ Glas <n>
+klip pyndait shniuh <n, m>
+ Haarnadel <f>
+kloi <v>
+ früh sein; schnell sein
+kluid <v>
+ heiß sein
+kmen <v>
+ sich freuen; fröhlich sein
+koar <n, m>
+ Kragen <m>
+kohnguh <v>
+ gehorchen
+koit khiah <v>
+ gesund sein
+kongsan <v>
+ wichtig sein; am wichtigsten
+kophi <n, f>
+ Kaffee <m>
+kordor <v>
+ wertvoll sein
+kot <v>
+ erreichen
+kren <v>
+ sprechen
+kren batai <v>
+ Vortrag halten
+kren lamler <v>
+ Lügen erzählen
+kren tyng eh <v>
+ streng sprechen
+krim shut bniat <n, m>
+ Zahnpasta <f>
+ksai <n, m>
+ Faden <m>
+ksam <v>
+ kneifen; zwicken
+kshud <v>
+ ertasten
+ktha <v>
+ kauen; schmerzen; nagen
+ktha lwet <v>
+ kauen; zermalmen
+kthang <v>
+ bitter sein
+kubi <n, m>
+ Kohl <m>
+kular <v>
+ etwas versprechen
+kum ot <v>
+ schneiden (zufällig)
+kuman <v>
+ hartnäckig sein
+kut <v>
+ beendet sein
+kwah <v>
+ wünschen; wollen
+kwah ban + V <v>
+ wollen
+kyang <v>
+ schreien
+kylla <v>
+ wechseln; umdrehen
+kylli <v>
+ fragen; Fragen stellen
+kylli kyrpang kyrpang <v>
+ getrennt fragen (was bedeutet das?)
+kylliang <v>
+ umwechseln
+kyllon <v>
+ umfallen
+kylluid <v>
+ lose sein
+kyllum <v>
+ allgemein sein
+kyllut <v>
+ taub sein
+kynih <v>
+ krähen (Hahn)
+kynud <v>
+ murmeln
+kyndit <v>
+ aufschrecken; aufwachen
+kyndit thiah <v>
+ wach werden; aufwachen
+kynjah <v>
+ einsam sein
+kynjai <v>
+ glücklich sein
+kynjat <v>
+ treten jn; stossen; kicken
+kynjut <v>
+ ziehen (kurzer Schmerz); herausziehen (mit Gewalt)
+kynkaw <v>
+ schnattern (Affe)
+kynmaw <v>
+ erinnern; sich erinnern
+kynmaw bha dngong <v>
+ sich genau bewußt sein
+kynmaw dngong <v>
+ etwas feststellen; Feststellung machen
+kynrei <v>
+ viel vorhanden sein; Überfluß haben
+kynriah <v>
+ bewegen; zur Seite rutschen
+kynruh <v>
+ ausspülen (Mund)
+kynruh ktien <v>
+ Mund spülen
+kynrup <v>
+ sich stürzen auf jn
+kynrup kynsan kynsan <v>
+ überrascht werden
+kynshew <v>
+ sparen
+kyntait <v>
+ ablehnen; verweigern
+kyntang <v>
+ geheiligt sein; geweiht sein
+kynthah <v>
+ stechen (Biene)
+kynthah sikret <v>
+ anzünden (Zigarette)
+kynthup <v>
+ bestehen aus; umfassen (Inhalt); beinhalten
+kyntiew <v>
+ hochheben
+kyntu <v>
+ inständig bitten; drängen etwas zu tun
+kyrduh <v>
+ nötig haben; ermangeln
+kyrhuh <v>
+ röhren (Hirsch)
+kyrkieh <v>
+ Eile haben; sich beeilen
+kyrmen <v>
+ hoffen
+kyrngah <v>
+ verneinen; schütteln (Kopf zur Ablehnung)
+kyrpad <v>
+ erbitten
+kyrpang <v>
+ besonders sein
+kyrshan <v>
+ unterstützen
+kyrshut <v>
+ bürsten
+kyrteng <v>
+ benennen; heißen
+lah <v>
+ fähig sein
+lah ban + V <v>
+ können
+lait <v>
+ frei sein; frei kommen; entkommen
+lait na <v>
+ etwas loswerden
+laitluit <v>
+ unabhängig sein
+lalot <v>
+ gierig sein
+lamler <v>
+ lügen
+lamwir <v>
+ verrückt sein
+lap <v>
+ stoßen auf; finden; antreffen; herausfinden
+lap <v>
+ bekommen (Bus/Zug)
+law <v>
+ ausziehen; lösen
+law noh <v>
+ etwas abnehmen
+leh <v>
+ tun
+leh adkar <v>
+ Mäßigung üben
+leh bymdei <v>
+ Unerlaubtes tun
+leh nohei <v>
+ umsonst tun
+leh palat <v>
+ zu weit gehen (Benehmen)
+leh palat pyrshah <v>
+ übertreten (Gesetz/Regel)
+leh sbun <v>
+ Gefallen tun
+leh shukor <v>
+ betrügen jn
+leh tyng eh <v>
+ streng handeln
+lehrain <v>
+ scheu sein
+leit <v>
+ gehen
+leit noh <v>
+ weggehen
+leit phai <v>
+ zurückkehren
+leit rah <v>
+ mitnehmen
+leitkai <v>
+ spazieren gehen
+lieh <v>
+ weiß sein
+lip <v>
+ ausgehen (Licht); entfärbt sein; verblühen
+lit <v>
+ schärfen; spitzen (Bleistift)
+loit, loit noh <v>
+ ausziehen (Kleidung)
+long <v>
+ sein
+long leh nohei <v>
+ nutzlos sein
+long sarew <v>
+ narbig sein
+lui-lui <v>
+ sanft sein
+luiñ <v>
+ dumm sein
+lum <v>
+ einsammeln; aufsammeln
+lum lang <v>
+ zusammenbringen; versammeln
+lur <v>
+ pflügen
+lusha <v>
+ neugierig sein; seine Nase in etwas stecken
+lushia <v>
+ unartig
+lyngkot <v>
+ kurz sein
+lyngngoh <v>
+ überrascht sein
+lynsher <v>
+ einpflanzen
+lynñiar <v>
+ schreien
+madan <v>
+ flach sein (Boden); eben sn
+maham <v>
+ warnen
+mai dumok <v>
+ schimpfen mit
+mai sneng <v>
+ schelten
+makhon <n, f>
+ Butter <f>
+mana <v>
+ verboten sein
+manbha <v>
+ zurecht kommen
+map <v>
+ verzeihen; entschuldigen
+mareh <v>
+ rennen
+matlah <v>
+ blind sein
+matlah thlip <v>
+ blind sn (vollständig)
+mator <n, m>
+ Erbse <f>
+maw kyndon <n, m>
+ Treppe <f>
+meh <v>
+ brennen; aufflammen; Feuer fangen
+meng <v>
+ hochmütig sein
+miej <n, f>
+ Tisch <m>
+mih <v>
+ sich erheben; herauskommen; wachsen (Pflanze)
+mih eitmut <v>
+ Nase laufen
+minot <v>
+ fleißig sein
+mlien <v>
+ gewohnt sein
+mluh <n, m>
+ Salz <n>
+moida <n, m>
+ Mehl <n>
+mok <n, f>
+ Becher <m>
+mon <v>
+ mögen
+mudui <v>
+ anschuldigen
+muli <n, m>
+ Rettich <m>
+mut <v>
+ beabsichtigen; Absicht haben
+mutlop <v>
+ störrisch sein
+mynjur <v>
+ zustimmen
+mynsaw <v>
+ verletzt sein
+myntoi <v>
+ nützen; Vorteil haben
+nang <v>
+ können; verstehen
+nang +V <v>
+ immer (mehr) werden
+nang ban +V <v>
+ verstehen zu
+naspoti <n, m>
+ Birne <f>
+neh <v>
+ dauern
+nep <v>
+ scharf sein
+ngam <v>
+ einsinken
+ngat <v>
+ fangen (Fisch)
+ngeit <v>
+ glauben
+ngem <v>
+ heimlich etwas Verbotenes tun
+ngop <v>
+ eintauchen
+nguid <v>
+ verschlingen
+ni <v>
+ fein sein
+nud <v>
+ wagen; sich trauen
+nyngkong <v>
+ erster sein
+oh <v>
+ hacken
+ong <v>
+ sagen
+ong biang <v>
+ wiederholen (Rede)
+ot <v>
+ schneiden
+ot phlang <v>
+ Gras mähen
+ot tyrsim <v>
+ Nägel schneiden (Finger)
+ot <v>
+ ernten; mähen
+pah <v>
+ Laut von sich geben (Tier); miauen; blöken (Schaf); schreien (Eule); quaken (Frosch)
+painkhana <n, f>
+ Klo <n>
+pait <v>
+ zerbrechen (itr)
+paka <v>
+ echt sein; vollkommen sein
+pan <v>
+ bitten um; fragen
+pang <v>
+ krank sein
+pang + pisa <v>
+ krank sein
+pang bniat <v>
+ Zahnweh haben
+par <v>
+ kriechen
+pashat <v>
+ schleudern etwas
+pass <v>
+ bestehen
+patan <v>
+ ziehen (auf beiden Seiten)
+patlun <n, m>
+ Hose <f>
+patlun phongthiah <n>
+ Schlafanzug <m>
+patlun poh <n, m>
+ Unterhose <f>
+patlun poh (kynthei) <n, m>
+ Slip <m>
+paw <v>
+ hervorkommen; erscheinen; sichtbar sein; zum Vorschein kommen
+pawdar sait jain <n, f>
+ Waschpulver <n>
+pawnam <v>
+ berühmt sein
+pdem <v>
+ einweichen
+pdiang <v>
+ annehmen; akzeptieren
+pdiang sngewbha <v>
+ willkommen heißen
+peit <v>
+ schauen; anschauen
+peit lyngngoh <v>
+ anstarren
+peit miet <v>
+ aufbleiben; wachbleiben
+peit satia <v>
+ beachten
+peiñ <v>
+ umwechseln (Geld)
+pela <n, f>
+ Tasse <f>
+pep <v>
+ fehlen; abwesend sein
+phah <v>
+ senden
+phah khot <v>
+ rufen lassen jn
+phai <v>
+ umdrehen
+phan <n, m>
+ Kartoffel <f>
+phet <v>
+ wegrennen; fliehen
+phet rieh <v>
+ sich verstecken
+phikir <v>
+ sorgfältig sein; aufpassen; überlegen
+phla <v>
+ bekennen; beichten (Kirche)
+phohsniew <v>
+ träumen
+phong <v>
+ anziehen (Kleidung)
+phraispon <n, f>
+ Bratpfanne <f>
+phriang <v>
+ ausbreiten
+phrok <n, f>
+ Kleid <m>
+phuh <v>
+ blühen; aufblühen; lächeln
+phuh samrkhie <v>
+ lächeln
+phuhmat <v>
+ glücklich sein
+phulkubi <n, m>
+ Blumenkohl <m>
+phyrnai <v>
+ glänzen
+piam khop <v>
+ umarmen
+piat <n, m>
+ Zwiebel <f>
+piriswe <n, f>
+ Untertasse <f>
+pla <n, f>
+ Tasche <f>
+pli <v>
+ wechseln
+pliang <n, f>
+ Teller <m>
+plie <v>
+ offen sein; aufgehen; öffnen
+plied <v>
+ etwas öffnen
+poh <v>
+ niedrig sein
+poi <v>
+ ankommen; erreichen
+poi snam <v>
+ Monatsblutung haben
+poi tiap <v>
+ ankommen (an einer Stelle)
+pom <v>
+ abhacken (mit Messer); treffen (Gewinn, hä?)
+proh <n, m>
+ Gabel <f>
+puh <v>
+ beißen (Schlange); picken (Huhn)
+pule <v>
+ lesen
+pule minot <v>
+ studieren
+pun ksuit <v>
+ eitern
+put <v>
+ blasen; spielen (Blasinstrument)
+pyiar <v>
+ etwas ausbreiten
+pyrkhat kyntiak <v>
+ denken (gründlich)
+pyllait luid <v>
+ loslassen; freisetzen
+pyllip <v>
+ ausmachen (Licht etc)
+         Note: (besser {pynlip})
+pyllip sharak <v>
+ Licht ausmachen
+pyllun <v>
+ rund sein
+pynaram <v>
+ zufriedenstellen
+pyn-i <v>
+ etwas zeigen
+pyn-i nia <v>
+ etwas begründen; folgern
+pyn-iar <v>
+ erweitern
+pyn-im <v>
+ erretten
+pynbeit <v>
+ aufräumen; ordnen
+pynbor <v>
+ zwingen
+pynbun <v>
+ vervielfachen
+pynbyrngia <v>
+ unterhaltsam sein; amüsieren jn
+pyndait budam <v>
+ zuknöpfen
+pyndep <v>
+ etwas beenden
+pyndonkam <v>
+ benutzen
+pynduh <v>
+ beenden
+pynhap <v>
+ fallen lassen
+pynheh <v>
+ vergrößern
+pynhiar mynsiem <v>
+ atmen
+pynhikai <v>
+ lehren
+pyniaid <v>
+ verwalten; regeln; leiten; gehen helfen (jemandem, nach einer Krankheit)
+pyniap <v>
+ töten
+pyniasuk <v>
+ versöhnen
+pynjah <v>
+ etwas verlieren
+pynjlih <v>
+ glätten
+pynjrong <v>
+ etwas verlängern
+pynkhih <v>
+ bewegen; schütteln
+pynkhlain <v>
+ stärken
+pynkloi <v>
+ schnell machen
+pynkmen <v>
+ erfreuen jn
+pynkoit <v>
+ heilen
+pynkylla khongpong <v>
+ auf den Kopf stellen
+pynkyllon <v>
+ fällen; umfallen lassen
+pynkynriah <v>
+ bewegen
+pynlang <v>
+ etwas beisteuern
+pynlehraiñ <v>
+ in Verlegenheit bringen jn
+pynleit jingmut <v>
+ sich interessieren für; Aufmerksamkeit richten auf
+pynlip <v>
+ ausmachen (Licht etc)
+pynlong <v>
+ verursachen
+pynlut <v>
+ ausgeben (Geld)
+pynmih kynsan <v>
+ ausbrechen lassen
+pynmlien <v>
+ gewöhnen jn an
+pynmynsaw <v>
+ verletzen
+pynnep <v>
+ schärfen
+pynpait <v>
+ etwas zerbrechen
+pynphai <v>
+ etwas umdrehen
+pynphred <v>
+ aufbrechen
+pynriam +pynbeit <v>
+ sich anziehen
+pynriewspah <v>
+ bereichern
+pynroi <v>
+ vermehren
+pynsboh <v>
+ düngen
+pynshai <v>
+ beleuchten; bescheinen; erklären
+pynshlur <v>
+ ermutigen
+pynshoi <v>
+ in Versuchung bringen; verführen
+pynskhem <v>
+ festmachen
+pynsyrwa <v>
+ vergeuden (Zeit)
+pyntip <v>
+ informieren; wissen lassen
+pyntngen <v>
+ beruhigen; trösten
+pyntud <v>
+ verzögern
+pyoh <v>
+ räuchern
+pyoh tdem <v>
+ ausräuchern
+pyrda <n, f>
+ Vorhang <m>
+pyrkhat <v>
+ denken; bedenken
+pyrkhat thanda jai <v>
+ ruhig überlegen
+pyrkhing <v>
+ strikt sein
+pyrsad <v>
+ hissen (Schlange)(?)
+pyrshang <v>
+ versuchen
+pyrta <v>
+ ausrufen
+pyrthiew <v>
+ hervorkommen; herauskommen
+pyrthuh <v>
+ nachmachen; imitieren
+pyrto <v>
+ bewundern
+rah <v>
+ tragen; aufheben
+rai <v>
+ entscheiden
+raikhoh <v>
+ mager sein; dünn sein
+rang <v>
+ aufklaren (Wetter); aufhören (Regen)
+rem <v>
+ teuer sein (Preis); besiegt sein
+rep <v>
+ Landwirtschaft betreiben
+ri <n, m>
+ Bohne <f>
+ri <v>
+ halten (transitiv); pflegen, züchten
+riam <v>
+ bekleiden; einfangen; in die Falle locken
+rieh <v>
+ sich verbergen
+riew saw-saw <v>
+ rascheln
+riew spah <v>
+ reich sein
+riewhadem <n, m>
+ Mais <m>
+rim <v>
+ alt sein (Sache/Sitte)
+ring <v>
+ ziehen
+ring jingmut <v>
+ Aufmerksamkeit erregen
+ring mynsiem <v>
+ atmen
+risa <v>
+ jubeln; sich freuen
+rit <v>
+ klein sein
+rkhiang <v>
+ trocken sein
+roi <v>
+ sich vermehren; vorwärtskommen; Fortschritte machen
+rong <v>
+ tragen (im Mund)
+rong <n>
+ Farbe
+runar <v>
+ ungezogen sein
+rung <v>
+ eintreten, hineingehen
+ruti <n, m>
+ Brot <n>
+ruti lieh <n, m>
+ Weißbrot <n>
+rwai <v>
+ singen
+ryngkoh <v>
+ springen
+rynsied <v>
+ springen
+rynsun <n, m>
+ Knoblauch <m>
+ryntih <v>
+ regelmässig sein; einheitlich sein
+sabon <n, f>
+ Seife <f>
+sad <n, f>
+ Decke <f>
+sah <v>
+ leben; wohnen; bleiben
+sah dien <v>
+ zurückgeblieben sein
+sah kut <v>
+ feststecken
+sah slem <v>
+ lange bleiben
+sai juti <n, m>
+ Schnürsenkel <m>
+sait <v>
+ waschen
+saiñ <v>
+ unterschreiben; schaffen; schmieden
+saiñ pyrthei <n>
+ Politik
+sakhrai riap <v>
+ müde sein etwas zu tun; genug haben etwas zu tun; die Nase voll haben etwas zu tun; steife Beine haben (vom langen Sitzen)
+salat <n, m>
+ Salat <m>
+samrkhie <v>
+ lächeln
+san <v>
+ aufwachsen; wachsen
+saphriang <v>
+ sich verbreiten (Krankheit)
+sarong <v>
+ stolz sein
+sati <n, f>
+ Ring <m>
+saw <v>
+ rot sein
+sawbthuh <v>
+ braun sein
+sbun <v>
+ lieb sein; gütig sein
+sdang <v>
+ beginnen
+sdieh <v>
+ braten
+sdien <v>
+ hängen; aufhängen
+sei <v>
+ hervorbringen; herausziehen
+sei lut <v>
+ herausziehen
+sei rangbah <v>
+ erwachsen werden
+sem jyndong <v>
+ das Kleid (jainsem) so kurz tragen, daß man die Beine sehen kann
+sep <v>
+ niedergehen (Sonne)
+set khmut <v>
+ verstopfte Nase haben
+sha <n, f>
+ Tee <m>
+shabi <n, m>
+ Schlüssel <m>
+shah <v>
+ erlauben; zulassen; ertragen; erleiden; dauerhaft sein
+shah jop <v>
+ besiegt werden; geschlagen werden
+shah set <v>
+ verhaftet werden
+shah shkor <v>
+ zuhören
+shah tika <v>
+ geimpft werden
+shai <v>
+ scheinen (Mond); offensichtlich sein; erklärt sein
+shait <v>
+ gesund sein; sich wohl fühlen
+shait + V <v>
+ immer tun
+shakri <v>
+ dienen
+shalak <v>
+ clever sein
+shamoid <n, f>
+ Löffel <m>
+shamoit sha <n, f>
+ Teelöffel <m>
+shaniah <v>
+ lehnen an; vertrauen; abhängig sein von
+sharai <v>
+ beobachten; aufpassen; hüten; sich kümmern
+sharak <n, f>
+ Lampe <f>
+shaw <n, m>
+ Nudel <f>
+shem <v>
+ finden; entdecken
+shembha <v>
+ zurecht kommen; Glück im Leben haben
+sheptieng <v>
+ Angst haben
+shet <v>
+ kochen
+shida <v>
+ bescheiden sein
+shih <v>
+ Geschlechtsverkehr haben
+shim <v>
+ nehmen
+shim bynta ha <v>
+ teilnehmen an
+shim wai <v>
+ mieten
+shim ñiat <v>
+ in Angriff nehmen
+shimti <v>
+ unternehmen
+shini <n, f>
+ Zucker <m>
+shisha <v>
+ wahr sein
+shit <v>
+ heiß sein, warm sein
+shit rhem <v>
+ glühend sein
+shit ryngkhiang <v>
+ heiß und trocken (Wetter)
+shitom <v>
+ mühevoll sein; Mühe haben mit
+shlan <v>
+ Mut haben; wagen
+shlur <v>
+ tapfer sein; mutig sein
+shna <v>
+ machen; operieren
+shoh <v>
+ schlagen
+shon <v>
+ drucken (Buch)
+shong <v>
+ sitzen; sich setzen; wohnen
+shong ha <v>
+ beruhen auf etwas
+shong khapngiah <v>
+ eng zusammenwohnen
+shong khop <v>
+ still sitzen
+shong kulai <v>
+ reiten
+shong kurim <v>
+ verheiratet sein
+shong miet <v>
+ aufbleiben; wachbleiben
+shongdor <v>
+ kosten; wert sein
+shongshit <v>
+ begierig sein
+shrah <v>
+ tocken sein (Land); beackerbar sein
+shtah <v>
+ hacken; hauen
+shuki <n, m>
+ Stuhl <m>
+shukor <v>
+ betrügen
+shuti <n, f>
+ Urlaub <m>
+shynna <v>
+ klar sein; auffällig sein
+siah <v>
+ schälen (Frucht)
+sian <v>
+ gescheit sein
+siang <v>
+ ausbreiten; auslegen (Tuch)
+siat <v>
+ schießen
+sieb <v>
+ anschwellen
+sied <v>
+ springen (auf etwas und fangen)
+sieng iwbih <v>
+ Duft verbreiten
+siew bai lynti <v>
+ Fahrtpreis bezahlen
+siew khajna <v>
+ Steuern zahlen
+siew noh <v>
+ abbezahlen
+skart <n, f>
+ Rock <m>
+skhem <v>
+ sicher sein; fest sein; fest abgemacht sein; gültig sein
+slap <v>
+ regnen
+slem <v>
+ spät sn; eine lange Zeit gewesen sein
+sliang <v>
+ dürsten
+sliang um <v>
+ Durst haben
+sliew <v>
+ anzünden; anblasen (Feuer)
+sliew ding <v>
+ Feuer anmachen
+sma iwbih <v>
+ angenehm riechen
+smai <v>
+ schwören
+smat <v>
+ fleißig sein; aktiv sein
+snad <n, f>
+ Kamm <m>
+sneng <v>
+ ermahnen; beraten
+sngaid <v>
+ fett sein; dick sein
+sngap jar <v>
+ Mund halten
+sngew <v>
+ fühlen
+sngew saitmet <v>
+ beleidigt sein; sich angegriffen fühlen; sich ekeln; sich abgestoßen fühlen
+sngew thikna <v>
+ sich gewiß sein
+sngewbha <v>
+ gern haben; mögen; froh sein
+sngewburom <v>
+ geehrt sein
+sngewhun <v>
+ zufrieden sein
+sngewieit <v>
+ lieb sein
+sngewkhuslai <v>
+ sich Sorgen machen
+sngewkwah <v>
+ gerne wollen
+sngewlem <v>
+ mitfühlen
+sngewnguh <v>
+ dankbar sein
+sngewnud <v>
+ sich trauen
+sngewphuhmat <v>
+ erfreut sein
+sngewphylla <v>
+ erstaunt sein; verwundert sein
+sngewrem <v>
+ sich schämen
+sngewrit <v>
+ bescheiden sein
+sngewshyrkhei <v>
+ erschreckend sein
+sngewsih <v>
+ traurig sein; bedauern
+sngewskhem <v>
+ sicher sein (einer Sache); sich sicher sein
+sngewthait <v>
+ müde sein
+sngewthngan <v>
+ Hunger haben
+sngewthuh <v>
+ verstehen
+sngewtriem <v>
+ schrecklich sein
+sngewtynnad <v>
+ hübsch aussehen; gern haben; mögen
+sngur <v>
+ klar sein; durchsichtig sein; deutlich sein
+sniew <v>
+ schlecht sein
+snoh <v>
+ herabhängen
+soh <n, m>
+ Frucht <f>
+soh apul <n, m>
+ Apfel <m>
+soh trun <n, m>
+ Ananas <f>
+soh jew <n, m>
+ Zitrone <f>
+soh khia <n, m>
+ Gurke <f>
+sohkriep <n, m>
+ Weintraube <f>
+sohmrit <n, m>
+ Pfeffer <m>
+sohmynken <n, m>
+ Pepperoni <f>
+sohniamtra <n, m>
+ Orange <f>; Mandarine; Clementine
+sohphareng <n, m>
+ Pfirsich <m>
+sohphoh <n, m>
+ Birne <f>
+sohsaw <n, m>
+ Tomate <f>
+sohshkor <n, m>
+ Ohrring <m>
+sopti poh <n, f>
+ Hemd <n>
+spaiñ <v>
+ einwickeln (in Tuch); verbinden
+spel <v>
+ buchstabieren
+spel lyndet <v>
+ auswendig lernen
+stad <v>
+ weise sein; klug sein
+sted <v>
+ flink sein; schnell sein; vorgehen (Uhr)
+stem <v>
+ gelb sein; gelb werden
+stem mur <v>
+ gelb werden; golden werden
+sting <v>
+ leicht sein
+suda <v>
+ leer sein
+suh <v>
+ nähen
+suh khun <v>
+ Wehen haben; Schmerzen haben (Stiche); Krämpfe haben; beißen (Schmerz); stechen (Schmerzen)
+suh rmiang <v>
+ säumen
+suhjer <v>
+ Bauchkrämpfe haben
+suhkhriat <v>
+ sich kalt fühlen; Schüttelfrost haben
+suidñiew <v>
+ sich sorgen
+suk <v>
+ glücklich sein
+suki <v>
+ langsam sein; nachgehen (Uhr)
+sum <v>
+ baden
+sumar <v>
+ aufpassen; sorgen für
+syaid <v>
+ warm sein
+syang <v>
+ rösten
+sympat <v>
+ peitschen
+synriah <v>
+ niesen
+synsar <n, m>
+ Besen <m>
+synshar <v>
+ regieren
+syrwa <n, f>
+ Fleischbrühe; Suppe <f>
+tad <v>
+ billig (Preis) sein; niedrig sein (Wesen)
+tah stam <v>
+ Briefmarke aufkleben
+tala <n, f>
+ Schloß <n>
+tam <v>
+ zu viel sein
+tam (nach dem V)
+ meiste (Superlativ)
+tar <v>
+ zerreißen
+tari <n, f>
+ Messer <n>
+tba <v>
+ betasten; ertasten; fühlen; erfühlen
+tbeh <v>
+ anzünden
+teh saijuti <v>
+ Schuhe zubinden
+tei <v>
+ bauen
+tem <v>
+ spielen (Instument); auslöschen (Feuer)
+tep <v>
+ begraben
+thaba <v>
+ erleuchten; hell machen
+thad <v>
+ etwas ausbreiten; auslegen (zum Trocknen)
+thad rong <v>
+ unanständig reden; Gerüchte verbreiten
+thait <v>
+ müde sein
+thaiñ <v>
+ stricken; weben
+thanda <v>
+ kühl sein; ruhig sein
+thang <v>
+ anzünden; verbrennen; einäschern
+thang sharak <v>
+ Licht anmachen
+thap kti <v>
+ klatschen (in die Hände)
+tharai <v>
+ vermuten; wahrscheinlich sein
+thaw <v>
+ erschaffen; herstellen; entstehen lassen
+thaw lad <v>
+ erfinden
+theh <v>
+ gießen
+them <v>
+ einsinken; nachgeben
+thep <v>
+ hineintun; einwerfen (Brief)
+thew <v>
+ wiegen; abwiegen
+thiah <v>
+ schlafen
+thiah kram <v>
+ flach liegen
+thiah thai <v>
+ verschlafen sein
+thiang <v>
+ süß sein
+thied <v>
+ kaufen
+thikna <v>
+ gewiß sein; besonders sein; genau richtig sein
+thir <v>
+ spinnen (Garn)
+thliew <v>
+ Loch haben
+thmu <v>
+ beabsichtigen
+thngan <v>
+ hungrig sein; Hunger haben
+thoh <v>
+ schreiben
+thoh +tar <v>
+ schreiben
+thok <v>
+ lügen
+thung <v>
+ einpflanzen; pflanzen; einsetzen (auch ins Amt)
+thymmai <v>
+ neu sein
+thyrnia <n, m>
+ Nadel <f>
+thab <v>
+ ohrfeigen
+tied <v>
+ schlagen; klingeln
+tied tok tok <v>
+ klopfen
+tieng bieit <v>
+ ängstlich sein
+tiew <v>
+ kochen; sieden
+tih <v>
+ graben
+tih lut <v>
+ ausgraben
+tika <v>
+ impfen
+tin <n, f>
+ Dose <f>
+tip <v>
+ wissen
+tip shai, tip thikna <v>
+ sicher wissen
+tipot <n, m>
+ Teekanne <f>
+tit <n, m>
+ Pilz <m>
+tlor noh <v>
+ abfallen (Blatt)
+tlot <v>
+ schwach sein
+tngen <v>
+ beruhigt sein
+tong <v>
+ schöpfen (Wasser)
+tong um <v>
+ Wasser holen
+treh <v>
+ wollen; mögen
+trei <v>
+ arbeiten
+trei kam <v>
+ Geschäfte machen; einen Job haben; sich beschäftigen
+triang <v>
+ fest sein
+tuh <v>
+ stehlen
+tuid <v>
+ fließen
+tung <v>
+ vergraben
+tupia <n, f>
+ Hut <m>
+tur <v>
+ hineilen; rennen; vorangehen; stoßen
+twad <v>
+ etwas suchen (mit der Hand); ertasten
+tylliat <v>
+ zermalmen; zerreiben
+tyllun <v>
+ sich drehen; kreiseln
+tyllun sawdong <v>
+ umkreisen
+tymmen <v>
+ alt sein (Person)
+tyng-eh <v>
+ streng sein
+tyngkai <v>
+ aufbewahren (Geld); sparen
+tyngshain <v>
+ scheinen (Sonne)
+tynrai <v>
+ grundlegend sein
+tyrkhong <v>
+ vertrocknet sein
+tyrwa <v>
+ anbieten
+tam <v>
+ heraussuchen; sammeln; aufsammeln
+ud <v>
+ gurren (Taube)
+ujor <v>
+ einwenden; Einwände haben
+um <n, f>
+ Wasser <n>
+umphniang <n, f>
+ Öl <n>
+umphniangbam <n, f>
+ Speiseöl <n>
+umshit <n, f>
+ Suppe <f>
+umsoh <n, f>
+ Saft <m>
+umsohkriep <n, f>
+ Traubensaft <m>
+umsohniamtra <n, f>
+ Orangensaft <m>
+umsohsaw <n, f>
+ Tomatensaft <m>
+umsohtrun <n, f>
+ Ananassaft <m>
+wad <v>
+ suchen
+wad buit <v>
+ erfinden
+wah <v>
+ aufhängen
+wai <v>
+ aus sein; zu Ende sein
+wallam <v>
+ bringen
+wan <v>
+ kommen
+wan jngoh <v>
+ besuchen
+wan phai <v>
+ zurückkommen
+weng <v>
+ auslassen; weglassen
+wiang <v>
+ Feuer legen
+wiar <v>
+ bellen
+wieh <v>
+ eintauchen; einweichen
+wieh <n, m>
+ Regenwurm <m>
+ym dei <v>
+ falsch sein
+ym lah ban + V <v>
+ unfähig sein zu
+ym nangkren <v>
+ stumm sein
+ñiad <v>
+ bürsten; einreiben; massieren
+ñiar <v>
+ selten sein
+ñiew <v>
+ zählen
+pghyrisjakbctñulmde vwno

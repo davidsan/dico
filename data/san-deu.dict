@@ -1,0 +1,274 @@
+
+00-database-dictfmt-1.10.11
+Sanskrit-German FreeDict Dictionary
+
+Maintainer: Michael Bunk <micha@luetzschena.de>
+
+Edition: 0.2.1
+Size: about 100 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+  Copyright (C) 1999-2010 by various authors listed below. Available under
+  the terms of the GNU General Public Licence ver. 2.0 and any later
+  version. This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License as published
+  by the Free Software Foundation; either version 2 of the License, or (at
+  your option) any later version. This program is distributed in the hope
+  that it will be useful, but WITHOUT ANY WARRANTY; without even the
+  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details. You should have
+  received a copy of the GNU General Public License along with this
+  program; if not, write to the Free Software Foundation, Inc., 59 Temple
+  Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id: san-deu.tei 1107 2011-01-07 05:11:27Z bansp $
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://freedict.org/
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2011-01-08: Conversion of the TEI source file into c5 format.
+   Stylesheet ID: $Id: teiheader2txt.xsl 1095 2011-01-06 14:57:17Z bansp$
+ * 2010-11-01 Piotr Bański:
+   Conversion of TEI P4 source into P5 via
+   tools/xsl/freedict_P4toP5.xsl; manual clean-up. Todo: put the relevant
+   <usg> elements into their proper <cit>s; watch out for <hom>s when
+   converting to presentational formats.
+ * 2003-05-07 :
+   Michael Bunk
+   Started writing the header and entering some words by hand.
+Sanskrit-German FreeDict Dictionary ver. 0.2.1
+
+तिथी <n, f>
+ Mondtag
+अ <Pronomialstamm>
+
+अ॰, अन॰
+ verneinend = un-
+अकस्मात्
+ unerwartet; plötzlich
+अक्श <n, m>
+ Würfel
+अक्शम
+ unfähig
+अक्शय
+ unvergänglich
+अक्शौहिणी <n, f>
+ Heer
+अगोज्ञ
+ keine Kuh kennend
+अग्नि <n, m>
+ Feuer; Gott des Feuers
+अग्र <n, n>
+ 1. Spitze
+ 2. L.vor(mit G.); vorn; vor sich
+ 3. voran
+अङ्कित <pp>
+ gekennzeichnet
+अङ्ग <ind>
+ wohl
+अङ्ग <n, n>
+ Glied; Körperim Bah. f. ई
+अङ्गना <n, f>
+ Frau
+अङ्गसेवक <n, m>
+ persönlicher Diener
+अङ्गुल <n, m>
+ Daumenbreite
+अङ्गार <n, n>
+ Kohle
+अचल
+ unbeweglich
+अचल <n, m>
+ Berg; Gebirge
+अजस्रम् <Adv>
+ unaufhörlich
+अजा <n, f>
+ Ziege
+अजानत्
+ von ज्ञाnicht kennend
+अञ्जलि <n, m>
+ die hohl zusammengelegten Hände
+अट् <v1>
+ wandern
+अण्ड <n, n>
+ Ei
+अण्डज <n, m>
+ Vogel
+अतन्द्रित
+ unermüdlich
+अतस्
+ davon; deshalb
+अति॰ <Pre>
+ überaus; sehr; besonders
+अतिथि <n, m>
+ Gast
+अतिरेक <n, m>
+ Übermaß
+अतीत <n, n>
+ Vergangenheit
+अतीव
+ sehr
+अत्र
+ hier; dort; dabei
+अत्रि <n, m>
+ N. eines Sehers
+अत्वरा <n, f>
+ Nicht-Eile
+अथ
+ darauf; nun; und
+अथवा
+ oder; oder vielmehr; ja doch; wenn aber
+अद् <v2>
+ essen; fressen
+अदर्शन <n, m>
+ Nicht-Sehen
+अदृश्य
+ unsichtbar
+अदृष्ट
+ ungesehen; ungeahnt
+अदभुत
+ wunderbar
+अद्य
+ heute; jetzt
+अद्रि <n, m>
+ Stein; Fels
+अधर
+
+अधस्
+ abwärts
+अधसतात्
+ unterhalb; unter(mit Gen.)
+अधिक
+ größer; stärker; mehr als; ärger
+अधिप <n, m>
+ Beherrscher
+अधिस्थान <n, n>
+ Ort
+अधीयान
+
+अधुना
+ jetzt
+अधोमुख
+ (Bah.), f. ईmit gesenktem Angesicht
+अध्यक्श <n, m>
+ Aufseher
+अध्याय <n, m>
+ Kapitel
+अध्वन् <n, m>
+ Weg
+अनघ
+ schuldlos; fehlerlos
+अनन्तरम्
+ gleich nach(Komp.)
+अनन्ध
+ blind
+अनडुह् <n, m>
+ Ochse
+अनन्त
+ endlos
+अनपत्य
+ f. आkinderlos
+अनर्थ <n, m>
+ Unglück; Unheil; Schaden
+अनवद्य
+ tadellos; fehlerlos
+अनशन <n, n>
+ Nichtessen; Fasten
+अनागत <n, n>
+ Zukunft
+अनागतवत्
+ die Zukunft betreffend
+अनादि
+ anfangslos
+अनामय <n, n>
+ Gesundheit
+अनायक
+ keinen Anführer habend
+अनारतम् <Adv>
+ unaufhörlich
+अनिच्छत्
+ nicht wünschend
+अनुग्रह <n, m>
+ Gefallen; Gunst
+अनुचर <n, m>
+ Diener
+अनुमान <n, n>
+ Schlußfolgerung
+अनुवाक <n, m>
+ Rezitation
+अनुव्रत
+ ergeben; treu(mit A.)
+अनुष्ठान <n, n>
+ Ausführung
+अनुसारिन्
+ nachgehend
+अनृत
+
+अनृण
+ schuldlos
+अनेक <>
+ mehrere; viele
+अन्त <n, nm>
+ 1. Ende; Saum; Ziel
+ 2. Lösung
+अन्तं गम्
+ dahinter kommen
+अन्तःखेद <n, m>
+ Verdruß im Herzen
+अन्तःपुर <n, n>
+ Frauenhaus; Frauengemach
+अन्तकर
+ ein Ende machend
+अन्तकाल <n, m>
+ Todesstunde
+अन्तर्
+ inmitten; dazwischen
+अन्तर
+
+अन्तरपुरुष <n, m>
+ Seele; Gewissen
+अन्तरात्मन् <n, m>
+ Seele; Herz
+अन्तरिक्श <n, n>
+ Luftraum(Raum zwischen Himmel und Erde)
+अन्तरिक्शग <n, m>
+ Vogel
+अन्तिक <n, n>
+ Nähe
+अन्ध
+ blind
+अन्धिभू <v>
+ erblinden
+अन्न <n, n>
+ Speise
+अन्य
+ anderer
+अन्यस्मिन्नहनि
+ eines Tages
+अन्यच्च
+ und ein anderes; ferner
+अन्यतम
+ einer von mehreren
+अन्यतस्
+ anderswohin
+मथजदषञकसयखरधअनटहठगडघलङपणच छवशभत
