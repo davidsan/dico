@@ -6,7 +6,7 @@ use diagnostics;
 diagnostics::enable;
 use feature qw/ switch /;
 
-use constant DEBUG => 1;
+use constant DEBUG => 0;
 
 BEGIN {
 	use Exporter ();

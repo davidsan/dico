@@ -7,7 +7,7 @@ diagnostics::enable;
 use IO::Socket;
 
 use DPServeur;
-use constant DEBUG => 1;
+use constant DEBUG => 0;
 
 my $port = 2628;
 

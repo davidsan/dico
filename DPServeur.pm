@@ -14,7 +14,7 @@ use Text::Soundex;
 use utf8;
 use Encode qw /encode/;
 
-use constant DEBUG => 1;
+use constant DEBUG => 0;
 
 BEGIN {
     use Exporter ();

@@ -7,7 +7,7 @@ diagnostics::enable;
 use IO::Socket;
 
 use DPClient;
-use constant DEBUG => 1;
+use constant DEBUG => 0;
 
 my $host = shift || "localhost";
 my $port = shift || "2628";
