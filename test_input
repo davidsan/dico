@@ -1,0 +1,33 @@
+help
+define fra-eng gâteau
+define * banane
+define ! banane
+match fra-eng exact chat
+match fra-eng re chat
+match fra-eng substring chat
+match fra-eng re ^chat
+match fra-eng prefix chat
+match fra-eng re chat$
+match fra-eng suffix chat
+match fra-eng word en
+match fra-eng first de
+match fra-eng word en
+match fra-eng last terre
+match eng-fra soundex rain
+match eng-fra lev kitten
+show db
+show databases
+show strat
+show strategies
+show info eng-fra
+option mime
+define eng-fra cat
+option html
+define eng-fra cat
+option none
+define eng-fra cat
+client info
+status
+help
+show server
+quit
