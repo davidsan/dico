@@ -37,6 +37,13 @@ DICT is a dictionary network protocol created by the DICT Development Group.
 It is described by RFC 2229, published in 1997.
 
 
+=head1 TO DO
+Word search using a binary search tree or a hashtable.
+
+=head1 COULD DO
+GUI with Tk library.
+AUTH
+
 =head1 AUTHOR
 
 David San E<lt>davidsanfr@gmail.comE<gt>
