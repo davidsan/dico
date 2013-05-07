@@ -428,14 +428,14 @@ sub match_db_word{
 sub match_db_first{
     my $database = shift;
     my $query = shift;
-    my $regex = '^'.$query.'([^\w]|$)';
+    my $regex = '^'.$query.'([\s]|$)';
     return match_db_re($database, $regex);
 }
 
 sub match_db_last{
     my $database = shift;
     my $query = shift;
-    my $regex = '(^|[^\w])'.$query.'$';
+    my $regex = '(^|[\s])'.$query.'$';
     return match_db_re($database, $regex);
 }
 
