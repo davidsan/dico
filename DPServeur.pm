@@ -421,7 +421,7 @@ sub match_db_lev{
 sub match_db_word{
     my $database = shift;
     my $query = shift;
-    my $regex = '(^|[^\w])'.$query.'([^\w]|$)';
+    my $regex = '(^|[\s])'.$query.'([\s]|$)';
     return match_db_re($database, $regex);
 }
 
