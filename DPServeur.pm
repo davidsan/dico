@@ -583,7 +583,7 @@ sub gestion_requetes {
     if    ( $requete =~ /^q|(quit)|(exit)$/i ) {
         &quit_command( $client );
     }
-    elsif ( $requete =~ m|^define (.+) ([-\w. àâäçéèêëîïôöùûü]+)$|i ) {
+    elsif ( $requete =~ m|^define (.+) (.+)$|i ) {
         &define_command( $client, $1, $2 );
     }
     elsif ( $requete =~ m|^match ([-\w.!\*]+) ([\w.]+) (.+)$|i ) {
