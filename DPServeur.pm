@@ -60,7 +60,7 @@ sub welcome {
     my $hostname = hostname();
     my $full_msg_id = $msg_id."@".$hostname;
     $msg_id .= '@' . $hostname;
-    print $client "220 $hostname $APP $VERSION on $host_uname <none> <$full_msg_id>";
+    print $client "220 $hostname $APP $VERSION on $host_uname <html.mime> <$full_msg_id>";
 }
 
 sub quit_command {
