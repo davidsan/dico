@@ -165,7 +165,7 @@ sub find_definitions_db {
 
             if ($option=~/^mime$/i) {
                 $hd = encode("MIME-Header", $hd);
-                $hd = "Content-Type: text/plain; charset=utf-8\n".$hd;
+                $hd = "Content-Type: text/plain; charset=utf-8\n".$hd."\n";
                 $definition = encode("MIME-Header", $definition);
                 $definition.="\n";
             }
