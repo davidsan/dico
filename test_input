@@ -15,6 +15,8 @@ match fra-eng word en
 match fra-eng last terre
 match eng-fra soundex rain
 match eng-fra lev kitten
+match * exact chat
+match ! exact chat
 show db
 show databases
 show strat
